@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Компьютер">
+   <node crypt="" id="1515157235tlugwd7m1n" name="Python"/>
+   <node crypt="" id="1515157243sgifx8iwud" name="Linux">
+    <recordtable>
+     <record id="15151577412tlgcj1urh" name="Как установить Telegram на Linux" author="br0ke" url="" tags="telegram, messenger, телеграм, мессенджер, установка, linux, линукс" ctime="20180105180901" dir="1515157741qsi0h3wo5a" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="15151573509guolwrlye" name="Ubuntu"/>
+   </node>
+   <node crypt="" id="1515157270uath8pw3bp" name="Cisco"/>
+  </node>
+  <node crypt="" id="1515157173ai434vkpx6" name="Литература"/>
+  <node crypt="" id="1515157178hsk7gmvsao" name="Языки"/>
+  <node crypt="" id="1515157294sghf4nljni" name="Саморазвитие"/>
+  <node crypt="1" icon="" id="1515157307flh6xgthk0" name="UkM1U0lNUAN43IjQJFLvX3fXsIgsf/mAOZ+BLUUu2pzDq+4qM5lxji2DZgfwwWBGz2c73vsSKja6K9BwtUe89g=="/>
+ </content>
+</root>
