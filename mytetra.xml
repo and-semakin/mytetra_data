@@ -18,9 +18,11 @@
    <node crypt="" id="1515157270uath8pw3bp" name="Cisco"/>
    <node crypt="" id="15151592143t1d4riqua" name="Git"/>
   </node>
-  <node crypt="" id="1515157173ai434vkpx6" name="Литература"/>
+  <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
+   <node crypt="1" icon="" id="1515161966ykf0x8uly7" name="UkM1U0lNUAPc0bNkBOBF6FM8tDLLPgzjCsSkstmCXQvN48SwkOJb25ULqV4D0hn+z4ixsI3AmAk59haOBM2KPw=="/>
+  </node>
   <node crypt="" id="1515157178hsk7gmvsao" name="Языки"/>
   <node crypt="" id="1515157294sghf4nljni" name="Саморазвитие"/>
-  <node crypt="1" icon="" id="1515157307flh6xgthk0" name="UkM1U0lNUAN43IjQJFLvX3fXsIgsf/mAOZ+BLUUu2pzDq+4qM5lxji2DZgfwwWBGz2c73vsSKja6K9BwtUe89g=="/>
+  <node crypt="1" icon="" id="1515157307flh6xgthk0" name="UkM1U0lNUAOHHzta7aUBWTjLfMSih8IrSbtFMeaNWvTMUbt2ljrrov/UU91CijWQrqm8Pl5Gw04="/>
  </content>
 </root>
