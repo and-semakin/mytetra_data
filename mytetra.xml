@@ -9,7 +9,11 @@
     <recordtable>
      <record id="15151577412tlgcj1urh" name="Как установить Telegram на Linux" author="br0ke" url="" tags="telegram, messenger, телеграм, мессенджер, установка, linux, линукс" ctime="20180105180901" dir="1515157741qsi0h3wo5a" file="text.html"/>
     </recordtable>
-    <node crypt="" id="15151573509guolwrlye" name="Ubuntu"/>
+    <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
+     <recordtable>
+      <record id="1515161830nfncftdyw9" name="Ждущий режим в Ubuntu 16.04 LTS на Acer E1-570G" author="br0ke" url="" tags="ubuntu, suspend, hibernation, acer, ждущий режим, спящий режим, гибернация" ctime="20180105191710" dir="1515161830wfb5gqwh0m" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1515157270uath8pw3bp" name="Cisco"/>
    <node crypt="" id="15151592143t1d4riqua" name="Git"/>
