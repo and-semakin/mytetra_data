@@ -14,6 +14,8 @@
       <record id="1515161830nfncftdyw9" name="Ждущий режим в Ubuntu 16.04 LTS на Acer E1-570G" author="br0ke" url="" tags="ubuntu, suspend, hibernation, acer, ждущий режим, спящий режим, гибернация" ctime="20180105191710" dir="1515161830wfb5gqwh0m" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
+    <node crypt="" id="1515404847zp0o2ra2xh" name="fish"/>
    </node>
    <node crypt="" id="1515157270uath8pw3bp" name="Cisco"/>
    <node crypt="" id="15151592143t1d4riqua" name="Git"/>
