@@ -11,6 +11,7 @@
       <recordtable>
        <record id="1515647465dfnzruqban" name="Создание RESTful API на  Flask" author="br0ke" url="https://flask-restful.readthedocs.io/" tags="python, flask, rest, api, restful, flask-restful, http" ctime="20180111101105" dir="1515647465o4ha8953yv" file="text.html"/>
        <record id="15156509210km9s0gyyv" name="Аутентификация в REST API на Flask" author="br0ke" url="" tags="python, flask, api, rest, restful, python-restful, auth, authentication, authoriazation, httpauth, http, flask-httpauth, basic, digest" ctime="20180111110841" dir="1515650921dnk0yq96no" file="text.html"/>
+       <record id="1515651210dunez95t3t" name="Аутентификация в REST API на Flask" author="Miguel Grinberg" url="https://blog.miguelgrinberg.com/post/restful-authentication-with-flask" tags="python, flask, rest, restful, api, flask-httpauth" ctime="20180111111330" dir="1515651210k33ga8s2h3" file="text.html"/>
       </recordtable>
      </node>
     </node>
