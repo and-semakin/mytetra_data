@@ -4,7 +4,16 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="" id="1300000000aaaaaaaaa1" name="Компьютер">
-   <node crypt="" id="1515157235tlugwd7m1n" name="Python"/>
+   <node crypt="" id="1515157235tlugwd7m1n" name="Python">
+    <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка"/>
+    <node crypt="" id="15156469891vuf5st61r" name="Библиотеки">
+     <node crypt="" id="15156470021ol4cff9aa" name="Flask">
+      <recordtable>
+       <record id="1515647465dfnzruqban" name="Создание RESTful API на  Flask" author="br0ke" url="https://flask-restful.readthedocs.io/" tags="python, flask, rest, api, restful, flask-restful, http" ctime="20180111101105" dir="1515647465o4ha8953yv" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+   </node>
    <node crypt="" id="1515157243sgifx8iwud" name="Linux">
     <recordtable>
      <record id="15151577412tlgcj1urh" name="Как установить Telegram на Linux" author="br0ke" url="" tags="telegram, messenger, телеграм, мессенджер, установка, linux, линукс" ctime="20180105180901" dir="1515157741qsi0h3wo5a" file="text.html"/>
