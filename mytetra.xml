@@ -16,7 +16,11 @@
       </recordtable>
      </node>
      <node crypt="" id="1515914523pnrq3o6kwg" name="Django"/>
-     <node crypt="" id="1515920135gzg949svv4" name="SQLAlchemy"/>
+     <node crypt="" id="1515920135gzg949svv4" name="SQLAlchemy">
+      <recordtable>
+       <record id="1515920425iugad6ltue" name="SQLAlchemy Relationships from Beginner to Advanced" author="br0ke" url="http://www.ergo.io/blog/sqlalchemy-relationships-from-beginner-to-advanced/" tags="python, sqlalchemy, flask, database, sql, relationship, one2many, many2many, базы данных, субд, проектирование, один к одному, один ко многим, многие ко многим" ctime="20180114140025" dir="1515920425b9mixc7av2" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
    </node>
    <node crypt="" id="1515157243sgifx8iwud" name="Linux">
