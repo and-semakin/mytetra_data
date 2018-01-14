@@ -39,6 +39,11 @@
       <record id="15154050556azj16omyo" name="Установка fish на Ubuntu" author="br0ke" url="https://github.com/fish-shell/fish-shell" tags="bash, fish, sh, shell, оболочка, фиш, linux, ubuntu, cmd, cli, chsh" ctime="20180108145055" dir="15154050557xdd1ipk6z" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="15159543132yxgq7odkj" name="Docker">
+     <recordtable>
+      <record id="1515953953muwhegesuv" name="Как установить Docker на Ubuntu 16" author="br0ke" url="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" tags="ubuntu, linux, docker, docker-compose, install, container, containerization, virtualization, докер, контейнер" ctime="20180114232542" dir="1515953953i2ysar6dfq" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1515157270uath8pw3bp" name="Cisco"/>
    <node crypt="" id="15151592143t1d4riqua" name="Git"/>
