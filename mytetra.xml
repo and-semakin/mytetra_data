@@ -19,6 +19,7 @@
      <node crypt="" id="1515920135gzg949svv4" name="SQLAlchemy">
       <recordtable>
        <record id="1515920425iugad6ltue" name="SQLAlchemy Relationships from Beginner to Advanced" author="br0ke" url="http://www.ergo.io/blog/sqlalchemy-relationships-from-beginner-to-advanced/" tags="python, sqlalchemy, flask, database, sql, relationship, one2many, many2many, базы данных, субд, проектирование, один к одному, один ко многим, многие ко многим" ctime="20180114140025" dir="1515920425b9mixc7av2" file="text.html"/>
+       <record id="1515920988kojpbi6o5y" name="Как в SQLAlchemy создать связь &quot;многие ко многим&quot; с дополнительными столбцами" author="br0ke" url="https://stackoverflow.com/a/7524753" tags="python, sqlalchemy, db, dbms, many2many, many-to-many, relationship" ctime="20180114140948" dir="1515920988dltjz2zlcz" file="text.html"/>
       </recordtable>
      </node>
     </node>
