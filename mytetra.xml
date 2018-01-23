@@ -3,7 +3,7 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="1300000000aaaaaaaaa1" name="Компьютер">
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Информационные технологии">
    <node crypt="" id="1515157235tlugwd7m1n" name="Python">
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка"/>
     <node crypt="" id="15156469891vuf5st61r" name="Библиотеки">
@@ -84,7 +84,11 @@
   </node>
   <node crypt="" id="1515157178hsk7gmvsao" name="Языки"/>
   <node crypt="" id="1515157294sghf4nljni" name="Саморазвитие">
-   <node crypt="" id="151668929830bhhf4ukr" name="Организованность"/>
+   <node crypt="" id="151668929830bhhf4ukr" name="Организованность">
+    <recordtable>
+     <record id="151668976928264q69il" name="Принципи ведения базы знаний" author="br0ke" url="http://telegra.ph/Baza-znanij-v-programmistskom-stile-01-17" tags="база знаний, принципы, быстрый поиск, поиск, знания, организация, организованность" ctime="20180123114249" dir="1516689769yr71xw50na" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="1" icon="" id="1515157307flh6xgthk0" name="UkM1U0lNUANG7qohgJUhhhy5T4sqBOxezO3aIvviN7q11Vo2YTCtj5xJnqK98znVRMrM4uf32fI=">
    <recordtable>
