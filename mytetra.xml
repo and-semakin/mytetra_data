@@ -64,7 +64,11 @@
      <record id="1515744837cydcxwlcru" name="How to make an AJAX call without jQuery?" author="br0ke" url="https://stackoverflow.com/a/39081526" tags="javascript, ajax, api, rest, request, query, jquery, js" ctime="20180112131357" dir="1515744837hbx2xhcd9z" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React"/>
-    <node crypt="" id="1516690897327juy5uam" name="node.js"/>
+    <node crypt="" id="1516690897327juy5uam" name="node.js">
+     <recordtable>
+      <record id="15166914708wjfl33r8p" name="Основы node.js" author="br0ke" url="https://habrahabr.ru/post/243335/" tags="javascript, node, node.js, nodejs, hello world, helloworld, listdir, ls, example" ctime="20180123121110" dir="1516691470epfeqxv6s7" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1516083402vmnii3c2kw" name="Networking">
     <node crypt="" id="1516083411c4grqaiq40" name="HTTP">
