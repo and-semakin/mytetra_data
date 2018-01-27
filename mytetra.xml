@@ -70,7 +70,11 @@
       <record id="1516692978b2si9i3qyk" name="npm -- Node Package Manager" author="br0ke" url="https://habrahabr.ru/post/243335/" tags="javascript, node, node.js, nodejs, npm, node package manager, package, package.json" ctime="20180123123618" dir="1516692978ornwump9rp" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1517079142ly31mrbslb" name="Vue.js"/>
+    <node crypt="" id="1517079142ly31mrbslb" name="Vue.js">
+     <recordtable>
+      <record id="1517079581mfb2u3gabe" name="Описание фреймворка Vue.js" author="br0ke" url="" tags="javascript, js, vue.js, vue, vuejs, framework, ui" ctime="20180127235941" dir="15170795817zrthakkfv" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1516083402vmnii3c2kw" name="Networking">
     <node crypt="" id="1516083411c4grqaiq40" name="HTTP">
