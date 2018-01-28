@@ -62,6 +62,7 @@
    <node crypt="" id="1515740575zx1r2ypbs3" name="JavaScript">
     <recordtable>
      <record id="1515744837cydcxwlcru" name="How to make an AJAX call without jQuery?" author="br0ke" url="https://stackoverflow.com/a/39081526" tags="javascript, ajax, api, rest, request, query, jquery, js" ctime="20180112131357" dir="1515744837hbx2xhcd9z" file="text.html"/>
+     <record id="151712154551u9ky60vp" name="JavaScript: setTimeout и setInterval" author="br0ke" url="https://learn.javascript.ru/settimeout-setinterval" tags="javascript, js, setTimeout, settimeout, setInterval, setinterval, clearTimeout, cleartimeout, clearInterval, clearinterval, pause, sleep, timer" ctime="20180128113905" dir="1517121545jzmk83pk9r" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React"/>
     <node crypt="" id="1516690897327juy5uam" name="node.js">
