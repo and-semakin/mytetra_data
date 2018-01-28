@@ -75,6 +75,7 @@
      <recordtable>
       <record id="1517079581mfb2u3gabe" name="Описание фреймворка Vue.js" author="br0ke" url="" tags="javascript, js, vue.js, vue, vuejs, framework, ui" ctime="20180127235941" dir="15170795817zrthakkfv" file="text.html"/>
       <record id="1517122152p0dwi59q0y" name="Создание экземпляра Vue" author="br0ke" url="https://ru.vuejs.org/v2/guide/instance.html" tags="javascript, vue.js, vuejs, vue, mvvm, ui, framework" ctime="20180128114912" dir="1517122152h48206g9h0" file="text.html"/>
+      <record id="151712632100an0zbguz" name="Директивы в Vue" author="br0ke" url="https://monsterlessons.com/project/lessons/standartnye-direktivy-v-vuejs" tags="javascript, vue.js, vuejs, vue, directives, директивы, v-bind, v-model, v-on, v-once, v-html, v-if, v-for, @click" ctime="20180128125841" dir="1517126321dlzdrjuhki" file="text.html"/>
      </recordtable>
     </node>
    </node>
