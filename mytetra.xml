@@ -76,6 +76,7 @@
       <record id="1517079581mfb2u3gabe" name="Описание фреймворка Vue.js" author="br0ke" url="" tags="javascript, js, vue.js, vue, vuejs, framework, ui" ctime="20180127235941" dir="15170795817zrthakkfv" file="text.html"/>
       <record id="1517122152p0dwi59q0y" name="Создание экземпляра Vue" author="br0ke" url="https://ru.vuejs.org/v2/guide/instance.html" tags="javascript, vue.js, vuejs, vue, mvvm, ui, framework" ctime="20180128114912" dir="1517122152h48206g9h0" file="text.html"/>
       <record id="151712632100an0zbguz" name="Директивы в Vue" author="br0ke" url="https://monsterlessons.com/project/lessons/standartnye-direktivy-v-vuejs" tags="javascript, vue.js, vuejs, vue, directives, директивы, v-bind, v-model, v-on, v-once, v-html, v-if, v-for, @click" ctime="20180128125841" dir="1517126321dlzdrjuhki" file="text.html"/>
+      <record id="1517127194s861nngsgt" name="Модификатороы клавиш при обработке событий в Vue" author="br0ke" url="https://ru.vuejs.org/v2/guide/events.html#%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B-%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D1%88" tags="javascript, js, vue.js, vuejs, vue, v-on, keyup, onkeyup, keydown, onkeydown, keypress, onkeypress, modifiers, enter, tab, delete, esc, space, up, down, left, right, exact" ctime="20180128131314" dir="15171271949ul1v5kkqv" file="text.html"/>
      </recordtable>
     </node>
    </node>
