@@ -74,6 +74,7 @@
     <node crypt="" id="1517079142ly31mrbslb" name="Vue.js">
      <recordtable>
       <record id="1517079581mfb2u3gabe" name="Описание фреймворка Vue.js" author="br0ke" url="" tags="javascript, js, vue.js, vue, vuejs, framework, ui" ctime="20180127235941" dir="15170795817zrthakkfv" file="text.html"/>
+      <record id="1517122152p0dwi59q0y" name="Создание экземпляра Vue" author="br0ke" url="https://ru.vuejs.org/v2/guide/instance.html" tags="javascript, vue.js, vuejs, vue, mvvm, ui, framework" ctime="20180128114912" dir="1517122152h48206g9h0" file="text.html"/>
      </recordtable>
     </node>
    </node>
