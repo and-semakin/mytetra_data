@@ -37,6 +37,7 @@
       <record id="1515161830nfncftdyw9" name="Ждущий режим в Ubuntu 16.04 LTS на Acer E1-570G" author="br0ke" url="" tags="ubuntu, suspend, hibernation, acer, ждущий режим, спящий режим, гибернация" ctime="20180105191710" dir="1515161830wfb5gqwh0m" file="text.html"/>
       <record id="1516083216bmbia7lpd0" name="Как установить Postman на Ubuntu" author="br0ke" url="https://blog.bluematador.com/posts/postman-how-to-install-on-ubuntu-1604/" tags="linux, ubuntu, postman, install, installation, rest, api, restful, tool" ctime="20180116111336" dir="1516083216gcrnko9s0z" file="text.html"/>
       <record id="1516166534vmg9e1pfin" name="Как установить pgAdmin 4 на Ubuntu 16" author="br0ke" url="https://kiahosseini.github.io/help/2016/10/18/installing-pgadmin4-ubuntu-16.04.html" tags="linux, ubuntu, postgresql, postgres, pgadmin, pgadmin4, administration, db, dbms, install" ctime="20180117102214" dir="1516166534oh1o0ariga" file="text.html"/>
+      <record id="1517289024v6wh90ks4j" name="Удалить старые ядра на Ubuntu 16.04" author="br0ke" url="https://askubuntu.com/questions/89710/how-do-i-free-up-more-space-in-boot" tags="linux, ubuntu, kernel, boot, partition, full, free space, bash, purge, linux-purge" ctime="20180130101024" dir="1517289024mcgn3qamrd" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
