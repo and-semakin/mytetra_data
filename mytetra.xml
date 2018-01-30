@@ -35,8 +35,8 @@
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
      <recordtable>
       <record id="1515161830nfncftdyw9" name="Ждущий режим в Ubuntu 16.04 LTS на Acer E1-570G" author="br0ke" url="" tags="ubuntu, suspend, hibernation, acer, ждущий режим, спящий режим, гибернация" ctime="20180105191710" dir="1515161830wfb5gqwh0m" file="text.html"/>
-      <record id="1516083216bmbia7lpd0" name="Как установить Postman на Ubuntu" author="br0ke" url="https://blog.bluematador.com/posts/postman-how-to-install-on-ubuntu-1604/" tags="linux, ubuntu, postman, install, installation, rest, api, restful, tool" ctime="20180116111336" dir="1516083216gcrnko9s0z" file="text.html"/>
-      <record id="1516166534vmg9e1pfin" name="Как установить pgAdmin 4 на Ubuntu 16" author="br0ke" url="https://kiahosseini.github.io/help/2016/10/18/installing-pgadmin4-ubuntu-16.04.html" tags="linux, ubuntu, postgresql, postgres, pgadmin, pgadmin4, administration, db, dbms, install" ctime="20180117102214" dir="1516166534oh1o0ariga" file="text.html"/>
+      <record id="1516083216bmbia7lpd0" name="Установить Postman на Ubuntu" author="br0ke" url="https://blog.bluematador.com/posts/postman-how-to-install-on-ubuntu-1604/" tags="linux, ubuntu, postman, install, installation, rest, api, restful, tool" ctime="20180116111336" dir="1516083216gcrnko9s0z" file="text.html"/>
+      <record id="1516166534vmg9e1pfin" name="Установить pgAdmin 4 на Ubuntu 16" author="br0ke" url="https://kiahosseini.github.io/help/2016/10/18/installing-pgadmin4-ubuntu-16.04.html" tags="linux, ubuntu, postgresql, postgres, pgadmin, pgadmin4, administration, db, dbms, install" ctime="20180117102214" dir="1516166534oh1o0ariga" file="text.html"/>
       <record id="1517289024v6wh90ks4j" name="Удалить старые ядра на Ubuntu 16.04" author="br0ke" url="https://askubuntu.com/questions/89710/how-do-i-free-up-more-space-in-boot" tags="linux, ubuntu, kernel, boot, partition, full, free space, bash, purge, linux-purge" ctime="20180130101024" dir="1517289024mcgn3qamrd" file="text.html"/>
      </recordtable>
     </node>
@@ -48,7 +48,7 @@
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
      <recordtable>
-      <record id="1515953953muwhegesuv" name="Как установить Docker на Ubuntu 16" author="br0ke" url="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" tags="ubuntu, linux, docker, docker-compose, install, container, containerization, virtualization, докер, контейнер" ctime="20180114232542" dir="1515953953i2ysar6dfq" file="text.html"/>
+      <record id="1515953953muwhegesuv" name="Установить Docker на Ubuntu 16" author="br0ke" url="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" tags="ubuntu, linux, docker, docker-compose, install, container, containerization, virtualization, докер, контейнер" ctime="20180114232542" dir="1515953953i2ysar6dfq" file="text.html"/>
       <record id="15159984130x47p7lgyi" name="Список основных команд Docker" author="br0ke" url="" tags="docker, commands, command list, usage" ctime="20180115114013" dir="1515998413rk847ogokj" file="text.html"/>
       <record id="15160833712gf7wim7rk" name="Dockerize your Python Application" author="br0ke" url="https://runnable.com/docker/python/dockerize-your-python-application" tags="docker, python, container" ctime="20180116111611" dir="15160833715hngge313x" file="text.html"/>
      </recordtable>
