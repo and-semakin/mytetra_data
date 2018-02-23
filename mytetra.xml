@@ -31,6 +31,8 @@
    <node crypt="" id="1515157243sgifx8iwud" name="Linux">
     <recordtable>
      <record id="15151577412tlgcj1urh" name="Как установить Telegram на Linux" author="br0ke" url="" tags="telegram, messenger, телеграм, мессенджер, установка, linux, линукс" ctime="20180105180901" dir="1515157741qsi0h3wo5a" file="text.html"/>
+     <record id="1519370729ja7zlkxi5p" name="Расположение .desktop-файлов ярлыков программ" author="br0ke" url="https://askubuntu.com/questions/117341/how-can-i-find-desktop-files" tags="linux, desktop, applications" ctime="20180223122529" dir="15193707297bu3fgbrkb" file="text.html"/>
+     <record id="15193718480oaz7p3k78" name="Как установить свежие версии фреймворка Qt" author="br0ke" url="https://howto-ubuntunew.blogspot.ru/2016/12/how-to-install-qt-571-released-on.html" tags="linux, qt, qt-framework, framework" ctime="20180223124408" dir="1519371848e9uisr2ze6" file="text.html"/>
     </recordtable>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
      <recordtable>
@@ -38,6 +40,7 @@
       <record id="1516083216bmbia7lpd0" name="Установить Postman на Ubuntu" author="br0ke" url="https://blog.bluematador.com/posts/postman-how-to-install-on-ubuntu-1604/" tags="linux, ubuntu, postman, install, installation, rest, api, restful, tool" ctime="20180116111336" dir="1516083216gcrnko9s0z" file="text.html"/>
       <record id="1516166534vmg9e1pfin" name="Установить pgAdmin 4 на Ubuntu 16" author="br0ke" url="https://kiahosseini.github.io/help/2016/10/18/installing-pgadmin4-ubuntu-16.04.html" tags="linux, ubuntu, postgresql, postgres, pgadmin, pgadmin4, administration, db, dbms, install" ctime="20180117102214" dir="1516166534oh1o0ariga" file="text.html"/>
       <record id="1517289024v6wh90ks4j" name="Удалить старые ядра на Ubuntu 16.04" author="br0ke" url="https://askubuntu.com/questions/89710/how-do-i-free-up-more-space-in-boot" tags="linux, ubuntu, kernel, boot, partition, full, free space, bash, purge, linux-purge" ctime="20180130101024" dir="1517289024mcgn3qamrd" file="text.html"/>
+      <record id="1519370385gkg467c30b" name="Установить RPM-пакет в Ubuntu" author="br0ke" url="https://www.howtogeek.com/howto/ubuntu/install-an-rpm-package-on-ubuntu-linux/" tags="linux, ubuntu, rpm, deb, alien, dpkg, package, debian, redhat, apt, apt-get" ctime="20180223121945" dir="1519370385w1tny7x0n3" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
