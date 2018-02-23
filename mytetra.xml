@@ -103,6 +103,11 @@
     </node>
     <node crypt="" id="1516083692gxsxombvhg" name="Cisco"/>
    </node>
+   <node crypt="" id="15193837652piviiyvm4" name="Windows">
+    <recordtable>
+     <record id="15193843832chqwzfiyh" name="Установка .NET Framework 3.5 в Windows Server 2012 R2" author="br0ke" url="http://winitpro.ru/index.php/2014/05/14/ustanovka-net-framework-3-5-v-windows-server-2012-r2/" tags="microsoft, windows, server, windows server, 2012, 2012R2, dotnet, net-framework, framework, sysadmin" ctime="20180223161303" dir="1519384383txo7tabnn1" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
    <node crypt="1" icon="" id="1515161966ykf0x8uly7" name="UkM1U0lNUAPc0bNkBOBF6FM8tDLLPgzjCsSkstmCXQvN48SwkOJb25ULqV4D0hn+z4ixsI3AmAk59haOBM2KPw==">
