@@ -33,6 +33,7 @@
      <record id="15151577412tlgcj1urh" name="Как установить Telegram на Linux" author="br0ke" url="" tags="telegram, messenger, телеграм, мессенджер, установка, linux, линукс" ctime="20180105180901" dir="1515157741qsi0h3wo5a" file="text.html"/>
      <record id="1519370729ja7zlkxi5p" name="Расположение .desktop-файлов ярлыков программ" author="br0ke" url="https://askubuntu.com/questions/117341/how-can-i-find-desktop-files" tags="linux, desktop, applications" ctime="20180223122529" dir="15193707297bu3fgbrkb" file="text.html"/>
      <record id="15193718480oaz7p3k78" name="Как установить свежие версии фреймворка Qt" author="br0ke" url="https://howto-ubuntunew.blogspot.ru/2016/12/how-to-install-qt-571-released-on.html" tags="linux, qt, qt-framework, framework" ctime="20180223124408" dir="1519371848e9uisr2ze6" file="text.html"/>
+     <record id="1519379727220aqcqbtt" name="Использование команды tar" author="br0ke" url="http://manpages.ubuntu.com/manpages/xenial/en/man1/tar.1.html" tags="linux, tar, tarball, " ctime="20180223145527" dir="1519379727q86rosg1qs" file="text.html"/>
     </recordtable>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
      <recordtable>
