@@ -94,6 +94,8 @@
       <record id="15171325282jcq86ddlm" name="Управление классами и стилями в Vue" author="br0ke" url="https://vuejs.org/v2/guide/class-and-style.html" tags="javascript, js, vue.js, vuejs, vue, class, style, css, background-color" ctime="20180128144208" dir="1517132528v0v1n20rxi" file="text.html"/>
       <record id="1517718847a2iqppeor8" name="Консольные команды Vue" author="br0ke" url="" tags="javascript, js, node.js, nodejs, node, vue.js, vuejs, vue, vue-cli, cli, init, webpack, install, npm" ctime="20180204093407" dir="1517718847el4u03u88l" file="text.html"/>
       <record id="1519455766me6isn23ve" name="Пользовательские директивы в Vue" author="br0ke" url="https://ru.vuejs.org/v2/guide/custom-directive.html" tags="javascript, js, vue, vuejs, vue.js, v-, directives, directive, custom directive, custom, arg, value, modifiers" ctime="20180224120246" dir="1519455766g5abdtn1wc" file="text.html"/>
+      <record id="1519459399a1uuuvfoca" name="Стандартные элементы HTML-форм в Vue" author="br0ke" url="https://ru.vuejs.org/v2/guide/forms.html" tags="javascript, js, vue, vuejs, vue.js, forms, form, input, v-model" ctime="20180224130319" dir="1519459399cv4vmltn9j" file="text.html"/>
+      <record id="1519459726ygv4mioudv" name="Модификаторы v-model в Vue" author="br0ke" url="https://ru.vuejs.org/v2/guide/forms.html#%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B" tags="javascript, js, vue, vuejs, vue.js, form, forms, html, unput, text, textarea, lazy, number, trim" ctime="20180224130846" dir="1519459726niuhcpt7t5" file="text.html"/>
      </recordtable>
     </node>
    </node>
