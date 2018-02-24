@@ -77,6 +77,7 @@
      <record id="1517160402715g5qsdri" name="Получить случайное число в указанном диапазоне на JavaScript" author="br0ke" url="https://stackoverflow.com/a/1527820" tags="javascript, js, rand, random, random in range, случайное число, псевдослучайное число, диапазон" ctime="20180128222642" dir="15171604021ds62ojwsh" file="text.html"/>
      <record id="15172908800jo4aw0xrb" name="Вставка и удаление элементов из массива в JavaScript" author="br0ke" url="https://stackoverflow.com/questions/8073673/how-can-i-add-new-array-elements-at-the-beginning-of-an-array-in-javascript" tags="javascript, js, array, list, unshift, shift, push, pop, append" ctime="20180130104120" dir="1517290880cgh8ufrlo8" file="text.html"/>
      <record id="1519482154xzljn1pdvf" name="Перевернуть строку в JavaScript" author="br0ke" url="https://medium.freecodecamp.org/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb" tags="javascript, js, string, reverse, split, join" ctime="20180224192234" dir="1519482154ze78q5s5ne" file="text.html"/>
+     <record id="1519483383zble9wmbtd" name="Перебор значений массива в JavaScript" author="br0ke" url="https://stackoverflow.com/a/9329476" tags="javascript, js, array, foreach, for, loop, each" ctime="20180224194303" dir="1519483383ltw0smv2em" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React"/>
     <node crypt="" id="1516690897327juy5uam" name="node.js">
