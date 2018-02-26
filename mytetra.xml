@@ -59,6 +59,7 @@
       <record id="1515953953muwhegesuv" name="Установить Docker на Ubuntu 16" author="br0ke" url="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" tags="ubuntu, linux, docker, docker-compose, install, container, containerization, virtualization, докер, контейнер" ctime="20180114232542" dir="1515953953i2ysar6dfq" file="text.html"/>
       <record id="15159984130x47p7lgyi" name="Список основных команд Docker" author="br0ke" url="" tags="docker, commands, command list, usage" ctime="20180115114013" dir="1515998413rk847ogokj" file="text.html"/>
       <record id="15160833712gf7wim7rk" name="Dockerize your Python Application" author="br0ke" url="https://runnable.com/docker/python/dockerize-your-python-application" tags="docker, python, container" ctime="20180116111611" dir="15160833715hngge313x" file="text.html"/>
+      <record id="1519636172d3cec86y0t" name="Автоматический запуск контейнеров Docker" author="br0ke" url="https://docs.docker.com/config/containers/start-containers-automatically/" tags="docker, container, containers, restart, on-failure, unless-stopped, always, automatically" ctime="20180226140932" dir="1519636172i6q836jpho" file="text.html"/>
      </recordtable>
     </node>
    </node>
