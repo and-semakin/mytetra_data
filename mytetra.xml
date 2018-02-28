@@ -127,6 +127,7 @@
    <node crypt="" id="15193837652piviiyvm4" name="Windows">
     <recordtable>
      <record id="15193843832chqwzfiyh" name="Установка .NET Framework 3.5 в Windows Server 2012 R2" author="br0ke" url="http://winitpro.ru/index.php/2014/05/14/ustanovka-net-framework-3-5-v-windows-server-2012-r2/" tags="microsoft, windows, server, windows server, 2012, 2012R2, dotnet, net-framework, framework, sysadmin" ctime="20180223161303" dir="1519384383txo7tabnn1" file="text.html"/>
+     <record id="1519818375b5rvd1oyqn" name="Перенаправление портов в Windows" author="br0ke" url="http://geckich.blogspot.ru/2014/01/windows.html" tags="windows, networking, tcp, portproxy, proxy, v4tov4" ctime="20180228164615" dir="1519818375t36apq8u52" file="text.html"/>
     </recordtable>
    </node>
   </node>
