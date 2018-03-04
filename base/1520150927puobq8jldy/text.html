@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Данная утилита позволяет в одну команду установить нужную версию Python (3.5, 3.6.5, pypy-2, ...).</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Возможности:</p>
+<ul style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;"><li style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Позволяет изменить версию глобального (системного) интерпретатора Python;</li>
+<li style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Позволяет иметь отдельные версии Python для каждого проекта.</li></ul>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Установка:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">$ curl -L https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-installer | bash</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Перед завершением установочный скрипт выведет строки, которые нужно добавить в указанный файл (.bash_profile для bash, другие файлы настройки для других оболочек).</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Установка необходимых библиотек для сборки Python:</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Ubuntu/Debian:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev \</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev \</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">xz-utils tk-dev</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Fedora/CentOS:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">dnf install zlib-devel bzip2 bzip2-devel readline-devel sqlite sqlite-devel openssl-devel xz xz-devel</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Для других операционных систем:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">https://github.com/pyenv/pyenv/wiki/Common-build-problems</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Обновление:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">$ pyenv update</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Список доступных версий интерпретатора:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">$ pyenv versions</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Переключиться локально (в этой и дочерних директориях) на указанную версию:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">$ pyenv local 2.7.11</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>
