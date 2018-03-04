@@ -27,7 +27,11 @@
       </recordtable>
      </node>
     </node>
-    <node crypt="" id="15201477466nixlipmqg" name="Инструменты"/>
+    <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
+     <recordtable>
+      <record id="1520148264v1qng0aee9" name="Менеджер зависимостей pipenv" author="br0ke" url="https://pypi.python.org/pypi/pipenv" tags="python, pipenv, virtualenv, tool, tools, venv, virtual envirtonment, requirements.txt, pip, install" ctime="20180304122424" dir="15201482647bkxsjrx4o" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1515157243sgifx8iwud" name="Linux">
     <recordtable>
