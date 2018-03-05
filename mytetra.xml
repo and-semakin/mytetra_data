@@ -71,6 +71,8 @@
       <record id="15160833712gf7wim7rk" name="Dockerize your Python Application" author="br0ke" url="https://runnable.com/docker/python/dockerize-your-python-application" tags="docker, python, container" ctime="20180116111611" dir="15160833715hngge313x" file="text.html"/>
       <record id="1519636172d3cec86y0t" name="Автоматический запуск контейнеров Docker" author="br0ke" url="https://docs.docker.com/config/containers/start-containers-automatically/" tags="docker, container, containers, restart, on-failure, unless-stopped, always, automatically" ctime="20180226140932" dir="1519636172i6q836jpho" file="text.html"/>
       <record id="1519637360mpzypeb28k" name="Установить JetBrains YouTrack в Docker" author="br0ke" url="https://github.com/dzwicker/docker-youtrack" tags="docker, youtrack, jetbrains, install, bugtracker, ubuntu" ctime="20180226142920" dir="1519637360d1v87sfm0i" file="text.html"/>
+      <record id="1520227456sbqmoyfztr" name="Установить JetBrains Hub в Docker" author="br0ke" url="https://hub.docker.com/r/jetbrains/hub/" tags="docker, jetbrains, hub, install" ctime="20180305102416" dir="1520227456bmcehl81df" file="text.html"/>
+      <record id="1520227487rbwolm8kow" name="Установить JetBrains Upsource в Docker" author="br0ke" url="https://hub.docker.com/r/jetbrains/upsource/" tags="docker, jetbrains, upsource" ctime="20180305102447" dir="1520227487hhs7kxlzwe" file="text.html"/>
      </recordtable>
     </node>
    </node>
