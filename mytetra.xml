@@ -73,6 +73,7 @@
       <record id="1519637360mpzypeb28k" name="Установить JetBrains YouTrack в Docker" author="br0ke" url="https://github.com/dzwicker/docker-youtrack" tags="docker, youtrack, jetbrains, install, bugtracker, ubuntu" ctime="20180226142920" dir="1519637360d1v87sfm0i" file="text.html"/>
       <record id="1520227456sbqmoyfztr" name="Установить JetBrains Hub в Docker" author="br0ke" url="https://hub.docker.com/r/jetbrains/hub/" tags="docker, jetbrains, hub, install" ctime="20180305102416" dir="1520227456bmcehl81df" file="text.html"/>
       <record id="1520227487rbwolm8kow" name="Установить JetBrains Upsource в Docker" author="br0ke" url="https://hub.docker.com/r/jetbrains/upsource/" tags="docker, jetbrains, upsource" ctime="20180305102447" dir="1520227487hhs7kxlzwe" file="text.html"/>
+      <record id="1520231100tv0u1q4gu9" name="Аутентификация в удаленный репозиторий в Docker" author="br0ke" url="https://docs.docker.com/engine/reference/commandline/login/" tags="docker, login, registry, remote, auth" ctime="20180305112500" dir="152023110002f0z5hyyj" file="text.html"/>
      </recordtable>
     </node>
    </node>
