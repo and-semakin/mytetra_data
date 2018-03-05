@@ -11,7 +11,7 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">или</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">mkdir -p /opt</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">mkdir -p /jetbrains/youtrack/lib /jetbrains/youtrack/logs /jetbrains/youtrack/conf</span></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">2. Создать в системе пользователя youtrack и дать ему права:</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">sudo useradd -u 2000 youtrack</span></p>
@@ -20,8 +20,18 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">sudo chgrp -R youtrack /etc/youtrack/</span></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">sudo chmod -R g+rwx /etc/youtrack/</span></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">или</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">chmod -R 750 /jetbrains/youtrack</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">chown -R 2000:2000 /jetbrains/youtrack</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">3. Создать Docker-контейнер с YouTrack:</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">docker create -t -i -p 8080:8080 -v /var/lib/youtrack:/var/lib/youtrack -v /var/log/youtrack:/var/log/youtrack -v /etc/youtrack:/usr/local/youtrack/conf -v /tmp:/tmp --name docker-youtrack --restart unless-stopped dzwicker/docker-youtrack</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">или</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">docker create -it -p 8080:8080 -v /jetbrains/youtrack/lib:/var/lib/youtrack -v /jetbrains/youtrack/logs:/var/log/youtrack -v /jetbrains/youtrack/conf:/usr/local/youtrack/conf -v /tmp:/tmp --name docker-youtrack --restart unless-stopped dzwicker/docker-youtrack</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">4. Запустить Docker-контейнер:</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">docker start docker-youtrack</span></p>
