@@ -57,6 +57,7 @@
       <record id="1519746351k1c6476oeb" name="Установить лубую IDE через umake на Ubuntu 16" author="br0ke" url="https://wiki.ubuntu.com/ubuntu-make" tags="ubuntu, ubuntu-make, umake, development, develop, dev, ide, code editor, editor, code, tools, tool, programming, pycharm, idea, intellij, intellijidea, jetbrains, webstorm, clion, netbeans, android studio, eclipse, visual studio code, vsc, sublime, atom, kotlin, rust, swift, scala, web, go, nodejs, android" ctime="20180227204551" dir="1519746351ydhaxua4xu" file="text.html"/>
       <record id="1519748215e3y00cik0t" name="Установить httpie в Ubuntu" author="br0ke" url="https://www.howtoinstall.co/en/ubuntu/xenial/httpie" tags="ubuntu, install, httpie, http, curl" ctime="20180227211655" dir="1519748215grb20rd992" file="text.html"/>
       <record id="15197489826xfqttl8yw" name="Установить Unity Tweak Tool в Ubuntu" author="br0ke" url="http://compizomania.blogspot.com/2016/04/unity-tweak-tool-unity-ubuntu.html" tags="ubuntu, xenial, unity, unity tweak tool, tweak, tweaks, desktop, customization, кастомизация" ctime="20180227212942" dir="151974898284lfk5d1vx" file="text.html"/>
+      <record id="15204287253umwkthwfj" name="Установка VMware Remote Console на Ubuntu" author="br0ke" url="https://kb.vmware.com/s/article/2091284" tags="linux, ubuntu, install, vmware, vm, vmrc, remote console, vmware remote console, virtual machine" ctime="20180307181845" dir="15204287255wj7e2e9j3" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
