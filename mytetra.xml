@@ -104,6 +104,7 @@
      <recordtable>
       <record id="15166914708wjfl33r8p" name="Основы node.js" author="br0ke" url="https://habrahabr.ru/post/243335/" tags="javascript, node, node.js, nodejs, hello world, helloworld, listdir, ls, example" ctime="20180123121110" dir="1516691470epfeqxv6s7" file="text.html"/>
       <record id="1516692978b2si9i3qyk" name="npm -- Node Package Manager" author="br0ke" url="https://habrahabr.ru/post/243335/" tags="javascript, node, node.js, nodejs, npm, node package manager, package, package.json" ctime="20180123123618" dir="1516692978ornwump9rp" file="text.html"/>
+      <record id="15205326407sgvj9hf3k" name="Установка компилятора less" author="br0ke" url="https://askubuntu.com/a/892881" tags="node, nodejs, node.js, npm, less, lessc, css, ubuntu" ctime="20180308231040" dir="1520532640lhjp87jiy6" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1517079142ly31mrbslb" name="Vue.js">
