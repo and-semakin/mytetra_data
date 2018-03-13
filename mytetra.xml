@@ -103,6 +103,7 @@
      <record id="1519814908jizvu1f1jy" name="Использование точки с запятой &quot;;&quot; в JavaScript" author="br0ke" url="https://stepik.org/lesson/41781/step/3?course=JavaScript-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85&amp;unit=20152" tags="javascript, js, semicolon, точка с запятой" ctime="20180228154828" dir="1519814908w00835o435" file="text.html"/>
      <record id="1519815036kqaxxd791k" name="Комментарии в JavaScript" author="br0ke" url="" tags="javascript, js, comment, comments, single-line, multi-line" ctime="20180228155036" dir="1519815036rez6qto5a7" file="text.html"/>
      <record id="1520853622xuctfgnqmi" name="Отключение защиты в Chrome\Chromium" author="br0ke" url="https://stackoverflow.com/a/3177718" tags="chrome, chromium, disable-web-security, browser, cors, ajax, sop, same-origin-policy" ctime="20180312162022" dir="1520853622el3rg3az73" file="text.html"/>
+     <record id="1520961846jkiy7pjd9o" name="Извлечение переменной из localStorage со значением по умолчанию" author="br0ke" url="https://stackoverflow.com/a/13791605" tags="javascript, js, browser, storage, localstorage, default, getitem" ctime="20180313222406" dir="1520961846f0m5z0immj" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React"/>
     <node crypt="" id="1516690897327juy5uam" name="node.js">
@@ -133,7 +134,11 @@
       <record id="1519481990w0twxkf2mc" name="Примеси (mixins) в Vue" author="br0ke" url="https://vuejs.org/v2/guide/mixins.html" tags="javascript, js, vue, vuejs, vue.js, mixin, mixins, duplication, code reuse" ctime="20180224191950" dir="15194819901df1n7c69e" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1520961150at6ti3znfl" name="axios"/>
+    <node crypt="" id="1520961150at6ti3znfl" name="axios">
+     <recordtable>
+      <record id="1520961675shqjex7mlw" name="Перехват всех запросов и ответов в Axios" author="br0ke" url="https://github.com/axios/axios/issues/690" tags="javascript, js, axios, intercept, interceptor, interceptors, request, response" ctime="20180313222115" dir="152096167523yi0txm0f" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1516083402vmnii3c2kw" name="Networking">
     <node crypt="" id="1516083411c4grqaiq40" name="HTTP">
