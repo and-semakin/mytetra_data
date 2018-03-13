@@ -133,6 +133,7 @@
       <record id="1519481990w0twxkf2mc" name="Примеси (mixins) в Vue" author="br0ke" url="https://vuejs.org/v2/guide/mixins.html" tags="javascript, js, vue, vuejs, vue.js, mixin, mixins, duplication, code reuse" ctime="20180224191950" dir="15194819901df1n7c69e" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1520961150at6ti3znfl" name="axios"/>
    </node>
    <node crypt="" id="1516083402vmnii3c2kw" name="Networking">
     <node crypt="" id="1516083411c4grqaiq40" name="HTTP">
