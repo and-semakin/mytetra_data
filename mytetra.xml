@@ -157,9 +157,7 @@
    <node crypt="" id="1521029860ul0fijeg5m" name="Базы данных">
     <node crypt="" id="1521029865tkxkf3llb9" name="MySQL">
      <recordtable>
-      <record id="15210299455kaf5q8o11" name="Сменить пароль пользователя в MySQL" author="br0ke" url="https://stackoverflow.com/questions/22774739/change-mysql-user-password-using-command-line" tags="database, db, mysql, mariadb, change, password" ctime="20180314171905" dir="1521029945iukvufyv0p" file="text.html"/>
-      <record id="1521029998bil18qgcr9" name="Показать список БД в MySQL" author="br0ke" url="https://dev.mysql.com/doc/refman/5.7/en/show-databases.html" tags="database, mysql, mariadb, list" ctime="20180314171958" dir="1521029998p5wflhmt5n" file="text.html"/>
-      <record id="1521030062nx54td8ehs" name="Подключиться к серверу MySQL из терминала" author="br0ke" url="https://askubuntu.com/questions/341584/how-to-run-mysql-command-from-terminal" tags="database, mysql, mariadb, cli" ctime="20180314172102" dir="1521030062egwfy45egx" file="text.html"/>
+      <record id="1521030062nx54td8ehs" name="Команды MySQL из терминала" author="br0ke" url="https://askubuntu.com/questions/341584/how-to-run-mysql-command-from-terminal" tags="database, mysql, mariadb, cli, list, users, databases, change, password, tables" ctime="20180314172102" dir="1521030062egwfy45egx" file="text.html"/>
      </recordtable>
     </node>
    </node>
