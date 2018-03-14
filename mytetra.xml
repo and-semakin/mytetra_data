@@ -154,6 +154,15 @@
      <record id="1519818375b5rvd1oyqn" name="Перенаправление портов в Windows" author="br0ke" url="http://geckich.blogspot.ru/2014/01/windows.html" tags="windows, networking, tcp, portproxy, proxy, v4tov4" ctime="20180228164615" dir="1519818375t36apq8u52" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1521029860ul0fijeg5m" name="Базы данных">
+    <node crypt="" id="1521029865tkxkf3llb9" name="MySQL">
+     <recordtable>
+      <record id="15210299455kaf5q8o11" name="Сменить пароль пользователя в MySQL" author="br0ke" url="https://stackoverflow.com/questions/22774739/change-mysql-user-password-using-command-line" tags="database, db, mysql, mariadb, change, password" ctime="20180314171905" dir="1521029945iukvufyv0p" file="text.html"/>
+      <record id="1521029998bil18qgcr9" name="Показать список БД в MySQL" author="br0ke" url="https://dev.mysql.com/doc/refman/5.7/en/show-databases.html" tags="database, mysql, mariadb, list" ctime="20180314171958" dir="1521029998p5wflhmt5n" file="text.html"/>
+      <record id="1521030062nx54td8ehs" name="Подключиться к серверу MySQL из терминала" author="br0ke" url="https://askubuntu.com/questions/341584/how-to-run-mysql-command-from-terminal" tags="database, mysql, mariadb, cli" ctime="20180314172102" dir="1521030062egwfy45egx" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
    <node crypt="1" icon="" id="1515161966ykf0x8uly7" name="UkM1U0lNUAPc0bNkBOBF6FM8tDLLPgzjCsSkstmCXQvN48SwkOJb25ULqV4D0hn+z4ixsI3AmAk59haOBM2KPw==">
