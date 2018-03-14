@@ -43,6 +43,7 @@
      <record id="1519383683ogqj9a8hri" name="Показать список открытых портов на прослушивание" author="br0ke" url="https://askubuntu.com/questions/9368/how-can-i-see-what-ports-are-open-on-my-machine" tags="linux, netstat, ports, tcp, udp, listen" ctime="20180223160123" dir="1519383683svmrel70js" file="text.html"/>
      <record id="1520425499ghijvdx8bm" name="Подключение по SSH к устаревшим серверам" author="br0ke" url="https://unix.stackexchange.com/questions/340844/how-to-enable-diffie-hellman-group1-sha1-key-exchange-on-debian-8-0" tags="linux, unix, ssh, openssh, unable to negotiate" ctime="20180307172459" dir="1520425499yd6rhhnwae" file="text.html"/>
      <record id="1520958747pv43f7w5lb" name="Рекурсивный поиск строки по файлам в папке через grep в Linux" author="br0ke" url="https://stackoverflow.com/questions/1987926/how-do-i-grep-recursively" tags="linux, grep, recursive, search, find" ctime="20180313213227" dir="1520958747cxz8eybcxq" file="text.html"/>
+     <record id="1521030798mszc1ambcy" name="Использование tcpdump" author="br0ke" url="https://danielmiessler.com/study/tcpdump/" tags="linux, network, tcp, tcpdump, dump, data, packet, capture, icap, http" ctime="20180314173318" dir="152103079841himw4emd" file="text.html"/>
     </recordtable>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
      <recordtable>
@@ -81,6 +82,11 @@
       <record id="1520227487rbwolm8kow" name="Установить JetBrains Upsource в Docker" author="br0ke" url="https://hub.docker.com/r/jetbrains/upsource/" tags="docker, jetbrains, upsource" ctime="20180305102447" dir="1520227487hhs7kxlzwe" file="text.html"/>
       <record id="1520231100tv0u1q4gu9" name="Аутентификация в удаленный репозиторий в Docker" author="br0ke" url="https://docs.docker.com/engine/reference/commandline/login/" tags="docker, login, registry, remote, auth" ctime="20180305112500" dir="152023110002f0z5hyyj" file="text.html"/>
       <record id="1520940664rbdoq7rth2" name="Установить JetBrains YouTrack в Docker" author="br0ke" url="https://hub.docker.com/r/jetbrains/youtrack/" tags="docker, jetbrains, youtrack, install" ctime="20180313163104" dir="15209406644mcv0d55y7" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
+     <recordtable>
+      <record id="1521030635ybelz5sq9r" name="Отладка настройки virtual hosts в Apache" author="br0ke" url="https://stackoverflow.com/a/7568100" tags="linux, apache, apache2, web, web-server, server, virtualhost, host, site" ctime="20180314173035" dir="1521030635xx8p0jthcf" file="text.html"/>
      </recordtable>
     </node>
    </node>
