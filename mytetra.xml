@@ -8,7 +8,11 @@
     <record id="1521525704nlepyyeesy" name="Zeal -- просмотр документации оффлайн" author="br0ke" url="https://zealdocs.org/" tags="zeal, doc, docs, documentation, man, manual, dev, development, admin, administration" ctime="20180320110144" dir="1521525704sp8ff4p59o" file="text.html"/>
    </recordtable>
    <node crypt="" id="1515157235tlugwd7m1n" name="Python">
-    <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка"/>
+    <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
+     <recordtable>
+      <record id="1521528857vg4w2osp0h" name="PEP8 - общепринятый стиль кода на языке Python" author="br0ke" url="https://pep8.ru/doc/pep8/" tags="python, pep8, guide, style" ctime="20180320115417" dir="1521528857q679zgfxk2" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="15156469891vuf5st61r" name="Библиотеки">
      <recordtable>
       <record id="1516258008ai3hckcxtq" name="Методы-проверки (assert) для unittest" author="br0ke" url="https://docs.python.org/3/library/unittest.html#assert-methods" tags="python, stdlib, unittest, test, testing, assert" ctime="20180118114648" dir="1516258008kdbejlnxul" file="text.html"/>
