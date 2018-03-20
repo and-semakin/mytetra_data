@@ -70,6 +70,7 @@
       <record id="152050603421tlhzp05y" name="Установка Inkscape в Ubuntu 16" author="br0ke" url="http://ubuntuhandbook.org/index.php/2017/01/install-inkscape-0-92-ppa-ubuntu-16-04-16-10-14-04/" tags="linux, ubuntu, ppa, inkscape, install" ctime="20180308154714" dir="1520506034oyxh5gzivd" file="text.html"/>
       <record id="15209581461b6tc0enpd" name="Определить версию Ubuntu из терминала" author="br0ke" url="https://ubuntuforums.org/showthread.php?t=796627" tags="linux, ubuntu, version, lsb_release, lts, xenial, trusty" ctime="20180313212226" dir="1520958146688c2otzkm" file="text.html"/>
       <record id="1520958548ngghz2ijzx" name="Дать пользователю права на sudo в Ubuntu" author="br0ke" url="https://askubuntu.com/questions/7477/how-can-i-add-a-new-user-as-sudoer-using-the-command-line" tags="linux, ubuntu, sudo, su, sudoers, visudo" ctime="20180313212908" dir="1520958548968vz0vun0" file="text.html"/>
+      <record id="1521537340r5clesc7zq" name="Установить MyTetra на Ubuntu" author="br0ke" url="https://webhamster.ru/site/page/index/articles/projectcode/105" tags="linux, ubuntu, mytetra, info, data, note, pim, personal information manager" ctime="20180320141540" dir="1521537340pvqw82em0f" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
