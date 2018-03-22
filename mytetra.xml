@@ -97,6 +97,11 @@
       <record id="1521030635ybelz5sq9r" name="Отладка настройки virtual hosts в Apache" author="br0ke" url="https://stackoverflow.com/a/7568100" tags="linux, apache, apache2, web, web-server, server, virtualhost, host, site" ctime="20180314173035" dir="1521030635xx8p0jthcf" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1521724659xwv4b5acx1" name="nginx">
+     <recordtable>
+      <record id="1521724744exw5ian34l" name="Управление доступом к сайту на основе IP-адресов в nginx" author="br0ke" url="https://serverfault.com/questions/667798/allow-only-local-users-in-nginx" tags="nginx, web, web-server, server, config, allow, deny, network, ip, ip address, address, local, remote" ctime="20180322181904" dir="1521724744n2vy66jwyh" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="15151592143t1d4riqua" name="Git">
     <recordtable>
