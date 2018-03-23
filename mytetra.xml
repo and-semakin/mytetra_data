@@ -8,6 +8,9 @@
     <record id="1521525704nlepyyeesy" name="Zeal -- просмотр документации оффлайн" author="br0ke" url="https://zealdocs.org/" tags="zeal, doc, docs, documentation, man, manual, dev, development, admin, administration" ctime="20180320110144" dir="1521525704sp8ff4p59o" file="text.html"/>
    </recordtable>
    <node crypt="" id="1515157235tlugwd7m1n" name="Python">
+    <recordtable>
+     <record id="1521767210o1awv5n0fn" name="Закодировать файл в base64 на Python" author="br0ke" url="https://stackoverflow.com/a/3715530" tags="python, base64, encode, decode, file, image, picture" ctime="20180323060650" dir="1521767210lwgdr4ebm3" file="text.html"/>
+    </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
       <record id="1521528857vg4w2osp0h" name="PEP8 - общепринятый стиль кода на языке Python" author="br0ke" url="https://pep8.ru/doc/pep8/" tags="python, pep8, guide, style" ctime="20180320115417" dir="1521528857q679zgfxk2" file="text.html"/>
@@ -23,6 +26,7 @@
        <record id="15156509210km9s0gyyv" name="Аутентификация в REST API на Flask" author="br0ke" url="" tags="python, flask, api, rest, restful, python-restful, auth, authentication, authoriazation, httpauth, http, flask-httpauth, basic, digest" ctime="20180111110841" dir="1515650921dnk0yq96no" file="text.html"/>
        <record id="1515651210dunez95t3t" name="Аутентификация в REST API на Flask" author="Miguel Grinberg" url="https://blog.miguelgrinberg.com/post/restful-authentication-with-flask" tags="python, flask, rest, restful, api, flask-httpauth" ctime="20180111111330" dir="1515651210k33ga8s2h3" file="text.html"/>
        <record id="1515914481mtjxy5qd3n" name="Миграция схемы БД при помощи Flask-Migrate" author="br0ke" url="https://github.com/miguelgrinberg/Flask-Migrate" tags="python, flask, flask-migrate, database, sqlalchemy, db, sqlite, workaround" ctime="20180114122121" dir="151591448128lgh018tk" file="text.html"/>
+       <record id="1521766807zqclyrkgbx" name="Вывод данных на консоль в Flask" author="br0ke" url="https://stackoverflow.com/a/33383239" tags="python, flask, print, output, stdout, stderr, debug" ctime="20180323060007" dir="15217668072dyuq6v9ro" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1515914523pnrq3o6kwg" name="Django"/>
@@ -109,6 +113,7 @@
      <record id="152147455979j6u7coy0" name="Скачать данные (git pull) с перезаписью локального репозитория в Git" author="br0ke" url="https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files" tags="git, pull, git pull, fetch, git fetch, reset, git reset" ctime="20180319204919" dir="1521474559yaokqugzk5" file="text.html"/>
      <record id="1521525176c9rpvuwftt" name="Meld -- diff/merge GUI tool" author="br0ke" url="http://meldmerge.org/" tags="git, svn, version, version control, diff, merge, three-way, gui, tool" ctime="20180320105256" dir="1521525176s8jov9ipbb" file="text.html"/>
      <record id="1521536838w8ddgrcqig" name="tig -- псевдографический Git-клиент" author="br0ke" url="https://m.habrahabr.ru/post/337644/" tags="git, gui, cli, tig" ctime="20180320140718" dir="1521536838mtlqm98bj6" file="text.html"/>
+     <record id="1521766696axc942wx7d" name="Исправить состояние &quot;оторванной башни&quot; (detached head) в Git" author="br0ke" url="https://stackoverflow.com/questions/10228760/fix-a-git-detached-head" tags="git, detached, detached head, head, fix, checkout" ctime="20180323055816" dir="1521766696vc9vht5ul0" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
@@ -185,6 +190,18 @@
     <node crypt="" id="1521029865tkxkf3llb9" name="MySQL">
      <recordtable>
       <record id="1521030062nx54td8ehs" name="Команды MySQL из терминала" author="br0ke" url="https://askubuntu.com/questions/341584/how-to-run-mysql-command-from-terminal" tags="database, mysql, mariadb, cli, list, users, databases, change, password, tables" ctime="20180314172102" dir="1521030062egwfy45egx" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1521766380ubjvwcz0ib" name="Web">
+    <node crypt="" id="1521766385l6o9mt9y9k" name="CSS">
+     <recordtable>
+      <record id="15217665801vzpkudsfz" name="Короткая запись margin и padding в CSS" author="br0ke" url="https://www.w3schools.com/css/css_margin.asp" tags="web, html, css, margin, padding" ctime="20180323055620" dir="1521766580iz5bo3lph4" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1521766845fko7l3y5zp" name="HTML">
+     <recordtable>
+      <record id="1521766889t9su81k29d" name="Вывод изображения из base64 в HTML" author="br0ke" url="https://stackoverflow.com/a/8499716" tags="html, img, src, image, picture, base64" ctime="20180323060129" dir="1521766889n2kcp5v4qu" file="text.html"/>
      </recordtable>
     </node>
    </node>
