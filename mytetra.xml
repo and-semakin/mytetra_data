@@ -110,6 +110,7 @@
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
       <record id="1522088560hf26i6j7tw" name="Сочетание клавиш для запуска терминала в Fedora (Gnome)" author="br0ke" url="https://ask.fedoraproject.org/en/question/9623/how-can-i-set-a-key-shortcut-to-launch-terminal-under-gnome/" tags="fedora, terminal, shortcut, hotkey, gnome" ctime="20180326232240" dir="1522088560sk1koexjd4" file="text.html"/>
+      <record id="15227372979l22tvlwap" name="Установить pgAdmin 4 на Fedora" author="br0ke" url="https://www.pgadmin.org/download/pgadmin-4-rpm/" tags="linux, fedora, redhat, rpm, pgadmin, pgadmin4, postgre, postgres, postgresql" ctime="20180403113457" dir="1522737297wdbwpdz89k" file="text.html"/>
      </recordtable>
     </node>
    </node>
