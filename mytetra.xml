@@ -10,6 +10,7 @@
    <node crypt="" id="1515157235tlugwd7m1n" name="Python">
     <recordtable>
      <record id="1521767210o1awv5n0fn" name="Закодировать файл в base64 на Python" author="br0ke" url="https://stackoverflow.com/a/3715530" tags="python, base64, encode, decode, file, image, picture" ctime="20180323060650" dir="1521767210lwgdr4ebm3" file="text.html"/>
+     <record id="15232621037vw8zwc5in" name="Рекурсивное создание директорий в Python" author="br0ke" url="https://stackoverflow.com/questions/6004073/how-can-i-create-directories-recursively" tags="python, path, directory, create, makedirs, recursively, exist_ok" ctime="20180409132143" dir="1523262103tq9hzsog6g" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
