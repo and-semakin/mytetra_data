@@ -119,6 +119,7 @@
       <record id="1523446799l3uw8be489" name="Установить репозиторий RPM Fusion в Fedora" author="br0ke" url="https://ask.fedoraproject.org/en/question/42073/how-i-can-install-audio-codecs-like-mp3/" tags="linux, fedora, rpm, rpmfusion, repo, non-free, mp3, mp4, avi, aac" ctime="20180411163959" dir="1523446799uq92y3y74z" file="text.html"/>
       <record id="1523446876r2jnlul98p" name="Установить кодеки для аудио и видео в Fedora" author="br0ke" url="https://ask.fedoraproject.org/en/question/42073/how-i-can-install-audio-codecs-like-mp3/" tags="linux, fedora, codecs, audio, video, mp3, mp4" ctime="20180411164116" dir="1523446876ub5pnt0iyo" file="text.html"/>
       <record id="1523446983uhma53jwa5" name="Установить VLC на Fedora" author="br0ke" url="" tags="linux, fedora, rpm, vlc, vlcplayer" ctime="20180411164303" dir="15234469834ecpswwpru" file="text.html"/>
+      <record id="1523447955tke0u83t5u" name="Установить Docker CE на Fedora" author="br0ke" url="https://docs.docker.com/install/linux/docker-ce/fedora/" tags="linux, fedora, rpm, docker, docker-ce, docker-compose" ctime="20180411165915" dir="1523447955l42r880jrg" file="text.html"/>
      </recordtable>
     </node>
    </node>
