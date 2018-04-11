@@ -57,6 +57,7 @@
      <record id="1520425499ghijvdx8bm" name="Подключение по SSH к устаревшим серверам" author="br0ke" url="https://unix.stackexchange.com/questions/340844/how-to-enable-diffie-hellman-group1-sha1-key-exchange-on-debian-8-0" tags="linux, unix, ssh, openssh, unable to negotiate" ctime="20180307172459" dir="1520425499yd6rhhnwae" file="text.html"/>
      <record id="1520958747pv43f7w5lb" name="Рекурсивный поиск строки по файлам в папке через grep в Linux" author="br0ke" url="https://stackoverflow.com/questions/1987926/how-do-i-grep-recursively" tags="linux, grep, recursive, search, find" ctime="20180313213227" dir="1520958747cxz8eybcxq" file="text.html"/>
      <record id="1521030798mszc1ambcy" name="Использование tcpdump" author="br0ke" url="https://danielmiessler.com/study/tcpdump/" tags="linux, network, tcp, tcpdump, dump, data, packet, capture, icap, http" ctime="20180314173318" dir="152103079841himw4emd" file="text.html"/>
+     <record id="1523442204bu27t1w1ol" name="Корректные права на директорию .ssh в Linux" author="br0ke" url="https://superuser.com/questions/215504/permissions-on-private-key-in-ssh-folder" tags="linux, ssh, permission, permissions, chmod" ctime="20180411152324" dir="1523442204fhjz34fwne" file="text.html"/>
     </recordtable>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
      <recordtable>
@@ -114,6 +115,7 @@
       <record id="15227372979l22tvlwap" name="Установить pgAdmin 4 на Fedora" author="br0ke" url="https://www.pgadmin.org/download/pgadmin-4-rpm/" tags="linux, fedora, redhat, rpm, pgadmin, pgadmin4, postgre, postgres, postgresql" ctime="20180403113457" dir="1522737297wdbwpdz89k" file="text.html"/>
       <record id="1523260556r8n18qd12u" name="Установить TeamViewer на Fedora 27" author="br0ke" url="https://www.itzgeek.com/how-tos/linux/fedora-how-tos/install-teamviewer-on-fedora-22-21.html" tags="linux, fedora, install, teamviewer, tw, rpm, dnf" ctime="20180409125556" dir="152326055668q1q76zo2" file="text.html"/>
       <record id="1523261186mtwiir7clj" name="Установить LibreOffice 6 на Fedora 27" author="br0ke" url="https://www.tecmint.com/install-libreoffice-on-rhel-centos-fedora-debian-ubuntu-linux-mint/" tags="linux, fedora, libreoffice, writer, calc, openoffice, odt" ctime="20180409130626" dir="1523261186iaixlebiit" file="text.html"/>
+      <record id="1523442301gy9ltr7ytq" name="Обновить список программ в меню в KDE" author="br0ke" url="https://forum.kde.org/viewtopic.php?f=67&amp;t=129411" tags="linux, kde, desktop, application, applications, app, apps, kbuildsycoca5" ctime="20180411152501" dir="1523442301nvjpis6vta" file="text.html"/>
      </recordtable>
     </node>
    </node>
