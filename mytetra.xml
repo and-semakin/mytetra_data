@@ -118,6 +118,7 @@
       <record id="1523442301gy9ltr7ytq" name="Обновить список программ в меню в KDE" author="br0ke" url="https://forum.kde.org/viewtopic.php?f=67&amp;t=129411" tags="linux, kde, desktop, application, applications, app, apps, kbuildsycoca5" ctime="20180411152501" dir="1523442301nvjpis6vta" file="text.html"/>
       <record id="1523446799l3uw8be489" name="Установить репозиторий RPM Fusion в Fedora" author="br0ke" url="https://ask.fedoraproject.org/en/question/42073/how-i-can-install-audio-codecs-like-mp3/" tags="linux, fedora, rpm, rpmfusion, repo, non-free, mp3, mp4, avi, aac" ctime="20180411163959" dir="1523446799uq92y3y74z" file="text.html"/>
       <record id="1523446876r2jnlul98p" name="Установить кодеки для аудио и видео в Fedora" author="br0ke" url="https://ask.fedoraproject.org/en/question/42073/how-i-can-install-audio-codecs-like-mp3/" tags="linux, fedora, codecs, audio, video, mp3, mp4" ctime="20180411164116" dir="1523446876ub5pnt0iyo" file="text.html"/>
+      <record id="1523446983uhma53jwa5" name="Установить VLC на Fedora" author="br0ke" url="" tags="linux, fedora, rpm, vlc, vlcplayer" ctime="20180411164303" dir="15234469834ecpswwpru" file="text.html"/>
      </recordtable>
     </node>
    </node>
