@@ -227,6 +227,11 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="1523515785901tya9bqq" name="Паттерны проектирования (ООП)">
+    <node crypt="" id="1523515855o0psdjisfo" name="Порождающие"/>
+    <node crypt="" id="1523515863xo3vn8f8cg" name="Структурные"/>
+    <node crypt="" id="1523515872vfl0uj2yqw" name="Поведенческие"/>
+   </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
    <node crypt="1" icon="" id="1515161966ykf0x8uly7" name="UkM1U0lNUAPc0bNkBOBF6FM8tDLLPgzjCsSkstmCXQvN48SwkOJb25ULqV4D0hn+z4ixsI3AmAk59haOBM2KPw==">
