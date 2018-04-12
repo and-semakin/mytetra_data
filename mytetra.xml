@@ -237,7 +237,11 @@
         <file id="1523517617zcm13r5ipt" fileName="decorator 2.ipynb" type="file"/>
        </files>
       </record>
-      <record id="1523517767shiidc7ehq" name="Адаптер" author="br0ke" url="" tags="oop, design pattern, pattern, structural, adapter" ctime="20180412122247" dir="1523517767j7e9k54lwa" file="text.html"/>
+      <record id="1523517767shiidc7ehq" name="Адаптер" author="br0ke" url="" tags="oop, design pattern, pattern, structural, adapter" ctime="20180412122247" dir="1523517767j7e9k54lwa" file="text.html">
+       <files>
+        <file id="152351908834o9ckw7t2" fileName="Adapter.ipynb" type="file"/>
+       </files>
+      </record>
      </recordtable>
     </node>
     <node crypt="" id="1523515872vfl0uj2yqw" name="Поведенческие"/>
