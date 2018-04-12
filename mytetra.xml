@@ -229,7 +229,16 @@
    </node>
    <node crypt="" id="1523515785901tya9bqq" name="Паттерны проектирования (ООП)">
     <node crypt="" id="1523515855o0psdjisfo" name="Порождающие"/>
-    <node crypt="" id="1523515863xo3vn8f8cg" name="Структурные"/>
+    <node crypt="" id="1523515863xo3vn8f8cg" name="Структурные">
+     <recordtable>
+      <record id="1523517576t3jywnsw67" name="Декоратор" author="br0ke" url="https://refactoring.guru/ru/design-patterns/decorator" tags="oop, design pattern, pattern, structural, decorator" ctime="20180412121936" dir="1523517576wuli88avjr" file="text.html">
+       <files>
+        <file id="15235176141ltmj1atdt" fileName="decorator.ipynb" type="file"/>
+        <file id="1523517617zcm13r5ipt" fileName="decorator 2.ipynb" type="file"/>
+       </files>
+      </record>
+     </recordtable>
+    </node>
     <node crypt="" id="1523515872vfl0uj2yqw" name="Поведенческие"/>
    </node>
   </node>
