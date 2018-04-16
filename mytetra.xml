@@ -121,6 +121,7 @@
       <record id="1523446983uhma53jwa5" name="Установить VLC на Fedora" author="br0ke" url="" tags="linux, fedora, rpm, vlc, vlcplayer" ctime="20180411164303" dir="15234469834ecpswwpru" file="text.html"/>
       <record id="1523447955tke0u83t5u" name="Установить Docker CE на Fedora" author="br0ke" url="https://docs.docker.com/install/linux/docker-ce/fedora/" tags="linux, fedora, rpm, docker, docker-ce, docker-compose" ctime="20180411165915" dir="1523447955l42r880jrg" file="text.html"/>
       <record id="15238741222tn63gr8ph" name="Установить Postman на Fedora 27" author="br0ke" url="https://blog.scottlowe.org/2017/11/21/installing-postman-fedora-27/" tags="linux, fedora, postman, api, rest, restful, http, tool, install" ctime="20180416152202" dir="1523874122ugpjxvpj4u" file="text.html"/>
+      <record id="1523876455fh3m2twdzk" name=" Установить SQLite Browser на Fedora" author="br0ke" url="http://sqlitebrowser.org/" tags="linux, fedora, db, dbms, sqlite, sqlite3, sqlitebrowser, sqlite-browser, install, tool" ctime="20180416160055" dir="15238764559gsef8vjfp" file="text.html"/>
      </recordtable>
     </node>
    </node>
