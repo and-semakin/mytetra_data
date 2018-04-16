@@ -191,6 +191,9 @@
     </node>
    </node>
    <node crypt="" id="1516083402vmnii3c2kw" name="Networking">
+    <recordtable>
+     <record id="1523876627p8o9jime7j" name="Список сетей, которые не маршутизируются в Интернете" author="br0ke" url="https://t.me/bykvaadm/646" tags="networking, network, networks, private networks" ctime="20180416160347" dir="1523876627ldsn5qqzoo" file="text.html"/>
+    </recordtable>
     <node crypt="" id="1516083411c4grqaiq40" name="HTTP">
      <recordtable>
       <record id="1516083589of1qdervou" name="Список кодов состояния HTTP" author="br0ke" url="https://developer.mozilla.org/ru/docs/Web/HTTP/Status" tags="http, protocol, status code, 404, 200" ctime="20180116111949" dir="1516083589rin8pdi8j2" file="text.html"/>
