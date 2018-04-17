@@ -78,6 +78,7 @@
       <record id="15209581461b6tc0enpd" name="Определить версию Ubuntu из терминала" author="br0ke" url="https://ubuntuforums.org/showthread.php?t=796627" tags="linux, ubuntu, version, lsb_release, lts, xenial, trusty" ctime="20180313212226" dir="1520958146688c2otzkm" file="text.html"/>
       <record id="1520958548ngghz2ijzx" name="Дать пользователю права на sudo в Ubuntu" author="br0ke" url="https://askubuntu.com/questions/7477/how-can-i-add-a-new-user-as-sudoer-using-the-command-line" tags="linux, ubuntu, sudo, su, sudoers, visudo" ctime="20180313212908" dir="1520958548968vz0vun0" file="text.html"/>
       <record id="1521537340r5clesc7zq" name="Установить MyTetra на Ubuntu" author="br0ke" url="https://webhamster.ru/site/page/index/articles/projectcode/105" tags="linux, ubuntu, mytetra, info, data, note, pim, personal information manager" ctime="20180320141540" dir="1521537340pvqw82em0f" file="text.html"/>
+      <record id="1515953953muwhegesuv" name="Установить Docker на Ubuntu 16" author="br0ke" url="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" tags="ubuntu, linux, docker, docker-compose, install, container, containerization, virtualization, докер, контейнер" ctime="20180417232640" dir="1515953953i2ysar6dfq" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
@@ -88,7 +89,6 @@
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
      <recordtable>
-      <record id="1515953953muwhegesuv" name="Установить Docker на Ubuntu 16" author="br0ke" url="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" tags="ubuntu, linux, docker, docker-compose, install, container, containerization, virtualization, докер, контейнер" ctime="20180114232542" dir="1515953953i2ysar6dfq" file="text.html"/>
       <record id="15159984130x47p7lgyi" name="Список основных команд Docker" author="br0ke" url="" tags="docker, commands, command list, usage" ctime="20180115114013" dir="1515998413rk847ogokj" file="text.html"/>
       <record id="15160833712gf7wim7rk" name="Dockerize your Python Application" author="br0ke" url="https://runnable.com/docker/python/dockerize-your-python-application" tags="docker, python, container" ctime="20180116111611" dir="15160833715hngge313x" file="text.html"/>
       <record id="1519636172d3cec86y0t" name="Автоматический запуск контейнеров Docker" author="br0ke" url="https://docs.docker.com/config/containers/start-containers-automatically/" tags="docker, container, containers, restart, on-failure, unless-stopped, always, automatically" ctime="20180226140932" dir="1519636172i6q836jpho" file="text.html"/>
