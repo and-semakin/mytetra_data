@@ -59,6 +59,7 @@
      <record id="1521030798mszc1ambcy" name="Использование tcpdump" author="br0ke" url="https://danielmiessler.com/study/tcpdump/" tags="linux, network, tcp, tcpdump, dump, data, packet, capture, icap, http" ctime="20180314173318" dir="152103079841himw4emd" file="text.html"/>
      <record id="1523442204bu27t1w1ol" name="Корректные права на директорию .ssh в Linux" author="br0ke" url="https://superuser.com/questions/215504/permissions-on-private-key-in-ssh-folder" tags="linux, ssh, permission, permissions, chmod" ctime="20180411152324" dir="1523442204fhjz34fwne" file="text.html"/>
      <record id="1524124260efa0n26w68" name="Скопировать директорию с выводом прогресса в Linux" author="br0ke" url="https://unix.stackexchange.com/a/110253" tags="linux, unix, rsync, copy, cp, directory, folder, recursively, progress, progressbar" ctime="20180419125100" dir="1524124260bj15xy80eb" file="text.html"/>
+     <record id="1524135969m18pluxwhd" name="Примонтировать автоматически Samba к Linux" author="br0ke" url="https://wiki.ubuntu.com/MountWindowsSharesPermanently" tags="linux, mount, nfs, cifs, share, fstab" ctime="20180419160609" dir="1524135969q5wp927fzk" file="text.html"/>
     </recordtable>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
      <recordtable>
