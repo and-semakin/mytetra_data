@@ -29,6 +29,11 @@
        <record id="1515914481mtjxy5qd3n" name="Миграция схемы БД при помощи Flask-Migrate" author="br0ke" url="https://github.com/miguelgrinberg/Flask-Migrate" tags="python, flask, flask-migrate, database, sqlalchemy, db, sqlite, workaround" ctime="20180114122121" dir="151591448128lgh018tk" file="text.html"/>
        <record id="1521766807zqclyrkgbx" name="Вывод данных на консоль в Flask" author="br0ke" url="https://stackoverflow.com/a/33383239" tags="python, flask, print, output, stdout, stderr, debug" ctime="20180323060007" dir="15217668072dyuq6v9ro" file="text.html"/>
       </recordtable>
+      <node crypt="" id="1524140592yqsp06kltc" name="Flask-RESTful">
+       <recordtable>
+        <record id="1524140697hm8z4sfl9h" name="Непустая строка (non-empty string) на Flask-RESTful" author="br0ke" url="https://github.com/flask-restful/flask-restful/issues/741" tags="python, flask, flask-restful, restful, rest, api, type, arg, string, empty, non-empty, non-empty string" ctime="20180419172457" dir="1524140697ogvg5w35hc" file="text.html"/>
+       </recordtable>
+      </node>
      </node>
      <node crypt="" id="1515914523pnrq3o6kwg" name="Django"/>
      <node crypt="" id="1515920135gzg949svv4" name="SQLAlchemy">
