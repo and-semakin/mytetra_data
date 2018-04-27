@@ -145,6 +145,7 @@
      <record id="1521536838w8ddgrcqig" name="tig -- псевдографический Git-клиент" author="br0ke" url="https://m.habrahabr.ru/post/337644/" tags="git, gui, cli, tig" ctime="20180320140718" dir="1521536838mtlqm98bj6" file="text.html"/>
      <record id="1521766696axc942wx7d" name="Исправить состояние &quot;оторванной башни&quot; (detached head) в Git" author="br0ke" url="https://stackoverflow.com/questions/10228760/fix-a-git-detached-head" tags="git, detached, detached head, head, fix, checkout" ctime="20180323055816" dir="1521766696vc9vht5ul0" file="text.html"/>
      <record id="1522668879xde2e5aw2e" name="Склонировать репозиторий с подмодулями (рекурсивно) в Git" author="br0ke" url="https://stackoverflow.com/a/4438292" tags="git, clone, recursive, submodule, recurse" ctime="20180402163439" dir="1522668879yvy0a7i93w" file="text.html"/>
+     <record id="1524835837zto9nynynu" name="Сменить отслеживаемый источник для ветки в Git" author="br0ke" url="https://stackoverflow.com/a/4879224" tags="git, branch, upstream, tracking, change" ctime="20180427183037" dir="1524835837bx9lvapxro" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
