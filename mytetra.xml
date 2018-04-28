@@ -66,6 +66,7 @@
      <record id="1523442204bu27t1w1ol" name="Корректные права на директорию .ssh в Linux" author="br0ke" url="https://superuser.com/questions/215504/permissions-on-private-key-in-ssh-folder" tags="linux, ssh, permission, permissions, chmod" ctime="20180411152324" dir="1523442204fhjz34fwne" file="text.html"/>
      <record id="1524124260efa0n26w68" name="Скопировать директорию с выводом прогресса в Linux" author="br0ke" url="https://unix.stackexchange.com/a/110253" tags="linux, unix, rsync, copy, cp, directory, folder, recursively, progress, progressbar" ctime="20180419125100" dir="1524124260bj15xy80eb" file="text.html"/>
      <record id="1524135969m18pluxwhd" name="Примонтировать автоматически Samba к Linux" author="br0ke" url="https://wiki.ubuntu.com/MountWindowsSharesPermanently" tags="linux, mount, nfs, cifs, share, fstab" ctime="20180419160609" dir="1524135969q5wp927fzk" file="text.html"/>
+     <record id="1524912649px7pc8hnzg" name="cURL запросы через Tor" author="br0ke" url="https://www.devdungeon.com/content/making-tor-requests-command-line-curl" tags="linux, curl, http, query, download, tor, socks, socks5, proxy" ctime="20180428155049" dir="15249126497ccj4xyqys" file="text.html"/>
     </recordtable>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
      <recordtable>
