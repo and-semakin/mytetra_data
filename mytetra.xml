@@ -106,6 +106,7 @@
       <record id="1520227487rbwolm8kow" name="Установить JetBrains Upsource в Docker" author="br0ke" url="https://hub.docker.com/r/jetbrains/upsource/" tags="docker, jetbrains, upsource" ctime="20180305102447" dir="1520227487hhs7kxlzwe" file="text.html"/>
       <record id="1520231100tv0u1q4gu9" name="Аутентификация в удаленный репозиторий в Docker" author="br0ke" url="https://docs.docker.com/engine/reference/commandline/login/" tags="docker, login, registry, remote, auth" ctime="20180305112500" dir="152023110002f0z5hyyj" file="text.html"/>
       <record id="1520940664rbdoq7rth2" name="Установить JetBrains YouTrack в Docker" author="br0ke" url="https://hub.docker.com/r/jetbrains/youtrack/" tags="docker, jetbrains, youtrack, install" ctime="20180313163104" dir="15209406644mcv0d55y7" file="text.html"/>
+      <record id="1524896827fbrhlfvukt" name="Установить GitLab CE в Docker" author="br0ke" url="" tags="" ctime="20180428112707" dir="1524896827ak8cxz8zwr" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
