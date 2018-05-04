@@ -229,7 +229,11 @@
       <record id="1516083589of1qdervou" name="Список кодов состояния HTTP" author="br0ke" url="https://developer.mozilla.org/ru/docs/Web/HTTP/Status" tags="http, protocol, status code, 404, 200" ctime="20180116111949" dir="1516083589rin8pdi8j2" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1516083692gxsxombvhg" name="Cisco"/>
+    <node crypt="" id="1516083692gxsxombvhg" name="Cisco">
+     <recordtable>
+      <record id="15254288413glz4kpdh0" name="Found duplicate mac-address error" author="br0ke" url="https://supportforums.cisco.com/t5/lan-switching-and-routing/found-duplicate-mac-address-error-not-on-more-than-1-port/td-p/1460786" tags="cisco, ios, switch, port-security, sticky, mac" ctime="20180504151401" dir="1525428841zq6y7egax4" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="15193837652piviiyvm4" name="Windows">
     <recordtable>
