@@ -13,12 +13,12 @@
      <record id="1521767210o1awv5n0fn" name="Закодировать файл в base64 на Python" author="br0ke" url="https://stackoverflow.com/a/3715530" tags="python, base64, encode, decode, file, image, picture" ctime="20180323060650" dir="1521767210lwgdr4ebm3" file="text.html"/>
      <record id="15232621037vw8zwc5in" name="Рекурсивное создание директорий в Python" author="br0ke" url="https://stackoverflow.com/questions/6004073/how-can-i-create-directories-recursively" tags="python, path, directory, create, makedirs, recursively, exist_ok" ctime="20180409132143" dir="1523262103tq9hzsog6g" file="text.html"/>
      <record id="1524486501lo5ydrvtgy" name="Сортировка в Python" author="br0ke" url="https://stackoverflow.com/questions/8031418/how-to-sort-ordereddict-of-ordereddict-python" tags="python, sequence, list, ordereddict, sort, lambda, key, multi-level sort" ctime="20180423172821" dir="1524486501c8kpenp8t7" file="text.html"/>
+     <record id="1525418663ri0hrcd9qg" name="Правильно добавить год/месяц к дате в Python" author="br0ke" url="https://stackoverflow.com/a/32812788" tags="python, date, datetime, dateutil, delta, year, month, day" ctime="20180504145851" dir="1525418663rd3ocoslig" file="text.html"/>
+     <record id="152542386503ejan3a4x" name="Отформатировать дату в Python" author="br0ke" url="https://stackoverflow.com/a/45254607" tags="python, date, datetime, output, format, strftime, pendulum" ctime="20180504145857" dir="1525423865a912jur9y6" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
       <record id="1521528857vg4w2osp0h" name="PEP8 - общепринятый стиль кода на языке Python" author="br0ke" url="https://pep8.ru/doc/pep8/" tags="python, pep8, guide, style" ctime="20180320115417" dir="1521528857q679zgfxk2" file="text.html"/>
-      <record id="1525418663ri0hrcd9qg" name="Правильно добавить год/месяц к дате в Python" author="br0ke" url="https://stackoverflow.com/a/32812788" tags="python, date, datetime, dateutil, delta, year, month, day" ctime="20180504122423" dir="1525418663rd3ocoslig" file="text.html"/>
-      <record id="152542386503ejan3a4x" name="Отформатировать дату в Python" author="br0ke" url="https://stackoverflow.com/a/45254607" tags="python, date, datetime, output, format, strftime" ctime="20180504135105" dir="1525423865a912jur9y6" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15156469891vuf5st61r" name="Библиотеки">
@@ -70,7 +70,7 @@
      <record id="1524124260efa0n26w68" name="Скопировать директорию с выводом прогресса в Linux" author="br0ke" url="https://unix.stackexchange.com/a/110253" tags="linux, unix, rsync, copy, cp, directory, folder, recursively, progress, progressbar" ctime="20180419125100" dir="1524124260bj15xy80eb" file="text.html"/>
      <record id="1524135969m18pluxwhd" name="Примонтировать автоматически Samba к Linux" author="br0ke" url="https://wiki.ubuntu.com/MountWindowsSharesPermanently" tags="linux, mount, nfs, cifs, share, fstab" ctime="20180419160609" dir="1524135969q5wp927fzk" file="text.html"/>
      <record id="1524912649px7pc8hnzg" name="cURL запросы через Tor" author="br0ke" url="https://www.devdungeon.com/content/making-tor-requests-command-line-curl" tags="linux, curl, http, query, download, tor, socks, socks5, proxy" ctime="20180428155049" dir="15249126497ccj4xyqys" file="text.html"/>
-     <record id="1525425455xcbjirg0gc" name="Экспортировать переменную окружения перманентно" author="br0ke" url="https://stackoverflow.com/a/31546962/9740122" tags="linux, unix, shell, env, environment, variable, variables, bashrc, profile, export" ctime="20180504141735" dir="1525425455v4cj0qmj12" file="text.html"/>
+     <record id="1525425455xcbjirg0gc" name="Экспортировать переменную окружения перманентно" author="br0ke" url="https://stackoverflow.com/a/31546962/9740122" tags="linux, unix, shell, env, environment, variable, variables, bashrc, profile, export, bash, fish" ctime="20180504141735" dir="1525425455v4cj0qmj12" file="text.html"/>
      <record id="1525426515f0w7qr1ezs" name="Сгенерировать ключи SSH" author="br0ke" url="https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/" tags="linux, unix, ssh, ssh-key, keys, ssh-keygen, rsa, git, test" ctime="20180504143523" dir="15254265152yx0835xw4" file="text.html"/>
      <record id="1525427080ybnt7o0dyh" name="Исправить нерабочие горячие клавиши в нелатинских раскладках клавиатуры в IDE JetBrains IntelliJ IDEA, PyCharm" author="br0ke" url="https://gist.github.com/d3zorg/3f71ee24b1a0a288ce27" tags="linux, java, jetbrains, ide, idea, intellij idea, pycharm, hotkeys, non-latin" ctime="20180504145003" dir="15254270808fghhbhq7c" file="text.html"/>
     </recordtable>
@@ -122,7 +122,11 @@
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
-    <node crypt="" id="1515404847zp0o2ra2xh" name="fish"/>
+    <node crypt="" id="1515404847zp0o2ra2xh" name="fish">
+     <recordtable>
+      <record id="1525427520i0thw562np" name="Определить алиас для команды в Fish" author="br0ke" url="https://stackoverflow.com/a/2763014/9740122" tags="linux, unix, fish, shell, alias" ctime="20180504145200" dir="1525427520z5q8tl436o" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
      <recordtable>
       <record id="15159984130x47p7lgyi" name="Список основных команд Docker" author="br0ke" url="" tags="docker, commands, command list, usage" ctime="20180115114013" dir="1515998413rk847ogokj" file="text.html"/>
@@ -242,6 +246,11 @@
     <node crypt="" id="1521906623twk9efhlxn" name="PostgreSQL">
      <recordtable>
       <record id="1521906612pskzhfdmk8" name="Вывод диаграмы БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/3237736" tags="db, dbms, postgre, postgres, postgresql, diagram, dia, scheme, picture" ctime="20180324205041" dir="1521906612kif2u87iqk" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1525428201i9uiwyr7kd" name="Microsoft SQL Server">
+     <recordtable>
+      <record id="15254285297rmhqmxof8" name="Установка SQL Server на контроллер домена" author="br0ke" url="https://blog.sqlauthority.com/2017/01/27/sql-server-sql-installation-fails-error-code-0x851a001a-wait-database-engine-recovery-handle-failed/" tags="microsoft, sql, sql server, mssqlserver, domain controller, dc, windows, windows server, 2012, 2012R2" ctime="20180504150849" dir="1525428529s7wa3uhrvb" file="text.html"/>
      </recordtable>
     </node>
    </node>
