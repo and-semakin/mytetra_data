@@ -72,6 +72,7 @@
      <record id="1524912649px7pc8hnzg" name="cURL запросы через Tor" author="br0ke" url="https://www.devdungeon.com/content/making-tor-requests-command-line-curl" tags="linux, curl, http, query, download, tor, socks, socks5, proxy" ctime="20180428155049" dir="15249126497ccj4xyqys" file="text.html"/>
      <record id="1525425455xcbjirg0gc" name="Экспортировать переменную окружения перманентно" author="br0ke" url="https://stackoverflow.com/a/31546962/9740122" tags="linux, unix, shell, env, environment, variable, variables, bashrc, profile, export" ctime="20180504141735" dir="1525425455v4cj0qmj12" file="text.html"/>
      <record id="1525426515f0w7qr1ezs" name="Сгенерировать ключи SSH" author="br0ke" url="https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/" tags="linux, unix, ssh, ssh-key, keys, ssh-keygen, rsa, git, test" ctime="20180504143523" dir="15254265152yx0835xw4" file="text.html"/>
+     <record id="1525427080ybnt7o0dyh" name="Исправить нерабочие горячие клавиши в нелатинских раскладках клавиатуры в IDE JetBrains IntelliJ IDEA, PyCharm" author="br0ke" url="https://gist.github.com/d3zorg/3f71ee24b1a0a288ce27" tags="linux, java, jetbrains, ide, idea, intellij idea, pycharm, hotkeys, non-latin" ctime="20180504145003" dir="15254270808fghhbhq7c" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -118,7 +119,6 @@
       <record id="1515953953muwhegesuv" name="Установить Docker на Ubuntu 16" author="br0ke" url="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" tags="ubuntu, linux, docker, docker-compose, install, container, containerization, virtualization, докер, контейнер" ctime="20180417232640" dir="1515953953i2ysar6dfq" file="text.html"/>
       <record id="15248327861ny0dikxus" name="Изменить порт для службы SSH в Ubuntu 16" author="br0ke" url="https://askubuntu.com/a/958443" tags="linux, ubuntu, ssh, openssh, sshd, opensshd, config, port, 22, tcp, change port" ctime="20180427173946" dir="1524832786qfz4lqfzpx" file="text.html"/>
       <record id="15154050556azj16omyo" name="Установка fish на Ubuntu" author="br0ke" url="https://github.com/fish-shell/fish-shell" tags="bash, fish, sh, shell, оболочка, фиш, linux, ubuntu, cmd, cli, chsh" ctime="20180504142007" dir="15154050557xdd1ipk6z" file="text.html"/>
-      <record id="1525427080ybnt7o0dyh" name="Исправить нерабочие горячие клавиши в нелатинских раскладках клавиатуры в IDE JetBrains IntelliJ IDEA, PyCharm" author="br0ke" url="https://gist.github.com/d3zorg/3f71ee24b1a0a288ce27" tags="linux, java, jetbrains, ide, idea, intellij idea, pycharm, hotkeys, non-latin" ctime="20180504144440" dir="15254270808fghhbhq7c" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
