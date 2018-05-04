@@ -138,6 +138,9 @@
       <record id="15238771767kovf9gky5" name="Установить Wireshark на Fedora" author="br0ke" url="https://fedoramagazine.org/how-to-install-wireshark-fedora/" tags="linux, fedora, wireshark, install, tool, networking, network, pcap, sniff, sniffer, traffic, traffic capture" ctime="20180416161256" dir="1523877176vre8qfhncx" file="text.html"/>
       <record id="1523882494gbrc3v29d9" name="Установить qBittorrent на Fedora 27" author="br0ke" url="https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/install-qbittorrent-on-ubuntu-16-04-fedora-25-alternative-to-utorrent.html" tags="linux, fedora, install, torrent, bittorrent, qbittorrent, qt, install" ctime="20180416174134" dir="1523882494ym0agkt1el" file="text.html"/>
       <record id="1523971468mncojxgqjz" name="Установить GitKraken на Fedora" author="br0ke" url="https://support.gitkraken.com/how-to-install" tags="linux, fedora, developer, development, tool, git, gitkraken, kraken, vcs, install" ctime="20180417182429" dir="1523971468h503qd5vyk" file="text.html"/>
+      <record id="1525419323mwmszkn2sg" name="Установить PyCharm CE на Fedora" author="br0ke" url="https://eshlox.net/2017/08/08/how-to-install-pycharm-on-fedora/" tags="linux, fedora, install, ide, pycharm, python" ctime="20180504123523" dir="152541932331zgjpgecl" file="text.html"/>
+      <record id="1525419369n814va320s" name="Установить Pinta на Fedora" author="br0ke" url="" tags="linux, fedora, pinta, tool, editor, graphics, graphical, image, paint" ctime="20180504123609" dir="1525419369rvbd3qdqs5" file="text.html"/>
+      <record id="1525419573a27zede36l" name="Установить проприетарные шрифты Microsoft (Times New Roman) в Fedora" author="br0ke" url="https://gist.github.com/xtranophilist/4388745" tags="linux, fedora, font, fonts, ttf, msttcorefonts, times new roman, arial" ctime="20180504123933" dir="1525419573l1htxncwj4" file="text.html"/>
      </recordtable>
     </node>
    </node>
