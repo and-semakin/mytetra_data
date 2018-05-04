@@ -18,6 +18,7 @@
      <recordtable>
       <record id="1521528857vg4w2osp0h" name="PEP8 - общепринятый стиль кода на языке Python" author="br0ke" url="https://pep8.ru/doc/pep8/" tags="python, pep8, guide, style" ctime="20180320115417" dir="1521528857q679zgfxk2" file="text.html"/>
       <record id="1525418663ri0hrcd9qg" name="Правильно добавить год/месяц к дате в Python" author="br0ke" url="https://stackoverflow.com/a/32812788" tags="python, date, datetime, dateutil, delta, year, month, day" ctime="20180504122423" dir="1525418663rd3ocoslig" file="text.html"/>
+      <record id="152542386503ejan3a4x" name="Отформатировать дату в Python" author="br0ke" url="https://stackoverflow.com/a/45254607" tags="python, date, datetime, output, format, strftime" ctime="20180504135105" dir="1525423865a912jur9y6" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15156469891vuf5st61r" name="Библиотеки">
