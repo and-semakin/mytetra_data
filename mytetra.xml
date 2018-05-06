@@ -96,6 +96,7 @@
       <record id="1525419573a27zede36l" name="Установить проприетарные шрифты Microsoft (Times New Roman) в Fedora" author="br0ke" url="https://gist.github.com/xtranophilist/4388745" tags="linux, fedora, font, fonts, ttf, msttcorefonts, times new roman, arial" ctime="20180504123933" dir="1525419573l1htxncwj4" file="text.html"/>
       <record id="15254257704y596b43py" name="Установить Fish на Fedora" author="br0ke" url="https://software.opensuse.org/download.html?project=shells%3Afish%3Arelease%3A2&amp;package=fish" tags="linux, fedora, shell, fish, install" ctime="20180504142250" dir="15254257704m9h0pxln0" file="text.html"/>
       <record id="1525425987r9gbe8b5xc" name="Установить chsh на Fedora" author="br0ke" url="https://ask.fedoraproject.org/en/question/89601/chsh-command-is-missing-in-fedora-24-fresh-install/?answer=89631#post-id-89631" tags="linux, fedora, chsh, change shell, command, util, install" ctime="20180504142627" dir="1525425987daoq09ctx2" file="text.html"/>
+      <record id="1525603735ddp6giodlw" name="Установить httpie в Fedora" author="br0ke" url="" tags="linux, feora, install, httpie, http, curl, tool" ctime="20180506154855" dir="1525603735gdemdn65rl" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
