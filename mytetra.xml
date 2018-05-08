@@ -291,6 +291,11 @@
     </node>
     <node crypt="" id="1523515872vfl0uj2yqw" name="Поведенческие"/>
    </node>
+   <node crypt="" id="1525751117w6zmm341ys" name="Virtualization">
+    <recordtable>
+     <record id="15257514349329y0xiyq" name="Установка VMware ESXi 6.0" author="br0ke" url="" tags="virtualization, virtual, virtual machine, virtual machines, vmware, esxi, vmware esxi" ctime="20180508085034" dir="1525751434zfpehci1tw" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
    <node crypt="1" icon="" id="1515161966ykf0x8uly7" name="UkM1U0lNUAPc0bNkBOBF6FM8tDLLPgzjCsSkstmCXQvN48SwkOJb25ULqV4D0hn+z4ixsI3AmAk59haOBM2KPw==">
