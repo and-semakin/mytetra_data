@@ -16,6 +16,7 @@
      <record id="1525418663ri0hrcd9qg" name="Правильно добавить год/месяц к дате в Python" author="br0ke" url="https://stackoverflow.com/a/32812788" tags="python, date, datetime, dateutil, delta, year, month, day" ctime="20180504145851" dir="1525418663rd3ocoslig" file="text.html"/>
      <record id="152542386503ejan3a4x" name="Отформатировать дату в Python" author="br0ke" url="https://stackoverflow.com/a/45254607" tags="python, date, datetime, output, format, strftime, pendulum" ctime="20180504145857" dir="1525423865a912jur9y6" file="text.html"/>
      <record id="1525431554c88sy3w0er" name="Получить рабочую директорию и директорию со скриптом в Python" author="br0ke" url="https://stackoverflow.com/a/5137509/9740122" tags="python, direcory, path, current path, working direcory, scipt path" ctime="20180504155914" dir="1525431554urk90zgb33" file="text.html"/>
+     <record id="1525794395sk0d304dgr" name="Копия объектов в Python" author="br0ke" url="https://stackoverflow.com/a/5105554" tags="python, copy, deep, deepcopy" ctime="20180508204635" dir="1525794395646duy97wn" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -97,6 +98,7 @@
       <record id="15254257704y596b43py" name="Установить Fish на Fedora" author="br0ke" url="https://software.opensuse.org/download.html?project=shells%3Afish%3Arelease%3A2&amp;package=fish" tags="linux, fedora, shell, fish, install" ctime="20180504142250" dir="15254257704m9h0pxln0" file="text.html"/>
       <record id="1525425987r9gbe8b5xc" name="Установить chsh на Fedora" author="br0ke" url="https://ask.fedoraproject.org/en/question/89601/chsh-command-is-missing-in-fedora-24-fresh-install/?answer=89631#post-id-89631" tags="linux, fedora, chsh, change shell, command, util, install" ctime="20180504142627" dir="1525425987daoq09ctx2" file="text.html"/>
       <record id="152577909760u8l6a9wf" name="Подключиться к скрытой беспроводной сети Wi-Fi из KDE" author="br0ke" url="https://yuenhoe.com/blog/2011/02/connecting-to-hidden-wireless-networks-using-kdes-networkmanager/" tags="linux, fedora, kde, network, networkmanager, wifi, wireless, hidden, hide, ssid" ctime="20180508163137" dir="1525779097uscihjev94" file="text.html"/>
+      <record id="1525793979dtrabvdyel" name="Включить SSH на Fedora" author="br0ke" url="https://bytefreaks.net/gnulinux/fedora-25-install-start-enable-ssh-server" tags="linux, fedora, install, ssh, sshd, openssh, openssh-server, enable" ctime="20180508203939" dir="1525793979175zhpi8s3" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
