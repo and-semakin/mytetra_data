@@ -16,7 +16,7 @@
      <record id="1525418663ri0hrcd9qg" name="Правильно добавить год/месяц к дате в Python" author="br0ke" url="https://stackoverflow.com/a/32812788" tags="python, date, datetime, dateutil, delta, year, month, day" ctime="20180504145851" dir="1525418663rd3ocoslig" file="text.html"/>
      <record id="152542386503ejan3a4x" name="Отформатировать дату в Python" author="br0ke" url="https://stackoverflow.com/a/45254607" tags="python, date, datetime, output, format, strftime, pendulum" ctime="20180504145857" dir="1525423865a912jur9y6" file="text.html"/>
      <record id="1525431554c88sy3w0er" name="Получить рабочую директорию и директорию со скриптом в Python" author="br0ke" url="https://stackoverflow.com/a/5137509/9740122" tags="python, direcory, path, current path, working direcory, scipt path" ctime="20180504155914" dir="1525431554urk90zgb33" file="text.html"/>
-     <record id="1525794395sk0d304dgr" name="Копия объектов в Python" author="br0ke" url="https://stackoverflow.com/a/5105554" tags="python, copy, deep, deepcopy" ctime="20180508204635" dir="1525794395646duy97wn" file="text.html"/>
+     <record id="1525794395sk0d304dgr" name="Копия объекта в Python" author="br0ke" url="https://stackoverflow.com/a/5105554" tags="python, copy, deep, deepcopy" ctime="20180508204635" dir="1525794395646duy97wn" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
