@@ -146,6 +146,7 @@
       <record id="1524896827fbrhlfvukt" name="Установить GitLab CE в Docker" author="br0ke" url="" tags="" ctime="20180428112707" dir="1524896827ak8cxz8zwr" file="text.html"/>
       <record id="1524899719gccd7r3djl" name="Portainer -- GUI для управления Docker" author="br0ke" url="https://sysadmin.pm/portainer/" tags="linux, docker, portainer, container, tool, gui" ctime="20180428121519" dir="1524899719uibzxkd6t2" file="text.html"/>
       <record id="1525672133eavk9tc15r" name="Запустить pgAdmin4 в Docker" author="br0ke" url="https://hub.docker.com/r/dpage/pgadmin4/" tags="linux, docker, container, pgadmin, pgadmin4, postgre, postgres, postgresql" ctime="20180507104853" dir="1525672133l2yqvsnhks" file="text.html"/>
+      <record id="15260246470lx4gokx0e" name="Бэкап Gitlab в Docker" author="br0ke" url="https://docs.gitlab.com/omnibus/settings/backups.html" tags="linux, docker, gitlab, gitlab-ce, backup, restore" ctime="20180511124407" dir="1526024647qyk5td56l3" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
