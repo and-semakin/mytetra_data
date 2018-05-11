@@ -75,6 +75,7 @@
      <record id="1525425455xcbjirg0gc" name="Экспортировать переменную окружения перманентно" author="br0ke" url="https://stackoverflow.com/a/31546962/9740122" tags="linux, unix, shell, env, environment, variable, variables, bashrc, profile, export, bash, fish" ctime="20180504141735" dir="1525425455v4cj0qmj12" file="text.html"/>
      <record id="1525426515f0w7qr1ezs" name="Сгенерировать ключи SSH" author="br0ke" url="https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/" tags="linux, unix, ssh, ssh-key, keys, ssh-keygen, rsa, git, test" ctime="20180504143523" dir="15254265152yx0835xw4" file="text.html"/>
      <record id="1525427080ybnt7o0dyh" name="Исправить нерабочие горячие клавиши в нелатинских раскладках клавиатуры в IDE JetBrains IntelliJ IDEA, PyCharm" author="br0ke" url="https://gist.github.com/d3zorg/3f71ee24b1a0a288ce27" tags="linux, java, jetbrains, ide, idea, intellij idea, pycharm, hotkeys, non-latin" ctime="20180504145003" dir="15254270808fghhbhq7c" file="text.html"/>
+     <record id="1526010605xvtsmo0ve5" name="Статистика использования диска в Linux" author="br0ke" url="https://www.cyberciti.biz/faq/linux-check-disk-space-command/" tags="linux, disk, hard disk, space, usage, disk usage, stats, monitor, du, df" ctime="20180511085005" dir="1526010605p2x587652c" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
