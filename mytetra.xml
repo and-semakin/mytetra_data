@@ -51,6 +51,13 @@
        <record id="1521888718bn1qehas2s" name="Вывод настоящего SQL-запроса в SQLAlchemy" author="br0ke" url="http://nicolascadou.com/blog/2014/01/printing-actual-sqlalchemy-queries/" tags="python, sql, sqlalchemy, orm, alchemy, query, db, dbms, postgre, postgres, postgresql" ctime="20180324155158" dir="1521888718ukz1qnlkxy" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="1527085338wwpouw8c16" name="PIL">
+      <recordtable>
+       <record id="1527085588ky58hj89bh" name="Открыть изображение в PIL" author="br0ke" url="https://stackoverflow.com/a/8821393" tags="python, pil, pillow, image, open, stream, file-like, file" ctime="20180523192628" dir="1527085588iln7pxjyp0" file="text.html"/>
+       <record id="15270856238ycj5i95vw" name="Размер изображения в PIL" author="br0ke" url="https://stackoverflow.com/a/6444612" tags="python, pil, pillow, image, size" ctime="20180523192703" dir="1527085623bd8hm5gae7" file="text.html"/>
+       <record id="1527085798r5yrere9wb" name="Сохранить изображение в память в PIL" author="br0ke" url="https://fadeit.dk/blog/2015/04/30/python3-flask-pil-in-memory-image/" tags="python, pil, pillow, save, png, jpg, jpeg, in-memory, memory, bytesio" ctime="20180523192958" dir="1527085798qn28691kkm" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
      <recordtable>
