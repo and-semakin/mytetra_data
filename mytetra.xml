@@ -49,6 +49,7 @@
        <record id="1515920988kojpbi6o5y" name="Как в SQLAlchemy создать связь &quot;многие ко многим&quot; с дополнительными столбцами" author="br0ke" url="https://stackoverflow.com/a/7524753" tags="python, sqlalchemy, db, dbms, many2many, many-to-many, relationship" ctime="20180114140948" dir="1515920988dltjz2zlcz" file="text.html"/>
        <record id="1516258224g0qqnidq46" name="Каскадное удаление в SQLAlchemy" author="br0ke" url="https://gist.github.com/matin/736945" tags="python, sqlalchemy, sql, db, cascade, ondelete, ondelete=cascade" ctime="20180118115024" dir="1516258224ioy9yvcqev" file="text.html"/>
        <record id="1521888718bn1qehas2s" name="Вывод настоящего SQL-запроса в SQLAlchemy" author="br0ke" url="http://nicolascadou.com/blog/2014/01/printing-actual-sqlalchemy-queries/" tags="python, sql, sqlalchemy, orm, alchemy, query, db, dbms, postgre, postgres, postgresql" ctime="20180324155158" dir="1521888718ukz1qnlkxy" file="text.html"/>
+       <record id="1527262748r3w1hmvbol" name="Отключить автоматическую отправку запроса (autoflush) в SQLAlchemy" author="br0ke" url="http://docs.sqlalchemy.org/en/latest/orm/session_api.html#sqlalchemy.orm.session.Session.no_autoflush" tags="python, sql, sqlalchemy, alchemy, autoflush, flush, no_autoflush, auto" ctime="20180525203908" dir="15272627488dau0gt768" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1527085338wwpouw8c16" name="PIL">
