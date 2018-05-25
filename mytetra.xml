@@ -183,6 +183,8 @@
      <record id="1522668879xde2e5aw2e" name="Склонировать репозиторий с подмодулями (рекурсивно) в Git" author="br0ke" url="https://stackoverflow.com/a/4438292" tags="git, clone, recursive, submodule, recurse" ctime="20180402163439" dir="1522668879yvy0a7i93w" file="text.html"/>
      <record id="1524835837zto9nynynu" name="Сменить отслеживаемый источник для ветки в Git" author="br0ke" url="https://stackoverflow.com/a/4879224" tags="git, branch, upstream, tracking, change" ctime="20180427183037" dir="1524835837bx9lvapxro" file="text.html"/>
      <record id="1525426202gry95o9dji" name="Изменить URL удаленного репозитория в Git" author="br0ke" url="https://help.github.com/articles/changing-a-remote-s-url/" tags="git, remote, url, change, set-url" ctime="20180504143002" dir="15254262027bkpab3yaf" file="text.html"/>
+     <record id="1527263007v2nq870n25" name="Отладка .gitignore в Git" author="br0ke" url="https://git-scm.com/docs/git-check-ignore" tags="git, gitignore, ignore, check, git-check-ignore, git check-ignore, check-ignore, debug, troubleshooting" ctime="20180525204327" dir="1527263007c80vs3rhbj" file="text.html"/>
+     <record id="1527263145ee4pvgtvku" name=" Добавить пустую папку в репозиторий Git, игнорировать содержимое" author="br0ke" url="https://stackoverflow.com/a/5241686" tags="git, gitignore, ignore" ctime="20180525204545" dir="1527263145oyl34meby3" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
