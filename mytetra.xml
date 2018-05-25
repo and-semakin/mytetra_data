@@ -56,6 +56,7 @@
        <record id="1527085588ky58hj89bh" name="Открыть изображение в PIL" author="br0ke" url="https://stackoverflow.com/a/8821393" tags="python, pil, pillow, image, open, stream, file-like, file" ctime="20180523192628" dir="1527085588iln7pxjyp0" file="text.html"/>
        <record id="15270856238ycj5i95vw" name="Размер изображения в PIL" author="br0ke" url="https://stackoverflow.com/a/6444612" tags="python, pil, pillow, image, size" ctime="20180523192703" dir="1527085623bd8hm5gae7" file="text.html"/>
        <record id="1527085798r5yrere9wb" name="Сохранить изображение в память в PIL" author="br0ke" url="https://fadeit.dk/blog/2015/04/30/python3-flask-pil-in-memory-image/" tags="python, pil, pillow, save, png, jpg, jpeg, in-memory, memory, bytesio" ctime="20180523192958" dir="1527085798qn28691kkm" file="text.html"/>
+       <record id="1527247813mkpw37wvkl" name="Изменить размер изображения в PIL" author="br0ke" url="https://stackoverflow.com/questions/44231209/resize-rectangular-image-to-square-keeping-ratio-and-fill-background-with-black" tags="python, pil, image, pillow, resize" ctime="20180525163013" dir="1527247813ooy3nbzxhp" file="text.html"/>
       </recordtable>
      </node>
     </node>
