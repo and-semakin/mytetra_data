@@ -325,6 +325,7 @@
    <node crypt="" id="1525751117w6zmm341ys" name="Virtualization">
     <recordtable>
      <record id="15257514349329y0xiyq" name="Установка VMware ESXi 6.0" author="br0ke" url="" tags="virtualization, virtual, virtual machine, virtual machines, vmware, esxi, vmware esxi" ctime="20180508085034" dir="1525751434zfpehci1tw" file="text.html"/>
+     <record id="1528139621z6a5q5azkt" name="Обновить веб-интерфейс VMware ESXi Host Client" author="br0ke" url="https://kb.vmware.com/s/article/2008939" tags="virtualization, vmware, esxi, web, host-client, vib, install" ctime="20180605001341" dir="1528139621lqwpzuo8zq" file="text.html"/>
     </recordtable>
    </node>
   </node>
