@@ -168,6 +168,7 @@
       <record id="15260246470lx4gokx0e" name="Бэкап Gitlab в Docker" author="br0ke" url="https://docs.gitlab.com/omnibus/settings/backups.html" tags="linux, docker, gitlab, gitlab-ce, backup, restore" ctime="20180511124407" dir="1526024647qyk5td56l3" file="text.html"/>
       <record id="1527014512wbotmj5b9w" name="redis в Docker" author="br0ke" url="https://hub.docker.com/_/redis/" tags="linux, docker, redis, cache" ctime="20180522234152" dir="1527014512hcpr8nw9vl" file="text.html"/>
       <record id="1528138946gjlf1usjlh" name="MTProto Proxy в Docker" author="br0ke" url="https://hub.docker.com/r/telegrammessenger/proxy/" tags="docker, mrproto, proxy, telegram, tg" ctime="20180605000226" dir="1528138946zgsq0n663p" file="text.html"/>
+      <record id="15281810849hjmm3b1mz" name="Kong в Docker" author="br0ke" url="" tags="docker, linux, kong, nginx, api" ctime="20180605114444" dir="1528181084xbgbimmgoz" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
