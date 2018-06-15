@@ -171,6 +171,7 @@
       <record id="1528138946gjlf1usjlh" name="MTProto Proxy в Docker" author="br0ke" url="https://hub.docker.com/r/telegrammessenger/proxy/" tags="docker, mrproto, proxy, telegram, tg" ctime="20180605000226" dir="1528138946zgsq0n663p" file="text.html"/>
       <record id="15281810849hjmm3b1mz" name="Kong в Docker" author="br0ke" url="" tags="docker, linux, kong, nginx, api" ctime="20180605114444" dir="1528181084xbgbimmgoz" file="text.html"/>
       <record id="1528958611tvrdtjjetb" name="Запустить Gitlab CI Runner в Docker" author="br0ke" url="https://docs.gitlab.com/runner/install/docker.html" tags="linux, docker, container, gitlab, gitlab-ci, ci, cd, devops, runner" ctime="20180614114331" dir="1528958611klnr9gexd8" file="text.html"/>
+      <record id="1529062258pl6zy5g51c" name="Запустить Docker Registry в Docker" author="br0ke" url="https://docs.docker.com/registry/deploying/" tags="linux, docker, container, registry" ctime="20180615163058" dir="1529062258frk1xzzpkw" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
