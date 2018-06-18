@@ -33,6 +33,7 @@
     <node crypt="" id="15156469891vuf5st61r" name="Библиотеки">
      <recordtable>
       <record id="1516258008ai3hckcxtq" name="Методы-проверки (assert) для unittest" author="br0ke" url="https://docs.python.org/3/library/unittest.html#assert-methods" tags="python, stdlib, unittest, test, testing, assert" ctime="20180118114648" dir="1516258008kdbejlnxul" file="text.html"/>
+      <record id="15293280882cbvgl1dc1" name="Glob-like регулярные выражения в Python" author="br0ke" url="https://github.com/metagriffin/globre" tags="python, re, regex, regexp, glob, globlike, glob-like, globre" ctime="20180618182128" dir="1529328088d506yuwqcu" file="text.html"/>
      </recordtable>
      <node crypt="" id="15156470021ol4cff9aa" name="Flask">
       <recordtable>
