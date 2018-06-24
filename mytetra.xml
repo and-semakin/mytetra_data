@@ -122,6 +122,8 @@
       <record id="152577909760u8l6a9wf" name="Подключиться к скрытой беспроводной сети Wi-Fi из KDE" author="br0ke" url="https://yuenhoe.com/blog/2011/02/connecting-to-hidden-wireless-networks-using-kdes-networkmanager/" tags="linux, fedora, kde, network, networkmanager, wifi, wireless, hidden, hide, ssid" ctime="20180508163137" dir="1525779097uscihjev94" file="text.html"/>
       <record id="1525793979dtrabvdyel" name="Включить SSH на Fedora" author="br0ke" url="https://bytefreaks.net/gnulinux/fedora-25-install-start-enable-ssh-server" tags="linux, fedora, install, ssh, sshd, openssh, openssh-server, enable" ctime="20180508203939" dir="1525793979175zhpi8s3" file="text.html"/>
       <record id="1527883006porvle01q1" name="Установить KeePassXC на Fedora" author="br0ke" url="https://keepassxc.org/download/" tags="linux, fedora, password, manager, keepass, keepassxc, install" ctime="20180602005646" dir="1527883006xx26o6fasq" file="text.html"/>
+      <record id="15298178377nt1zovtwo" name="Установить Flatpak на Fedora" author="br0ke" url="https://hobo.house/2018/03/16/using-signal-desktop-on-fedora-with-flatpak/" tags="flatpak, flat, container, containerization, app" ctime="20180624102357" dir="1529817837xaiafnbg17" file="text.html"/>
+      <record id="15298180079kc3hl3vjc" name="Установить SIgnal на Fedora" author="br0ke" url="https://hobo.house/2018/03/16/using-signal-desktop-on-fedora-with-flatpak/" tags="signal, messenger, flat, flatpak" ctime="20180624102647" dir="1529818007u8g4qf8lpk" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
