@@ -176,6 +176,7 @@
       <record id="1528958611tvrdtjjetb" name="Запустить Gitlab CI Runner в Docker" author="br0ke" url="https://docs.gitlab.com/runner/install/docker.html" tags="linux, docker, container, gitlab, gitlab-ci, ci, cd, devops, runner" ctime="20180614114331" dir="1528958611klnr9gexd8" file="text.html"/>
       <record id="1529062258pl6zy5g51c" name="Запустить Docker Registry в Docker" author="br0ke" url="https://docs.docker.com/registry/deploying/" tags="linux, docker, container, registry" ctime="20180615163058" dir="1529062258frk1xzzpkw" file="text.html"/>
       <record id="1529329154ofcoxljctc" name="Запустить PsiTransfer (файлообменник) в Docker" author="br0ke" url="https://hub.docker.com/r/psitrax/psitransfer/" tags="linux, docker, fileshare, file, share, psitrax, psitransfer, psi, google drive, drive, cloud, dropbox" ctime="20180618183914" dir="1529329154vdf5rlmref" file="text.html"/>
+      <record id="1529834188zr8vi09o73" name="Скопировать файл из Docker-контейнера на хост" author="br0ke" url="https://stackoverflow.com/a/22050116" tags="docker, cp, container, host" ctime="20180624145628" dir="1529834188e76ei4dycj" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
