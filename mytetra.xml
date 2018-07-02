@@ -148,6 +148,7 @@
       <record id="1515953953muwhegesuv" name="Установить Docker на Ubuntu 16" author="br0ke" url="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" tags="ubuntu, linux, docker, docker-compose, install, container, containerization, virtualization, докер, контейнер" ctime="20180417232640" dir="1515953953i2ysar6dfq" file="text.html"/>
       <record id="15248327861ny0dikxus" name="Изменить порт для службы SSH в Ubuntu 16" author="br0ke" url="https://askubuntu.com/a/958443" tags="linux, ubuntu, ssh, openssh, sshd, opensshd, config, port, 22, tcp, change port" ctime="20180427173946" dir="1524832786qfz4lqfzpx" file="text.html"/>
       <record id="15154050556azj16omyo" name="Установка fish на Ubuntu" author="br0ke" url="https://github.com/fish-shell/fish-shell" tags="bash, fish, sh, shell, оболочка, фиш, linux, ubuntu, cmd, cli, chsh" ctime="20180504142007" dir="15154050557xdd1ipk6z" file="text.html"/>
+      <record id="1530542548a8drxmjjcx" name="Установка tig на Ubuntu" author="br0ke" url="" tags="linux, ubuntu, git, tig, install" ctime="20180702194228" dir="1530542548n7p2n9lmqw" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
