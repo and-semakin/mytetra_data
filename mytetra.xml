@@ -96,6 +96,7 @@
      <record id="1526025847o7x5j9ny8l" name="Выполнение команд по расписанию через CRON в LInux" author="br0ke" url="https://crontab-generator.org/" tags="linux, cron, schedule" ctime="20180511130407" dir="1526025847d4hiqat6k5" file="text.html"/>
      <record id="1526026319tnuai2dkno" name="Сохранять историю команд bash из нескольких терминалов одновременно" author="br0ke" url="https://unix.stackexchange.com/a/48113" tags="linux, bash, terminal, bash_history, bashrc" ctime="20180511131159" dir="1526026319et3wlb0q8f" file="text.html"/>
      <record id="1528137610p54swtp6r1" name="scp stalled в Linux" author="br0ke" url="https://davidjb.com/blog/2014/03/scprsync-transfers-stall-at-exactly-2112-kb/" tags="linux, ssh, scp, copy, stall, stalled, 2112" ctime="20180604234010" dir="1528137610poo3k1yg4f" file="text.html"/>
+     <record id="1530594219p0hv2405qw" name="Записать загрузочный ISO на USB в Linux" author="br0ke" url="" tags="linux, iso, usb, burn, bootable, etcher" ctime="20180703100339" dir="1530594219ko8907jigp" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
