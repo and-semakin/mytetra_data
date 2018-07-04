@@ -297,6 +297,7 @@
      <recordtable>
       <record id="1521906612pskzhfdmk8" name="Вывод диаграмы БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/3237736" tags="db, dbms, postgre, postgres, postgresql, diagram, dia, scheme, picture" ctime="20180324205041" dir="1521906612kif2u87iqk" file="text.html"/>
      </recordtable>
+     <node crypt="" id="1530713364cqalqp7h65" name="PostGIS"/>
     </node>
     <node crypt="" id="1525428201i9uiwyr7kd" name="Microsoft SQL Server">
      <recordtable>
