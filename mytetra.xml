@@ -299,7 +299,7 @@
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
-       <record id="1530713921m6x866wq9o" name="Введение в PostGIS" author="br0ke" url="http://workshops.boundlessgeo.com/postgis-intro/introduction.html" tags="postgresql, postgres, postgrem, gis, postgis, spatial, shape, shapes," ctime="20180704191841" dir="1530713921635bruizfk" file="text.html"/>
+       <record id="1530713921m6x866wq9o" name="2. Введение в PostGIS" author="br0ke" url="http://workshops.boundlessgeo.com/postgis-intro/introduction.html" tags="postgresql, postgres, postgrem, gis, postgis, spatial, shape, shapes," ctime="20180704191841" dir="1530713921635bruizfk" file="text.html"/>
       </recordtable>
      </node>
     </node>
