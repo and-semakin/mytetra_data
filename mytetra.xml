@@ -22,7 +22,7 @@
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
-      <record id="1521528857vg4w2osp0h" name="PEP8 - общепринятый стиль кода на языке Python" author="br0ke" url="https://pep8.ru/doc/pep8/" tags="python, pep8, guide, style" ctime="20180320115417" dir="1521528857q679zgfxk2" file="text.html"/>
+      <record id="1521528857vg4w2osp0h" name="PEP8 -- общепринятый стиль кода на языке Python" author="br0ke" url="https://pep8.ru/doc/pep8/" tags="python, pep8, guide, style" ctime="20180320115417" dir="1521528857q679zgfxk2" file="text.html"/>
       <record id="15279584871jjbw880o2" name="Асинхронное программирование в Python" author="br0ke" url="https://xakep.ru/2017/01/11/python-3-asyncio/#comment-31147" tags="python, async, await, coro, coroutine, thread, callback, tornado, asyncio, curio" ctime="20180602215447" dir="1527958487ga09vvxv10" file="text.html">
        <files>
         <file id="1527958504p56qeh1rd2" fileName="async_await_xakep.pdf" type="file"/>
