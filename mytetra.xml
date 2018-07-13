@@ -299,6 +299,7 @@
     <node crypt="" id="1521906623twk9efhlxn" name="PostgreSQL">
      <recordtable>
       <record id="1521906612pskzhfdmk8" name="Вывод диаграмы БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/3237736" tags="db, dbms, postgre, postgres, postgresql, diagram, dia, scheme, picture" ctime="20180324205041" dir="1521906612kif2u87iqk" file="text.html"/>
+      <record id="1531487512ympy93qhqa" name="Размер БД или таблицы в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/18910638" tags="postgresql, postgres, postgre, sql, size, mb, gb, database, table, relation" ctime="20180713181152" dir="1531487512k2rjq9u19m" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
