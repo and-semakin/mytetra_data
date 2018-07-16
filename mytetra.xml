@@ -101,6 +101,7 @@
      <record id="1530594219p0hv2405qw" name="Записать загрузочный ISO на USB в Linux" author="br0ke" url="" tags="linux, iso, usb, burn, bootable, etcher" ctime="20180703100339" dir="1530594219ko8907jigp" file="text.html"/>
      <record id="1531248270vk6e1ljzmh" name="Очистить файл от пустых строк в Linux" author="br0ke" url="https://stackoverflow.com/a/29549497" tags="linux, empty lines, bash, sh, awk, pipe, pipes, sed, magic" ctime="20180710234430" dir="15312482702zxaumeb4j" file="text.html"/>
      <record id="1531731928i8u63br7wi" name="Остановить процесс в Linux" author="br0ke" url="https://www.cyberciti.biz/faq/kill-process-in-linux-or-terminate-a-process-in-unix-or-linux-systems/" tags="linux, pid, kill, sigterm, sigkill" ctime="20180716140528" dir="15317319282i2lbc0am4" file="text.html"/>
+     <record id="1531734485zd3oy5pf3s" name="iotop -- показать загруженность жестких дисков в Linux" author="br0ke" url="https://serverfault.com/a/9433" tags="linux, hard, harddisk, harddrive, drive, io, iotop" ctime="20180716144805" dir="1531734485ml113xsm9k" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
