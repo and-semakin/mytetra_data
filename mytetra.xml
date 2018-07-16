@@ -301,7 +301,7 @@
       <record id="1521906612pskzhfdmk8" name="Вывод диаграмы БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/3237736" tags="db, dbms, postgre, postgres, postgresql, diagram, dia, scheme, picture" ctime="20180324205041" dir="1521906612kif2u87iqk" file="text.html"/>
       <record id="1531487512ympy93qhqa" name="Размер БД или таблицы в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/18910638" tags="postgresql, postgres, postgre, sql, size, mb, gb, database, table, relation" ctime="20180713181152" dir="1531487512k2rjq9u19m" file="text.html"/>
       <record id="1531726587fcfyqmetks" name="Временно отключить триггеры в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/18709987" tags="postgresql, postgres, postgre, trigger, triggers, session_replica_role" ctime="20180716123627" dir="15317265875idgvxr6pj" file="text.html"/>
-      <record id="1531726656821f77oipq" name="Установить схему по умолчанию для сессии в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/7.3/static/ddl-schemas.html" tags="postgresql, postgres, postgre, schema, default, path" ctime="20180716123736" dir="1531726656e7dt6jv0sv" file="text.html"/>
+      <record id="1531726656821f77oipq" name="Установить схему по умолчанию для сессии в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/7.3/static/ddl-schemas.html" tags="postgresql, postgres, postgre, schema, default, path, search_path, qualified name, unqualified name" ctime="20180716123736" dir="1531726656e7dt6jv0sv" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
