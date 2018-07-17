@@ -156,6 +156,7 @@
       <record id="15154050556azj16omyo" name="Установка fish на Ubuntu" author="br0ke" url="https://github.com/fish-shell/fish-shell" tags="bash, fish, sh, shell, оболочка, фиш, linux, ubuntu, cmd, cli, chsh" ctime="20180504142007" dir="15154050557xdd1ipk6z" file="text.html"/>
       <record id="1530542548a8drxmjjcx" name="Установка tig на Ubuntu" author="br0ke" url="" tags="linux, ubuntu, git, tig, install" ctime="20180702194228" dir="1530542548n7p2n9lmqw" file="text.html"/>
       <record id="1531147827dn7ambgjo5" name="Установить QGIS на Ubuntu" author="br0ke" url="https://gis.stackexchange.com/a/137079" tags="linux, ubuntu, gis, qgis, postgis, postgre, postgres, postgresql" ctime="20180709195027" dir="15311478271rx7qqn7q8" file="text.html"/>
+      <record id="15318364707a1dlmydb8" name="Установить Google Chrome на Ubuntu" author="br0ke" url="https://askubuntu.com/a/510186" tags="linux, ubuntu, chrome, google, google chrome, browser, flash" ctime="20180717190750" dir="1531836470y3dqeka8mg" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
