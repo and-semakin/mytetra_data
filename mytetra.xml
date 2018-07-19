@@ -307,6 +307,7 @@
       <record id="1531726656821f77oipq" name="Установить схему по умолчанию в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/7.3/static/ddl-schemas.html" tags="postgresql, postgres, postgre, schema, default, path, search_path, qualified name, unqualified name" ctime="20180716123736" dir="1531726656e7dt6jv0sv" file="text.html"/>
       <record id="1531994061xqpvroaxxo" name="Конвертировать integer в boolean в PostgreSQL" author="br0ke" url="https://www.postgresql.org/message-id/20020816164529.S5079-100000%40glass.pun-pun.prv" tags="postgresql, postgres, postgre, sql, cast, casing, convert, converting, int, integer, bool, boolean" ctime="20180719145421" dir="1531994061wqfmxex18t" file="text.html"/>
       <record id="1531994137mtwt8ljlz5" name="Создать материализованное представление в PostgreSQL" author="br0ke" url="https://postgrespro.ru/docs/postgresql/9.6/sql-creatematerializedview" tags="postgresql, postgres, postgre, sql, view, materialized, materialized view, create" ctime="20180719145537" dir="1531994137rxbwsj0iwx" file="text.html"/>
+      <record id="1531994694bcrv1uqoyr" name="Создать временную таблицу в PostgreSQL" author="br0ke" url="https://postgrespro.ru/docs/postgresql/9.6/sql-createtable" tags="postgresql, postgres, postgre, sql, temp, temporary, table, temp table, on commit, transaction" ctime="20180719150454" dir="15319946941yt10eyuon" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
