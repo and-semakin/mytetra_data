@@ -20,6 +20,7 @@
      <record id="1525794395sk0d304dgr" name="Копия объекта в Python" author="br0ke" url="https://stackoverflow.com/a/5105554" tags="python, copy, deep, deepcopy" ctime="20180508204635" dir="1525794395646duy97wn" file="text.html"/>
      <record id="1528216871ry4k1iic1y" name="Время выполнения программы на Python" author="br0ke" url="https://stackoverflow.com/a/1557584" tags="python, time, execution time, start time, finish time" ctime="20180605214111" dir="1528216871njkn7i0lfu" file="text.html"/>
      <record id="1530872207x61hd0r9uu" name="Конвертировать DateTime.TimeDelta в строку" author="br0ke" url="https://stackoverflow.com/questions/538666/python-format-timedelta-to-string" tags="python, date, time, datetime, timedelta, interval, to str, to string, convert" ctime="20180706151647" dir="153087220744fur9qj42" file="text.html"/>
+     <record id="15319957253364qwopel" name="Парсинг даты в Python" author="br0ke" url="https://stackoverflow.com/a/15228038" tags="python, date, datetime, output, parse, strptime, dateutil" ctime="20180719152205" dir="1531995725c4fqeauayp" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
