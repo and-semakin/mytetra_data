@@ -217,6 +217,7 @@
      <record id="1527830386bbs4iyps5q" name="Скачать данные с перебазирование (pull with rebase) в Git" author="br0ke" url="https://git-scm.com/book/ru/v1/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-Git-%D0%9F%D1%80%D1%8F%D1%82%D0%B0%D0%BD%D1%8C%D0%B5" tags="git, vcs, pull, fetch, rebase, merge" ctime="20180601101946" dir="1527830386mim9roxly4" file="text.html"/>
      <record id="15279350808xxy8vdhoo" name="Добавить алиасы команд в Git" author="br0ke" url="https://githowto.com/ru/aliases" tags="git, vcs, alias, status, st, checkout, co, commit, ci" ctime="20180602152440" dir="15279350804z9evf516v" file="text.html"/>
      <record id="1529557531ih2l70bicv" name="Скачать удаленную ветку в Git" author="br0ke" url="https://stackoverflow.com/a/1783426" tags="git, vcs, pull, fetch, checkout, remote, branch" ctime="20180621100531" dir="1529557531lxdmbx1f3q" file="text.html"/>
+     <record id="1532004727jo9lwtno4u" name="Сравнить две ветки в Git" author="br0ke" url="https://stackoverflow.com/a/9834872" tags="vcs, git, diff, merge, merge-base" ctime="20180719175207" dir="1532004727lp38t8g7jh" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
