@@ -219,6 +219,7 @@
      <record id="1529557531ih2l70bicv" name="Скачать удаленную ветку в Git" author="br0ke" url="https://stackoverflow.com/a/1783426" tags="git, vcs, pull, fetch, checkout, remote, branch" ctime="20180621100531" dir="1529557531lxdmbx1f3q" file="text.html"/>
      <record id="1532004727jo9lwtno4u" name="Сравнить две ветки в Git" author="br0ke" url="https://stackoverflow.com/a/9834872" tags="vcs, git, diff, merge, merge-base" ctime="20180719175207" dir="1532004727lp38t8g7jh" file="text.html"/>
      <record id="1532332720jc92f1306r" name="Отменить последний коммит в Git" author="br0ke" url="https://stackoverflow.com/a/927386" tags="vcs, git, undo, reset, cancel, commit" ctime="20180723125840" dir="1532332720kdg8xqnulu" file="text.html"/>
+     <record id="1532444862n8y985hecn" name="Удалить ветку в Git" author="br0ke" url="https://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote" tags="vcs, git, branch, delete, remove, local, remote" ctime="20180724200742" dir="1532444862sriug1tn0k" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
