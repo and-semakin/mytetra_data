@@ -166,6 +166,7 @@
     <node crypt="" id="1515404847zp0o2ra2xh" name="fish">
      <recordtable>
       <record id="1525427520i0thw562np" name="Определить алиас для команды в Fish" author="br0ke" url="https://stackoverflow.com/a/2763014/9740122" tags="linux, unix, fish, shell, alias" ctime="20180504145200" dir="1525427520z5q8tl436o" file="text.html"/>
+      <record id="1532518666latj5sfp8e" name="Дополнение команд (Completion) для Docker Compose в Fish" author="br0ke" url="https://github.com/brgmnn/fish-docker-compose" tags="shell, sh, fish, fisher, docker, compose, docker-compose, completion, tab" ctime="20180725163746" dir="1532518666qr5nrz7n1t" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
