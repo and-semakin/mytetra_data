@@ -104,6 +104,7 @@
      <record id="1531731928i8u63br7wi" name="Остановить процесс в Linux" author="br0ke" url="https://www.cyberciti.biz/faq/kill-process-in-linux-or-terminate-a-process-in-unix-or-linux-systems/" tags="linux, pid, kill, sigterm, sigkill" ctime="20180716140528" dir="15317319282i2lbc0am4" file="text.html"/>
      <record id="1531734485zd3oy5pf3s" name="iotop -- показать загруженность жестких дисков в Linux" author="br0ke" url="https://serverfault.com/a/9433" tags="linux, hard, harddisk, harddrive, drive, io, iotop" ctime="20180716144805" dir="1531734485ml113xsm9k" file="text.html"/>
      <record id="1531995455n0035vpgu9" name="Проксирование любого трафика через SSH (sshuttle)" author="br0ke" url="https://superuser.com/a/757974" tags="linux, ssh, proxy, socks, socks5, sshuttle, default route" ctime="20180719151735" dir="153199545584ru6npguq" file="text.html"/>
+     <record id="1532852433zw49sr20yy" name="Найти 10 самых крупных файлов в Linux" author="br0ke" url="https://www.cyberciti.biz/faq/how-do-i-find-the-largest-filesdirectories-on-a-linuxunixbsd-filesystem/" tags="linux, file, files, size, kb, mb, gb, disk, drive, harddisk, harddrive, du, df, sort, bash, sh" ctime="20180729132033" dir="1532852433br8hbo7xae" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
