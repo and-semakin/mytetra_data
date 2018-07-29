@@ -113,6 +113,7 @@
      <record id="15328543339fz16gv3di" name="Заставить пользователя сменить пароль при следующем входе в систему в Linux" author="br0ke" url="https://askubuntu.com/a/30118" tags="linux, passwd, password, expire, chage, change, force" ctime="20180729135213" dir="1532854333bdw3btd8qg" file="text.html"/>
      <record id="1532864925568nw4fvs1" name="Поиск grep в потоке данных в Linux" author="br0ke" url="https://stackoverflow.com/a/7162898" tags="linux, grep, tail, tailf, stream, " ctime="20180729164845" dir="1532864925cvmkzztx7u" file="text.html"/>
      <record id="1532868560bsxq2vip8b" name="Сбросить триал на IDE WebStorm, PhpStorm" author="br0ke" url="https://gist.github.com/Arbagen/f5ad683ebdbbb75d92d8ca8c8ec11617" tags="ide, jetbrains, webstorm, phpstorm, pycharm, trial, reset" ctime="20180729174920" dir="15328685600hfl1fgyvu" file="text.html"/>
+     <record id="15328717304l1l9a1d8w" name="Отобразить информацию о системе Linux" author="br0ke" url="https://fossbytes.com/linux-distribution-logo-ascii-art-terminal/" tags="linux, screenfetch, neofetch" ctime="20180729184210" dir="1532871730n4j5kd3srv" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
