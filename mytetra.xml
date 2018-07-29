@@ -22,6 +22,7 @@
      <record id="1530872207x61hd0r9uu" name="Конвертировать DateTime.TimeDelta в строку" author="br0ke" url="https://stackoverflow.com/questions/538666/python-format-timedelta-to-string" tags="python, date, time, datetime, timedelta, interval, to str, to string, convert" ctime="20180706151647" dir="153087220744fur9qj42" file="text.html"/>
      <record id="15319957253364qwopel" name="Парсинг даты в Python" author="br0ke" url="https://stackoverflow.com/a/15228038" tags="python, date, datetime, output, parse, strptime, dateutil" ctime="20180719152205" dir="1531995725c4fqeauayp" file="text.html"/>
      <record id="1532852741ztkffoohn0" name="Конвертировать строку (str) в булевый тип (bool) в Python" author="br0ke" url="https://stackoverflow.com/a/715468" tags="python, convert, str, bool, str2bool, string, boolean" ctime="20180729132541" dir="15328527414xlj4d5oza" file="text.html"/>
+     <record id="153286406691s2kurslo" name="Получить местный часовой пояс в Python" author="br0ke" url="https://stackoverflow.com/a/12015245" tags="python, date, time, datetime, timezone, zone, utc, dateutil, local" ctime="20180729163426" dir="153286406695in9q8jxi" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -194,6 +195,7 @@
       <record id="1529062258pl6zy5g51c" name="Запустить Docker Registry в Docker" author="br0ke" url="https://docs.docker.com/registry/deploying/" tags="linux, docker, container, registry" ctime="20180615163058" dir="1529062258frk1xzzpkw" file="text.html"/>
       <record id="1529329154ofcoxljctc" name="Запустить PsiTransfer (файлообменник) в Docker" author="br0ke" url="https://hub.docker.com/r/psitrax/psitransfer/" tags="linux, docker, fileshare, file, share, psitrax, psitransfer, psi, google drive, drive, cloud, dropbox" ctime="20180618183914" dir="1529329154vdf5rlmref" file="text.html"/>
       <record id="1529834188zr8vi09o73" name="Скопировать файл из Docker-контейнера на хост" author="br0ke" url="https://stackoverflow.com/a/22050116" tags="docker, cp, container, host" ctime="20180624145628" dir="1529834188e76ei4dycj" file="text.html"/>
+      <record id="1532864408vgqmejui5w" name="Установить часовой пояс в контейнере Docker" author="br0ke" url="https://serverfault.com/a/826222" tags="docker, container, time, timezone, zone, time zone, tz" ctime="20180729164008" dir="1532864408kwsszc36ko" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
