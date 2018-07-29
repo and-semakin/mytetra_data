@@ -301,6 +301,7 @@
     <recordtable>
      <record id="15193843832chqwzfiyh" name="Установка .NET Framework 3.5 в Windows Server 2012 R2" author="br0ke" url="http://winitpro.ru/index.php/2014/05/14/ustanovka-net-framework-3-5-v-windows-server-2012-r2/" tags="microsoft, windows, server, windows server, 2012, 2012R2, dotnet, net-framework, framework, sysadmin" ctime="20180223161303" dir="1519384383txo7tabnn1" file="text.html"/>
      <record id="1519818375b5rvd1oyqn" name="Перенаправление портов в Windows" author="br0ke" url="http://geckich.blogspot.ru/2014/01/windows.html" tags="windows, networking, tcp, portproxy, proxy, v4tov4, netsh" ctime="20180228164615" dir="1519818375t36apq8u52" file="text.html"/>
+     <record id="1532853712pakmw3cc69" name="Ошибка при подключении по RDP к старой машине Windows с последней Windows 10" author="br0ke" url="https://support.microsoft.com/en-us/help/4295591/credssp-encryption-oracle-remediation-error-when-to-rdp-to-azure-vm" tags="windows, rdp, remote desktop, mstsc, error, credssp, encryption, oracle" ctime="20180729134152" dir="1532853712nfgwipmwkd" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1521029860ul0fijeg5m" name="Базы данных">
@@ -318,6 +319,7 @@
       <record id="1531994061xqpvroaxxo" name="Конвертировать integer в boolean в PostgreSQL" author="br0ke" url="https://www.postgresql.org/message-id/20020816164529.S5079-100000%40glass.pun-pun.prv" tags="postgresql, postgres, postgre, sql, cast, casing, convert, converting, int, integer, bool, boolean" ctime="20180719145421" dir="1531994061wqfmxex18t" file="text.html"/>
       <record id="1531994137mtwt8ljlz5" name="Создать материализованное представление в PostgreSQL" author="br0ke" url="https://postgrespro.ru/docs/postgresql/9.6/sql-creatematerializedview" tags="postgresql, postgres, postgre, sql, view, materialized, materialized view, create" ctime="20180719145537" dir="1531994137rxbwsj0iwx" file="text.html"/>
       <record id="1531994694bcrv1uqoyr" name="Создать временную таблицу в PostgreSQL" author="br0ke" url="https://postgrespro.ru/docs/postgresql/9.6/sql-createtable" tags="postgresql, postgres, postgre, sql, temp, temporary, table, temp table, on commit, transaction" ctime="20180719150454" dir="15319946941yt10eyuon" file="text.html"/>
+      <record id="1532853950ogcmshvowx" name="Обновить или создать (upsert) строку в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/11135767" tags="postgresql, postgres, postgre, insert, update, upsert" ctime="20180729134550" dir="1532853950lkmlnipfab" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
