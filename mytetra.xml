@@ -33,6 +33,7 @@
        </files>
       </record>
       <record id="1530711027weyb60tyqg" name="Типизация (аннотация типов) в Python" author="br0ke" url="https://www.caktusgroup.com/blog/2017/02/22/python-type-annotations/" tags="python, type, types, annotation, annotations, strict types, mypy" ctime="20180704183027" dir="15307110278ihvpqbkyj" file="text.html"/>
+      <record id="1532866728fj1ix375dg" name="Распространенные операции со словарями (dict) в Python" author="br0ke" url="https://www.pythonforbeginners.com/dictionary/dictionary-common-dictionary-operations" tags="python, dict, create, access, keys, values, add, change, delete, copy, remove, length, len, test, loop" ctime="20180729171848" dir="1532866728zj0ax3iq8r" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15156469891vuf5st61r" name="Библиотеки">
