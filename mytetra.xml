@@ -354,7 +354,7 @@
     <node crypt="" id="1521766845fko7l3y5zp" name="HTML">
      <recordtable>
       <record id="1521766889t9su81k29d" name="Вывод изображения из base64 в HTML" author="br0ke" url="https://stackoverflow.com/a/8499716" tags="html, img, src, image, picture, base64" ctime="20180323060129" dir="1521766889n2kcp5v4qu" file="text.html"/>
-      <record id="1532937816q0v1tpjnqr" name="Выпадающий список с пустым элементом по умолчанию в HTML" author="br0ke" url="https://stackoverflow.com/a/23638053" tags="html, markup, web, select, option, blank, default, jquery, dropdown" ctime="20180730130336" dir="1532937816e84j8lx7dv" file="text.html"/>
+      <record id="1532937816q0v1tpjnqr" name="Выпадающий список с пустым элементом по умолчанию в HTML" author="br0ke" url="https://stackoverflow.com/a/23638053" tags="html, markup, web, select, option, blank, default, jquery, dropdown, javascript" ctime="20180730130336" dir="1532937816e84j8lx7dv" file="text.html"/>
      </recordtable>
     </node>
    </node>
