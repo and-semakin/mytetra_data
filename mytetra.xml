@@ -24,6 +24,7 @@
      <record id="1532852741ztkffoohn0" name="Конвертировать строку (str) в булевый тип (bool) в Python" author="br0ke" url="https://stackoverflow.com/a/715468" tags="python, convert, str, bool, str2bool, string, boolean" ctime="20180729132541" dir="15328527414xlj4d5oza" file="text.html"/>
      <record id="153286406691s2kurslo" name="Получить местный часовой пояс в Python" author="br0ke" url="https://stackoverflow.com/a/12015245" tags="python, date, time, datetime, timezone, zone, utc, dateutil, local" ctime="20180729163426" dir="153286406695in9q8jxi" file="text.html"/>
      <record id="1533197275khdnf1uslq" name="Проверить, что строка соответствует регулярному выражению в Python" author="br0ke" url="https://stackoverflow.com/a/12595082" tags="python, regular expression, regexp, regex, re, match, find, findall, compile, pattern" ctime="20180802130755" dir="15331972751bbrfm3u7m" file="text.html"/>
+     <record id="1533706473i1m8p6y85p" name="Просмотреть доступные версии модулей в PIP" author="br0ke" url="https://stackoverflow.com/a/26664162" tags="python, pip, pypi, module, version, list" ctime="20180808103433" dir="15337064736e2qi364gf" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
