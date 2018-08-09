@@ -117,6 +117,7 @@
      <record id="1532868560bsxq2vip8b" name="Сбросить триал на IDE WebStorm, PhpStorm" author="br0ke" url="https://gist.github.com/Arbagen/f5ad683ebdbbb75d92d8ca8c8ec11617" tags="ide, jetbrains, webstorm, phpstorm, pycharm, trial, reset" ctime="20180729174920" dir="15328685600hfl1fgyvu" file="text.html"/>
      <record id="15328717304l1l9a1d8w" name="Отобразить информацию о системе Linux" author="br0ke" url="https://fossbytes.com/linux-distribution-logo-ascii-art-terminal/" tags="linux, screenfetch, neofetch" ctime="20180729184210" dir="1532871730n4j5kd3srv" file="text.html"/>
      <record id="1533196921hq31rhaejv" name="Сохранять историю bash в нескольких параллельных сессиях в Linux" author="br0ke" url="https://unix.stackexchange.com/questions/1288/preserve-bash-history-in-multiple-terminal-windows/48113#48113" tags="linux, unix, shell, sh, bash, history, bash_history, bashrc" ctime="20180802130201" dir="1533196921vs319j8v9t" file="text.html"/>
+     <record id="1533820231fzwpfavx82" name="Туннелирование трафика в SSH" author="br0ke" url="https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html" tags="linux, unix, ssh, tunnel, port forwarding, port, tcp" ctime="20180809181031" dir="15338202317tmqikk75w" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
