@@ -300,6 +300,7 @@
     <node crypt="" id="1533728028zidz47o8xa" name="ESLint">
      <recordtable>
       <record id="1533728100cwo02lolg7" name="Отключить проверку файла целиком в ESLint" author="br0ke" url="https://evanhahn.com/disable-eslint-for-a-file/" tags="javascript, java script, js, ecmascript, es, eslint, lint, ci" ctime="20180808163500" dir="1533728100bzs4wsowej" file="text.html"/>
+      <record id="1533805924zhfi7ucmzn" name="Отключить проверку определенного правила в строке в ESLint" author="br0ke" url="https://stackoverflow.com/a/29592334" tags="javascript, js, es, ecmascript, linter, eslint" ctime="20180809141204" dir="1533805924v7vshuc19c" file="text.html"/>
      </recordtable>
     </node>
    </node>
