@@ -82,6 +82,7 @@
      <node crypt="" id="1534224148lsuq76fl7k" name="unittest">
       <recordtable>
        <record id="15342244027ehjv2cjs0" name="subTest в unittest в Python" author="br0ke" url="https://gist.github.com/encukou/10017915" tags="python, unittest, test, subtest" ctime="20180814102642" dir="1534224402zmwusj0nkn" file="text.html"/>
+       <record id="1534225142l6ukx6057c" name="assert-методы в unittest в Python" author="br0ke" url="https://docs.python.org/3/library/unittest.html" tags="python, unittest, test, assert, assertEqual, assertIn, assertIs" ctime="20180814103902" dir="1534225142mgq6x5e06t" file="text.html"/>
       </recordtable>
      </node>
     </node>
