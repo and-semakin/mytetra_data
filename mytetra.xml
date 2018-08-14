@@ -26,6 +26,7 @@
      <record id="1533197275khdnf1uslq" name="Проверить, что строка соответствует регулярному выражению в Python" author="br0ke" url="https://stackoverflow.com/a/12595082" tags="python, regular expression, regexp, regex, re, match, find, findall, compile, pattern" ctime="20180802130755" dir="15331972751bbrfm3u7m" file="text.html"/>
      <record id="1533706473i1m8p6y85p" name="Просмотреть доступные версии модулей в PIP" author="br0ke" url="https://stackoverflow.com/a/26664162" tags="python, pip, pypi, module, version, list" ctime="20180808103433" dir="15337064736e2qi364gf" file="text.html"/>
      <record id="1534222188b5dra57n0v" name="Получить целочисленный Unix timestamp в Python" author="br0ke" url="https://stackoverflow.com/questions/13890935/does-pythons-time-time-return-the-local-or-utc-timestamp/16299439#16299439" tags="python, time, timestamp, unix, unix-time, utc" ctime="20180814094948" dir="15342221884y4z1g5vk7" file="text.html"/>
+     <record id="15342240746c6rl79arc" name="getter и setter в Python" author="br0ke" url="https://stackoverflow.com/questions/2627002/whats-the-pythonic-way-to-use-getters-and-setters/36943813#36943813" tags="python, property, get, set, del, getter, setter, deleter, getattr, setattr, delattr, del" ctime="20180814102114" dir="15342240740vpzwpx0pt" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -76,6 +77,11 @@
        <record id="15270856238ycj5i95vw" name="Размер изображения в PIL" author="br0ke" url="https://stackoverflow.com/a/6444612" tags="python, pil, pillow, image, size" ctime="20180523192703" dir="1527085623bd8hm5gae7" file="text.html"/>
        <record id="1527085798r5yrere9wb" name="Сохранить изображение в память в PIL" author="br0ke" url="https://fadeit.dk/blog/2015/04/30/python3-flask-pil-in-memory-image/" tags="python, pil, pillow, save, png, jpg, jpeg, in-memory, memory, bytesio" ctime="20180523192958" dir="1527085798qn28691kkm" file="text.html"/>
        <record id="1527247813mkpw37wvkl" name="Изменить размер изображения в PIL" author="br0ke" url="https://stackoverflow.com/questions/44231209/resize-rectangular-image-to-square-keeping-ratio-and-fill-background-with-black" tags="python, pil, image, pillow, resize" ctime="20180525163013" dir="1527247813ooy3nbzxhp" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1534224148lsuq76fl7k" name="unittest">
+      <recordtable>
+       <record id="15342244027ehjv2cjs0" name="subTest в unittest в Python" author="br0ke" url="https://gist.github.com/encukou/10017915" tags="python, unittest, test, subtest" ctime="20180814102642" dir="1534224402zmwusj0nkn" file="text.html"/>
       </recordtable>
      </node>
     </node>
