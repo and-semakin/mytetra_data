@@ -25,6 +25,7 @@
      <record id="153286406691s2kurslo" name="Получить местный часовой пояс в Python" author="br0ke" url="https://stackoverflow.com/a/12015245" tags="python, date, time, datetime, timezone, zone, utc, dateutil, local" ctime="20180729163426" dir="153286406695in9q8jxi" file="text.html"/>
      <record id="1533197275khdnf1uslq" name="Проверить, что строка соответствует регулярному выражению в Python" author="br0ke" url="https://stackoverflow.com/a/12595082" tags="python, regular expression, regexp, regex, re, match, find, findall, compile, pattern" ctime="20180802130755" dir="15331972751bbrfm3u7m" file="text.html"/>
      <record id="1533706473i1m8p6y85p" name="Просмотреть доступные версии модулей в PIP" author="br0ke" url="https://stackoverflow.com/a/26664162" tags="python, pip, pypi, module, version, list" ctime="20180808103433" dir="15337064736e2qi364gf" file="text.html"/>
+     <record id="1534222188b5dra57n0v" name="Получить целочисленный Unix timestamp в Python" author="br0ke" url="https://stackoverflow.com/questions/13890935/does-pythons-time-time-return-the-local-or-utc-timestamp/16299439#16299439" tags="python, time, timestamp, unix, unix-time, utc" ctime="20180814094948" dir="15342221884y4z1g5vk7" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
