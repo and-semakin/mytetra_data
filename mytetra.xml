@@ -39,6 +39,7 @@
       <record id="1530711027weyb60tyqg" name="Типизация (аннотация типов) в Python" author="br0ke" url="https://www.caktusgroup.com/blog/2017/02/22/python-type-annotations/" tags="python, type, types, annotation, annotations, strict types, mypy" ctime="20180704183027" dir="15307110278ihvpqbkyj" file="text.html"/>
       <record id="1532866728fj1ix375dg" name="Распространенные операции со словарями (dict) в Python" author="br0ke" url="https://www.pythonforbeginners.com/dictionary/dictionary-common-dictionary-operations" tags="python, dict, create, access, keys, values, add, change, delete, copy, remove, length, len, test, loop" ctime="20180729171848" dir="1532866728zj0ax3iq8r" file="text.html"/>
       <record id="1532867568z64tsw4ffw" name="Управление аттрибутами объектов в Python" author="br0ke" url="https://docs.python.org/3/library/functions.html" tags="python, function, functions, built-in, attr, delattr, getattr, hasattr, setattr" ctime="20180729173248" dir="1532867568mvzse0868n" file="text.html"/>
+      <record id="1534657974y9gxitko9e" name="Распространенные операции со списками (list) в Python" author="br0ke" url="https://docs.python.org/3.7/tutorial/datastructures.html" tags="python, list" ctime="20180819105254" dir="1534657974mn31uwhuax" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15156469891vuf5st61r" name="Библиотеки">
@@ -274,6 +275,7 @@
      <record id="15329368622861sb0bva" name="Вывести число с ведущими нулями (leading zeros) в JavaScript" author="br0ke" url="https://stackoverflow.com/a/2998822" tags="javascript, js, format, number, int, leading zero, leading zeros, zero padding, padding" ctime="20180730124742" dir="1532936862yyohmv9gsm" file="text.html"/>
      <record id="15329371878waoe741l0" name="Конвертировать строку в число в JavaScript" author="br0ke" url="https://stackoverflow.com/a/1133814" tags="javascript, js, convert, string, number, int, str, parse" ctime="20180730125307" dir="1532937187farpoocz5q" file="text.html"/>
      <record id="1532938174u2vlh5n4d1" name="Проверить, что массив существует и он не пуст в JavaScript" author="br0ke" url="https://stackoverflow.com/a/11743671" tags="javascript, js, array, size, length, empty, non-empty, undefined, defined, exist, list" ctime="20180730130934" dir="1532938174a7obbqjega" file="text.html"/>
+     <record id="1534657895mwyrtgkyzo" name="Конвертировать обычный объект в Map в JavaScript ES6" author="br0ke" url="https://stackoverflow.com/a/36644558" tags="javascript, java script, js, es6, map, object, plain object, convert" ctime="20180819105135" dir="1534657895ltxv91a4u6" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React"/>
     <node crypt="" id="1516690897327juy5uam" name="node.js">
