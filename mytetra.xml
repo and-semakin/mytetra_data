@@ -130,6 +130,7 @@
      <record id="1533196921hq31rhaejv" name="Сохранять историю bash в нескольких параллельных сессиях в Linux" author="br0ke" url="https://unix.stackexchange.com/questions/1288/preserve-bash-history-in-multiple-terminal-windows/48113#48113" tags="linux, unix, shell, sh, bash, history, bash_history, bashrc" ctime="20180802130201" dir="1533196921vs319j8v9t" file="text.html"/>
      <record id="1533820231fzwpfavx82" name="Туннелирование трафика в SSH" author="br0ke" url="https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html" tags="linux, unix, ssh, tunnel, port forwarding, port, tcp" ctime="20180809181031" dir="15338202317tmqikk75w" file="text.html"/>
      <record id="1534218012nkixfsqsql" name="Примонтировать общую папку VirtualBox в гостевой машине Linux" author="br0ke" url="https://serverfault.com/a/674978" tags="linux, virtual, box, virtual box, virtualbox, shared folder, shared, folder, guest, mount, vboxsf" ctime="20180814084012" dir="15342180121kj5axj8zk" file="text.html"/>
+     <record id="1534751173a0dzugtc32" name="Загрузить файл из терминала на transfer.sh" author="br0ke" url="https://github.com/dutchcoders/transfer.sh/" tags="linux, sh, bash, terminal, tty, cli, transfer, transfer.sh, upload, download" ctime="20180820124613" dir="15347511737zhe29iyxg" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -195,6 +196,7 @@
      <recordtable>
       <record id="1525427520i0thw562np" name="Определить алиас для команды в Fish" author="br0ke" url="https://stackoverflow.com/a/2763014/9740122" tags="linux, unix, fish, shell, alias" ctime="20180504145200" dir="1525427520z5q8tl436o" file="text.html"/>
       <record id="1532518666latj5sfp8e" name="Дополнение команд (Completion) для Docker Compose в Fish" author="br0ke" url="https://github.com/brgmnn/fish-docker-compose" tags="shell, sh, fish, fisher, docker, compose, docker-compose, completion, tab" ctime="20180725163746" dir="1532518666qr5nrz7n1t" file="text.html"/>
+      <record id="15347513534cm6tgs0ko" name="Алиас для transfer.sh для Fish" author="br0ke" url="https://github.com/dutchcoders/transfer.sh" tags="linux, shell, fish, alias, transfer, transfer.sh" ctime="20180820124913" dir="1534751353ft288x429o" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
