@@ -360,6 +360,7 @@
       <record id="1531994137mtwt8ljlz5" name="Создать материализованное представление в PostgreSQL" author="br0ke" url="https://postgrespro.ru/docs/postgresql/9.6/sql-creatematerializedview" tags="postgresql, postgres, postgre, sql, view, materialized, materialized view, create" ctime="20180719145537" dir="1531994137rxbwsj0iwx" file="text.html"/>
       <record id="1531994694bcrv1uqoyr" name="Создать временную таблицу в PostgreSQL" author="br0ke" url="https://postgrespro.ru/docs/postgresql/9.6/sql-createtable" tags="postgresql, postgres, postgre, sql, temp, temporary, table, temp table, on commit, transaction" ctime="20180719150454" dir="15319946941yt10eyuon" file="text.html"/>
       <record id="1532853950ogcmshvowx" name="Обновить или создать (upsert) строку в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/11135767" tags="postgresql, postgres, postgre, insert, update, upsert" ctime="20180729134550" dir="1532853950lkmlnipfab" file="text.html"/>
+      <record id="15350145404mebf3iu0g" name="Просмотреть определение представления (view definition) в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/14634672" tags="postgresql, postgres, postgre, view, materialized view, definition, query, sql" ctime="20180823135540" dir="1535014540po0p2k3wn4" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
