@@ -256,6 +256,7 @@
      <record id="1532332720jc92f1306r" name="Отменить последний коммит в Git" author="br0ke" url="https://stackoverflow.com/a/927386" tags="vcs, git, undo, reset, cancel, commit" ctime="20180723125840" dir="1532332720kdg8xqnulu" file="text.html"/>
      <record id="1532444862n8y985hecn" name="Удалить ветку в Git" author="br0ke" url="https://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote" tags="vcs, git, branch, delete, remove, local, remote" ctime="20180724200742" dir="1532444862sriug1tn0k" file="text.html"/>
      <record id="15326725501o2f5ngzdq" name="Спрятать (stash) изменения в рабочей директории в Git" author="br0ke" url="https://git-scm.com/docs/git-stash" tags="vcs, git, stash, apply, list, git-stash" ctime="20180727112230" dir="1532672550ryq8uixy8g" file="text.html"/>
+     <record id="1535618641o8pljhoseg" name="Отменить (обратить) коммиты в Git" author="br0ke" url="https://stackoverflow.com/a/1470452" tags="git, commit, cancel, revert" ctime="20180830134401" dir="1535618641nduglv3ptj" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
