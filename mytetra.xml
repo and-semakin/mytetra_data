@@ -190,7 +190,7 @@
       <record id="1531147827dn7ambgjo5" name="Установить QGIS на Ubuntu" author="br0ke" url="https://gis.stackexchange.com/a/137079" tags="linux, ubuntu, gis, qgis, postgis, postgre, postgres, postgresql" ctime="20180709195027" dir="15311478271rx7qqn7q8" file="text.html"/>
       <record id="15318364707a1dlmydb8" name="Установить Google Chrome на Ubuntu" author="br0ke" url="https://askubuntu.com/a/510186" tags="linux, ubuntu, chrome, google, google chrome, browser, flash" ctime="20180717190750" dir="1531836470y3dqeka8mg" file="text.html"/>
       <record id="1531997932c33j8tlfp6" name="Установить GitKraken на Ubuntu" author="br0ke" url="https://www.gitkraken.com/download/linux-deb" tags="linux, fedora, developer, development, tool, git, gitkraken, kraken, vcs, install" ctime="20180719155852" dir="1531997932y6quvzvbkv" file="text.html"/>
-      <record id="1535106029r4dkrhttpk" name="Установить DEB-пакет в Ubuntu" author="br0ke" url="https://unix.stackexchange.com/a/159114" tags="linux, ubuntu, deb, install, apt, dpkg" ctime="20180824152029" dir="15351060290pt279vk5j" file="text.html"/>
+      <record id="1535106029r4dkrhttpk" name="Установить DEB-пакет с разрешением зависимостей в Debian" author="br0ke" url="https://unix.stackexchange.com/a/159114" tags="linux, ubuntu, debian, deb, install, apt, dpkg" ctime="20180824152029" dir="15351060290pt279vk5j" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
