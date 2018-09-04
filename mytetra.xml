@@ -192,6 +192,8 @@
       <record id="1531997932c33j8tlfp6" name="Установить GitKraken на Ubuntu" author="br0ke" url="https://www.gitkraken.com/download/linux-deb" tags="linux, fedora, developer, development, tool, git, gitkraken, kraken, vcs, install" ctime="20180719155852" dir="1531997932y6quvzvbkv" file="text.html"/>
       <record id="1535106029r4dkrhttpk" name="Установить DEB-пакет с разрешением зависимостей в Debian" author="br0ke" url="https://unix.stackexchange.com/a/159114" tags="linux, ubuntu, debian, deb, install, apt, dpkg" ctime="20180824152029" dir="15351060290pt279vk5j" file="text.html"/>
       <record id="1536042862vwb5izhck8" name="Установить GNOME Tweak Tool в Ubuntu 18" author="br0ke" url="https://linuxconfig.org/how-to-install-tweak-tool-on-ubuntu-18-04-bionic-beaver-linux" tags="linux, ubuntu, bionic, beaver, gnome, gnome tweak tool, gnome tweaks, tweaks" ctime="20180904113422" dir="1536042862wbj4zdkdz5" file="text.html"/>
+      <record id="15360477017vwcig4g8t" name="Установить Guake (выпадающий терминал) на Ubuntu 18" author="br0ke" url="http://www.elinuxbook.com/install-guake-terminal-in-linux/" tags="linux, ubuntu, 18, bionic, guake, terminal" ctime="20180904125502" dir="1536047701h0ududnwbe" file="text.html"/>
+      <record id="15360479287hetgbdfau" name="Установить тему Adapta на Ubuntu 18" author="br0ke" url="https://github.com/adapta-project/adapta-gtk-theme" tags="linux, ubuntu, gnome, gtk, theme, adapta, color, colour, appearance" ctime="20180904125848" dir="1536047928d1hpuf6ewu" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
