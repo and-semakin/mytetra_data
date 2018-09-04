@@ -191,6 +191,7 @@
       <record id="15318364707a1dlmydb8" name="Установить Google Chrome на Ubuntu" author="br0ke" url="https://askubuntu.com/a/510186" tags="linux, ubuntu, chrome, google, google chrome, browser, flash" ctime="20180717190750" dir="1531836470y3dqeka8mg" file="text.html"/>
       <record id="1531997932c33j8tlfp6" name="Установить GitKraken на Ubuntu" author="br0ke" url="https://www.gitkraken.com/download/linux-deb" tags="linux, fedora, developer, development, tool, git, gitkraken, kraken, vcs, install" ctime="20180719155852" dir="1531997932y6quvzvbkv" file="text.html"/>
       <record id="1535106029r4dkrhttpk" name="Установить DEB-пакет с разрешением зависимостей в Debian" author="br0ke" url="https://unix.stackexchange.com/a/159114" tags="linux, ubuntu, debian, deb, install, apt, dpkg" ctime="20180824152029" dir="15351060290pt279vk5j" file="text.html"/>
+      <record id="1536042862vwb5izhck8" name="Установить GNOME Tweak Tool в Ubuntu 18" author="br0ke" url="https://linuxconfig.org/how-to-install-tweak-tool-on-ubuntu-18-04-bionic-beaver-linux" tags="linux, ubuntu, bionic, beaver, gnome, gnome tweak tool, gnome tweaks, tweaks" ctime="20180904113422" dir="1536042862wbj4zdkdz5" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
