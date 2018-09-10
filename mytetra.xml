@@ -197,6 +197,8 @@
       <record id="15360477017vwcig4g8t" name="Установить Guake (выпадающий терминал) на Ubuntu 18" author="br0ke" url="http://www.elinuxbook.com/install-guake-terminal-in-linux/" tags="linux, ubuntu, 18, bionic, guake, terminal" ctime="20180904125502" dir="1536047701h0ududnwbe" file="text.html"/>
       <record id="15360479287hetgbdfau" name="Установить тему Adapta на Ubuntu 18" author="br0ke" url="https://github.com/adapta-project/adapta-gtk-theme" tags="linux, ubuntu, gnome, gtk, theme, adapta, color, colour, appearance" ctime="20180904125848" dir="1536047928d1hpuf6ewu" file="text.html"/>
       <record id="153612912700cwgm7ztr" name="Установить PostgreSQL 9.6 на Ubuntu 18" author="br0ke" url="https://raonyguimaraes.com/installing-postgresql-9-5-on-linux/" tags="linux, ubuntu, install, 18, bionic, postgresql, postgres, postgre, 9.5, pg_dump, postgresql-client" ctime="20180905113207" dir="1536129127i6busmk2xl" file="text.html"/>
+      <record id="153659269030b670eecn" name="Установить VirtualBox на Ubuntu 18" author="br0ke" url="" tags="linux, ubuntu, install, bionic, virtualbox, vbox, oracle, virtual, machine, vm, ova, virtualization" ctime="20180910201810" dir="1536592690diq3txwhmy" file="text.html"/>
+      <record id="1536593408xz7hyn0kiu" name="Установить архиватор 7Z на Ubuntu" author="br0ke" url="https://askubuntu.com/a/348175" tags="ubuntu, install, bionic, p7zip, 7z, 7zip" ctime="20180910203008" dir="1536593408wvnq4nz7vv" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
@@ -422,6 +424,7 @@
      <record id="15257514349329y0xiyq" name="Установка VMware ESXi 6.0" author="br0ke" url="" tags="virtualization, virtual, virtual machine, virtual machines, vmware, esxi, vmware esxi" ctime="20180508085034" dir="1525751434zfpehci1tw" file="text.html"/>
      <record id="1528139621z6a5q5azkt" name="Обновить веб-интерфейс VMware ESXi Host Client" author="br0ke" url="https://kb.vmware.com/s/article/2008939" tags="virtualization, vmware, esxi, web, host-client, vib, install" ctime="20180605001341" dir="1528139621lqwpzuo8zq" file="text.html"/>
      <record id="15302141121pcwu3zt1a" name="Включить Maintenance Mode в ESXi через SSH" author="br0ke" url="https://pubs.vmware.com/vsphere-6-5/index.jsp?topic=%2Fcom.vmware.vcli.examples.doc%2FGUID-8B7791B1-8CFF-48AE-A4B2-0464867ECE1F.html" tags="vmware, esxi, esxcli, ssh, maintenance, mode" ctime="20180629002832" dir="1530214112iu4dkhdu46" file="text.html"/>
+     <record id="1536592822r7es09nsfp" name="Скачать готовые образы виртуальных машин для VirtualBox и VMware" author="br0ke" url="https://www.osboxes.org/virtualbox-images/" tags="virtualization, virtualbox, virtual box, vmware, ova, linux, image" ctime="20180910202022" dir="1536592822933kaa0o5d" file="text.html"/>
     </recordtable>
    </node>
   </node>
