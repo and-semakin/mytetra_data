@@ -132,6 +132,7 @@
      <record id="1533820231fzwpfavx82" name="Туннелирование трафика в SSH" author="br0ke" url="https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html" tags="linux, unix, ssh, tunnel, port forwarding, port, tcp" ctime="20180809181031" dir="15338202317tmqikk75w" file="text.html"/>
      <record id="1534218012nkixfsqsql" name="Примонтировать общую папку VirtualBox в гостевой машине Linux" author="br0ke" url="https://serverfault.com/a/674978" tags="linux, virtual, box, virtual box, virtualbox, shared folder, shared, folder, guest, mount, vboxsf" ctime="20180814084012" dir="15342180121kj5axj8zk" file="text.html"/>
      <record id="1534751173a0dzugtc32" name="Загрузить файл из терминала на transfer.sh" author="br0ke" url="https://github.com/dutchcoders/transfer.sh/" tags="linux, sh, bash, terminal, tty, cli, transfer, transfer.sh, upload, download" ctime="20180820124613" dir="15347511737zhe29iyxg" file="text.html"/>
+     <record id="1536827353nhiyau6whu" name="Установить minikube на Linux" author="br0ke" url="https://github.com/kubernetes/minikube/releases" tags="linux, install, minikube, kube, kubernetes, kubectl" ctime="20180913132913" dir="15368273533q8mhq63be" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -199,6 +200,7 @@
       <record id="153612912700cwgm7ztr" name="Установить PostgreSQL 9.6 на Ubuntu 18" author="br0ke" url="https://raonyguimaraes.com/installing-postgresql-9-5-on-linux/" tags="linux, ubuntu, install, 18, bionic, postgresql, postgres, postgre, 9.5, pg_dump, postgresql-client" ctime="20180905113207" dir="1536129127i6busmk2xl" file="text.html"/>
       <record id="153659269030b670eecn" name="Установить VirtualBox на Ubuntu 18" author="br0ke" url="" tags="linux, ubuntu, install, bionic, virtualbox, vbox, oracle, virtual, machine, vm, ova, virtualization" ctime="20180910201810" dir="1536592690diq3txwhmy" file="text.html"/>
       <record id="1536593408xz7hyn0kiu" name="Установить архиватор 7Z на Ubuntu" author="br0ke" url="https://askubuntu.com/a/348175" tags="ubuntu, install, bionic, p7zip, 7z, 7zip" ctime="20180910203008" dir="1536593408wvnq4nz7vv" file="text.html"/>
+      <record id="1536827148tgf3ku6ohm" name="Установить kubectl на Ubuntu или Debian" author="br0ke" url="https://kubernetes.io/docs/tasks/tools/install-kubectl/" tags="linux, ubuntu, debian, deb, apt, apt-get, install, kubectl, kube, kubernetes, minikube. snap" ctime="20180913132548" dir="1536827148toekqvuuz3" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
