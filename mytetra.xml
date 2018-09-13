@@ -209,6 +209,7 @@
       <record id="1525427520i0thw562np" name="Определить алиас для команды в Fish" author="br0ke" url="https://stackoverflow.com/a/2763014/9740122" tags="linux, unix, fish, shell, alias" ctime="20180504145200" dir="1525427520z5q8tl436o" file="text.html"/>
       <record id="1532518666latj5sfp8e" name="Дополнение команд (Completion) для Docker Compose в Fish" author="br0ke" url="https://github.com/brgmnn/fish-docker-compose" tags="shell, sh, fish, fisher, docker, compose, docker-compose, completion, tab" ctime="20180725163746" dir="1532518666qr5nrz7n1t" file="text.html"/>
       <record id="15347513534cm6tgs0ko" name="Алиас для transfer.sh для Fish" author="br0ke" url="https://github.com/dutchcoders/transfer.sh" tags="linux, shell, fish, alias, transfer, transfer.sh" ctime="20180820124913" dir="1534751353ft288x429o" file="text.html"/>
+      <record id="1536831758z92h5kedjc" name="Дополнение команд (Completion) для kubectl" author="br0ke" url="https://github.com/evanlucas/fish-kubectl-completions" tags="fish, shell, completion, kubectl, kube, kubernetes" ctime="20180913144238" dir="1536831758c26c1onn5i" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
@@ -247,7 +248,11 @@
       <record id="1521724744exw5ian34l" name="Управление доступом к сайту на основе IP-адресов в nginx" author="br0ke" url="https://serverfault.com/questions/667798/allow-only-local-users-in-nginx" tags="nginx, web, web-server, server, config, allow, deny, network, ip, ip address, address, local, remote" ctime="20180322181904" dir="1521724744n2vy66jwyh" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="15365877332z0w8zebbp" name="Kubernetes"/>
+    <node crypt="" id="15365877332z0w8zebbp" name="Kubernetes">
+     <recordtable>
+      <record id="1536833216ilq1yq5mw2" name="Основные команды kubectl" author="br0ke" url="" tags="kube, kubectl, kubernetes, command, commands" ctime="20180913150656" dir="1536833216nurqrda5q9" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="15151592143t1d4riqua" name="Git">
     <recordtable>
