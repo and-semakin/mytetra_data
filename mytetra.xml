@@ -232,6 +232,7 @@
       <record id="1529834188zr8vi09o73" name="Скопировать файл из Docker-контейнера на хост" author="br0ke" url="https://stackoverflow.com/a/22050116" tags="docker, cp, container, host" ctime="20180624145628" dir="1529834188e76ei4dycj" file="text.html"/>
       <record id="1532864408vgqmejui5w" name="Установить часовой пояс в контейнере Docker" author="br0ke" url="https://serverfault.com/a/826222" tags="docker, container, time, timezone, zone, time zone, tz" ctime="20180729164008" dir="1532864408kwsszc36ko" file="text.html"/>
       <record id="1534661772xoxbv4hyf8" name="Запустить простой OpenVPN в Docker" author="br0ke" url="https://github.com/kylemanna/docker-openvpn" tags="linux, docker, openvpn, kylemanna" ctime="20180819115612" dir="15346617721nzdh5gzge" file="text.html"/>
+      <record id="1536826609e8d34ntzrh" name="Вывести только определенные столбцы docker ps" author="br0ke" url="https://docs.docker.com/engine/reference/commandline/ps/#formatting" tags="docker, ps, output, columns, column, format" ctime="20180913131649" dir="153682660904kuunxd2s" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
