@@ -250,7 +250,9 @@
     </node>
     <node crypt="" id="15365877332z0w8zebbp" name="Kubernetes">
      <recordtable>
-      <record id="1536833216ilq1yq5mw2" name="Основные команды kubectl" author="br0ke" url="" tags="kube, kubectl, kubernetes, command, commands" ctime="20180913150656" dir="1536833216nurqrda5q9" file="text.html"/>
+      <record id="1536833216ilq1yq5mw2" name="Основные команды kubectl" author="br0ke" url="" tags="k8s, kube, kubectl, kubernetes, command, commands" ctime="20180913150656" dir="1536833216nurqrda5q9" file="text.html"/>
+      <record id="15369366776znj871vvn" name="Типы ресурсов в Kubernetes" author="br0ke" url="" tags="kubernetes, kube, k8s, kubectl, api, resources, api-resources" ctime="20180914195117" dir="15369366773eqokypbcw" file="text.html"/>
+      <record id="1536937648f46ydnfe7a" name="Создать ресурс Ingress в Kubernetes" author="br0ke" url="https://kubernetes.io/docs/concepts/services-networking/ingress/" tags="kubernetes, k8s, kube, kubectl, ingress, proxy, nginx, service, http, https" ctime="20180914200728" dir="1536937648mpe29477ik" file="text.html"/>
      </recordtable>
     </node>
    </node>
