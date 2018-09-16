@@ -165,7 +165,7 @@
       <record id="1534217067ykmoaw0fep" name="Установить Inkscape на Fedora" author="br0ke" url="https://fedoramagazine.org/getting-started-inkscape-fedora/" tags="linux, fedora, inkscape, ink scape, ink, scape, vector, svf, graphical editor, editor" ctime="20180814082427" dir="1534217067mxplv3hssu" file="text.html"/>
       <record id="15364001601eypyp5zjo" name="Установить Visual Studio Code на Fedora" author="br0ke" url="https://code.visualstudio.com/docs/setup/linux" tags="linux, fedora, visual studo, code, visual studio code, vscode, microsoft, ide" ctime="20180908144920" dir="1536400160xghh25in7d" file="text.html"/>
       <record id="1536401044f20g1w09vp" name="Установить Guake (выпадающий терминал) на Fedora" author="br0ke" url="" tags="linux, fedora, install, guake, terminal" ctime="20180908150404" dir="1536401044a1qy029hfx" file="text.html"/>
-      <record id="1536996073mv0vp744d5" name="Установить VirtualBox на Fedora" author="br0ke" url="" tags="linux, fedora, install, dnf, virtualbox, virtual, box, oracle, virtualization" ctime="20180915122113" dir="1536996073kh2o169mzs" file="text.html"/>
+      <record id="1536996073mv0vp744d5" name="Установить VirtualBox на Fedora" author="br0ke" url="https://www.if-not-true-then-false.com/2010/install-virtualbox-with-yum-on-fedora-centos-red-hat-rhel/" tags="linux, fedora, install, dnf, virtualbox, virtual, box, oracle, virtualization" ctime="20180915122113" dir="1536996073kh2o169mzs" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
