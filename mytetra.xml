@@ -259,6 +259,7 @@
       <record id="15369366776znj871vvn" name="Типы ресурсов в Kubernetes" author="br0ke" url="" tags="kubernetes, kube, k8s, kubectl, api, resources, api-resources" ctime="20180914195117" dir="15369366773eqokypbcw" file="text.html"/>
       <record id="1536937648f46ydnfe7a" name="Создать ресурс Ingress в Kubernetes" author="br0ke" url="https://kubernetes.io/docs/concepts/services-networking/ingress/" tags="kubernetes, k8s, kube, kubectl, ingress, proxy, nginx, service, http, https" ctime="20180914200728" dir="1536937648mpe29477ik" file="text.html"/>
       <record id="1537259476e34iqowe5s" name="restartPolicy в Kubernetes" author="br0ke" url="https://stackoverflow.com/a/40534364" tags="kubernetes, k8s, kube, kubectl, yaml, restart, policy, restartpolicy, always, onfailure, never" ctime="20180918133116" dir="1537259476j4yivkvfhk" file="text.html"/>
+      <record id="15373457579e9jo6q0te" name="Выполнить команду внутри пода Kubernetes" author="br0ke" url="https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/" tags="kubernetes, k8s, kube, kubectl, exec, shell, sh, bash, cat" ctime="20180919132917" dir="1537345757mopdnazg1h" file="text.html"/>
      </recordtable>
     </node>
    </node>
