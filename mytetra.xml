@@ -263,6 +263,8 @@
       <record id="15373457579e9jo6q0te" name="Выполнить команду внутри пода Kubernetes" author="br0ke" url="https://kubernetes.io/docs/tasks/debug-application-cluster/get-shell-running-container/" tags="kubernetes, k8s, kube, kubectl, exec, shell, sh, bash, cat" ctime="20180919132917" dir="1537345757mopdnazg1h" file="text.html"/>
       <record id="15373470518fqtqpzbxv" name="Скачать (pull) образ из приватного реестра в Kubernetes" author="br0ke" url="https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/" tags="kubernetes, k8s, kube, kubectl, pull, docker, image, registry, private, gitlab, secret" ctime="20180919135051" dir="1537347051ju8458c617" file="text.html"/>
       <record id="1537347231ib4y2n9py7" name="Запустить под из образа в Kubernetes" author="br0ke" url="" tags="kubernetes, k8s, kube, kubectl, run, image, env" ctime="20180919135351" dir="15373472310emr7swn3t" file="text.html"/>
+      <record id="1537441606gv22m8ixwq" name="Значения imagePullPolicy в Kubernetes" author="br0ke" url="https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.10/" tags="kubernetes, k8s, kube, kubectl, docker, image, pull, policy, imagepullpolicy" ctime="20180920160646" dir="15374416061thjc30m25" file="text.html"/>
+      <record id="1537441762oosm29yzg8" name="Получить данные для доступа к кластеру Kubernetes" author="br0ke" url="https://gitlab.com/gitlab-org/gitlab-ce/issues/38786#note_73443250" tags="kubernetes, k8s, kube, kubectl, cluster, token, ca.crt, ca, crt, url, api" ctime="20180920160922" dir="1537441762zy1h03pigl" file="text.html"/>
      </recordtable>
     </node>
    </node>
