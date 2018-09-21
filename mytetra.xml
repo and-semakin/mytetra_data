@@ -272,6 +272,7 @@
       <record id="1537517821j71jr1g59i" name="Установить чарт в пространство имен в Helm" author="br0ke" url="" tags="kubernetes, k8s, kube, helm, install, namespace, name, space" ctime="20180921131701" dir="1537517821wkth79mupm" file="text.html"/>
       <record id="1537518959jnr0m3u69i" name="Ресуры пода в Kubernetes" author="br0ke" url="https://kubernetes.io/docs/concepts/configuration/manage-compute-resources-container/" tags="kubernetes, k8s, kube, kubectl, resource, request, requests, limit, limits, cpu, memory, mem" ctime="20180921133559" dir="153751895955fm56olbd" file="text.html"/>
       <record id="1537522912qicf8qmcu4" name="Удалить все кластеры и контексты из kubectl config" author="br0ke" url="https://stackoverflow.com/a/37016744" tags="kubernetes, k8s, kube, kubectl, config, view, context, contexts, cluster, clusters, user, users, unset" ctime="20180921144152" dir="1537522912tfzziw43gl" file="text.html"/>
+      <record id="1537538781p19qg9bh7b" name="Удалить Helm Tiller из кластера Kubernetes" author="br0ke" url="https://stackoverflow.com/a/47583918" tags="kubernetes, k8s, kube, helm, tiller, delete, remove, uninstall, deinstall, reset" ctime="20180921190621" dir="1537538781dah8z2tgx7" file="text.html"/>
      </recordtable>
     </node>
    </node>
