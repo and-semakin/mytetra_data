@@ -274,6 +274,7 @@
       <record id="1537522912qicf8qmcu4" name="Удалить все кластеры и контексты из kubectl config" author="br0ke" url="https://stackoverflow.com/a/37016744" tags="kubernetes, k8s, kube, kubectl, config, view, context, contexts, cluster, clusters, user, users, unset" ctime="20180921144152" dir="1537522912tfzziw43gl" file="text.html"/>
       <record id="1537538781p19qg9bh7b" name="Удалить Helm Tiller из кластера Kubernetes" author="br0ke" url="https://stackoverflow.com/a/47583918" tags="kubernetes, k8s, kube, helm, tiller, delete, remove, uninstall, deinstall, reset" ctime="20180921190621" dir="1537538781dah8z2tgx7" file="text.html"/>
       <record id="153754015478w0utzf29" name="Развернуть PostgreSQL в Kubernetes" author="br0ke" url="https://severalnines.com/blog/using-kubernetes-deploy-postgresql" tags="kubernetes, k8s, kube, kubectl, postgresql, postgres, postgre, db, dbms" ctime="20180921192914" dir="1537540154lgba0h6z5a" file="text.html"/>
+      <record id="15375411208ihq9mf2eg" name="Init-контейнеры в Kubernetes" author="br0ke" url="https://kubernetes.io/docs/concepts/workloads/pods/init-containers/" tags="kubernetes, k8s, kube, kubectl, pod, initialization, init, container, containers, init-container, init-containers, PodInitializing" ctime="20180921194520" dir="1537541120o42nqqafca" file="text.html"/>
      </recordtable>
     </node>
    </node>
