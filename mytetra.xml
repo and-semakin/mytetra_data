@@ -329,7 +329,11 @@
      <record id="1532938174u2vlh5n4d1" name="Проверить, что массив существует и он не пуст в JavaScript" author="br0ke" url="https://stackoverflow.com/a/11743671" tags="javascript, js, array, size, length, empty, non-empty, undefined, defined, exist, list" ctime="20180730130934" dir="1532938174a7obbqjega" file="text.html"/>
      <record id="1534657895mwyrtgkyzo" name="Конвертировать обычный объект в Map в JavaScript ES6" author="br0ke" url="https://stackoverflow.com/a/36644558" tags="javascript, java script, js, es6, map, object, plain object, convert" ctime="20180819105135" dir="1534657895ltxv91a4u6" file="text.html"/>
     </recordtable>
-    <node crypt="" id="15157448592pgz8dwkq5" name="React"/>
+    <node crypt="" id="15157448592pgz8dwkq5" name="React">
+     <recordtable>
+      <record id="1537858640ua5jpk8ajd" name="Создать проект через react-create-app" author="br0ke" url="https://github.com/facebook/create-react-app" tags="javascript, js, react, react.js, create, react, app, create-react-app, npm, npx" ctime="20180925115720" dir="1537858640bn4kt9adjs" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="1516690897327juy5uam" name="node.js">
      <recordtable>
       <record id="15166914708wjfl33r8p" name="Основы node.js" author="br0ke" url="https://habrahabr.ru/post/243335/" tags="javascript, node, node.js, nodejs, hello world, helloworld, listdir, ls, example" ctime="20180123121110" dir="1516691470epfeqxv6s7" file="text.html"/>
