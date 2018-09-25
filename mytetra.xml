@@ -277,6 +277,7 @@
       <record id="15375411208ihq9mf2eg" name="Init-контейнеры в Kubernetes" author="br0ke" url="https://kubernetes.io/docs/concepts/workloads/pods/init-containers/" tags="kubernetes, k8s, kube, kubectl, pod, initialization, init, container, containers, init-container, init-containers, PodInitializing" ctime="20180921194520" dir="1537541120o42nqqafca" file="text.html"/>
       <record id="1537593419nmjsyhb7s3" name="Создать контексты для разных неймспейсов в Kubernetes" author="br0ke" url="https://vitalflux.com/kubernetes-create-delete-namespaces-namespaces/" tags="kubernetes, k8s, kube, kubectl, context, contexts, namespace, namespaces, name, space" ctime="20180922101659" dir="1537593419e8histdjcs" file="text.html"/>
       <record id="1537795917ner7ghrgmx" name="Убить под в Kubernetes" author="br0ke" url="https://stackoverflow.com/a/38178833" tags="kubernetes, k8s, kubectl, pod, terminating, delete, kill, force" ctime="20180924183157" dir="15377959179k4xop9fjk" file="text.html"/>
+      <record id="1537857232dbud33zw6m" name="livenessProbe и readinessProbe в Kubernetes" author="br0ke" url="https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-probes/" tags="kubernetes, k8s, kube, kubectl, probe, probes, healthcheck, readiness, liveness, health, livenessProbe, readinessProbe, http, tcp" ctime="20180925113352" dir="15378572320qjfrwsl7o" file="text.html"/>
      </recordtable>
     </node>
    </node>
