@@ -332,6 +332,7 @@
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
       <record id="1537858640ua5jpk8ajd" name="Создать проект через react-create-app" author="br0ke" url="https://github.com/facebook/create-react-app" tags="javascript, js, react, react.js, create, react, app, create-react-app, npm, npx" ctime="20180925115720" dir="1537858640bn4kt9adjs" file="text.html"/>
+      <record id="153786137071qdjo5l89" name="Компоненты в React: класс или функция" author="br0ke" url="https://itnext.io/react-component-class-vs-stateless-component-e3797c7d23ab" tags="javascript, js, react, react.js, component, class, function, functional, presentational, dumb, stateless, containers, smart, stateful" ctime="20180925124250" dir="15378613706s7e6xk2cs" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1516690897327juy5uam" name="node.js">
