@@ -135,6 +135,7 @@
      <record id="1534751173a0dzugtc32" name="Загрузить файл из терминала на transfer.sh" author="br0ke" url="https://github.com/dutchcoders/transfer.sh/" tags="linux, sh, bash, terminal, tty, cli, transfer, transfer.sh, upload, download" ctime="20180820124613" dir="15347511737zhe29iyxg" file="text.html"/>
      <record id="1536827353nhiyau6whu" name="Установить minikube на Linux" author="br0ke" url="https://github.com/kubernetes/minikube/releases" tags="linux, install, minikube, kube, kubernetes, kubectl" ctime="20180913132913" dir="15368273533q8mhq63be" file="text.html"/>
      <record id="1537343756urqt82seo2" name="Получить адрес текущего сервера DNS в Linux" author="br0ke" url="https://unix.stackexchange.com/a/192852" tags="linux, unix, dns, nameserver, resolv, resolv.conf, grep" ctime="20180919125556" dir="1537343756gm9733nywj" file="text.html"/>
+     <record id="15384009183pmtvv01nl" name="jq -- консольный парсер JSON" author="br0ke" url="https://stedolan.github.io/jq/tutorial/" tags="unix, linux, tool, jq, json, parse, parser, raw, quote, strip, env, var, environment" ctime="20181001183518" dir="1538400918xiyyd72y20" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
