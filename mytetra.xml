@@ -419,6 +419,7 @@
       <record id="1539101549hhdpv38h81" name="Показать список БД и выбрать БД в psql" author="br0ke" url="https://dba.stackexchange.com/questions/1285/how-do-i-list-all-databases-and-tables-using-psql/34419" tags="postgresql, postgres, postgre, psql, list, database, connect" ctime="20181009211229" dir="1539101549k2c9c8m3x2" file="text.html"/>
       <record id="1539101701pfzvupriz0" name="Удалить БД в PostgreSQL" author="br0ke" url="https://dba.stackexchange.com/a/11895" tags="postgresql, postgres, postgre, drop, delete, remove, db, database, force" ctime="20181009211501" dir="15391017014bzx0u0or8" file="text.html"/>
       <record id="15391017451ais3ih778" name="Переименовать БД в PostgreSQL" author="br0ke" url="http://www.postgresqltutorial.com/postgresql-rename-database/" tags="postgresql, postgres, postgre, psql, rename, alter, database, db" ctime="20181009211545" dir="1539101745gz2vaw01vz" file="text.html"/>
+      <record id="1539101843huc6do4g4m" name="Показать выполняющиеся запросы PostgreSQL" author="br0ke" url="https://gist.github.com/rgreenjr/3637525" tags="postgresql, postgres, postgre, show, query, queries, current, running" ctime="20181009211723" dir="1539101843bcutw9hizq" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
