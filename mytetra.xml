@@ -206,6 +206,9 @@
       <record id="153659269030b670eecn" name="Установить VirtualBox на Ubuntu 18" author="br0ke" url="" tags="linux, ubuntu, install, bionic, virtualbox, vbox, oracle, virtual, machine, vm, ova, virtualization" ctime="20180910201810" dir="1536592690diq3txwhmy" file="text.html"/>
       <record id="1536593408xz7hyn0kiu" name="Установить архиватор 7Z на Ubuntu" author="br0ke" url="https://askubuntu.com/a/348175" tags="ubuntu, install, bionic, p7zip, 7z, 7zip" ctime="20180910203008" dir="1536593408wvnq4nz7vv" file="text.html"/>
       <record id="1536827148tgf3ku6ohm" name="Установить kubectl на Ubuntu или Debian" author="br0ke" url="https://kubernetes.io/docs/tasks/tools/install-kubectl/" tags="linux, ubuntu, debian, deb, apt, apt-get, install, kubectl, kube, kubernetes, minikube. snap" ctime="20180913132548" dir="1536827148toekqvuuz3" file="text.html"/>
+      <record id="15392503862ahifom7ie" name="Показать список установленных пакетов в Debian или Ubuntu" author="br0ke" url="https://www.rosehosting.com/blog/list-all-installed-packages-with-apt-on-ubuntu/" tags="linux, debian, ubuntu, deb, apt, dpkg, list, package, packages, installed" ctime="20181011143306" dir="1539250386zvxsaajnqi" file="text.html"/>
+      <record id="1539250575o15j3ufyed" name="Показать список файлов пакета в Debian или Ubuntu" author="br0ke" url="https://askubuntu.com/a/32509" tags="linux, debian, ubuntu, deb, dpkg, package, packages, files, list, dpkg-query, apt-file" ctime="20181011143615" dir="15392505757a8483subr" file="text.html"/>
+      <record id="1539250686w4mnd40qel" name="Отключить проверку GPG-подписи для репозитория в Debian или Ubuntu" author="br0ke" url="https://unix.stackexchange.com/a/198454" tags="linux, debian, ubuntu, apt, apt-get, repo, repository, sign, signature, check, gpg, disable, trust, trusted, sources, sources.list" ctime="20181011143806" dir="1539250686s49ynd83rm" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
@@ -304,6 +307,7 @@
      <record id="1535618641o8pljhoseg" name="Отменить (обратить) коммиты в Git" author="br0ke" url="https://stackoverflow.com/a/1470452" tags="git, commit, cancel, revert" ctime="20180830134401" dir="1535618641nduglv3ptj" file="text.html"/>
      <record id="1537433223yafmifgn0j" name="Переименовать ветку в Git" author="br0ke" url="https://multiplestates.wordpress.com/2015/02/05/rename-a-local-and-remote-branch-in-git/" tags="git, vcs, branch, rename, local, remote" ctime="20180920134703" dir="15374332238dzgk9b8cz" file="text.html"/>
      <record id="1539072209uslqh2qe42" name="Добавить пустой коммит в Git" author="br0ke" url="https://coderwall.com/p/vkdekq/git-commit-allow-empty" tags="git, vcs, commit, empty, allow-empty, allow" ctime="20181009130329" dir="1539072209bt2nylpn1g" file="text.html"/>
+     <record id="1539250760xcp7hmq70b" name="Скачать только одну ветку в Git" author="br0ke" url="https://stackoverflow.com/a/9920956" tags="git, vcs, clone, branch, single, single-branch" ctime="20181011143920" dir="1539250760lsg7wtrwzm" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
