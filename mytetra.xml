@@ -334,6 +334,7 @@
      <record id="15329371878waoe741l0" name="Конвертировать строку в число в JavaScript" author="br0ke" url="https://stackoverflow.com/a/1133814" tags="javascript, js, convert, string, number, int, str, parse" ctime="20180730125307" dir="1532937187farpoocz5q" file="text.html"/>
      <record id="1532938174u2vlh5n4d1" name="Проверить, что массив существует и он не пуст в JavaScript" author="br0ke" url="https://stackoverflow.com/a/11743671" tags="javascript, js, array, size, length, empty, non-empty, undefined, defined, exist, list" ctime="20180730130934" dir="1532938174a7obbqjega" file="text.html"/>
      <record id="1534657895mwyrtgkyzo" name="Конвертировать обычный объект в Map в JavaScript ES6" author="br0ke" url="https://stackoverflow.com/a/36644558" tags="javascript, java script, js, es6, map, object, plain object, convert" ctime="20180819105135" dir="1534657895ltxv91a4u6" file="text.html"/>
+     <record id="15394455316oadrvk33u" name="Операции над множествами в JavaScript" author="br0ke" url="http://exploringjs.com/es6/ch_maps-sets.html#_union-intersection-difference" tags="javascipt, js, ecmascript, es, es6, set, sets, union, intersection, difference, operations" ctime="20181013204531" dir="1539445531oqpoa5psnp" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
