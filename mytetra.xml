@@ -171,6 +171,7 @@
       <record id="1536401044f20g1w09vp" name="Установить Guake (выпадающий терминал) на Fedora" author="br0ke" url="" tags="linux, fedora, install, guake, terminal" ctime="20180908150404" dir="1536401044a1qy029hfx" file="text.html"/>
       <record id="1536996073mv0vp744d5" name="Установить VirtualBox на Fedora" author="br0ke" url="https://www.if-not-true-then-false.com/2010/install-virtualbox-with-yum-on-fedora-centos-red-hat-rhel/" tags="linux, fedora, install, dnf, virtualbox, virtual, box, oracle, virtualization" ctime="20180915122113" dir="1536996073kh2o169mzs" file="text.html"/>
       <record id="1537159723mhy5s4kxy8" name="Установить Google Cloud SDK (+kubectl) на Fedora" author="br0ke" url="https://cloud.google.com/sdk/docs/downloads-yum" tags="linux, fedora, centos, install, yum, dnf, google, cloud, sdk, google cloud, k8s, kubernetes, kubectl, gcloud" ctime="20180917094843" dir="15371597232omnk9ze26" file="text.html"/>
+      <record id="1540231596ewshgpg1s0" name="Установить Filezilla на Fedora" author="br0ke" url="https://www.linuxtechi.com/install-filezilla-3-x-debian-9-fedora-26/" tags="linux, fedora, install, filezilla, ftp, client" ctime="20181022230636" dir="1540231596i4fm3x9n48" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
