@@ -138,6 +138,7 @@
      <record id="15384009183pmtvv01nl" name="jq -- консольный парсер JSON" author="br0ke" url="https://stedolan.github.io/jq/tutorial/" tags="unix, linux, tool, jq, json, parse, parser, raw, quote, strip, env, var, environment" ctime="20181001183518" dir="1538400918xiyyd72y20" file="text.html"/>
      <record id="1539543118kbbcv3qgn3" name="wsc - консольный клиент для WebSocket" author="br0ke" url="https://github.com/danielstjules/wsc" tags="linux, ubuntu, fedora, install, tool, cli, websocket, ws, http, wsc, javascript, js, node, nodejs, node.js, npm" ctime="20181014235158" dir="1539543118cq9h5mlvdq" file="text.html"/>
      <record id="1540563455xqe2husych" name="Использование команды gzip" author="br0ke" url="https://www.lifewire.com/example-uses-of-the-linux-gzip-command-4078675" tags="linux, gzip, zip, compress, uncompress, decompress," ctime="20181026191735" dir="1540563455ll2u88rusk" file="text.html"/>
+     <record id="1541058217gl8hvulq6m" name="Использование find в Linux (поиск файлов)" author="br0ke" url="https://www.linode.com/docs/tools-reference/tools/find-files-in-linux-using-the-command-line/" tags="linux, unix, find, search, file, filename, extension, glob" ctime="20181101124337" dir="1541058217x3bruiljmf" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
