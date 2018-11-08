@@ -437,6 +437,7 @@
       <record id="15391017451ais3ih778" name="Переименовать БД в PostgreSQL" author="br0ke" url="http://www.postgresqltutorial.com/postgresql-rename-database/" tags="postgresql, postgres, postgre, psql, rename, alter, database, db" ctime="20181009211545" dir="1539101745gz2vaw01vz" file="text.html"/>
       <record id="1539101843huc6do4g4m" name="Показать выполняющиеся запросы PostgreSQL" author="br0ke" url="https://gist.github.com/rgreenjr/3637525" tags="postgresql, postgres, postgre, show, query, queries, current, running" ctime="20181009211723" dir="1539101843bcutw9hizq" file="text.html"/>
       <record id="1540553611shpr2g92ta" name="psql -- сохранить пароль для подключения к серверу PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/current/static/libpq-pgpass.html" tags="postgresql, postgres, postgre, psql, pgpass, password, save, store" ctime="20181026163331" dir="1540553611o00xtb7cmi" file="text.html"/>
+      <record id="1541672167qupe358r8j" name="Задержка или пауза (pg_sleep) в PostgreSQL" author="br0ke" url="https://www.if-not-true-then-false.com/2010/postgresql-sleep-function-pg_sleep-postgres-delay-execution/" tags="postgresql, postgres, postgre, sql, sleep, delay, pg_sleep" ctime="20181108151607" dir="1541672167oh4lwze82c" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
