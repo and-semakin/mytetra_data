@@ -225,6 +225,7 @@
       <record id="1532518666latj5sfp8e" name="Дополнение команд (Completion) для Docker Compose в Fish" author="br0ke" url="https://github.com/brgmnn/fish-docker-compose" tags="shell, sh, fish, fisher, docker, compose, docker-compose, completion, tab" ctime="20180725163746" dir="1532518666qr5nrz7n1t" file="text.html"/>
       <record id="15347513534cm6tgs0ko" name="Алиас для transfer.sh для Fish" author="br0ke" url="https://github.com/dutchcoders/transfer.sh" tags="linux, shell, fish, alias, transfer, transfer.sh" ctime="20180820124913" dir="1534751353ft288x429o" file="text.html"/>
       <record id="1536831758z92h5kedjc" name="Дополнение команд (Completion) для kubectl" author="br0ke" url="https://github.com/evanlucas/fish-kubectl-completions" tags="fish, shell, completion, kubectl, kube, kubernetes" ctime="20180913144238" dir="1536831758c26c1onn5i" file="text.html"/>
+      <record id="1542030152dqzahf80rx" name="Бесконечный цикл в Fish" author="br0ke" url="https://fishshell.com/docs/current/tutorial.html" tags="linux, shell, fish, sh, loop, infinite, infinity, while, true" ctime="20181112184232" dir="1542030152tq3pb5i09e" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
