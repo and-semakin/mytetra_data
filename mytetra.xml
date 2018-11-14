@@ -441,6 +441,7 @@
       <record id="1539101843huc6do4g4m" name="Показать выполняющиеся запросы PostgreSQL" author="br0ke" url="https://gist.github.com/rgreenjr/3637525" tags="postgresql, postgres, postgre, show, query, queries, current, running" ctime="20181009211723" dir="1539101843bcutw9hizq" file="text.html"/>
       <record id="1540553611shpr2g92ta" name="psql -- сохранить пароль для подключения к серверу PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/current/static/libpq-pgpass.html" tags="postgresql, postgres, postgre, psql, pgpass, password, save, store" ctime="20181026163331" dir="1540553611o00xtb7cmi" file="text.html"/>
       <record id="1541672167qupe358r8j" name="Задержка или пауза (pg_sleep) в PostgreSQL" author="br0ke" url="https://www.if-not-true-then-false.com/2010/postgresql-sleep-function-pg_sleep-postgres-delay-execution/" tags="postgresql, postgres, postgre, sql, sleep, delay, pg_sleep" ctime="20181108151607" dir="1541672167oh4lwze82c" file="text.html"/>
+      <record id="1542201166a95890t0tw" name="Получить список индексов на таблице в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/37330092/10650942" tags="postgresql, postgres, postgre, pg, index, indexes, list, select, pg_indexes" ctime="20181114181246" dir="15422011667l2cy11vif" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
