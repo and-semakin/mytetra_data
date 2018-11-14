@@ -216,6 +216,7 @@
       <record id="1539250686w4mnd40qel" name="Отключить проверку GPG-подписи для репозитория в Debian или Ubuntu" author="br0ke" url="https://unix.stackexchange.com/a/198454" tags="linux, debian, ubuntu, apt, apt-get, repo, repository, sign, signature, check, gpg, disable, trust, trusted, sources, sources.list" ctime="20181011143806" dir="1539250686s49ynd83rm" file="text.html"/>
       <record id="1540023345r6hqmttyu3" name="SSLH -- скрыть несколько сервисов за одним портом в Linux" author="br0ke" url="https://github.com/yrutschle/sslh" tags="linux, ubuntu, sslh, ssl, ssh, https, openvpn, tinc, xmpp, http, tls, anyprot, mtproto, proxy, multiplexer, demultiplexer, sslh-select" ctime="20181020131545" dir="1540023345qcmj1s5a3j" file="text.html"/>
       <record id="1541493261zyzb8hobof" name="Показать список зависимостей пакета в Debian или Ubuntu" author="br0ke" url="https://serverfault.com/a/577951" tags="linux, debian, ubuntu, apt, apt-get, deb, depends, dependencies, dependency, package, apt-cache" ctime="20181106133421" dir="1541493261ut79lwlq9e" file="text.html"/>
+      <record id="1542194747uu3zvom6y1" name="Установить pgcli на Debian/Ubuntu" author="br0ke" url="https://github.com/dbcli/pgcli" tags="linux, ubuntu, debian, apt, apt-get, install, util, utility, tool, postgresql, postgres, postgre, psql, pgcli, pg, cli" ctime="20181114162547" dir="1542194747q7uo9thfwd" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
