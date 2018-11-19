@@ -29,6 +29,7 @@
      <record id="15342240746c6rl79arc" name="getter и setter в Python" author="br0ke" url="https://stackoverflow.com/questions/2627002/whats-the-pythonic-way-to-use-getters-and-setters/36943813#36943813" tags="python, property, get, set, del, getter, setter, deleter, getattr, setattr, delattr, del" ctime="20180814102114" dir="15342240740vpzwpx0pt" file="text.html"/>
      <record id="1534660815j7vsgltqgf" name="Настроить формат вывода логов в Python" author="br0ke" url="https://stackoverflow.com/a/14058475" tags="python, log, logging, format" ctime="20180819114015" dir="1534660815xzd2c6xaab" file="text.html"/>
      <record id="1537160044c1vjftmesv" name="Получить переменную окружения в Python" author="br0ke" url="https://stackoverflow.com/a/4907053" tags="python, os, env, envvar, environ, environment, variable, var, getenv, os.getenv, os.environ" ctime="20180917095404" dir="1537160044ofw8l2hjwx" file="text.html"/>
+     <record id="1542628983agxnsjgdxn" name="Обновить пакет в PIP" author="br0ke" url="https://stackoverflow.com/a/10440459/10650942" tags="python, pip, package, update, install" ctime="20181119170303" dir="15426289836b9zhv3nqb" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
