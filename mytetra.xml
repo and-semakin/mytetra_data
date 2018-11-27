@@ -30,6 +30,8 @@
      <record id="1534660815j7vsgltqgf" name="Настроить формат вывода логов в Python" author="br0ke" url="https://stackoverflow.com/a/14058475" tags="python, log, logging, format" ctime="20180819114015" dir="1534660815xzd2c6xaab" file="text.html"/>
      <record id="1537160044c1vjftmesv" name="Получить переменную окружения в Python" author="br0ke" url="https://stackoverflow.com/a/4907053" tags="python, os, env, envvar, environ, environment, variable, var, getenv, os.getenv, os.environ" ctime="20180917095404" dir="1537160044ofw8l2hjwx" file="text.html"/>
      <record id="1542628983agxnsjgdxn" name="Обновить пакет в PIP" author="br0ke" url="https://stackoverflow.com/a/10440459/10650942" tags="python, pip, package, update, install" ctime="20181119170303" dir="15426289836b9zhv3nqb" file="text.html"/>
+     <record id="1543306230ruxkncnadh" name="Получить имя (хостнейм) машины из Python" author="br0ke" url="https://stackoverflow.com/a/4271755/10650942" tags="python, host, name, hostname, socket, gethostname," ctime="20181127131030" dir="15433062306ypjesodcs" file="text.html"/>
+     <record id="1543307354d1jpy1euwn" name="Вывести стэк вызовов при возникновении исключения в Python" author="br0ke" url="https://stackoverflow.com/a/16946886/10650942" tags="python, exception, traceback, stack, callstack, print, exc, exc_info, format_exc" ctime="20181127132914" dir="1543307354o9t3xoemgf" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -348,6 +350,10 @@
      <record id="1532938174u2vlh5n4d1" name="Проверить, что массив существует и он не пуст в JavaScript" author="br0ke" url="https://stackoverflow.com/a/11743671" tags="javascript, js, array, size, length, empty, non-empty, undefined, defined, exist, list" ctime="20180730130934" dir="1532938174a7obbqjega" file="text.html"/>
      <record id="1534657895mwyrtgkyzo" name="Конвертировать обычный объект в Map в JavaScript ES6" author="br0ke" url="https://stackoverflow.com/a/36644558" tags="javascript, java script, js, es6, map, object, plain object, convert" ctime="20180819105135" dir="1534657895ltxv91a4u6" file="text.html"/>
      <record id="15394455316oadrvk33u" name="Операции над множествами в JavaScript" author="br0ke" url="http://exploringjs.com/es6/ch_maps-sets.html#_union-intersection-difference" tags="javascipt, js, ecmascript, es, es6, set, sets, union, intersection, difference, operations" ctime="20181013204531" dir="1539445531oqpoa5psnp" file="text.html"/>
+     <record id="15433064658izoa8awzw" name="Создать глубокую копию многомерного массива в JavaScript" author="br0ke" url="https://stackoverflow.com/a/13756775/10650942" tags="javascript, js, java, script, ecma, ecmascript, array, copy, shallow, deep, deepcopy, slice" ctime="20181127131425" dir="1543306465n441ordr16" file="text.html"/>
+     <record id="1543306628etcyhgukil" name="Сравнить два массива в JavaScript" author="br0ke" url="https://stackoverflow.com/a/19746771/10650942" tags="javascript, js, java, script, ecma, ecmascript, compare, cmp, array" ctime="20181127131708" dir="1543306628u34ureihqx" file="text.html"/>
+     <record id="1543306775wgkcgbn36m" name="Получить случайный элемент из массива в JavaScript" author="br0ke" url="https://stackoverflow.com/a/4550514/10650942" tags="javascript, js, java, script, ecma, ecmascript, random, array, item" ctime="20181127131935" dir="1543306775jniblgrvgq" file="text.html"/>
+     <record id="1543306975rqzovb8blb" name="Проверить, что в массиве JavaScript есть элемент, удовлетворяющий условию" author="br0ke" url="https://stackoverflow.com/a/8217584/10650942" tags="javascript, js, java, script, ecma, ecmascript, array, filter, some" ctime="20181127132255" dir="1543306975aqqa2mm55s" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
