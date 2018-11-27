@@ -297,6 +297,7 @@
       <record id="1537593419nmjsyhb7s3" name="Создать контексты для разных неймспейсов в Kubernetes" author="br0ke" url="https://vitalflux.com/kubernetes-create-delete-namespaces-namespaces/" tags="kubernetes, k8s, kube, kubectl, context, contexts, namespace, namespaces, name, space" ctime="20180922101659" dir="1537593419e8histdjcs" file="text.html"/>
       <record id="1537795917ner7ghrgmx" name="Убить под в Kubernetes" author="br0ke" url="https://stackoverflow.com/a/38178833" tags="kubernetes, k8s, kubectl, pod, terminating, delete, kill, force" ctime="20180924183157" dir="15377959179k4xop9fjk" file="text.html"/>
       <record id="1537857232dbud33zw6m" name="livenessProbe и readinessProbe в Kubernetes" author="br0ke" url="https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-probes/" tags="kubernetes, k8s, kube, kubectl, probe, probes, healthcheck, readiness, liveness, health, livenessProbe, readinessProbe, http, tcp" ctime="20180925113352" dir="15378572320qjfrwsl7o" file="text.html"/>
+      <record id="1543307638vu1i5b3xyo" name="kail -- просмотреть логи нескольких подов одновременно в Kubernetes" author="br0ke" url="https://github.com/boz/kail" tags="kubernetes, k8s, kube, log, logs, tail, tailf, kail, pod" ctime="20181127133358" dir="1543307638xkq0wwkm39" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -354,6 +355,7 @@
      <record id="1543306628etcyhgukil" name="Сравнить два массива в JavaScript" author="br0ke" url="https://stackoverflow.com/a/19746771/10650942" tags="javascript, js, java, script, ecma, ecmascript, compare, cmp, array" ctime="20181127131708" dir="1543306628u34ureihqx" file="text.html"/>
      <record id="1543306775wgkcgbn36m" name="Получить случайный элемент из массива в JavaScript" author="br0ke" url="https://stackoverflow.com/a/4550514/10650942" tags="javascript, js, java, script, ecma, ecmascript, random, array, item" ctime="20181127131935" dir="1543306775jniblgrvgq" file="text.html"/>
      <record id="1543306975rqzovb8blb" name="Проверить, что в массиве JavaScript есть элемент, удовлетворяющий условию" author="br0ke" url="https://stackoverflow.com/a/8217584/10650942" tags="javascript, js, java, script, ecma, ecmascript, array, filter, some" ctime="20181127132255" dir="1543306975aqqa2mm55s" file="text.html"/>
+     <record id="1543308388mtjbvfntr1" name="Получить список глобальных переменных в JavaScript" author="br0ke" url="https://stackoverflow.com/a/17276249/10650942" tags="javascript, js, java, script, ecma, ecmascript, globals, global, var, variable, variables, list, windowObject.keys( window );" ctime="20181127134628" dir="15433083885wonetyiqw" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
