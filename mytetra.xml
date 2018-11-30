@@ -271,6 +271,7 @@
       <record id="1521724744exw5ian34l" name="Управление доступом к сайту на основе IP-адресов в nginx" author="br0ke" url="https://serverfault.com/questions/667798/allow-only-local-users-in-nginx" tags="nginx, web, web-server, server, config, allow, deny, network, ip, ip address, address, local, remote" ctime="20180322181904" dir="1521724744n2vy66jwyh" file="text.html"/>
       <record id="1537344420lo3n2fvhpd" name="Динамический резолв имён в proxy_pass в Nginx" author="br0ke" url="https://serverfault.com/a/593003" tags="nginx, web, http, https, proxy, proxy_pass, resolver, dynamic, dynamically, resolve, resolver, dns, variable" ctime="20180919130700" dir="1537344420r12iaqki4o" file="text.html"/>
       <record id="1539599382mf3sg7s0ax" name="Проксирование WebSocket в Nginx" author="br0ke" url="https://nginx.org/ru/docs/http/websocket.html" tags="linux, web, http, https, server, nginx, websocket, ws, proxy, upgrade" ctime="20181015152942" dir="1539599382sh31dzsvyv" file="text.html"/>
+      <record id="15435773067esrf6fgsk" name="Сохранить GET-параметры в proxy_pass с переменными в NGINX" author="br0ke" url="https://stackoverflow.com/a/8130872/10650942" tags="nginx, proxy, pass, proxy_pass, variable, var, url, uri, args, argument, arguments, is_args, get, query, parameter, parameters, param, params" ctime="20181130162826" dir="15435773064a1ca8acxn" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15365877332z0w8zebbp" name="Kubernetes">
