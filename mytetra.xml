@@ -32,6 +32,8 @@
      <record id="1542628983agxnsjgdxn" name="Обновить пакет в PIP" author="br0ke" url="https://stackoverflow.com/a/10440459/10650942" tags="python, pip, package, update, install" ctime="20181119170303" dir="15426289836b9zhv3nqb" file="text.html"/>
      <record id="1543306230ruxkncnadh" name="Получить имя (хостнейм) машины из Python" author="br0ke" url="https://stackoverflow.com/a/4271755/10650942" tags="python, host, name, hostname, socket, gethostname," ctime="20181127131030" dir="15433062306ypjesodcs" file="text.html"/>
      <record id="1543307354d1jpy1euwn" name="Вывести стэк вызовов при возникновении исключения в Python" author="br0ke" url="https://stackoverflow.com/a/16946886/10650942" tags="python, exception, traceback, stack, callstack, print, exc, exc_info, format_exc" ctime="20181127132914" dir="1543307354o9t3xoemgf" file="text.html"/>
+     <record id="1544279289ypbvec2bbi" name="Функция eval в Python" author="br0ke" url="https://docs.python.org/3/library/functions.html#eval" tags="python, eval, evaluate" ctime="20181208192809" dir="1544279289lrpbf3sx7l" file="text.html"/>
+     <record id="1544280159tuus3m0iga" name="Дозаписывать (append) в файл в Python" author="br0ke" url="https://stackoverflow.com/a/4706520/10650942" tags="python, file, output, write, append, open" ctime="20181208194239" dir="1544280159ld0ze9lpjo" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -143,6 +145,7 @@
      <record id="1540563455xqe2husych" name="Использование команды gzip" author="br0ke" url="https://www.lifewire.com/example-uses-of-the-linux-gzip-command-4078675" tags="linux, gzip, zip, compress, uncompress, decompress," ctime="20181026191735" dir="1540563455ll2u88rusk" file="text.html"/>
      <record id="1541058217gl8hvulq6m" name="Использование find в Linux (поиск файлов)" author="br0ke" url="https://www.linode.com/docs/tools-reference/tools/find-files-in-linux-using-the-command-line/" tags="linux, unix, find, search, file, filename, extension, glob" ctime="20181101124337" dir="1541058217x3bruiljmf" file="text.html"/>
      <record id="1541417126x22f8e8lm7" name="Диагностика SSL" author="br0ke" url="https://stackoverflow.com/questions/17742003/debugging-ssl-handshake" tags="ssl, https, debug, troubleshooting, debugging, openssl, curl" ctime="20181105162526" dir="15414171266bfjv4nsmg" file="text.html"/>
+     <record id="15442793651y6zqx8uuq" name="Очистить файл в Linux" author="br0ke" url="bash$ truncate -s 0 myfile.txt" tags="linux, unix, empty, file, truncate" ctime="20181208192925" dir="1544279365opyz1sb332" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
