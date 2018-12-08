@@ -147,6 +147,8 @@
      <record id="1541417126x22f8e8lm7" name="Диагностика SSL" author="br0ke" url="https://stackoverflow.com/questions/17742003/debugging-ssl-handshake" tags="ssl, https, debug, troubleshooting, debugging, openssl, curl" ctime="20181105162526" dir="15414171266bfjv4nsmg" file="text.html"/>
      <record id="15442793651y6zqx8uuq" name="Очистить файл в Linux" author="br0ke" url="bash$ truncate -s 0 myfile.txt" tags="linux, unix, empty, file, truncate" ctime="20181208192925" dir="1544279365opyz1sb332" file="text.html"/>
      <record id="1544281148r7nvys0rv3" name="Перенаправление вывода в bash в Linux" author="br0ke" url="https://www.tldp.org/LDP/abs/html/io-redirection.html" tags="linux, unix, bash, sh, io, redirection, append, stdout, stderr, stdin" ctime="20181208195908" dir="1544281148vtu4evtjvp" file="text.html"/>
+     <record id="1544283355palekkfjfo" name="Записать несколько строк из bash в файл в Linux" author="br0ke" url="https://unix.stackexchange.com/a/77278" tags="linux, unix, bash, multiline, write, stdin, stdout, eot" ctime="20181208203555" dir="1544283355zesdjtu2eq" file="text.html"/>
+     <record id="1544284228nwzgf5xl2a" name="Выделить несколько файлов/директорий в midnight commander (mc)" author="br0ke" url="https://ubuntuforums.org/showthread.php?t=1166646" tags="linux, unix, midnight, commander, midnight commander, mc, select, deselect, multiple, file, files, directory, directories" ctime="20181208205028" dir="154428422869w73gsign" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
