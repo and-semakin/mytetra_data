@@ -146,6 +146,7 @@
      <record id="1541058217gl8hvulq6m" name="Использование find в Linux (поиск файлов)" author="br0ke" url="https://www.linode.com/docs/tools-reference/tools/find-files-in-linux-using-the-command-line/" tags="linux, unix, find, search, file, filename, extension, glob" ctime="20181101124337" dir="1541058217x3bruiljmf" file="text.html"/>
      <record id="1541417126x22f8e8lm7" name="Диагностика SSL" author="br0ke" url="https://stackoverflow.com/questions/17742003/debugging-ssl-handshake" tags="ssl, https, debug, troubleshooting, debugging, openssl, curl" ctime="20181105162526" dir="15414171266bfjv4nsmg" file="text.html"/>
      <record id="15442793651y6zqx8uuq" name="Очистить файл в Linux" author="br0ke" url="bash$ truncate -s 0 myfile.txt" tags="linux, unix, empty, file, truncate" ctime="20181208192925" dir="1544279365opyz1sb332" file="text.html"/>
+     <record id="1544281148r7nvys0rv3" name="Перенаправление вывода в bash в Linux" author="br0ke" url="https://www.tldp.org/LDP/abs/html/io-redirection.html" tags="linux, unix, bash, sh, io, redirection, append, stdout, stderr, stdin" ctime="20181208195908" dir="1544281148vtu4evtjvp" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
