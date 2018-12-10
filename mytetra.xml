@@ -149,6 +149,8 @@
      <record id="1544281148r7nvys0rv3" name="Перенаправление вывода в bash в Linux" author="br0ke" url="https://www.tldp.org/LDP/abs/html/io-redirection.html" tags="linux, unix, bash, sh, io, redirection, append, stdout, stderr, stdin" ctime="20181208195908" dir="1544281148vtu4evtjvp" file="text.html"/>
      <record id="1544283355palekkfjfo" name="Записать несколько строк из bash в файл в Linux" author="br0ke" url="https://unix.stackexchange.com/a/77278" tags="linux, unix, bash, multiline, write, stdin, stdout, eot" ctime="20181208203555" dir="1544283355zesdjtu2eq" file="text.html"/>
      <record id="1544284228nwzgf5xl2a" name="Выделить несколько файлов/директорий в midnight commander (mc)" author="br0ke" url="https://ubuntuforums.org/showthread.php?t=1166646" tags="linux, unix, midnight, commander, midnight commander, mc, select, deselect, multiple, file, files, directory, directories" ctime="20181208205028" dir="154428422869w73gsign" file="text.html"/>
+     <record id="1544444240r6zffs9531" name="Сменить редактор в midnight commander (mc)" author="br0ke" url="https://askubuntu.com/a/486205" tags="linux, unix, cli, mc, midnight, commander, midnight commander, file, manager, editor, nano, mcedit, select-editor" ctime="20181210171720" dir="1544444240ulan7d8ydf" file="text.html"/>
+     <record id="15444443314ifyzvj84c" name="Добавить номера строк к выводу cat" author="br0ke" url="https://www.cyberciti.biz/faq/cat-line-numbers-and-ranges-under-unix-linux/" tags="linux, unix, cat, cli, line, number" ctime="20181210171851" dir="1544444331ux59t0i25l" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -226,6 +228,7 @@
       <record id="1540023345r6hqmttyu3" name="SSLH -- скрыть несколько сервисов за одним портом в Linux" author="br0ke" url="https://github.com/yrutschle/sslh" tags="linux, ubuntu, sslh, ssl, ssh, https, openvpn, tinc, xmpp, http, tls, anyprot, mtproto, proxy, multiplexer, demultiplexer, sslh-select" ctime="20181020131545" dir="1540023345qcmj1s5a3j" file="text.html"/>
       <record id="1541493261zyzb8hobof" name="Показать список зависимостей пакета в Debian или Ubuntu" author="br0ke" url="https://serverfault.com/a/577951" tags="linux, debian, ubuntu, apt, apt-get, deb, depends, dependencies, dependency, package, apt-cache" ctime="20181106133421" dir="1541493261ut79lwlq9e" file="text.html"/>
       <record id="1542194747uu3zvom6y1" name="Установить pgcli на Debian/Ubuntu" author="br0ke" url="https://github.com/dbcli/pgcli" tags="linux, ubuntu, debian, apt, apt-get, install, util, utility, tool, postgresql, postgres, postgre, psql, pgcli, pg, cli" ctime="20181114162547" dir="1542194747q7uo9thfwd" file="text.html"/>
+      <record id="1544444052lcfxn7zjg5" name="Запустить 32-битную программу на 64-битной Ubuntu" author="br0ke" url="https://askubuntu.com/a/454452" tags="linux, ubuntu, 32-bit, 64-bit, 32, 64, 32bit, 64bit, arch, multiarch, dpkg, add-architecture, libc, libncurses, curses, ncurses, libstdc" ctime="20181210171412" dir="1544444052tb0sqxiylz" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
