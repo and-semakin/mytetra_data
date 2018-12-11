@@ -8,6 +8,7 @@
     <record id="1521525704nlepyyeesy" name="Zeal -- просмотр документации оффлайн" author="br0ke" url="https://zealdocs.org/" tags="zeal, doc, docs, documentation, man, manual, dev, development, admin, administration" ctime="20180320110144" dir="1521525704sp8ff4p59o" file="text.html"/>
     <record id="1525420179xrq5cyczix" name="Схема для определения правильной кодировки текста" author="br0ke" url="" tags="text, encoding, unicode, кракозябры" ctime="20180504124939" dir="1525420179nil28tsjt4" file="text.html"/>
     <record id="1526829184r5da41sxmn" name="6 основных принципов REST API" author="br0ke" url="https://restfulapi.net/" tags="api, rest, restful, http, client-server, stateless, cacheable" ctime="20180520201304" dir="15268291844d4dnpmz4l" file="text.html"/>
+    <record id="1544517154285g2qeogc" name="Горячие клавиши PyCharm" author="br0ke" url="" tags="pycharm, jetbrains, hotkey, hot, key, keys" ctime="20181211133234" dir="15445171549d9802dsin" file="text.html"/>
    </recordtable>
    <node crypt="" id="1515157235tlugwd7m1n" name="Python">
     <recordtable>
