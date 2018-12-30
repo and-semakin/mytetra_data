@@ -551,11 +551,13 @@
      <recordtable>
       <record id="15461515569pvsn72zjr" name="Машинное обучение, нейронные сети" author="br0ke" url="" tags="education, edu, ml, nn, ai, machine learning, deep learning, neural network" ctime="20181230232826" dir="15461515567a8rvaaf27" file="text.html"/>
       <record id="1546194719cn76wuk0ej" name="Верховный алгоритм. Педро Домингос" author="br0ke" url="https://t.me/bzd_channel/1306" tags="machine learning, ml, book, ai, neural network, nn" ctime="20181230233159" dir="1546194719oh6i3j8k22" file="text.html"/>
+      <record id="1546195011nb5sd8iyuo" name="Machine Learning, Henrik Brink, Joseph W. Richards, Mark Fatherolf" author="br0ke" url="https://t.me/bzd_channel/1670" tags="machine learning, ml, book" ctime="20181230233651" dir="1546195011v2syll7t1d" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="154619459180eefccvz4" name="Книги по Unix/Linux">
      <recordtable>
       <record id="1546194638a9l19fkn1d" name="Операционная система Unix. Робачевский А., Немнюгин С., Стесик О." author="br0ke" url="https://t.me/bzd_channel/893" tags="linux, unix, book" ctime="20181230233038" dir="1546194638rm8mkex5pm" file="text.html"/>
+      <record id="15461949532rmn9kkh2j" name="Командная строка Linux. Уильям Шоттс" author="br0ke" url="https://t.me/bzd_channel/2265" tags="linux, unix, book, sh, bash, cli" ctime="20181230233553" dir="15461949535csb433gy6" file="text.html"/>
      </recordtable>
     </node>
    </node>
