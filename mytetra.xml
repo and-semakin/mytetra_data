@@ -370,6 +370,7 @@
      <record id="1543306975rqzovb8blb" name="Проверить, что в массиве JavaScript есть элемент, удовлетворяющий условию" author="br0ke" url="https://stackoverflow.com/a/8217584/10650942" tags="javascript, js, java, script, ecma, ecmascript, array, filter, some" ctime="20181127132255" dir="1543306975aqqa2mm55s" file="text.html"/>
      <record id="1543308388mtjbvfntr1" name="Получить список глобальных переменных в JavaScript" author="br0ke" url="https://stackoverflow.com/a/17276249/10650942" tags="javascript, js, java, script, ecma, ecmascript, globals, global, var, variable, variables, list, windowObject.keys( window );" ctime="20181127134628" dir="15433083885wonetyiqw" file="text.html"/>
      <record id="1543495322vfcqvylvog" name="Вывести стек вызовов в JavaScript" author="br0ke" url="https://developer.mozilla.org/en-US/docs/Web/API/console#Stack_traces" tags="javascript, js, java, script, ecma, ecmascript, stack, trace, stacktrace, callstack, backtrace, console, console.trace" ctime="20181129174202" dir="15434953220kxxeivc32" file="text.html"/>
+     <record id="1546157568ltzwgfwzsm" name="Многострочные строки в JavaScript" author="br0ke" url="https://stackoverflow.com/a/805113/10650942" tags="javascript, js, ecmascript, ecma, es, string, str, multiline, multi, line" ctime="20181230131248" dir="1546157568gw027te8iv" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
@@ -545,6 +546,7 @@
    <node crypt="" id="154615150179k52jkcge" name="Самообразование">
     <recordtable>
      <record id="15461515569pvsn72zjr" name="Машинное обучение, нейронные сети" author="br0ke" url="" tags="education, edu, ml, nn, ai, machine learning, deep learning, neural network" ctime="20181230113236" dir="15461515567a8rvaaf27" file="text.html"/>
+     <record id="1546157813yinrbnd1a7" name="Книги по Python" author="br0ke" url="" tags="education, edu, book, books, python" ctime="20181230131653" dir="1546157813iopx05cckl" file="text.html"/>
     </recordtable>
    </node>
   </node>
