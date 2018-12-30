@@ -545,9 +545,19 @@
    </node>
    <node crypt="" id="154615150179k52jkcge" name="Самообразование">
     <recordtable>
-     <record id="15461515569pvsn72zjr" name="Машинное обучение, нейронные сети" author="br0ke" url="" tags="education, edu, ml, nn, ai, machine learning, deep learning, neural network" ctime="20181230113236" dir="15461515567a8rvaaf27" file="text.html"/>
      <record id="1546157813yinrbnd1a7" name="Книги по Python" author="br0ke" url="" tags="education, edu, book, books, python" ctime="20181230131653" dir="1546157813iopx05cckl" file="text.html"/>
     </recordtable>
+    <node crypt="" id="15461945006wl6c2hd1y" name="Книги по AI, ML, NN">
+     <recordtable>
+      <record id="15461515569pvsn72zjr" name="Машинное обучение, нейронные сети" author="br0ke" url="" tags="education, edu, ml, nn, ai, machine learning, deep learning, neural network" ctime="20181230232826" dir="15461515567a8rvaaf27" file="text.html"/>
+      <record id="1546194719cn76wuk0ej" name="Верховный алгоритм. Педро Домингос" author="br0ke" url="https://t.me/bzd_channel/1306" tags="machine learning, ml, book, ai, neural network, nn" ctime="20181230233159" dir="1546194719oh6i3j8k22" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="154619459180eefccvz4" name="Книги по Unix/Linux">
+     <recordtable>
+      <record id="1546194638a9l19fkn1d" name="Операционная система Unix. Робачевский А., Немнюгин С., Стесик О." author="br0ke" url="https://t.me/bzd_channel/893" tags="linux, unix, book" ctime="20181230233038" dir="1546194638rm8mkex5pm" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="1" icon="" id="1515157307flh6xgthk0" name="UkM1U0lNUANG7qohgJUhhhy5T4sqBOxezO3aIvviN7q11Vo2YTCtj5xJnqK98znVRMrM4uf32fI=">
