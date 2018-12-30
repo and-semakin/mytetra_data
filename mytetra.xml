@@ -187,6 +187,7 @@
       <record id="1536996073mv0vp744d5" name="Установить VirtualBox на Fedora" author="br0ke" url="https://www.if-not-true-then-false.com/2010/install-virtualbox-with-yum-on-fedora-centos-red-hat-rhel/" tags="linux, fedora, install, dnf, virtualbox, virtual, box, oracle, virtualization" ctime="20180915122113" dir="1536996073kh2o169mzs" file="text.html"/>
       <record id="1537159723mhy5s4kxy8" name="Установить Google Cloud SDK (+kubectl) на Fedora" author="br0ke" url="https://cloud.google.com/sdk/docs/downloads-yum" tags="linux, fedora, centos, install, yum, dnf, google, cloud, sdk, google cloud, k8s, kubernetes, kubectl, gcloud" ctime="20180917094843" dir="15371597232omnk9ze26" file="text.html"/>
       <record id="1540231596ewshgpg1s0" name="Установить Filezilla на Fedora" author="br0ke" url="https://www.linuxtechi.com/install-filezilla-3-x-debian-9-fedora-26/" tags="linux, fedora, install, filezilla, ftp, client" ctime="20181022230636" dir="1540231596i4fm3x9n48" file="text.html"/>
+      <record id="1546155047zz0y3bpxwf" name="Установить Oracle Java в Fedora" author="br0ke" url="https://www.if-not-true-then-false.com/2014/install-oracle-java-8-on-fedora-centos-rhel/" tags="linux, fedora, rhel, centos, oracle, sun, java, jre, jdk, openjre, openjdk, install, javaws, javac," ctime="20181230123047" dir="1546155047fzd5jykwzk" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
@@ -415,6 +416,11 @@
       <record id="1533805924zhfi7ucmzn" name="Отключить проверку определенного правила в строке в ESLint" author="br0ke" url="https://stackoverflow.com/a/29592334" tags="javascript, js, es, ecmascript, linter, eslint" ctime="20180809141204" dir="1533805924v7vshuc19c" file="text.html"/>
       <record id="1540456246pjgfxt8owe" name="Отключить проверку блока кода в ESLint" author="br0ke" url="https://eslint.org/docs/user-guide/configuring" tags="javascript, js, java script, es, ecmascript, eslint, lint, linter, disable, rule, block" ctime="20181025133046" dir="1540456246g9le8lmby3" file="text.html"/>
       <record id="1540456490x9rwqizulu" name="Показать статистику по ошибкам в ESLint" author="br0ke" url="https://www.npmjs.com/package/eslint-stats" tags="javascript, js, java script, es, ecmascript, eslint, eslint-stats, stats, error, warning, counter, linter, lint" ctime="20181025133450" dir="1540456490rz47u102pc" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1546155382htmbiitjuy" name="babel">
+     <recordtable>
+      <record id="1546155785f9hxvalbac" name="Ошибка &quot;regeneratorRuntime is not defined&quot; в Babel" author="br0ke" url="https://stackoverflow.com/a/36821986/10650942" tags="javascript, js, ecma, ecmascript, es, babel, babeljs, babelrc, async, await, regenerator, runtime, polyfill, browserslist, package, package.json" ctime="20181230124305" dir="15461557851w437mlhlg" file="text.html"/>
      </recordtable>
     </node>
    </node>
