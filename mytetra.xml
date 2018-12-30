@@ -533,7 +533,12 @@
   <node crypt="" id="1515157294sghf4nljni" name="Саморазвитие">
    <node crypt="" id="151668929830bhhf4ukr" name="Организованность">
     <recordtable>
-     <record id="151668976928264q69il" name="Принципи ведения базы знаний" author="br0ke" url="http://telegra.ph/Baza-znanij-v-programmistskom-stile-01-17" tags="база знаний, принципы, быстрый поиск, поиск, знания, организация, организованность" ctime="20180123114249" dir="1516689769yr71xw50na" file="text.html"/>
+     <record id="151668976928264q69il" name="Принципы ведения базы знаний" author="br0ke" url="http://telegra.ph/Baza-znanij-v-programmistskom-stile-01-17" tags="база знаний, принципы, быстрый поиск, поиск, знания, организация, организованность" ctime="20180123114249" dir="1516689769yr71xw50na" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="154615150179k52jkcge" name="Самообразование">
+    <recordtable>
+     <record id="15461515569pvsn72zjr" name="Машинное обучение, нейронные сети" author="br0ke" url="" tags="education, edu, ml, nn, ai, machine learning, deep learning, neural network" ctime="20181230113236" dir="15461515567a8rvaaf27" file="text.html"/>
     </recordtable>
    </node>
   </node>
