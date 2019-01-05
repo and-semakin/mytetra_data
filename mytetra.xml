@@ -35,6 +35,7 @@
      <record id="1543307354d1jpy1euwn" name="Вывести стэк вызовов при возникновении исключения в Python" author="br0ke" url="https://stackoverflow.com/a/16946886/10650942" tags="python, exception, traceback, stack, callstack, print, exc, exc_info, format_exc" ctime="20181127132914" dir="1543307354o9t3xoemgf" file="text.html"/>
      <record id="1544279289ypbvec2bbi" name="Функция eval в Python" author="br0ke" url="https://docs.python.org/3/library/functions.html#eval" tags="python, eval, evaluate" ctime="20181208192809" dir="1544279289lrpbf3sx7l" file="text.html"/>
      <record id="1544280159tuus3m0iga" name="Дозаписывать (append) в файл в Python" author="br0ke" url="https://stackoverflow.com/a/4706520/10650942" tags="python, file, output, write, append, open" ctime="20181208194239" dir="1544280159ld0ze9lpjo" file="text.html"/>
+     <record id="1546686879kng0lqqmnn" name="Препроцессинг кода в Python" author="br0ke" url="https://maxpoletaev.ru/blog/python-preprocessing/" tags="python, preprocessing, coding, fun" ctime="20190105161439" dir="1546686879naw8s6p6i5" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -571,6 +572,7 @@
       <record id="1546685502q4cgepuui2" name="Kernel 101. Let's write a kernel" author="br0ke" url="https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel" tags="programming, os, develop, development, c, assembly, asm, grub" ctime="20190105155142" dir="1546685502em3nqrfskc" file="text.html"/>
       <record id="1546685729iqmbep9kjl" name="Kernel 201. Let's write a kernel with keyboard and screen support" author="br0ke" url="https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard" tags="programming, os, develop, development, c, assembly, asm, grub, keyboard, screen" ctime="20190105155529" dir="1546685729bioerqoefc" file="text.html"/>
       <record id="1546686502lfxuuo2nhx" name="Ежедневные задачи по Python, JavaScript" author="br0ke" url="https://edabit.com/challenges/python3" tags="edabit, programming, challenge, practise, python, javascript, js" ctime="20190105160822" dir="1546686502o85c2c5f3i" file="text.html"/>
+      <record id="1546687271yzkyt87slm" name="Книга. Pro Git на русском" author="br0ke" url="https://t.me/bykvaadm/779" tags="book, git, programming, pro, progit, version, control, system, vcs" ctime="20190105162111" dir="1546687271tz8fi07nik" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1546685062dawv576nqs" name="Information Security">
