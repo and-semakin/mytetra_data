@@ -569,6 +569,8 @@
       <record id="1546684591c1tlpomj6d" name="Stepik. Python: основы и применение" author="br0ke" url="https://stepik.org/course/512/" tags="stepik, course, python, programming" ctime="20190105153631" dir="15466845911nmhwayzli" file="text.html"/>
       <record id="15466846442696itmkri" name="Stepik. Практикум по математике и Python" author="br0ke" url="https://stepik.org/course/3356/" tags="stepik, course, math, python, programming" ctime="20190105153724" dir="154668464473im8cmlh7" file="text.html"/>
       <record id="1546685502q4cgepuui2" name="Kernel 101. Let's write a kernel" author="br0ke" url="https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel" tags="programming, os, develop, development, c, assembly, asm, grub" ctime="20190105155142" dir="1546685502em3nqrfskc" file="text.html"/>
+      <record id="1546685729iqmbep9kjl" name="Kernel 201. Let's write a kernel with keyboard and screen support" author="br0ke" url="https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard" tags="programming, os, develop, development, c, assembly, asm, grub, keyboard, screen" ctime="20190105155529" dir="1546685729bioerqoefc" file="text.html"/>
+      <record id="1546686502lfxuuo2nhx" name="Ежедневные задачи по Python, JavaScript" author="br0ke" url="https://edabit.com/challenges/python3" tags="edabit, programming, challenge, practise, python, javascript, js" ctime="20190105160822" dir="1546686502o85c2c5f3i" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1546685062dawv576nqs" name="Information Security">
