@@ -549,6 +549,7 @@
       <record id="15461515569pvsn72zjr" name="Машинное обучение, нейронные сети" author="br0ke" url="" tags="education, edu, ml, nn, ai, machine learning, deep learning, neural network" ctime="20181230232826" dir="15461515567a8rvaaf27" file="text.html"/>
       <record id="1546194719cn76wuk0ej" name="Верховный алгоритм. Педро Домингос" author="br0ke" url="https://t.me/bzd_channel/1306" tags="machine learning, ml, book, ai, neural network, nn" ctime="20181230233159" dir="1546194719oh6i3j8k22" file="text.html"/>
       <record id="1546195011nb5sd8iyuo" name="Machine Learning, Henrik Brink, Joseph W. Richards, Mark Fatherolf" author="br0ke" url="https://t.me/bzd_channel/1670" tags="machine learning, ml, book" ctime="20181230233651" dir="1546195011v2syll7t1d" file="text.html"/>
+      <record id="15466847200bo532j4us" name="Stepik. Нейронные сети" author="br0ke" url="https://stepik.org/course/401" tags="stepik, course, nn, neuron, neural, network, neural network, ml" ctime="20190105153840" dir="1546684720rtm1f4uio1" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="154619459180eefccvz4" name="Книги по Unix/Linux">
@@ -557,7 +558,14 @@
       <record id="15461949532rmn9kkh2j" name="Командная строка Linux. Уильям Шоттс" author="br0ke" url="https://t.me/bzd_channel/2265" tags="linux, unix, book, sh, bash, cli" ctime="20181230233553" dir="15461949535csb433gy6" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1546671206qa65qg5aqh" name="Программирование"/>
+    <node crypt="" id="1546671206qa65qg5aqh" name="Программирование">
+     <recordtable>
+      <record id="1546684406lp7agmotv1" name="Stepik. Введение в дискретную математику" author="br0ke" url="https://stepik.org/course/902" tags="stepik, course, video, math" ctime="20190105153326" dir="154668440611t02mycs5" file="text.html"/>
+      <record id="1546684516ihf9o12u4x" name="Stepik. Алгоритмы" author="br0ke" url="https://stepik.org/course/217/syllabus" tags="stepik, course, programming, cpp, algorithm" ctime="20190105153516" dir="1546684516b33id0lhtg" file="text.html"/>
+      <record id="1546684591c1tlpomj6d" name="Stepik. Python: основы и применение" author="br0ke" url="https://stepik.org/course/512/" tags="stepik, course, python, programming" ctime="20190105153631" dir="15466845911nmhwayzli" file="text.html"/>
+      <record id="15466846442696itmkri" name="Stepik. Практикум по математике и Python" author="br0ke" url="https://stepik.org/course/3356/" tags="stepik, course, math, python, programming" ctime="20190105153724" dir="154668464473im8cmlh7" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="1" icon="" id="1515157307flh6xgthk0" name="UkM1U0lNUANG7qohgJUhhhy5T4sqBOxezO3aIvviN7q11Vo2YTCtj5xJnqK98znVRMrM4uf32fI=">
