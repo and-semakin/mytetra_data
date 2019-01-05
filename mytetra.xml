@@ -501,6 +501,9 @@
     </node>
    </node>
    <node crypt="" id="1523515785901tya9bqq" name="Паттерны проектирования (ООП)">
+    <recordtable>
+     <record id="1546685242gg7v07bw6g" name="Сайты с красивым описанием паттернов проектирования" author="br0ke" url="https://refactoring.guru/ru" tags="pattern, patterns, software, programming" ctime="20190105154722" dir="15466852427zkzj1my61" file="text.html"/>
+    </recordtable>
     <node crypt="" id="1523515855o0psdjisfo" name="Порождающие"/>
     <node crypt="" id="1523515863xo3vn8f8cg" name="Структурные">
      <recordtable>
@@ -552,10 +555,11 @@
       <record id="15466847200bo532j4us" name="Stepik. Нейронные сети" author="br0ke" url="https://stepik.org/course/401" tags="stepik, course, nn, neuron, neural, network, neural network, ml" ctime="20190105153840" dir="1546684720rtm1f4uio1" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="154619459180eefccvz4" name="Книги по Unix/Linux">
+    <node crypt="" id="154619459180eefccvz4" name="Администрирование (ОС, сети)">
      <recordtable>
       <record id="1546194638a9l19fkn1d" name="Операционная система Unix. Робачевский А., Немнюгин С., Стесик О." author="br0ke" url="https://t.me/bzd_channel/893" tags="linux, unix, book" ctime="20181230233038" dir="1546194638rm8mkex5pm" file="text.html"/>
       <record id="15461949532rmn9kkh2j" name="Командная строка Linux. Уильям Шоттс" author="br0ke" url="https://t.me/bzd_channel/2265" tags="linux, unix, book, sh, bash, cli" ctime="20181230233553" dir="15461949535csb433gy6" file="text.html"/>
+      <record id="1546685349plt4ocmtxy" name="Курс молодого бойца. Практический курс с использованием Cisco Packet Tracer" author="br0ke" url="http://blog.netskills.ru/p/cisco-packet-tracer.html" tags="cisco, course, network, networks, networking, switch, router, osi, packer, tracer, packer tracer" ctime="20190105154909" dir="1546685349vehcj2t51p" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1546671206qa65qg5aqh" name="Программирование">
@@ -564,6 +568,12 @@
       <record id="1546684516ihf9o12u4x" name="Stepik. Алгоритмы" author="br0ke" url="https://stepik.org/course/217/syllabus" tags="stepik, course, programming, cpp, algorithm" ctime="20190105153516" dir="1546684516b33id0lhtg" file="text.html"/>
       <record id="1546684591c1tlpomj6d" name="Stepik. Python: основы и применение" author="br0ke" url="https://stepik.org/course/512/" tags="stepik, course, python, programming" ctime="20190105153631" dir="15466845911nmhwayzli" file="text.html"/>
       <record id="15466846442696itmkri" name="Stepik. Практикум по математике и Python" author="br0ke" url="https://stepik.org/course/3356/" tags="stepik, course, math, python, programming" ctime="20190105153724" dir="154668464473im8cmlh7" file="text.html"/>
+      <record id="1546685502q4cgepuui2" name="Kernel 101. Let's write a kernel" author="br0ke" url="https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel" tags="programming, os, develop, development, c, assembly, asm, grub" ctime="20190105155142" dir="1546685502em3nqrfskc" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1546685062dawv576nqs" name="Information Security">
+     <recordtable>
+      <record id="15466851105zsk16f5zi" name="Сайт с задачами на взлом: root-me.org" author="br0ke" url="https://www.root-me.org/?lang=en" tags="security, infosec, hack, hacking, root, root-me, me" ctime="20190105154510" dir="1546685110hf2drn1dar" file="text.html"/>
      </recordtable>
     </node>
    </node>
