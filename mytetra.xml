@@ -189,6 +189,7 @@
       <record id="1537159723mhy5s4kxy8" name="Установить Google Cloud SDK (+kubectl) на Fedora" author="br0ke" url="https://cloud.google.com/sdk/docs/downloads-yum" tags="linux, fedora, centos, install, yum, dnf, google, cloud, sdk, google cloud, k8s, kubernetes, kubectl, gcloud" ctime="20180917094843" dir="15371597232omnk9ze26" file="text.html"/>
       <record id="1540231596ewshgpg1s0" name="Установить Filezilla на Fedora" author="br0ke" url="https://www.linuxtechi.com/install-filezilla-3-x-debian-9-fedora-26/" tags="linux, fedora, install, filezilla, ftp, client" ctime="20181022230636" dir="1540231596i4fm3x9n48" file="text.html"/>
       <record id="1546155047zz0y3bpxwf" name="Установить Oracle Java в Fedora" author="br0ke" url="https://www.if-not-true-then-false.com/2014/install-oracle-java-8-on-fedora-centos-rhel/" tags="linux, fedora, rhel, centos, oracle, sun, java, jre, jdk, openjre, openjdk, install, javaws, javac," ctime="20181230123047" dir="1546155047fzd5jykwzk" file="text.html"/>
+      <record id="15470225353h1yhaa02c" name="Установить OpenJDK/OpenJRE на Fedora" author="br0ke" url="https://stackoverflow.com/a/5407850/10650942" tags="linux, fedora, install, java, javac, openjre, openjdk, yum" ctime="20190109132855" dir="1547022535ikfonegzvc" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
@@ -272,6 +273,7 @@
       <record id="1536826609e8d34ntzrh" name="Вывести только определенные столбцы docker ps" author="br0ke" url="https://docs.docker.com/engine/reference/commandline/ps/#formatting" tags="docker, ps, output, columns, column, format" ctime="20180913131649" dir="153682660904kuunxd2s" file="text.html"/>
       <record id="1537357810mac8wktqdd" name="Аналог sleep infinity для Alpine" author="br0ke" url="https://stackoverflow.com/a/39729598" tags="linux, docker, alpine, sleep, infinity" ctime="20180919165010" dir="15373578107k1x31gk5m" file="text.html"/>
       <record id="15395147318lvi8emlfo" name="Установить psycopg2 в Alpine" author="br0ke" url="https://github.com/psycopg/psycopg2/issues/684#issuecomment-392015532" tags="linux, docker, dockerfile, alpine, python, postgresql, postgres, postgre, psycopg, psycopg2, aiopg" ctime="20181014155851" dir="1539514731v4cs0livvw" file="text.html"/>
+      <record id="1547023314t2f3a1tph0" name="Удалить неиспользуемые данные -- docker system prune" author="br0ke" url="https://docs.docker.com/engine/reference/commandline/system_prune/" tags="linux, docker, prune" ctime="20190109134154" dir="1547023314ydhg006hvr" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
