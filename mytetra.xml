@@ -191,6 +191,7 @@
       <record id="1546155047zz0y3bpxwf" name="Установить Oracle Java в Fedora" author="br0ke" url="https://www.if-not-true-then-false.com/2014/install-oracle-java-8-on-fedora-centos-rhel/" tags="linux, fedora, rhel, centos, oracle, sun, java, jre, jdk, openjre, openjdk, install, javaws, javac," ctime="20181230123047" dir="1546155047fzd5jykwzk" file="text.html"/>
       <record id="15470225353h1yhaa02c" name="Установить OpenJDK/OpenJRE на Fedora" author="br0ke" url="https://stackoverflow.com/a/5407850/10650942" tags="linux, fedora, install, java, javac, openjre, openjdk, yum" ctime="20190109132855" dir="1547022535ikfonegzvc" file="text.html"/>
       <record id="154745895460o5j2sni4" name="Установить Gnome Tweak Tool в Fedora" author="br0ke" url="https://linuxhint.com/install-gnome-tweak-tool-fedora-27/" tags="linux, fedora, gnome, tweak, tweaks, gnome tweak tool, gnome-tweak-tool" ctime="20190114144234" dir="1547458954jinqgc4jp5" file="text.html"/>
+      <record id="1547722274bsmja23oac" name="Установить pgcli на Fedora" author="br0ke" url="https://www.pgcli.com/install" tags="linux, fedora, install, pgcli, postgresql, postgres, postgre, cli, psql" ctime="20190117155114" dir="15477222742p182xcik7" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
