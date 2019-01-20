@@ -153,6 +153,7 @@
      <record id="1544284228nwzgf5xl2a" name="Выделить несколько файлов/директорий в midnight commander (mc)" author="br0ke" url="https://ubuntuforums.org/showthread.php?t=1166646" tags="linux, unix, midnight, commander, midnight commander, mc, select, deselect, multiple, file, files, directory, directories" ctime="20181208205028" dir="154428422869w73gsign" file="text.html"/>
      <record id="1544444240r6zffs9531" name="Сменить редактор в midnight commander (mc)" author="br0ke" url="https://askubuntu.com/a/486205" tags="linux, unix, cli, mc, midnight, commander, midnight commander, file, manager, editor, nano, mcedit, select-editor" ctime="20181210171720" dir="1544444240ulan7d8ydf" file="text.html"/>
      <record id="15444443314ifyzvj84c" name="Добавить номера строк к выводу cat" author="br0ke" url="https://www.cyberciti.biz/faq/cat-line-numbers-and-ranges-under-unix-linux/" tags="linux, unix, cat, cli, line, number" ctime="20181210171851" dir="1544444331ux59t0i25l" file="text.html"/>
+     <record id="1547985984f7sdee60hn" name="Вывести разрешения на файлы в восьмеричном формате в Linux" author="br0ke" url="https://askubuntu.com/a/152003" tags="linux, file, permission, rwx, octal, stat, ls, ll, ls -l" ctime="20190120170624" dir="1547985984pkt5sffyx8" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
