@@ -154,6 +154,7 @@
      <record id="1544444240r6zffs9531" name="Сменить редактор в midnight commander (mc)" author="br0ke" url="https://askubuntu.com/a/486205" tags="linux, unix, cli, mc, midnight, commander, midnight commander, file, manager, editor, nano, mcedit, select-editor" ctime="20181210171720" dir="1544444240ulan7d8ydf" file="text.html"/>
      <record id="15444443314ifyzvj84c" name="Добавить номера строк к выводу cat" author="br0ke" url="https://www.cyberciti.biz/faq/cat-line-numbers-and-ranges-under-unix-linux/" tags="linux, unix, cat, cli, line, number" ctime="20181210171851" dir="1544444331ux59t0i25l" file="text.html"/>
      <record id="1547985984f7sdee60hn" name="Вывести разрешения на файлы в восьмеричном формате в Linux" author="br0ke" url="https://askubuntu.com/a/152003" tags="linux, file, permission, rwx, octal, stat, ls, ll, ls -l" ctime="20190120170624" dir="1547985984pkt5sffyx8" file="text.html"/>
+     <record id="1547989506nun3qjnmgz" name="Не работает переключение окон в обратном порядке (Alt+Shift+Tab) в Gnome" author="br0ke" url="https://www.guyrutenberg.com/2015/10/02/gnome-altshift-and-altshifttab/" tags="linux, gnome, desktop, switch, windows, alt, tab, shift, hotkey, alt+tab, alt+shift+tab" ctime="20190120180506" dir="1547989506n9j7af4wpo" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -248,6 +249,7 @@
       <record id="1542030152dqzahf80rx" name="Бесконечный цикл в Fish" author="br0ke" url="https://fishshell.com/docs/current/tutorial.html" tags="linux, shell, fish, sh, loop, infinite, infinity, while, true" ctime="20181112184232" dir="1542030152tq3pb5i09e" file="text.html"/>
       <record id="15420891555b8rl2jaie" name="Определить переменную окружения для команды в Fish" author="br0ke" url="https://fishshell.com/docs/2.2/faq.html#faq-single-env" tags="linux, fish, shell, sh, env, var, envvar, environment, variable" ctime="20181113110555" dir="15420891555se7pisn3t" file="text.html"/>
       <record id="15436057916ocqi2lby2" name="Установить PATH навсегда в Fish" author="br0ke" url="https://github.com/fish-shell/fish-shell/issues/527#issuecomment-12435368" tags="linux, fish, shell, bash, sh, path, env, set, persistent, permanent" ctime="20181201002311" dir="1543605791myu5bdh1t1" file="text.html"/>
+      <record id="1547989141e173po7vn4" name="Аналог .bashrc в Fish" author="br0ke" url="https://fishshell.com/docs/current/faq.html" tags="linux, unix, fish, shell, fishshell, sh, bash" ctime="20190120175901" dir="1547989141d6fkaa6sgw" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
