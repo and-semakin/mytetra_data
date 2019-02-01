@@ -194,6 +194,7 @@
       <record id="15470225353h1yhaa02c" name="Установить OpenJDK/OpenJRE на Fedora" author="br0ke" url="https://stackoverflow.com/a/5407850/10650942" tags="linux, fedora, install, java, javac, openjre, openjdk, yum" ctime="20190109132855" dir="1547022535ikfonegzvc" file="text.html"/>
       <record id="154745895460o5j2sni4" name="Установить Gnome Tweak Tool в Fedora" author="br0ke" url="https://linuxhint.com/install-gnome-tweak-tool-fedora-27/" tags="linux, fedora, gnome, tweak, tweaks, gnome tweak tool, gnome-tweak-tool" ctime="20190114144234" dir="1547458954jinqgc4jp5" file="text.html"/>
       <record id="1547722274bsmja23oac" name="Установить pgcli на Fedora" author="br0ke" url="https://www.pgcli.com/install" tags="linux, fedora, install, pgcli, postgresql, postgres, postgre, cli, psql" ctime="20190117155114" dir="15477222742p182xcik7" file="text.html"/>
+      <record id="1548999505dqnw9h9nkk" name="Установить комилятор Haskell на Fedora" author="br0ke" url="https://www.haskell.org/platform/#linux-fedora" tags="linux, fedora, dnf, install, haskell, platform, ghc, ghci, compiler, glasgow" ctime="20190201103825" dir="1548999505qo5sg95clj" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
@@ -237,6 +238,7 @@
       <record id="1541493261zyzb8hobof" name="Показать список зависимостей пакета в Debian или Ubuntu" author="br0ke" url="https://serverfault.com/a/577951" tags="linux, debian, ubuntu, apt, apt-get, deb, depends, dependencies, dependency, package, apt-cache" ctime="20181106133421" dir="1541493261ut79lwlq9e" file="text.html"/>
       <record id="1542194747uu3zvom6y1" name="Установить pgcli на Debian/Ubuntu" author="br0ke" url="https://github.com/dbcli/pgcli" tags="linux, ubuntu, debian, apt, apt-get, install, util, utility, tool, postgresql, postgres, postgre, psql, pgcli, pg, cli" ctime="20181114162547" dir="1542194747q7uo9thfwd" file="text.html"/>
       <record id="1544444052lcfxn7zjg5" name="Запустить 32-битную программу на 64-битной Ubuntu" author="br0ke" url="https://askubuntu.com/a/454452" tags="linux, ubuntu, 32-bit, 64-bit, 32, 64, 32bit, 64bit, arch, multiarch, dpkg, add-architecture, libc, libncurses, curses, ncurses, libstdc" ctime="20181210171412" dir="1544444052tb0sqxiylz" file="text.html"/>
+      <record id="15489995437aic8rz3x7" name="Установить комилятор Haskell на Ubuntu" author="br0ke" url="https://www.haskell.org/platform/#linux-ubuntu" tags="linux, fedora, apt, apt-get, install, haskell, platform, ghc, ghci, compiler, glasgow" ctime="20190201103903" dir="1548999543f1oiydfng0" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash"/>
@@ -544,6 +546,12 @@
      <record id="1528139621z6a5q5azkt" name="Обновить веб-интерфейс VMware ESXi Host Client" author="br0ke" url="https://kb.vmware.com/s/article/2008939" tags="virtualization, vmware, esxi, web, host-client, vib, install" ctime="20180605001341" dir="1528139621lqwpzuo8zq" file="text.html"/>
      <record id="15302141121pcwu3zt1a" name="Включить Maintenance Mode в ESXi через SSH" author="br0ke" url="https://pubs.vmware.com/vsphere-6-5/index.jsp?topic=%2Fcom.vmware.vcli.examples.doc%2FGUID-8B7791B1-8CFF-48AE-A4B2-0464867ECE1F.html" tags="vmware, esxi, esxcli, ssh, maintenance, mode" ctime="20180629002832" dir="1530214112iu4dkhdu46" file="text.html"/>
      <record id="1536592822r7es09nsfp" name="Скачать готовые образы виртуальных машин для VirtualBox и VMware" author="br0ke" url="https://www.osboxes.org/virtualbox-images/" tags="virtualization, virtualbox, virtual box, vmware, ova, linux, image" ctime="20180910202022" dir="1536592822933kaa0o5d" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15489993086s2coxwvel" name="Haskell">
+    <recordtable>
+     <record id="1548999980x7is05c1oy" name="Установить prompt в ghci" author="br0ke" url="http://learnyouahaskell.com/starting-out#ready-set-go" tags="haskell, ghc, ghci, prompt, shell, interactive" ctime="20190201104620" dir="1548999980za525l2tw6" file="text.html"/>
+     <record id="15490000493s431o6ja3" name="Встроенные функции в Haskell" author="br0ke" url="http://learnyouahaskell.com/starting-out#ready-set-go" tags="haskell, function, functions, func, builtin, built-in" ctime="20190201104729" dir="15490000493kflcf74xb" file="text.html"/>
     </recordtable>
    </node>
   </node>
