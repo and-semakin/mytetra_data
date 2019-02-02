@@ -37,6 +37,7 @@
      <record id="1544280159tuus3m0iga" name="Дозаписывать (append) в файл в Python" author="br0ke" url="https://stackoverflow.com/a/4706520/10650942" tags="python, file, output, write, append, open" ctime="20181208194239" dir="1544280159ld0ze9lpjo" file="text.html"/>
      <record id="1546686879kng0lqqmnn" name="Препроцессинг кода в Python" author="br0ke" url="https://maxpoletaev.ru/blog/python-preprocessing/" tags="python, preprocessing, coding, fun" ctime="20190105161439" dir="1546686879naw8s6p6i5" file="text.html"/>
      <record id="15491078356uyoyv0y7w" name="Проверить, что программа установлена из Python" author="br0ke" url="https://askubuntu.com/a/35751/920474" tags="python, check, program, install, package, git, path, subprocess" ctime="20190202164355" dir="1549107835bdlwtdeuul" file="text.html"/>
+     <record id="1549120189z57a2qknyo" name="Настроить путь для импорта библиотек в Python" author="br0ke" url="https://stackoverflow.com/a/10253916/10650942" tags="python, path, import, pythonpath, sys, os, library" ctime="20190202200949" dir="15491201898kcbcdk8o7" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -522,6 +523,7 @@
       <record id="1549110079sm0sw6lot9" name="Настроить ограничения для планировщика запросов в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/9.5/runtime-config-query.html" tags="postgresql, postgres, postgre, sql, set, runtime, config, query, plan, enable_seqscan, seqscan, enable_nestloop, nestloop, enable" ctime="20190202172119" dir="154911007912h7mxiu9d" file="text.html"/>
       <record id="1549110417uzlwl3co8g" name="Сгенерировать последовательность в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/9.5/functions-srf.html" tags="postgresql, postgres, postgre, sql, generate, series, generate_series, range, sequence, date, datetime, time, number, numbers" ctime="20190202172657" dir="1549110417bkryscjcf6" file="text.html"/>
       <record id="15491192310hheoce3fx" name="Получить количество клиентов, подключенных к БД, в PostgreSQL" author="br0ke" url="" tags="postgresql, postgres, postgre, sql, pg, pg_stat_activity, database, count" ctime="20190202195351" dir="1549119231zn06fair5p" file="text.html"/>
+      <record id="1549120746w1butsaywx" name="Показать список таблиц в БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/15644918/10650942" tags="postgresql, postgres, postgre, sql, table, tables, list, dt, psql" ctime="20190202201906" dir="1549120746k8hxjaavxv" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
@@ -588,6 +590,14 @@
      <record id="1548999980x7is05c1oy" name="Установить prompt в ghci" author="br0ke" url="http://learnyouahaskell.com/starting-out#ready-set-go" tags="haskell, ghc, ghci, prompt, shell, interactive" ctime="20190201104620" dir="1548999980za525l2tw6" file="text.html"/>
      <record id="15490000493s431o6ja3" name="Встроенные функции в Haskell" author="br0ke" url="http://learnyouahaskell.com/starting-out#ready-set-go" tags="haskell, function, functions, func, builtin, built-in" ctime="20190201104729" dir="15490000493kflcf74xb" file="text.html"/>
     </recordtable>
+   </node>
+   <node crypt="" id="1549120337df2kplaqo8" name="IDE">
+    <node crypt="" id="1549120348epbt4hkd3f" name="Visual Studio Code">
+     <recordtable>
+      <record id="1549120527lkxvtdv6k1" name="Задать исключения для поиска в VSCode" author="br0ke" url="https://stackoverflow.com/a/33418660/10650942" tags="visual studio code, code, vs, vscode, vsc, search, exclude, ignore, search.exclude" ctime="20190202201527" dir="1549120527ocdf5hd5ag" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1549120807liqifa955m" name="PyCharm"/>
    </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
