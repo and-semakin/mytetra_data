@@ -475,6 +475,8 @@
      <record id="15193843832chqwzfiyh" name="Установка .NET Framework 3.5 в Windows Server 2012 R2" author="br0ke" url="http://winitpro.ru/index.php/2014/05/14/ustanovka-net-framework-3-5-v-windows-server-2012-r2/" tags="microsoft, windows, server, windows server, 2012, 2012R2, dotnet, net-framework, framework, sysadmin" ctime="20180223161303" dir="1519384383txo7tabnn1" file="text.html"/>
      <record id="1519818375b5rvd1oyqn" name="Перенаправление портов в Windows" author="br0ke" url="http://geckich.blogspot.ru/2014/01/windows.html" tags="windows, networking, tcp, portproxy, proxy, v4tov4, netsh" ctime="20180228164615" dir="1519818375t36apq8u52" file="text.html"/>
      <record id="1532853712pakmw3cc69" name="Ошибка при подключении по RDP к старой машине Windows с последней Windows 10" author="br0ke" url="https://support.microsoft.com/en-us/help/4295591/credssp-encryption-oracle-remediation-error-when-to-rdp-to-azure-vm" tags="windows, rdp, remote desktop, mstsc, error, credssp, encryption, oracle" ctime="20180729134152" dir="1532853712nfgwipmwkd" file="text.html"/>
+     <record id="1549105864osq0l2o0o5" name="Ключи для установки Windows Server 2008+" author="br0ke" url="https://sysadmin-note.ru/obshhie-klyuchi-windows-dlya-ustanovki/" tags="microsoft, windows, key, keys, license, server" ctime="20190202161104" dir="1549105864aihv6fo0z7" file="text.html"/>
+     <record id="1549106073xp0vx879xo" name="Ключи для установки Windows 7+" author="br0ke" url="https://sysadmin-note.ru/obshhie-klyuchi-windows-dlya-ustanovki/" tags="microsoft, windows, home, 7, 8, 8.1, 10, keys, key, license" ctime="20190202161433" dir="1549106073sj8hiwa20u" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1521029860ul0fijeg5m" name="Базы данных">
