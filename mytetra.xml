@@ -401,6 +401,7 @@
      <record id="1547023621h5t2hxnqum" name="Удалить свойство объекта в JavaScript" author="br0ke" url="https://stackoverflow.com/a/208106/10650942" tags="javascript, js, ecmascript, es, delete, property, object" ctime="20190109134701" dir="1547023621o392eejqb1" file="text.html"/>
      <record id="1549097270j7755jaqwm" name="Конвертировать объект Map в массив в JavaScript" author="br0ke" url="https://stackoverflow.com/a/35341828/10650942" tags="javascript, js, ecmascript, es, map, array, keys, values, items, spread" ctime="20190202134750" dir="1549097270wtstlqs4xt" file="text.html"/>
      <record id="15490999614uop4eq1z1" name="Отсортировать массив объектов по одному из полей объекта в JavaScript" author="br0ke" url="https://stackoverflow.com/a/5435341/10650942" tags="javascript, js, ecmascript, es, sort, array, compare" ctime="20190202143241" dir="1549099961xeyl2jp53q" file="text.html"/>
+     <record id="1549110630cpgp8anvg9" name="throttle vs debounce" author="br0ke" url="https://artemdemo.me/blog/throttling-vs-debouncing/" tags="javascript, js, ecmascript, es, throttle, debounce, underscore, lodash, event, events" ctime="20190202173030" dir="1549110630bk2ytvsvrz" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
@@ -519,6 +520,7 @@
       <record id="1549107917qyo7iegvik" name="Сайт для работы с планами запросов в PostgreSQL" author="br0ke" url="https://explain.depesz.com/" tags="postgresql, postgres, postgre, sql, explain, query, plan" ctime="20190202164517" dir="15491079176kzrtw93jb" file="text.html"/>
       <record id="1549108142h7iegc41ud" name="Убить зависший запрос в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/35319598/10650942" tags="postgresql, postgres, postgre, pg, sql, query, kill, cancel, terminate, pg_stat_activity, pg_cancel_backend, pg_terminate_backend" ctime="20190202164902" dir="15491081427zyy1904xg" file="text.html"/>
       <record id="1549110079sm0sw6lot9" name="Настроить ограничения для планировщика запросов в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/9.5/runtime-config-query.html" tags="postgresql, postgres, postgre, sql, set, runtime, config, query, plan, enable_seqscan, seqscan, enable_nestloop, nestloop, enable" ctime="20190202172119" dir="154911007912h7mxiu9d" file="text.html"/>
+      <record id="1549110417uzlwl3co8g" name="Сгенерировать последовательность в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/9.5/functions-srf.html" tags="postgresql, postgres, postgre, sql, generate, series, generate_series, range, sequence, date, datetime, time, number, numbers" ctime="20190202172657" dir="1549110417bkryscjcf6" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
