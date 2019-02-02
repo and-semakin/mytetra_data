@@ -529,6 +529,9 @@
     </node>
    </node>
    <node crypt="" id="1521766380ubjvwcz0ib" name="Web">
+    <recordtable>
+     <record id="1549108707p351sjtpfe" name="Остановить автоматический редирект с HTTP на HTTPS в Chrome" author="br0ke" url="https://superuser.com/a/881431/993215" tags="google, chrome, https, http, redirect, security, policy" ctime="20190202165827" dir="1549108707ypxslwcasp" file="text.html"/>
+    </recordtable>
     <node crypt="" id="1521766385l6o9mt9y9k" name="CSS">
      <recordtable>
       <record id="15217665801vzpkudsfz" name="Короткая запись margin и padding в CSS" author="br0ke" url="https://www.w3schools.com/css/css_margin.asp" tags="web, html, css, margin, padding" ctime="20180323055620" dir="1521766580iz5bo3lph4" file="text.html"/>
