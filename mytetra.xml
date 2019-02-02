@@ -38,6 +38,7 @@
      <record id="1546686879kng0lqqmnn" name="Препроцессинг кода в Python" author="br0ke" url="https://maxpoletaev.ru/blog/python-preprocessing/" tags="python, preprocessing, coding, fun" ctime="20190105161439" dir="1546686879naw8s6p6i5" file="text.html"/>
      <record id="15491078356uyoyv0y7w" name="Проверить, что программа установлена из Python" author="br0ke" url="https://askubuntu.com/a/35751/920474" tags="python, check, program, install, package, git, path, subprocess" ctime="20190202164355" dir="1549107835bdlwtdeuul" file="text.html"/>
      <record id="1549120189z57a2qknyo" name="Настроить путь для импорта библиотек в Python" author="br0ke" url="https://stackoverflow.com/a/10253916/10650942" tags="python, path, import, pythonpath, sys, os, library" ctime="20190202200949" dir="15491201898kcbcdk8o7" file="text.html"/>
+     <record id="1549121117kmngnhzqbj" name="Получить размер терминала в символах в Python" author="br0ke" url="https://stackoverflow.com/a/14422538/10650942" tags="python, console, terminal, size, row, rows, column, columns, shutil" ctime="20190202202517" dir="1549121117dnn8tg5cff" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
