@@ -355,6 +355,7 @@
      <record id="1547020643hgg3oeizu6" name="Сплющить несколько коммитов в один при слиянии веток в Git" author="br0ke" url="https://stackoverflow.com/a/5309051/10650942" tags="git, vcs, merge, commit, squash" ctime="20190109125723" dir="15470206436yvc2moxvr" file="text.html"/>
      <record id="1547023515u4ebp0bxib" name="Просмотреть изменения, касающиеся определенной строки/строк в Git" author="br0ke" url="https://stackoverflow.com/a/27108677/10650942" tags="git, vcs, line, history, commit, commits, log, line" ctime="20190109134515" dir="1547023515lx6e9xppio" file="text.html"/>
      <record id="1549100501143v10xxtb" name="Перенести последний коммит(ы) в другую ветку в Git" author="br0ke" url="https://eddmann.com/posts/move-last-git-commit-to-new-or-existing-branch/" tags="git, commit, move, another, branch, reset, head" ctime="20190202144141" dir="15491005016nhunwrv5c" file="text.html"/>
+     <record id="154910631146av6fra76" name="Поставить метку (тег) в Git" author="br0ke" url="https://stackoverflow.com/a/4404197/10650942" tags="git, scm, tag, commit, push" ctime="20190202161831" dir="1549106311xvwg4ftkor" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
