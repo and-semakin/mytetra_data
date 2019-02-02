@@ -521,6 +521,7 @@
       <record id="1549108142h7iegc41ud" name="Убить зависший запрос в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/35319598/10650942" tags="postgresql, postgres, postgre, pg, sql, query, kill, cancel, terminate, pg_stat_activity, pg_cancel_backend, pg_terminate_backend" ctime="20190202164902" dir="15491081427zyy1904xg" file="text.html"/>
       <record id="1549110079sm0sw6lot9" name="Настроить ограничения для планировщика запросов в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/9.5/runtime-config-query.html" tags="postgresql, postgres, postgre, sql, set, runtime, config, query, plan, enable_seqscan, seqscan, enable_nestloop, nestloop, enable" ctime="20190202172119" dir="154911007912h7mxiu9d" file="text.html"/>
       <record id="1549110417uzlwl3co8g" name="Сгенерировать последовательность в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/9.5/functions-srf.html" tags="postgresql, postgres, postgre, sql, generate, series, generate_series, range, sequence, date, datetime, time, number, numbers" ctime="20190202172657" dir="1549110417bkryscjcf6" file="text.html"/>
+      <record id="15491192310hheoce3fx" name="Получить количество клиентов, подключенных к БД, в PostgreSQL" author="br0ke" url="" tags="postgresql, postgres, postgre, sql, pg, pg_stat_activity, database, count" ctime="20190202195351" dir="1549119231zn06fair5p" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
