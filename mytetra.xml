@@ -36,6 +36,7 @@
      <record id="1544279289ypbvec2bbi" name="Функция eval в Python" author="br0ke" url="https://docs.python.org/3/library/functions.html#eval" tags="python, eval, evaluate" ctime="20181208192809" dir="1544279289lrpbf3sx7l" file="text.html"/>
      <record id="1544280159tuus3m0iga" name="Дозаписывать (append) в файл в Python" author="br0ke" url="https://stackoverflow.com/a/4706520/10650942" tags="python, file, output, write, append, open" ctime="20181208194239" dir="1544280159ld0ze9lpjo" file="text.html"/>
      <record id="1546686879kng0lqqmnn" name="Препроцессинг кода в Python" author="br0ke" url="https://maxpoletaev.ru/blog/python-preprocessing/" tags="python, preprocessing, coding, fun" ctime="20190105161439" dir="1546686879naw8s6p6i5" file="text.html"/>
+     <record id="15491078356uyoyv0y7w" name="Проверить, что программа установлена из Python" author="br0ke" url="https://askubuntu.com/a/35751/920474" tags="python, check, program, install, package, git, path, subprocess" ctime="20190202164355" dir="1549107835bdlwtdeuul" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -198,6 +199,7 @@
       <record id="1547722274bsmja23oac" name="Установить pgcli на Fedora" author="br0ke" url="https://www.pgcli.com/install" tags="linux, fedora, install, pgcli, postgresql, postgres, postgre, cli, psql" ctime="20190117155114" dir="15477222742p182xcik7" file="text.html"/>
       <record id="1548999505dqnw9h9nkk" name="Установить комилятор Haskell на Fedora" author="br0ke" url="https://www.haskell.org/platform/#linux-fedora" tags="linux, fedora, dnf, install, haskell, platform, ghc, ghci, compiler, glasgow" ctime="20190201103825" dir="1548999505qo5sg95clj" file="text.html"/>
       <record id="1549100720g3psg3sl5q" name="Установить xclip на Fedora" author="br0ke" url="" tags="linux, fedora, dnf, install, xclip, clipboard, copy, paste, buffer" ctime="20190202144520" dir="1549100720rebpo63fzf" file="text.html"/>
+      <record id="1549108326e5xqtjti1z" name="Установить Google Chrome на Fedora" author="br0ke" url="https://www.if-not-true-then-false.com/2010/install-google-chrome-with-yum-on-fedora-red-hat-rhel/" tags="linux, fedora, install, google, chrome, browser" ctime="20190202165206" dir="1549108326on16hxy1z9" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
@@ -286,6 +288,7 @@
       <record id="1547023314t2f3a1tph0" name="Удалить неиспользуемые данные -- docker system prune" author="br0ke" url="https://docs.docker.com/engine/reference/commandline/system_prune/" tags="linux, docker, prune" ctime="20190109134154" dir="1547023314ydhg006hvr" file="text.html"/>
       <record id="1547024263u0ft8tyei7" name="Указать кастомный префикс для контейнеров в docker-compose" author="br0ke" url="https://stackoverflow.com/a/41222926/10650942" tags="linux, docker, compose, docker-compose, project, name" ctime="20190109135743" dir="1547024263cdyg9jv2ac" file="text.html"/>
       <record id="154910166397unhsh8hc" name="Установить переменную окружения во время сборки в Docker" author="br0ke" url="https://vsupalov.com/docker-build-time-env-values/" tags="linux, docker, build, build-time, env, var, environment, variable, variables, arg, build-arg, dockerfile, compose, docker-compose, yml, yaml" ctime="20190202150103" dir="154910166350g7uj024x" file="text.html"/>
+      <record id="154910750028mra9cujt" name="Ошибка создания контейнера Docker при включенном OpenVPN" author="br0ke" url="https://stackoverflow.com/q/45692255/10650942" tags="linux, docker, compose, docker-compose, openvpn, conflict," ctime="20190202163820" dir="1549107500ztm5r80py4" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
@@ -443,6 +446,7 @@
       <record id="1540456490x9rwqizulu" name="Показать статистику по ошибкам в ESLint" author="br0ke" url="https://www.npmjs.com/package/eslint-stats" tags="javascript, js, java script, es, ecmascript, eslint, eslint-stats, stats, error, warning, counter, linter, lint" ctime="20181025133450" dir="1540456490rz47u102pc" file="text.html"/>
       <record id="15479867797e6xqk03ip" name="Ошибка prefer-destructuring при переприсваивании значения в ESLint" author="br0ke" url="https://github.com/eslint/eslint/issues/7886" tags="javascript, js, ecmascript, es, ecma, eslint, lint, prefer-destructuring, reassignment" ctime="20190120171939" dir="1547986779xlteusip5w" file="text.html"/>
       <record id="1549101466vp4vpugi3n" name="Исключить файлы/директорию из проверки ESLint" author="br0ke" url="https://stackoverflow.com/a/43200040/10650942" tags="javascript, js, ecmascript, es, lint, linter, eslint, exclude, ignore, eslintignore" ctime="20190202145746" dir="1549101466k66lgmrlrd" file="text.html"/>
+      <record id="15491071972kk9cmoouq" name="Ошибка &quot;React is defined but never used&quot; в ESLint" author="br0ke" url="https://github.com/babel/babel-eslint/issues/6#issuecomment-297258372" tags="javascript, js, ecmascript, es, linter, lint, eslint, error, react, babel-eslint, babel, no-unused-vars" ctime="20190202163317" dir="1549107197qnfwqqdmi4" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1546155382htmbiitjuy" name="babel">
@@ -507,6 +511,8 @@
       <record id="1545211695oaikomd3cs" name="Показать количество строк во всех таблицах в БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/2611745/10650942" tags="postgresql, postgres, postgre, sql, table, count, rows, pg_stat_user_tables" ctime="20181219142815" dir="1545211695fqwloa4o68" file="text.html"/>
       <record id="1547023885siovlztrgc" name="Инвертировать булевое значение в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/24218418/10650942" tags="postgresql, postgres, postgre, sql, not, bool, boolean, invert, true, false" ctime="20190109135125" dir="15470238856k7fmocqu6" file="text.html"/>
       <record id="1549096569730n8a2ftl" name="Сменить пейджер в pgcli" author="br0ke" url="https://www.pgcli.com/pager" tags="postgresql, postgres, postgre, pgcli, pager, cat, less, output" ctime="20190202133609" dir="1549096569dfri4s18c5" file="text.html"/>
+      <record id="1549107917qyo7iegvik" name="Сайт для работы с планами запросов в PostgreSQL" author="br0ke" url="https://explain.depesz.com/" tags="postgresql, postgres, postgre, sql, explain, query, plan" ctime="20190202164517" dir="15491079176kzrtw93jb" file="text.html"/>
+      <record id="1549108142h7iegc41ud" name="Убить зависший запрос в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/35319598/10650942" tags="postgresql, postgres, postgre, pg, sql, query, kill, cancel, terminate, pg_stat_activity, pg_cancel_backend, pg_terminate_backend" ctime="20190202164902" dir="15491081427zyy1904xg" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
