@@ -155,6 +155,7 @@
      <record id="15444443314ifyzvj84c" name="Добавить номера строк к выводу cat" author="br0ke" url="https://www.cyberciti.biz/faq/cat-line-numbers-and-ranges-under-unix-linux/" tags="linux, unix, cat, cli, line, number" ctime="20181210171851" dir="1544444331ux59t0i25l" file="text.html"/>
      <record id="1547985984f7sdee60hn" name="Вывести разрешения на файлы в восьмеричном формате в Linux" author="br0ke" url="https://askubuntu.com/a/152003" tags="linux, file, permission, rwx, octal, stat, ls, ll, ls -l" ctime="20190120170624" dir="1547985984pkt5sffyx8" file="text.html"/>
      <record id="1547989506nun3qjnmgz" name="Не работает переключение окон в обратном порядке (Alt+Shift+Tab) в Gnome" author="br0ke" url="https://www.guyrutenberg.com/2015/10/02/gnome-altshift-and-altshifttab/" tags="linux, gnome, desktop, switch, windows, alt, tab, shift, hotkey, alt+tab, alt+shift+tab" ctime="20190120180506" dir="1547989506n9j7af4wpo" file="text.html"/>
+     <record id="1549099816pro8k334lz" name="Узнать версию Gnome" author="br0ke" url="https://askubuntu.com/a/13349" tags="linux, gnome, shell, version" ctime="20190202143016" dir="1549099816i480trlen2" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -386,6 +387,7 @@
      <record id="1546157568ltzwgfwzsm" name="Многострочные строки в JavaScript" author="br0ke" url="https://stackoverflow.com/a/805113/10650942" tags="javascript, js, ecmascript, ecma, es, string, str, multiline, multi, line" ctime="20181230131248" dir="1546157568gw027te8iv" file="text.html"/>
      <record id="1547023621h5t2hxnqum" name="Удалить свойство объекта в JavaScript" author="br0ke" url="https://stackoverflow.com/a/208106/10650942" tags="javascript, js, ecmascript, es, delete, property, object" ctime="20190109134701" dir="1547023621o392eejqb1" file="text.html"/>
      <record id="1549097270j7755jaqwm" name="Конвертировать объект Map в массив в JavaScript" author="br0ke" url="https://stackoverflow.com/a/35341828/10650942" tags="javascript, js, ecmascript, es, map, array, keys, values, items, spread" ctime="20190202134750" dir="1549097270wtstlqs4xt" file="text.html"/>
+     <record id="15490999614uop4eq1z1" name="Отсортировать массив объектов по одному из полей объекта в JavaScript" author="br0ke" url="https://stackoverflow.com/a/5435341/10650942" tags="javascript, js, ecmascript, es, sort, array, compare" ctime="20190202143241" dir="1549099961xeyl2jp53q" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
