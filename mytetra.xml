@@ -490,6 +490,7 @@
       <record id="1542201166a95890t0tw" name="Получить список индексов на таблице в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/37330092/10650942" tags="postgresql, postgres, postgre, pg, index, indexes, list, select, pg_indexes" ctime="20181114181246" dir="15422011667l2cy11vif" file="text.html"/>
       <record id="1545211695oaikomd3cs" name="Показать количество строк во всех таблицах в БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/2611745/10650942" tags="postgresql, postgres, postgre, sql, table, count, rows, pg_stat_user_tables" ctime="20181219142815" dir="1545211695fqwloa4o68" file="text.html"/>
       <record id="1547023885siovlztrgc" name="Инвертировать булевое значение в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/24218418/10650942" tags="postgresql, postgres, postgre, sql, not, bool, boolean, invert, true, false" ctime="20190109135125" dir="15470238856k7fmocqu6" file="text.html"/>
+      <record id="1549096569730n8a2ftl" name="Сменить пейджер в pgcli" author="br0ke" url="https://www.pgcli.com/pager" tags="postgresql, postgres, postgre, pgcli, pager, cat, less, output" ctime="20190202133609" dir="1549096569dfri4s18c5" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
