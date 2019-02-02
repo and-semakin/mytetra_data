@@ -285,6 +285,7 @@
       <record id="15395147318lvi8emlfo" name="Установить psycopg2 в Alpine" author="br0ke" url="https://github.com/psycopg/psycopg2/issues/684#issuecomment-392015532" tags="linux, docker, dockerfile, alpine, python, postgresql, postgres, postgre, psycopg, psycopg2, aiopg" ctime="20181014155851" dir="1539514731v4cs0livvw" file="text.html"/>
       <record id="1547023314t2f3a1tph0" name="Удалить неиспользуемые данные -- docker system prune" author="br0ke" url="https://docs.docker.com/engine/reference/commandline/system_prune/" tags="linux, docker, prune" ctime="20190109134154" dir="1547023314ydhg006hvr" file="text.html"/>
       <record id="1547024263u0ft8tyei7" name="Указать кастомный префикс для контейнеров в docker-compose" author="br0ke" url="https://stackoverflow.com/a/41222926/10650942" tags="linux, docker, compose, docker-compose, project, name" ctime="20190109135743" dir="1547024263cdyg9jv2ac" file="text.html"/>
+      <record id="154910166397unhsh8hc" name="Установить переменную окружения во время сборки в Docker" author="br0ke" url="https://vsupalov.com/docker-build-time-env-values/" tags="linux, docker, build, build-time, env, var, environment, variable, variables, arg, build-arg, dockerfile, compose, docker-compose, yml, yaml" ctime="20190202150103" dir="154910166350g7uj024x" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
@@ -440,11 +441,17 @@
       <record id="1540456246pjgfxt8owe" name="Отключить проверку блока кода в ESLint" author="br0ke" url="https://eslint.org/docs/user-guide/configuring" tags="javascript, js, java script, es, ecmascript, eslint, lint, linter, disable, rule, block" ctime="20181025133046" dir="1540456246g9le8lmby3" file="text.html"/>
       <record id="1540456490x9rwqizulu" name="Показать статистику по ошибкам в ESLint" author="br0ke" url="https://www.npmjs.com/package/eslint-stats" tags="javascript, js, java script, es, ecmascript, eslint, eslint-stats, stats, error, warning, counter, linter, lint" ctime="20181025133450" dir="1540456490rz47u102pc" file="text.html"/>
       <record id="15479867797e6xqk03ip" name="Ошибка prefer-destructuring при переприсваивании значения в ESLint" author="br0ke" url="https://github.com/eslint/eslint/issues/7886" tags="javascript, js, ecmascript, es, ecma, eslint, lint, prefer-destructuring, reassignment" ctime="20190120171939" dir="1547986779xlteusip5w" file="text.html"/>
+      <record id="1549101466vp4vpugi3n" name="Исключить файлы/директорию из проверки ESLint" author="br0ke" url="https://stackoverflow.com/a/43200040/10650942" tags="javascript, js, ecmascript, es, lint, linter, eslint, exclude, ignore, eslintignore" ctime="20190202145746" dir="1549101466k66lgmrlrd" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1546155382htmbiitjuy" name="babel">
      <recordtable>
       <record id="1546155785f9hxvalbac" name="Ошибка &quot;regeneratorRuntime is not defined&quot; в Babel" author="br0ke" url="https://stackoverflow.com/a/36821986/10650942" tags="javascript, js, ecma, ecmascript, es, babel, babeljs, babelrc, async, await, regenerator, runtime, polyfill, browserslist, package, package.json" ctime="20181230124305" dir="15461557851w437mlhlg" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1549102054af6zd0esz0" name="webpack">
+     <recordtable>
+      <record id="154910209660xyxme1ms" name="Условная сборка приложения в webpack с использованием ifdef-loader" author="br0ke" url="https://stackoverflow.com/a/43814847/10650942" tags="javascript, js, ecmascript, es, node, node.js, webpack, bundler, if, condition, conditional, ifdef, ifdef-loader" ctime="20190202150816" dir="1549102096qwodb1dq9c" file="text.html"/>
      </recordtable>
     </node>
    </node>
