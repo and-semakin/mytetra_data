@@ -156,6 +156,7 @@
      <record id="1547985984f7sdee60hn" name="Вывести разрешения на файлы в восьмеричном формате в Linux" author="br0ke" url="https://askubuntu.com/a/152003" tags="linux, file, permission, rwx, octal, stat, ls, ll, ls -l" ctime="20190120170624" dir="1547985984pkt5sffyx8" file="text.html"/>
      <record id="1547989506nun3qjnmgz" name="Не работает переключение окон в обратном порядке (Alt+Shift+Tab) в Gnome" author="br0ke" url="https://www.guyrutenberg.com/2015/10/02/gnome-altshift-and-altshifttab/" tags="linux, gnome, desktop, switch, windows, alt, tab, shift, hotkey, alt+tab, alt+shift+tab" ctime="20190120180506" dir="1547989506n9j7af4wpo" file="text.html"/>
      <record id="1549099816pro8k334lz" name="Узнать версию Gnome" author="br0ke" url="https://askubuntu.com/a/13349" tags="linux, gnome, shell, version" ctime="20190202143016" dir="1549099816i480trlen2" file="text.html"/>
+     <record id="154910089524kl64a07e" name="Получить настоящее (rich) содержимое буффера обмена в Linux" author="br0ke" url="https://stackoverflow.com/a/16960316/10650942" tags="linux, xclip, clipboard, rich, html, text/html, copy, paste, buffer" ctime="20190202144815" dir="1549100895zfaonq7wrc" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -196,6 +197,7 @@
       <record id="154745895460o5j2sni4" name="Установить Gnome Tweak Tool в Fedora" author="br0ke" url="https://linuxhint.com/install-gnome-tweak-tool-fedora-27/" tags="linux, fedora, gnome, tweak, tweaks, gnome tweak tool, gnome-tweak-tool" ctime="20190114144234" dir="1547458954jinqgc4jp5" file="text.html"/>
       <record id="1547722274bsmja23oac" name="Установить pgcli на Fedora" author="br0ke" url="https://www.pgcli.com/install" tags="linux, fedora, install, pgcli, postgresql, postgres, postgre, cli, psql" ctime="20190117155114" dir="15477222742p182xcik7" file="text.html"/>
       <record id="1548999505dqnw9h9nkk" name="Установить комилятор Haskell на Fedora" author="br0ke" url="https://www.haskell.org/platform/#linux-fedora" tags="linux, fedora, dnf, install, haskell, platform, ghc, ghci, compiler, glasgow" ctime="20190201103825" dir="1548999505qo5sg95clj" file="text.html"/>
+      <record id="1549100720g3psg3sl5q" name="Установить xclip на Fedora" author="br0ke" url="" tags="linux, fedora, dnf, install, xclip, clipboard, copy, paste, buffer" ctime="20190202144520" dir="1549100720rebpo63fzf" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
@@ -338,7 +340,7 @@
      <record id="1525426202gry95o9dji" name="Изменить URL удаленного репозитория в Git" author="br0ke" url="https://help.github.com/articles/changing-a-remote-s-url/" tags="git, remote, url, change, set-url" ctime="20180504143002" dir="15254262027bkpab3yaf" file="text.html"/>
      <record id="1527263007v2nq870n25" name="Отладка .gitignore в Git" author="br0ke" url="https://git-scm.com/docs/git-check-ignore" tags="git, gitignore, ignore, check, git-check-ignore, git check-ignore, check-ignore, debug, troubleshooting" ctime="20180525204327" dir="1527263007c80vs3rhbj" file="text.html"/>
      <record id="1527263145ee4pvgtvku" name="Добавить пустую папку в репозиторий Git, игнорировать содержимое" author="br0ke" url="https://stackoverflow.com/a/5241686" tags="git, gitignore, ignore" ctime="20180525204545" dir="1527263145oyl34meby3" file="text.html"/>
-     <record id="1527830386bbs4iyps5q" name="Скачать данные с перебазирование (pull with rebase) в Git" author="br0ke" url="https://git-scm.com/book/ru/v1/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-Git-%D0%9F%D1%80%D1%8F%D1%82%D0%B0%D0%BD%D1%8C%D0%B5" tags="git, vcs, pull, fetch, rebase, merge" ctime="20180601101946" dir="1527830386mim9roxly4" file="text.html"/>
+     <record id="1527830386bbs4iyps5q" name="Скачать данные с перебазированием (pull with rebase) в Git" author="br0ke" url="https://git-scm.com/book/ru/v1/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-Git-%D0%9F%D1%80%D1%8F%D1%82%D0%B0%D0%BD%D1%8C%D0%B5" tags="git, vcs, pull, fetch, rebase, merge" ctime="20180601101946" dir="1527830386mim9roxly4" file="text.html"/>
      <record id="15279350808xxy8vdhoo" name="Добавить алиасы команд в Git" author="br0ke" url="https://githowto.com/ru/aliases" tags="git, vcs, alias, status, st, checkout, co, commit, ci" ctime="20180602152440" dir="15279350804z9evf516v" file="text.html"/>
      <record id="1529557531ih2l70bicv" name="Скачать удаленную ветку в Git" author="br0ke" url="https://stackoverflow.com/a/1783426" tags="git, vcs, pull, fetch, checkout, remote, branch" ctime="20180621100531" dir="1529557531lxdmbx1f3q" file="text.html"/>
      <record id="1532004727jo9lwtno4u" name="Сравнить две ветки в Git" author="br0ke" url="https://stackoverflow.com/a/9834872" tags="vcs, git, diff, merge, merge-base" ctime="20180719175207" dir="1532004727lp38t8g7jh" file="text.html"/>
@@ -351,6 +353,7 @@
      <record id="1539250760xcp7hmq70b" name="Скачать только одну ветку в Git" author="br0ke" url="https://stackoverflow.com/a/9920956" tags="git, vcs, clone, branch, single, single-branch" ctime="20181011143920" dir="1539250760lsg7wtrwzm" file="text.html"/>
      <record id="1547020643hgg3oeizu6" name="Сплющить несколько коммитов в один при слиянии веток в Git" author="br0ke" url="https://stackoverflow.com/a/5309051/10650942" tags="git, vcs, merge, commit, squash" ctime="20190109125723" dir="15470206436yvc2moxvr" file="text.html"/>
      <record id="1547023515u4ebp0bxib" name="Просмотреть изменения, касающиеся определенной строки/строк в Git" author="br0ke" url="https://stackoverflow.com/a/27108677/10650942" tags="git, vcs, line, history, commit, commits, log, line" ctime="20190109134515" dir="1547023515lx6e9xppio" file="text.html"/>
+     <record id="1549100501143v10xxtb" name="Перенести последний коммит(ы) в другую ветку в Git" author="br0ke" url="https://eddmann.com/posts/move-last-git-commit-to-new-or-existing-branch/" tags="git, commit, move, another, branch, reset, head" ctime="20190202144141" dir="15491005016nhunwrv5c" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
@@ -436,7 +439,7 @@
       <record id="1533805924zhfi7ucmzn" name="Отключить проверку определенного правила в строке в ESLint" author="br0ke" url="https://stackoverflow.com/a/29592334" tags="javascript, js, es, ecmascript, linter, eslint" ctime="20180809141204" dir="1533805924v7vshuc19c" file="text.html"/>
       <record id="1540456246pjgfxt8owe" name="Отключить проверку блока кода в ESLint" author="br0ke" url="https://eslint.org/docs/user-guide/configuring" tags="javascript, js, java script, es, ecmascript, eslint, lint, linter, disable, rule, block" ctime="20181025133046" dir="1540456246g9le8lmby3" file="text.html"/>
       <record id="1540456490x9rwqizulu" name="Показать статистику по ошибкам в ESLint" author="br0ke" url="https://www.npmjs.com/package/eslint-stats" tags="javascript, js, java script, es, ecmascript, eslint, eslint-stats, stats, error, warning, counter, linter, lint" ctime="20181025133450" dir="1540456490rz47u102pc" file="text.html"/>
-      <record id="15479867797e6xqk03ip" name="Ошибка prefer-destructuring при переприсваивания значения в ESLint" author="br0ke" url="https://github.com/eslint/eslint/issues/7886" tags="javascript, js, ecmascript, es, ecma, eslint, lint, prefer-destructuring, reassignment" ctime="20190120171939" dir="1547986779xlteusip5w" file="text.html"/>
+      <record id="15479867797e6xqk03ip" name="Ошибка prefer-destructuring при переприсваивании значения в ESLint" author="br0ke" url="https://github.com/eslint/eslint/issues/7886" tags="javascript, js, ecmascript, es, ecma, eslint, lint, prefer-destructuring, reassignment" ctime="20190120171939" dir="1547986779xlteusip5w" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1546155382htmbiitjuy" name="babel">
