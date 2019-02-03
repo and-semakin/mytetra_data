@@ -163,6 +163,7 @@
      <record id="154910089524kl64a07e" name="Получить настоящее (rich) содержимое буффера обмена в Linux" author="br0ke" url="https://stackoverflow.com/a/16960316/10650942" tags="linux, xclip, clipboard, rich, html, text/html, copy, paste, buffer" ctime="20190202144815" dir="1549100895zfaonq7wrc" file="text.html"/>
      <record id="15491874811dziwig3zf" name="Установить разрешения на файлы и папки рекурсивно в Linux при помощи find" author="br0ke" url="https://stackoverflow.com/a/11512211/10650942" tags="linux, sh, bash, chmod, find, recursively" ctime="20190203145121" dir="15491874813r4qwjj5aa" file="text.html"/>
      <record id="1549188746v5cqftzaeo" name="Найти файлы, удовлетворяющие нескольким условиям в find" author="br0ke" url="https://stackoverflow.com/a/1133720/10650942" tags="linux, find, name, ext, or, multiple, condition, conditions" ctime="20190203151226" dir="1549188746u2cw3eh9fp" file="text.html"/>
+     <record id="1549188963fjop19r373" name="Выполнить несколько действий над файлами в find" author="br0ke" url="https://stackoverflow.com/a/6043896/10650942" tags="linux, find, exec, multiple, action, actions" ctime="20190203151603" dir="1549188963fhgfa4voar" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -311,6 +312,7 @@
       <record id="1537344420lo3n2fvhpd" name="Динамический резолв имён в proxy_pass в Nginx" author="br0ke" url="https://serverfault.com/a/593003" tags="nginx, web, http, https, proxy, proxy_pass, resolver, dynamic, dynamically, resolve, resolver, dns, variable" ctime="20180919130700" dir="1537344420r12iaqki4o" file="text.html"/>
       <record id="1539599382mf3sg7s0ax" name="Проксирование WebSocket в Nginx" author="br0ke" url="https://nginx.org/ru/docs/http/websocket.html" tags="linux, web, http, https, server, nginx, websocket, ws, proxy, upgrade" ctime="20181015152942" dir="1539599382sh31dzsvyv" file="text.html"/>
       <record id="15435773067esrf6fgsk" name="Сохранить GET-параметры в proxy_pass с переменными в NGINX" author="br0ke" url="https://stackoverflow.com/a/8130872/10650942" tags="nginx, proxy, pass, proxy_pass, variable, var, url, uri, args, argument, arguments, is_args, get, query, parameter, parameters, param, params" ctime="20181130162826" dir="15435773064a1ca8acxn" file="text.html"/>
+      <record id="1549189295xlfr75n21l" name="Включить сжатие в Nginx" author="br0ke" url="https://stackoverflow.com/a/39782237/10650942" tags="linux, nginx, gzip, zip, compression" ctime="20190203152135" dir="1549189295i6y9mtqnkv" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15365877332z0w8zebbp" name="Kubernetes">
