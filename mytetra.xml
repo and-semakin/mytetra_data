@@ -161,6 +161,8 @@
      <record id="1547989506nun3qjnmgz" name="Не работает переключение окон в обратном порядке (Alt+Shift+Tab) в Gnome" author="br0ke" url="https://www.guyrutenberg.com/2015/10/02/gnome-altshift-and-altshifttab/" tags="linux, gnome, desktop, switch, windows, alt, tab, shift, hotkey, alt+tab, alt+shift+tab" ctime="20190120180506" dir="1547989506n9j7af4wpo" file="text.html"/>
      <record id="1549099816pro8k334lz" name="Узнать версию Gnome" author="br0ke" url="https://askubuntu.com/a/13349" tags="linux, gnome, shell, version" ctime="20190202143016" dir="1549099816i480trlen2" file="text.html"/>
      <record id="154910089524kl64a07e" name="Получить настоящее (rich) содержимое буффера обмена в Linux" author="br0ke" url="https://stackoverflow.com/a/16960316/10650942" tags="linux, xclip, clipboard, rich, html, text/html, copy, paste, buffer" ctime="20190202144815" dir="1549100895zfaonq7wrc" file="text.html"/>
+     <record id="15491874811dziwig3zf" name="Установить разрешения на файлы и папки рекурсивно в Linux при помощи find" author="br0ke" url="https://stackoverflow.com/a/11512211/10650942" tags="linux, sh, bash, chmod, find, recursively" ctime="20190203145121" dir="15491874813r4qwjj5aa" file="text.html"/>
+     <record id="1549188746v5cqftzaeo" name="Найти файлы, удовлетворяющие нескольким условиям в find" author="br0ke" url="https://stackoverflow.com/a/1133720/10650942" tags="linux, find, name, ext, or, multiple, condition, conditions" ctime="20190203151226" dir="1549188746u2cw3eh9fp" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -366,6 +368,7 @@
      <record id="1547023515u4ebp0bxib" name="Просмотреть изменения, касающиеся определенной строки/строк в Git" author="br0ke" url="https://stackoverflow.com/a/27108677/10650942" tags="git, vcs, line, history, commit, commits, log, line" ctime="20190109134515" dir="1547023515lx6e9xppio" file="text.html"/>
      <record id="1549100501143v10xxtb" name="Перенести последний коммит(ы) в другую ветку в Git" author="br0ke" url="https://eddmann.com/posts/move-last-git-commit-to-new-or-existing-branch/" tags="git, commit, move, another, branch, reset, head" ctime="20190202144141" dir="15491005016nhunwrv5c" file="text.html"/>
      <record id="154910631146av6fra76" name="Поставить метку (тег) в Git" author="br0ke" url="https://stackoverflow.com/a/4404197/10650942" tags="git, scm, tag, commit, push" ctime="20190202161831" dir="1549106311xvwg4ftkor" file="text.html"/>
+     <record id="1549187735dfg4lu7q7g" name="Переместить метку (тег) на другой коммит в Git" author="br0ke" url="https://stackoverflow.com/a/21127037/10650942" tags="git, vcs, tag, tags, replace, move" ctime="20190203145535" dir="15491877354n6ha77uts" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
@@ -418,6 +421,7 @@
       <record id="15205326407sgvj9hf3k" name="Установка компилятора less" author="br0ke" url="https://askubuntu.com/a/892881" tags="node, nodejs, node.js, npm, less, lessc, css, ubuntu" ctime="20180308231040" dir="1520532640lhjp87jiy6" file="text.html"/>
       <record id="1547020284azqobwv924" name="Просмотреть дерево зависимостей пакета в NPM" author="br0ke" url="https://stackoverflow.com/a/47040266/10650942" tags="javascript, js, ecmascript, ecma, es, npm, nodejs, node, list, dependency, dependencies, tree, graph" ctime="20190109125124" dir="15470202845emvj9296v" file="text.html"/>
       <record id="1548928154rnp9t010zv" name="Работа с переменными окружения в Node" author="br0ke" url="https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html" tags="javascript, js, ecmascript, ecma, node, node.js, envvar, environment, variable, variables, env, process, process.env" ctime="20190131144914" dir="154892815445cb3q119i" file="text.html"/>
+      <record id="15491879586dmlll61s6" name="Обновить зависимости в package.json в NPM" author="br0ke" url="https://stackoverflow.com/a/16074029/10650942" tags="javascript, js, ecmascript, es, node, node.js, npm, package.json, package, update, ncu, npm-check-updates" ctime="20190203145918" dir="1549187958hg7nv61yrj" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1517079142ly31mrbslb" name="Vue.js">
@@ -466,6 +470,7 @@
      <recordtable>
       <record id="154910209660xyxme1ms" name="Условная сборка приложения в webpack с использованием ifdef-loader" author="br0ke" url="https://stackoverflow.com/a/43814847/10650942" tags="javascript, js, ecmascript, es, node, node.js, webpack, bundler, if, condition, conditional, ifdef, ifdef-loader" ctime="20190202150816" dir="1549102096qwodb1dq9c" file="text.html"/>
       <record id="1549186661lvp10ne5kd" name="Использование jQuery в webpack" author="br0ke" url="https://stackoverflow.com/a/34003565/10650942" tags="javascript, js, ecmascript, es, jquery, webpack, provideplugin, global, window, $" ctime="20190203143741" dir="154918666103k37bacz7" file="text.html"/>
+      <record id="1549187077b574ydtbrg" name="Использовать webpack-dev-server за NGINX" author="br0ke" url="https://stackoverflow.com/a/40549432/10650942" tags="javascript, js, webpack, dev, dev-server, webpack-dev-server, nginx, proxy" ctime="20190203144437" dir="1549187077iravt8mjvo" file="text.html"/>
      </recordtable>
     </node>
    </node>
