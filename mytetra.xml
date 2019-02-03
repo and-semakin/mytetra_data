@@ -465,6 +465,7 @@
     <node crypt="" id="1549102054af6zd0esz0" name="webpack">
      <recordtable>
       <record id="154910209660xyxme1ms" name="Условная сборка приложения в webpack с использованием ifdef-loader" author="br0ke" url="https://stackoverflow.com/a/43814847/10650942" tags="javascript, js, ecmascript, es, node, node.js, webpack, bundler, if, condition, conditional, ifdef, ifdef-loader" ctime="20190202150816" dir="1549102096qwodb1dq9c" file="text.html"/>
+      <record id="1549186661lvp10ne5kd" name="Использование jQuery в webpack" author="br0ke" url="https://stackoverflow.com/a/34003565/10650942" tags="javascript, js, ecmascript, es, jquery, webpack, provideplugin, global, window, $" ctime="20190203143741" dir="154918666103k37bacz7" file="text.html"/>
      </recordtable>
     </node>
    </node>
