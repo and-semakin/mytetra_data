@@ -164,6 +164,8 @@
      <record id="15491874811dziwig3zf" name="Установить разрешения на файлы и папки рекурсивно в Linux при помощи find" author="br0ke" url="https://stackoverflow.com/a/11512211/10650942" tags="linux, sh, bash, chmod, find, recursively" ctime="20190203145121" dir="15491874813r4qwjj5aa" file="text.html"/>
      <record id="1549188746v5cqftzaeo" name="Найти файлы, удовлетворяющие нескольким условиям в find" author="br0ke" url="https://stackoverflow.com/a/1133720/10650942" tags="linux, find, name, ext, or, multiple, condition, conditions" ctime="20190203151226" dir="1549188746u2cw3eh9fp" file="text.html"/>
      <record id="1549188963fjop19r373" name="Выполнить несколько действий над файлами в find" author="br0ke" url="https://stackoverflow.com/a/6043896/10650942" tags="linux, find, exec, multiple, action, actions" ctime="20190203151603" dir="1549188963fhgfa4voar" file="text.html"/>
+     <record id="1549192920ebs1fzpc4k" name="Установить Haskell Stack на Linux" author="br0ke" url="https://docs.haskellstack.org/en/stable/install_and_upgrade/#linux" tags="linux, haskell, stack, install," ctime="20190203162200" dir="1549192920cig37p862o" file="text.html"/>
+     <record id="1549192996drox3d5ovm" name="Установить Intero на Linux" author="br0ke" url="https://github.com/chrisdone/intero/blob/master/TOOLING.md#installing" tags="linux, install, haskell, intero, stack, ide" ctime="20190203162317" dir="1549192996o6ig7xfcaz" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
