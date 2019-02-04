@@ -535,6 +535,7 @@
       <record id="1549110417uzlwl3co8g" name="Сгенерировать последовательность в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/9.5/functions-srf.html" tags="postgresql, postgres, postgre, sql, generate, series, generate_series, range, sequence, date, datetime, time, number, numbers" ctime="20190202172657" dir="1549110417bkryscjcf6" file="text.html"/>
       <record id="15491192310hheoce3fx" name="Получить количество клиентов, подключенных к БД, в PostgreSQL" author="br0ke" url="" tags="postgresql, postgres, postgre, sql, pg, pg_stat_activity, database, count" ctime="20190202195351" dir="1549119231zn06fair5p" file="text.html"/>
       <record id="1549120746w1butsaywx" name="Показать список таблиц в БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/15644918/10650942" tags="postgresql, postgres, postgre, sql, table, tables, list, dt, psql" ctime="20190202201906" dir="1549120746k8hxjaavxv" file="text.html"/>
+      <record id="15492813049f3b1roa1i" name="Отключить всех клиентов от БД в PostgreSQL" author="br0ke" url="" tags="postgresql, postgres, postgre, sql, terminate, backend, pg_terminate_backend, disconnect" ctime="20190204165504" dir="1549281304n58pz23d0t" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
