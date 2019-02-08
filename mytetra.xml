@@ -8,7 +8,6 @@
     <record id="1521525704nlepyyeesy" name="Zeal -- просмотр документации оффлайн" author="br0ke" url="https://zealdocs.org/" tags="zeal, doc, docs, documentation, man, manual, dev, development, admin, administration" ctime="20180320110144" dir="1521525704sp8ff4p59o" file="text.html"/>
     <record id="1525420179xrq5cyczix" name="Схема для определения правильной кодировки текста" author="br0ke" url="" tags="text, encoding, unicode, кракозябры" ctime="20180504124939" dir="1525420179nil28tsjt4" file="text.html"/>
     <record id="1526829184r5da41sxmn" name="6 основных принципов REST API" author="br0ke" url="https://restfulapi.net/" tags="api, rest, restful, http, client-server, stateless, cacheable" ctime="20180520201304" dir="15268291844d4dnpmz4l" file="text.html"/>
-    <record id="1544517154285g2qeogc" name="Горячие клавиши PyCharm" author="br0ke" url="" tags="pycharm, jetbrains, ide, hotkey, hot, key, keys" ctime="20181211133234" dir="15445171549d9802dsin" file="text.html"/>
    </recordtable>
    <node crypt="" id="1515157235tlugwd7m1n" name="Python">
     <recordtable>
@@ -609,7 +608,11 @@
       <record id="1549120527lkxvtdv6k1" name="Задать исключения для поиска в VSCode" author="br0ke" url="https://stackoverflow.com/a/33418660/10650942" tags="visual studio code, code, vs, vscode, vsc, search, exclude, ignore, search.exclude" ctime="20190202201527" dir="1549120527ocdf5hd5ag" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1549120807liqifa955m" name="PyCharm"/>
+    <node crypt="" id="1549120807liqifa955m" name="PyCharm">
+     <recordtable>
+      <record id="1544517154285g2qeogc" name="Горячие клавиши PyCharm" author="br0ke" url="" tags="pycharm, jetbrains, ide, hotkey, hot, key, keys" ctime="20190208163938" dir="15445171549d9802dsin" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
