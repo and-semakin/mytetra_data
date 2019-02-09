@@ -38,6 +38,7 @@
      <record id="15491078356uyoyv0y7w" name="Проверить, что программа установлена из Python" author="br0ke" url="https://askubuntu.com/a/35751/920474" tags="python, check, program, install, package, git, path, subprocess" ctime="20190202164355" dir="1549107835bdlwtdeuul" file="text.html"/>
      <record id="1549120189z57a2qknyo" name="Настроить путь для импорта библиотек в Python" author="br0ke" url="https://stackoverflow.com/a/10253916/10650942" tags="python, path, import, pythonpath, sys, os, library" ctime="20190202200949" dir="15491201898kcbcdk8o7" file="text.html"/>
      <record id="1549121117kmngnhzqbj" name="Получить размер терминала в символах в Python" author="br0ke" url="https://stackoverflow.com/a/14422538/10650942" tags="python, console, terminal, size, row, rows, column, columns, shutil" ctime="20190202202517" dir="1549121117dnn8tg5cff" file="text.html"/>
+     <record id="1549718887o7s6vf6vmu" name="Enum с дополнительными полями в Python" author="br0ke" url="https://stackoverflow.com/a/19300424/10650942" tags="python, enum, enumeration, attribute, multiple, value, tuple" ctime="20190209182807" dir="15497188876wwceucspn" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -622,6 +623,7 @@
      <recordtable>
       <record id="1544517154285g2qeogc" name="Горячие клавиши PyCharm" author="br0ke" url="" tags="pycharm, jetbrains, ide, hotkey, hot, key, keys" ctime="20190208163938" dir="15445171549d9802dsin" file="text.html"/>
       <record id="1549715176wi19bm5xip" name="Скрыть файлы в PyCharm" author="br0ke" url="https://intellij-support.jetbrains.com/hc/en-us/community/posts/205824519-Is-there-a-way-to-hide-non-project-files-from-project-file-browser" tags="pycharm, jetbrains, ide, file, files, hidden, hide, exclude, file browser" ctime="20190209172616" dir="1549715176sk28jk832a" file="text.html"/>
+      <record id="1549718328h5piikxevw" name="В IntelliJ / PyCharm перестает работать клавиатура" author="br0ke" url="https://youtrack.jetbrains.com/issue/IDEA-78860" tags="jetbrains, ide, intellij, idea, pycharm, keyboard, bug, ibus" ctime="20190209181848" dir="1549718328l41gj7n2td" file="text.html"/>
      </recordtable>
     </node>
    </node>
