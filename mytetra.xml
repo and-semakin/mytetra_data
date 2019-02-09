@@ -607,6 +607,7 @@
     <node crypt="" id="1549120348epbt4hkd3f" name="Visual Studio Code">
      <recordtable>
       <record id="1549120527lkxvtdv6k1" name="Задать исключения для поиска в VSCode" author="br0ke" url="https://stackoverflow.com/a/33418660/10650942" tags="visual studio code, code, vs, vscode, vsc, search, exclude, ignore, search.exclude" ctime="20190202201527" dir="1549120527ocdf5hd5ag" file="text.html"/>
+      <record id="1549704504cehmv5h9ip" name="Интеграция с GitLab в VSCode" author="br0ke" url="https://about.gitlab.com/2018/03/01/gitlab-vscode-extension/" tags="ide, editor, vscode, code, visual, studio, gitlab, extension, integration" ctime="20190209142824" dir="1549704504faku964cod" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1549120807liqifa955m" name="PyCharm">
