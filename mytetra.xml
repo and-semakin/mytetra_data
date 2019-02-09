@@ -467,6 +467,7 @@
       <record id="15479867797e6xqk03ip" name="Ошибка prefer-destructuring при переприсваивании значения в ESLint" author="br0ke" url="https://github.com/eslint/eslint/issues/7886" tags="javascript, js, ecmascript, es, ecma, eslint, lint, prefer-destructuring, reassignment" ctime="20190120171939" dir="1547986779xlteusip5w" file="text.html"/>
       <record id="1549101466vp4vpugi3n" name="Исключить файлы/директорию из проверки ESLint" author="br0ke" url="https://stackoverflow.com/a/43200040/10650942" tags="javascript, js, ecmascript, es, lint, linter, eslint, exclude, ignore, eslintignore" ctime="20190202145746" dir="1549101466k66lgmrlrd" file="text.html"/>
       <record id="15491071972kk9cmoouq" name="Ошибка &quot;React is defined but never used&quot; в ESLint" author="br0ke" url="https://github.com/babel/babel-eslint/issues/6#issuecomment-297258372" tags="javascript, js, ecmascript, es, linter, lint, eslint, error, react, babel-eslint, babel, no-unused-vars" ctime="20190202163317" dir="1549107197qnfwqqdmi4" file="text.html"/>
+      <record id="1549717193csl5ks0s9u" name="Настроить разрешение путей при импорте в ESLint" author="br0ke" url="https://stackoverflow.com/a/42498220/10650942" tags="javascript, js, ecmascipt, es, eslint, lint, linter, resolve, path, paths, import, eslint-plugin-import, webpack, eslint-import-resolver-webpack, resolver" ctime="20190209175953" dir="1549717193m723bltrh4" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1546155382htmbiitjuy" name="babel">
@@ -613,6 +614,8 @@
      <recordtable>
       <record id="1549120527lkxvtdv6k1" name="Задать исключения для поиска в VSCode" author="br0ke" url="https://stackoverflow.com/a/33418660/10650942" tags="visual studio code, code, vs, vscode, vsc, search, exclude, ignore, search.exclude" ctime="20190202201527" dir="1549120527ocdf5hd5ag" file="text.html"/>
       <record id="1549704504cehmv5h9ip" name="Интеграция с GitLab в VSCode" author="br0ke" url="https://about.gitlab.com/2018/03/01/gitlab-vscode-extension/" tags="ide, editor, vscode, code, visual, studio, gitlab, extension, integration, workflow" ctime="20190209142824" dir="1549704504faku964cod" file="text.html"/>
+      <record id="1549716772bf7te8r9gh" name="Настроить правила импорта для JS в VSCode" author="br0ke" url="https://github.com/Microsoft/vscode/issues/14907#issuecomment-271462011" tags="vscode, code, visual, studio, jsconfig.json, jsconfig, import, resolve, path, paths" ctime="20190209175252" dir="1549716772aswqi0ajw7" file="text.html"/>
+      <record id="1549717750o1ppufazfs" name="Запускать ESLint для каждой подпапки отдельно в VSCode" author="br0ke" url="https://github.com/Microsoft/vscode-eslint/issues/196#issuecomment-279362659" tags="vscode, code, visual, studio, ide, editor, eslint, vscode-eslint, working, directory, cwd" ctime="20190209180910" dir="1549717750ugys5yf8t7" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1549120807liqifa955m" name="PyCharm">
