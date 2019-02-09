@@ -166,6 +166,8 @@
      <record id="1549188963fjop19r373" name="Выполнить несколько действий над файлами в find" author="br0ke" url="https://stackoverflow.com/a/6043896/10650942" tags="linux, find, exec, multiple, action, actions" ctime="20190203151603" dir="1549188963fhgfa4voar" file="text.html"/>
      <record id="1549192920ebs1fzpc4k" name="Установить Haskell Stack на Linux" author="br0ke" url="https://docs.haskellstack.org/en/stable/install_and_upgrade/#linux" tags="linux, haskell, stack, install," ctime="20190203162200" dir="1549192920cig37p862o" file="text.html"/>
      <record id="1549192996drox3d5ovm" name="Установить Intero на Linux" author="br0ke" url="https://github.com/chrisdone/intero/blob/master/TOOLING.md#installing" tags="linux, install, haskell, intero, stack, ide" ctime="20190203162317" dir="1549192996o6ig7xfcaz" file="text.html"/>
+     <record id="1549714929vz9egiqbwm" name="Сменить расположение всплывающих уведомлений в Gnome" author="br0ke" url="https://www.omgubuntu.co.uk/2017/03/choose-gnome-notifications-appear" tags="linux, gnome, shell, de, notify, nofigication, notifications, position, panel, osd" ctime="20190209172209" dir="15497149294uh1wo68gi" file="text.html"/>
+     <record id="1549715042aozz10kimt" name="Отключить меню по наведению курсора в левый верхний угол (hot corner) в Gnome" author="br0ke" url="https://extensions.gnome.org/extension/118/no-topleft-hot-corner/" tags="linux, gnome, de, shell, hot, corner, menu, left, top, pointer, extension" ctime="20190209172402" dir="1549715042rly3r61btg" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -208,6 +210,8 @@
       <record id="1548999505dqnw9h9nkk" name="Установить комилятор Haskell на Fedora" author="br0ke" url="https://www.haskell.org/platform/#linux-fedora" tags="linux, fedora, dnf, install, haskell, platform, ghc, ghci, compiler, glasgow" ctime="20190201103825" dir="1548999505qo5sg95clj" file="text.html"/>
       <record id="1549100720g3psg3sl5q" name="Установить xclip на Fedora" author="br0ke" url="" tags="linux, fedora, dnf, install, xclip, clipboard, copy, paste, buffer" ctime="20190202144520" dir="1549100720rebpo63fzf" file="text.html"/>
       <record id="1549108326e5xqtjti1z" name="Установить Google Chrome на Fedora" author="br0ke" url="https://www.if-not-true-then-false.com/2010/install-google-chrome-with-yum-on-fedora-red-hat-rhel/" tags="linux, fedora, install, google, chrome, browser" ctime="20190202165206" dir="1549108326on16hxy1z9" file="text.html"/>
+      <record id="1549715465s7q1s44q68" name="Установить Peek на Fedora" author="br0ke" url="https://fedoramagazine.org/peek-screenshot-tool/" tags="linux, fedora, peek, screenshot, screencast, gif, tool, flat, flathub, install" ctime="20190209173105" dir="15497154651bw1vampne" file="text.html"/>
+      <record id="1549715512xgqibfzi7w" name="Как устанавливать приложения из Flathub в Fedora" author="br0ke" url="https://fedoramagazine.org/install-flathub-apps-fedora/" tags="linux, fedora, flatpak, flathub, flat, install, repo, dnf" ctime="20190209173152" dir="15497155120noq4xup3g" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
@@ -536,6 +540,7 @@
       <record id="15491192310hheoce3fx" name="Получить количество клиентов, подключенных к БД, в PostgreSQL" author="br0ke" url="" tags="postgresql, postgres, postgre, sql, pg, pg_stat_activity, database, count" ctime="20190202195351" dir="1549119231zn06fair5p" file="text.html"/>
       <record id="1549120746w1butsaywx" name="Показать список таблиц в БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/15644918/10650942" tags="postgresql, postgres, postgre, sql, table, tables, list, dt, psql" ctime="20190202201906" dir="1549120746k8hxjaavxv" file="text.html"/>
       <record id="15492813049f3b1roa1i" name="Отключить всех клиентов от БД в PostgreSQL" author="br0ke" url="" tags="postgresql, postgres, postgre, sql, terminate, backend, pg_terminate_backend, disconnect" ctime="20190204165504" dir="1549281304n58pz23d0t" file="text.html"/>
+      <record id="1549715290peq7as0pw5" name="Вывод в файл в psql" author="br0ke" url="https://stackoverflow.com/a/5331571/10650942" tags="postgresql, postgres, postgre, sql, psql, pgcli, output, redirect, file" ctime="20190209172810" dir="1549715290k5l2fwoka6" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
@@ -613,6 +618,7 @@
     <node crypt="" id="1549120807liqifa955m" name="PyCharm">
      <recordtable>
       <record id="1544517154285g2qeogc" name="Горячие клавиши PyCharm" author="br0ke" url="" tags="pycharm, jetbrains, ide, hotkey, hot, key, keys" ctime="20190208163938" dir="15445171549d9802dsin" file="text.html"/>
+      <record id="1549715176wi19bm5xip" name="Скрыть файлы в PyCharm" author="br0ke" url="https://intellij-support.jetbrains.com/hc/en-us/community/posts/205824519-Is-there-a-way-to-hide-non-project-files-from-project-file-browser" tags="pycharm, jetbrains, ide, file, files, hidden, hide, exclude, file browser" ctime="20190209172616" dir="1549715176sk28jk832a" file="text.html"/>
      </recordtable>
     </node>
    </node>
