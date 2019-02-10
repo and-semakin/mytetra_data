@@ -213,6 +213,7 @@
       <record id="1549108326e5xqtjti1z" name="Установить Google Chrome на Fedora" author="br0ke" url="https://www.if-not-true-then-false.com/2010/install-google-chrome-with-yum-on-fedora-red-hat-rhel/" tags="linux, fedora, install, google, chrome, browser" ctime="20190202165206" dir="1549108326on16hxy1z9" file="text.html"/>
       <record id="1549715465s7q1s44q68" name="Установить Peek на Fedora" author="br0ke" url="https://fedoramagazine.org/peek-screenshot-tool/" tags="linux, fedora, peek, screenshot, screencast, gif, tool, flat, flathub, install" ctime="20190209173105" dir="15497154651bw1vampne" file="text.html"/>
       <record id="1549715512xgqibfzi7w" name="Как устанавливать приложения из Flathub в Fedora" author="br0ke" url="https://fedoramagazine.org/install-flathub-apps-fedora/" tags="linux, fedora, flatpak, flathub, flat, install, repo, dnf" ctime="20190209173152" dir="15497155120noq4xup3g" file="text.html"/>
+      <record id="1549805170d6h1hsxl0r" name="Установить NodeJS и NPM на Fedora" author="br0ke" url="https://github.com/nodesource/distributions" tags="linux, fedora, rpm, yum, dnf, install, node, node.js, npm, nodesource" ctime="20190210182610" dir="15498051709w78k1wje1" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
@@ -423,7 +424,7 @@
       <record id="153786137071qdjo5l89" name="Компоненты в React: класс или функция" author="br0ke" url="https://itnext.io/react-component-class-vs-stateless-component-e3797c7d23ab" tags="javascript, js, react, react.js, component, class, function, functional, presentational, dumb, stateless, containers, smart, stateful" ctime="20180925124250" dir="15378613706s7e6xk2cs" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1516690897327juy5uam" name="node.js">
+    <node crypt="" id="1516690897327juy5uam" name="NodeJS">
      <recordtable>
       <record id="15166914708wjfl33r8p" name="Основы node.js" author="br0ke" url="https://habrahabr.ru/post/243335/" tags="javascript, node, node.js, nodejs, hello world, helloworld, listdir, ls, example" ctime="20180123121110" dir="1516691470epfeqxv6s7" file="text.html"/>
       <record id="1516692978b2si9i3qyk" name="npm -- Node Package Manager" author="br0ke" url="https://habrahabr.ru/post/243335/" tags="javascript, node, node.js, nodejs, npm, node package manager, package, package.json" ctime="20180123123618" dir="1516692978ornwump9rp" file="text.html"/>
@@ -431,9 +432,10 @@
       <record id="1547020284azqobwv924" name="Просмотреть дерево зависимостей пакета в NPM" author="br0ke" url="https://stackoverflow.com/a/47040266/10650942" tags="javascript, js, ecmascript, ecma, es, npm, nodejs, node, list, dependency, dependencies, tree, graph" ctime="20190109125124" dir="15470202845emvj9296v" file="text.html"/>
       <record id="1548928154rnp9t010zv" name="Работа с переменными окружения в Node" author="br0ke" url="https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html" tags="javascript, js, ecmascript, ecma, node, node.js, envvar, environment, variable, variables, env, process, process.env" ctime="20190131144914" dir="154892815445cb3q119i" file="text.html"/>
       <record id="15491879586dmlll61s6" name="Обновить зависимости в package.json в NPM" author="br0ke" url="https://stackoverflow.com/a/16074029/10650942" tags="javascript, js, ecmascript, es, node, node.js, npm, package.json, package, update, ncu, npm-check-updates" ctime="20190203145918" dir="1549187958hg7nv61yrj" file="text.html"/>
+      <record id="1549805252fm45z6u8i7" name="Ошибка при установке глобального пакета EACCES в NPM" author="br0ke" url="https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally" tags="node, nodejs, js, javascript, npm, error, global, g, install, access, eaccess, permission" ctime="20190210182732" dir="1549805252fuxw7uud4a" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1517079142ly31mrbslb" name="Vue.js">
+    <node crypt="" id="1517079142ly31mrbslb" name="Vue">
      <recordtable>
       <record id="1517079581mfb2u3gabe" name="Описание фреймворка Vue" author="br0ke" url="" tags="javascript, js, vue.js, vue, vuejs, framework, ui" ctime="20180127235941" dir="15170795817zrthakkfv" file="text.html"/>
       <record id="1517122152p0dwi59q0y" name="Создание экземпляра Vue" author="br0ke" url="https://ru.vuejs.org/v2/guide/instance.html" tags="javascript, vue.js, vuejs, vue, mvvm, ui, framework" ctime="20180128114912" dir="1517122152h48206g9h0" file="text.html"/>
