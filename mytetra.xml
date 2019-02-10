@@ -619,6 +619,7 @@
       <record id="1549704504cehmv5h9ip" name="Интеграция с GitLab в VSCode" author="br0ke" url="https://about.gitlab.com/2018/03/01/gitlab-vscode-extension/" tags="ide, editor, vscode, code, visual, studio, gitlab, extension, integration, workflow" ctime="20190209142824" dir="1549704504faku964cod" file="text.html"/>
       <record id="1549716772bf7te8r9gh" name="Настроить правила импорта для JS в VSCode" author="br0ke" url="https://github.com/Microsoft/vscode/issues/14907#issuecomment-271462011" tags="vscode, code, visual, studio, jsconfig.json, jsconfig, import, resolve, path, paths" ctime="20190209175252" dir="1549716772aswqi0ajw7" file="text.html"/>
       <record id="1549717750o1ppufazfs" name="Запускать ESLint для каждой подпапки отдельно в VSCode" author="br0ke" url="https://github.com/Microsoft/vscode-eslint/issues/196#issuecomment-279362659" tags="vscode, code, visual, studio, ide, editor, eslint, vscode-eslint, working, directory, cwd" ctime="20190209180910" dir="1549717750ugys5yf8t7" file="text.html"/>
+      <record id="1549806286l9topvuebf" name="Поддержка Elm в VSCode" author="br0ke" url="https://marketplace.visualstudio.com/items?itemName=sbrink.elm" tags="vscode, code, visual, studio, elm, elmlang, elm-lang, extenstion, install" ctime="20190210184446" dir="15498062865jot098x7g" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1549120807liqifa955m" name="PyCharm">
