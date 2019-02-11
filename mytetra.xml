@@ -163,6 +163,7 @@
      <record id="1549188963fjop19r373" name="Выполнить несколько действий над файлами в find" author="br0ke" url="https://stackoverflow.com/a/6043896/10650942" tags="linux, find, exec, multiple, action, actions" ctime="20190203151603" dir="1549188963fhgfa4voar" file="text.html"/>
      <record id="1549192920ebs1fzpc4k" name="Установить Haskell Stack на Linux" author="br0ke" url="https://docs.haskellstack.org/en/stable/install_and_upgrade/#linux" tags="linux, haskell, stack, install," ctime="20190203162200" dir="1549192920cig37p862o" file="text.html"/>
      <record id="1549192996drox3d5ovm" name="Установить Intero на Linux" author="br0ke" url="https://github.com/chrisdone/intero/blob/master/TOOLING.md#installing" tags="linux, install, haskell, intero, stack, ide" ctime="20190203162317" dir="1549192996o6ig7xfcaz" file="text.html"/>
+     <record id="1549886154ykczusgnce" name="Удалить все комментарии и пустые строки из файла в Linux" author="br0ke" url="https://linuxconfig.org/remove-comment-lines-from-linux-config-files" tags="linux, grep, config, conf, postgresql.conf, regex, regexp, regular, expression, expressions, empty" ctime="20190211165554" dir="1549886154yd1kfaz9zx" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
