@@ -551,6 +551,7 @@
       <record id="15492813049f3b1roa1i" name="Отключить всех клиентов от БД в PostgreSQL" author="br0ke" url="" tags="postgresql, postgres, postgre, sql, terminate, backend, pg_terminate_backend, disconnect" ctime="20190204165504" dir="1549281304n58pz23d0t" file="text.html"/>
       <record id="1549715290peq7as0pw5" name="Вывод в файл в psql" author="br0ke" url="https://stackoverflow.com/a/5331571/10650942" tags="postgresql, postgres, postgre, sql, psql, pgcli, output, redirect, file" ctime="20190209172810" dir="1549715290k5l2fwoka6" file="text.html"/>
       <record id="15498821519pqzzl3bkg" name="Обновить значение в jsonb в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/23500670/10650942" tags="postgresql, postgres, postgre, sql, json, jsonb, update, set, jsonb_build_object, jsonb_set" ctime="20190211154911" dir="1549882151ng9u8s940y" file="text.html"/>
+      <record id="1549887231csmyv8sgfk" name="Узнать расположение файла конфигурации в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/3603162/10650942" tags="postgresql, postgres, postgre, sql, config, file, config_file, location" ctime="20190211171351" dir="15498872310xn9dk9heb" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
