@@ -570,6 +570,7 @@
    <node crypt="" id="1521766380ubjvwcz0ib" name="Web">
     <recordtable>
      <record id="1549108707p351sjtpfe" name="Остановить автоматический редирект с HTTP на HTTPS в Chrome" author="br0ke" url="https://superuser.com/a/881431/993215" tags="google, chrome, https, http, redirect, security, policy" ctime="20190202165827" dir="1549108707ypxslwcasp" file="text.html"/>
+     <record id="15499620623r7q4ucdcy" name="Темы для Chrome" author="br0ke" url="https://chrome.google.com/webstore/category/collection/chrome_themes" tags="chrome, browser, web, theme, look, dark, black, contrast" ctime="20190212140102" dir="1549962062gn7e80br15" file="text.html"/>
     </recordtable>
     <node crypt="" id="1521766385l6o9mt9y9k" name="CSS">
      <recordtable>
