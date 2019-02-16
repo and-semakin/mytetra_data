@@ -57,8 +57,8 @@
     </node>
     <node crypt="" id="15156469891vuf5st61r" name="Библиотеки">
      <recordtable>
-      <record id="1516258008ai3hckcxtq" name="Методы-проверки (assert) для unittest" author="br0ke" url="https://docs.python.org/3/library/unittest.html#assert-methods" tags="python, stdlib, unittest, test, testing, assert" ctime="20180118114648" dir="1516258008kdbejlnxul" file="text.html"/>
       <record id="15293280882cbvgl1dc1" name="Glob-like регулярные выражения в Python" author="br0ke" url="https://github.com/metagriffin/globre" tags="python, re, regex, regexp, glob, globlike, glob-like, globre" ctime="20180618182128" dir="1529328088d506yuwqcu" file="text.html"/>
+      <record id="1550331487swn5pmkopl" name="Связный список в Python" author="br0ke" url="https://pypi.org/project/llist/" tags="python, lib, pip, linked list, llist, list, data structure" ctime="20190216203807" dir="1550331487qv5j8drhu5" file="text.html"/>
      </recordtable>
      <node crypt="" id="15156470021ol4cff9aa" name="Flask">
       <recordtable>
@@ -99,6 +99,8 @@
       <recordtable>
        <record id="15342244027ehjv2cjs0" name="subTest в unittest в Python" author="br0ke" url="https://gist.github.com/encukou/10017915" tags="python, unittest, test, subtest" ctime="20180814102642" dir="1534224402zmwusj0nkn" file="text.html"/>
        <record id="1534225142l6ukx6057c" name="assert-методы в unittest в Python" author="br0ke" url="https://docs.python.org/3/library/unittest.html" tags="python, unittest, test, assert, assertEqual, assertIn, assertIs" ctime="20180814103902" dir="1534225142mgq6x5e06t" file="text.html"/>
+       <record id="1516258008ai3hckcxtq" name="Методы-проверки (assert) для unittest" author="br0ke" url="https://docs.python.org/3/library/unittest.html#assert-methods" tags="python, stdlib, unittest, test, testing, assert" ctime="20190216203443" dir="1516258008kdbejlnxul" file="text.html"/>
+       <record id="15503317060kxq84552v" name="Mock'и для вложенных функций в Python" author="br0ke" url="https://stackoverflow.com/a/32956627/10650942" tags="python, stdlib, unittest, mock, nested, function, callable, rerurn_value" ctime="20190216204146" dir="1550331706s3yzfsbd5c" file="text.html"/>
       </recordtable>
      </node>
     </node>
