@@ -560,6 +560,7 @@
       <record id="1550229662phwou391v4" name="Получить размер поля в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/46274320/10650942" tags="postgresql, postgres, postgre, sql, column, size, bytes, pg_column_size, pg_size_bytes" ctime="20190215162102" dir="15502296622hneiouf5u" file="text.html"/>
       <record id="1550745834xslo124man" name="Отсортировать строки в случайном порядке в PostgreSQL" author="br0ke" url="https://stackoverflow.com/q/8674718/10650942" tags="postgresql, postgres, postgre, sql, order, order by, random" ctime="20190221154354" dir="1550745834osjvpqfyk9" file="text.html"/>
       <record id="1550746789dq9xcr4msa" name="Выгрузить результат запроса в файл в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/1746215/10650942" tags="postgresql, postgres, postgre, sql, copy, dump, pg_dump, select" ctime="20190221155949" dir="1550746789fhkx16txqv" file="text.html"/>
+      <record id="15507498684v7b7150jn" name="Показать установленные и доступные расширения в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/21799995/10650942" tags="postgresql, postgres, postgre, sql, extension, extensions, list, psql, pg_extension" ctime="20190221165108" dir="1550749868i5evijy77c" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
