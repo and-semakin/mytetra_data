@@ -211,6 +211,7 @@
       <record id="1549715512xgqibfzi7w" name="Как устанавливать приложения из Flathub в Fedora" author="br0ke" url="https://fedoramagazine.org/install-flathub-apps-fedora/" tags="linux, fedora, flatpak, flathub, flat, install, repo, dnf" ctime="20190209173152" dir="15497155120noq4xup3g" file="text.html"/>
       <record id="1549805170d6h1hsxl0r" name="Установить NodeJS и NPM на Fedora" author="br0ke" url="https://github.com/nodesource/distributions" tags="linux, fedora, rpm, yum, dnf, install, node, node.js, npm, nodesource" ctime="20190210182610" dir="15498051709w78k1wje1" file="text.html"/>
       <record id="15498790585pyf03uewl" name="Установить HexChat на Fedora" author="br0ke" url="https://fedoraproject.org/wiki/How_to_use_IRC#How_to_install_HexChat" tags="linux, fedora, install, hexchat, irc, client, dnf" ctime="20190211145738" dir="1549879058hxbvva7cwf" file="text.html"/>
+      <record id="1550746957seth8ikn5a" name="Установить PostgreSQL клиент на Fedora" author="br0ke" url="https://yum.postgresql.org/repopackages.php" tags="linux, fedora, install, postgresql, postgres, postgre, client, psql, pg_dump, rpm, yum" ctime="20190221160237" dir="15507469578lyxyap2dh" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
@@ -558,6 +559,7 @@
       <record id="1549887231csmyv8sgfk" name="Узнать расположение файла конфигурации в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/3603162/10650942" tags="postgresql, postgres, postgre, sql, config, file, config_file, location" ctime="20190211171351" dir="15498872310xn9dk9heb" file="text.html"/>
       <record id="1550229662phwou391v4" name="Получить размер поля в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/46274320/10650942" tags="postgresql, postgres, postgre, sql, column, size, bytes, pg_column_size, pg_size_bytes" ctime="20190215162102" dir="15502296622hneiouf5u" file="text.html"/>
       <record id="1550745834xslo124man" name="Отсортировать строки в случайном порядке в PostgreSQL" author="br0ke" url="https://stackoverflow.com/q/8674718/10650942" tags="postgresql, postgres, postgre, sql, order, order by, random" ctime="20190221154354" dir="1550745834osjvpqfyk9" file="text.html"/>
+      <record id="1550746789dq9xcr4msa" name="Выгрузить результат запроса в файл в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/1746215/10650942" tags="postgresql, postgres, postgre, sql, copy, dump, pg_dump, select" ctime="20190221155949" dir="1550746789fhkx16txqv" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
