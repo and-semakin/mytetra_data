@@ -557,6 +557,7 @@
       <record id="15498821519pqzzl3bkg" name="Обновить значение в jsonb в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/23500670/10650942" tags="postgresql, postgres, postgre, sql, json, jsonb, update, set, jsonb_build_object, jsonb_set" ctime="20190211154911" dir="1549882151ng9u8s940y" file="text.html"/>
       <record id="1549887231csmyv8sgfk" name="Узнать расположение файла конфигурации в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/3603162/10650942" tags="postgresql, postgres, postgre, sql, config, file, config_file, location" ctime="20190211171351" dir="15498872310xn9dk9heb" file="text.html"/>
       <record id="1550229662phwou391v4" name="Получить размер поля в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/46274320/10650942" tags="postgresql, postgres, postgre, sql, column, size, bytes, pg_column_size, pg_size_bytes" ctime="20190215162102" dir="15502296622hneiouf5u" file="text.html"/>
+      <record id="1550745834xslo124man" name="Отсортировать строки в случайном порядке в PostgreSQL" author="br0ke" url="https://stackoverflow.com/q/8674718/10650942" tags="postgresql, postgres, postgre, sql, order, order by, random" ctime="20190221154354" dir="1550745834osjvpqfyk9" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
