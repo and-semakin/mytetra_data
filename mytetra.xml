@@ -561,6 +561,8 @@
       <record id="1550745834xslo124man" name="Отсортировать строки в случайном порядке в PostgreSQL" author="br0ke" url="https://stackoverflow.com/q/8674718/10650942" tags="postgresql, postgres, postgre, sql, order, order by, random" ctime="20190221154354" dir="1550745834osjvpqfyk9" file="text.html"/>
       <record id="1550746789dq9xcr4msa" name="Выгрузить результат запроса в файл в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/1746215/10650942" tags="postgresql, postgres, postgre, sql, copy, dump, pg_dump, select" ctime="20190221155949" dir="1550746789fhkx16txqv" file="text.html"/>
       <record id="15507498684v7b7150jn" name="Показать установленные и доступные расширения в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/21799995/10650942" tags="postgresql, postgres, postgre, sql, extension, extensions, list, psql, pg_extension" ctime="20190221165108" dir="1550749868i5evijy77c" file="text.html"/>
+      <record id="1550828981opibwvfevz" name="Запретить подключение к БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/3185413/10650942" tags="postgresql, postgres, postgre, sql, pg_database, datallowconn, restrict, connect, forbid" ctime="20190222144941" dir="1550828981me2hc5ad8b" file="text.html"/>
+      <record id="1550829532zypjizxzyu" name="Статистика медленных запросов через pg_stat_statements в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/current/pgstatstatements.html" tags="postgresql, postgres, postgre, sql, stat, pg_stat_statements, statistics, long, query" ctime="20190222145852" dir="1550829532mornd8vu59" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
@@ -637,6 +639,7 @@
       <record id="1549716772bf7te8r9gh" name="Настроить правила импорта для JS в VSCode" author="br0ke" url="https://github.com/Microsoft/vscode/issues/14907#issuecomment-271462011" tags="vscode, code, visual, studio, jsconfig.json, jsconfig, import, resolve, path, paths" ctime="20190209175252" dir="1549716772aswqi0ajw7" file="text.html"/>
       <record id="1549717750o1ppufazfs" name="Запускать ESLint для каждой подпапки отдельно в VSCode" author="br0ke" url="https://github.com/Microsoft/vscode-eslint/issues/196#issuecomment-279362659" tags="vscode, code, visual, studio, ide, editor, eslint, vscode-eslint, working, directory, cwd" ctime="20190209180910" dir="1549717750ugys5yf8t7" file="text.html"/>
       <record id="1549806286l9topvuebf" name="Поддержка Elm в VSCode" author="br0ke" url="https://marketplace.visualstudio.com/items?itemName=sbrink.elm" tags="vscode, code, visual, studio, elm, elmlang, elm-lang, extenstion, install" ctime="20190210184446" dir="15498062865jot098x7g" file="text.html"/>
+      <record id="1550829328cb1ogshhep" name="Удалить пустые строки в VSCode" author="br0ke" url="https://stackoverflow.com/a/39881691/10650942" tags="vscode, code, visual studio, ide, blank, line, replace, remove, delete" ctime="20190222145528" dir="1550829328b5ih2ovl4m" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1549120807liqifa955m" name="IntelliJ / PyCharm">
