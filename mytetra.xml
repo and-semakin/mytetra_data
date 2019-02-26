@@ -212,6 +212,7 @@
       <record id="1549805170d6h1hsxl0r" name="Установить NodeJS и NPM на Fedora" author="br0ke" url="https://github.com/nodesource/distributions" tags="linux, fedora, rpm, yum, dnf, install, node, node.js, npm, nodesource" ctime="20190210182610" dir="15498051709w78k1wje1" file="text.html"/>
       <record id="15498790585pyf03uewl" name="Установить HexChat на Fedora" author="br0ke" url="https://fedoraproject.org/wiki/How_to_use_IRC#How_to_install_HexChat" tags="linux, fedora, install, hexchat, irc, client, dnf" ctime="20190211145738" dir="1549879058hxbvva7cwf" file="text.html"/>
       <record id="1550746957seth8ikn5a" name="Установить PostgreSQL клиент на Fedora" author="br0ke" url="https://yum.postgresql.org/repopackages.php" tags="linux, fedora, install, postgresql, postgres, postgre, client, psql, pg_dump, rpm, yum" ctime="20190221160237" dir="15507469578lyxyap2dh" file="text.html"/>
+      <record id="1551167009hsrqmedsbl" name="Установить GIMP на Fedora" author="br0ke" url="https://www.gimp.org/downloads/Linux.html" tags="linux, fedora, dnf, install, gimp, gnu, image, manipulation, tool" ctime="20190226124329" dir="1551167009ahkfgkujuv" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
