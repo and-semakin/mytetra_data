@@ -103,6 +103,11 @@
        <record id="15503317060kxq84552v" name="Mock'и для вложенных функций в Python" author="br0ke" url="https://stackoverflow.com/a/32956627/10650942" tags="python, stdlib, unittest, mock, nested, function, callable, rerurn_value" ctime="20190216204146" dir="1550331706s3yzfsbd5c" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="1551340836g9myx2syg6" name="Celery">
+      <recordtable>
+       <record id="15513409248uun4c9o88" name="Celery не работает при запуске в контейнере от пользователя root" author="br0ke" url="https://github.com/pydanny/cookiecutter-django/issues/1304#issuecomment-332346965" tags="python, celery, root, c_force_root" ctime="20190228130204" dir="1551340924kf76uk82i5" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
      <recordtable>
@@ -390,6 +395,7 @@
      <record id="1549100501143v10xxtb" name="Перенести последний коммит(ы) в другую ветку в Git" author="br0ke" url="https://eddmann.com/posts/move-last-git-commit-to-new-or-existing-branch/" tags="git, commit, move, another, branch, reset, head" ctime="20190202144141" dir="15491005016nhunwrv5c" file="text.html"/>
      <record id="154910631146av6fra76" name="Поставить метку (тег) в Git" author="br0ke" url="https://stackoverflow.com/a/4404197/10650942" tags="git, scm, tag, commit, push" ctime="20190202161831" dir="1549106311xvwg4ftkor" file="text.html"/>
      <record id="1549187735dfg4lu7q7g" name="Переместить метку (тег) на другой коммит в Git" author="br0ke" url="https://stackoverflow.com/a/21127037/10650942" tags="git, vcs, tag, tags, replace, move" ctime="20190203145535" dir="15491877354n6ha77uts" file="text.html"/>
+     <record id="15513405875n1g6x6jzu" name="Создать пустую ветку в Git" author="br0ke" url="https://stackoverflow.com/a/13969482/10650942" tags="git, vsc, branch, empty, orphan" ctime="20190228125627" dir="15513405879548sfdfzb" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
@@ -641,6 +647,7 @@
       <record id="1549717750o1ppufazfs" name="Запускать ESLint для каждой подпапки отдельно в VSCode" author="br0ke" url="https://github.com/Microsoft/vscode-eslint/issues/196#issuecomment-279362659" tags="vscode, code, visual, studio, ide, editor, eslint, vscode-eslint, working, directory, cwd" ctime="20190209180910" dir="1549717750ugys5yf8t7" file="text.html"/>
       <record id="1549806286l9topvuebf" name="Поддержка Elm в VSCode" author="br0ke" url="https://marketplace.visualstudio.com/items?itemName=sbrink.elm" tags="vscode, code, visual, studio, elm, elmlang, elm-lang, extenstion, install" ctime="20190210184446" dir="15498062865jot098x7g" file="text.html"/>
       <record id="1550829328cb1ogshhep" name="Удалить пустые строки в VSCode" author="br0ke" url="https://stackoverflow.com/a/39881691/10650942" tags="vscode, code, visual studio, ide, blank, line, replace, remove, delete" ctime="20190222145528" dir="1550829328b5ih2ovl4m" file="text.html"/>
+      <record id="1551340413otj6b574xa" name="Свернуть/развернуть блок кода в VSCode" author="br0ke" url="https://stackoverflow.com/a/38001475/10650942" tags="vscode, code, visual, studio, ide, fold, unfold, folding, unfolding, block, hot, key, hotkey" ctime="20190228125333" dir="1551340413mozy8vj0k5" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1549120807liqifa955m" name="IntelliJ / PyCharm">
@@ -649,8 +656,9 @@
       <record id="1549715176wi19bm5xip" name="Скрыть файлы в PyCharm" author="br0ke" url="https://intellij-support.jetbrains.com/hc/en-us/community/posts/205824519-Is-there-a-way-to-hide-non-project-files-from-project-file-browser" tags="pycharm, jetbrains, ide, file, files, hidden, hide, exclude, file browser" ctime="20190209172616" dir="1549715176sk28jk832a" file="text.html"/>
       <record id="1549718328h5piikxevw" name="В IntelliJ / PyCharm перестает работать клавиатура" author="br0ke" url="https://youtrack.jetbrains.com/issue/IDEA-78860" tags="jetbrains, ide, intellij, idea, pycharm, keyboard, bug, ibus" ctime="20190209181848" dir="1549718328l41gj7n2td" file="text.html"/>
       <record id="1525427080ybnt7o0dyh" name="Исправить нерабочие горячие клавиши в нелатинских раскладках клавиатуры в IDE JetBrains IntelliJ IDEA, PyCharm" author="br0ke" url="https://gist.github.com/d3zorg/3f71ee24b1a0a288ce27" tags="linux, java, jetbrains, ide, idea, intellij idea, pycharm, hotkeys, non-latin" ctime="20190210185709" dir="15254270808fghhbhq7c" file="text.html"/>
-      <record id="1532868560bsxq2vip8b" name="Сбросить триал на IDE WebStorm, PhpStorm" author="br0ke" url="https://gist.github.com/Arbagen/f5ad683ebdbbb75d92d8ca8c8ec11617" tags="ide, jetbrains, webstorm, phpstorm, pycharm, trial, reset" ctime="20190210185727" dir="15328685600hfl1fgyvu" file="text.html"/>
+      <record id="1532868560bsxq2vip8b" name="Сбросить триал на IDE WebStorm, PHPStorm" author="br0ke" url="https://gist.github.com/Arbagen/f5ad683ebdbbb75d92d8ca8c8ec11617" tags="ide, jetbrains, webstorm, phpstorm, pycharm, trial, reset" ctime="20190210185727" dir="15328685600hfl1fgyvu" file="text.html"/>
       <record id="15513397392wa9kv1qd9" name="Удалить репозиторий из системы контроля версий в IntelliJ / PyCharm" author="br0ke" url="https://youtrack.jetbrains.com/issue/IDEA-20624" tags="ide, jetbrains, intellij, pycharm, vcs, git, repo, detach, folder, log, remove" ctime="20190228124219" dir="15513397391729g8nh9m" file="text.html"/>
+      <record id="1551340821stft6dxxx3" name="Открепить папку от окна IntelliJ / PyCharm" author="br0ke" url="https://intellij-support.jetbrains.com/hc/en-us/community/posts/206634645-Detach-directory-" tags="ide, jetbrains, intellij, idea, pycharm, attach, detach, folder" ctime="20190228130021" dir="1551340821ig2n0tleyx" file="text.html"/>
      </recordtable>
     </node>
    </node>
