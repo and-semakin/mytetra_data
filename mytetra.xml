@@ -650,6 +650,7 @@
       <record id="1549718328h5piikxevw" name="В IntelliJ / PyCharm перестает работать клавиатура" author="br0ke" url="https://youtrack.jetbrains.com/issue/IDEA-78860" tags="jetbrains, ide, intellij, idea, pycharm, keyboard, bug, ibus" ctime="20190209181848" dir="1549718328l41gj7n2td" file="text.html"/>
       <record id="1525427080ybnt7o0dyh" name="Исправить нерабочие горячие клавиши в нелатинских раскладках клавиатуры в IDE JetBrains IntelliJ IDEA, PyCharm" author="br0ke" url="https://gist.github.com/d3zorg/3f71ee24b1a0a288ce27" tags="linux, java, jetbrains, ide, idea, intellij idea, pycharm, hotkeys, non-latin" ctime="20190210185709" dir="15254270808fghhbhq7c" file="text.html"/>
       <record id="1532868560bsxq2vip8b" name="Сбросить триал на IDE WebStorm, PhpStorm" author="br0ke" url="https://gist.github.com/Arbagen/f5ad683ebdbbb75d92d8ca8c8ec11617" tags="ide, jetbrains, webstorm, phpstorm, pycharm, trial, reset" ctime="20190210185727" dir="15328685600hfl1fgyvu" file="text.html"/>
+      <record id="15513397392wa9kv1qd9" name="Удалить репозиторий из системы контроля версий в IntelliJ / PyCharm" author="br0ke" url="https://youtrack.jetbrains.com/issue/IDEA-20624" tags="ide, jetbrains, intellij, pycharm, vcs, git, repo, detach, folder, log, remove" ctime="20190228124219" dir="15513397391729g8nh9m" file="text.html"/>
      </recordtable>
     </node>
    </node>
