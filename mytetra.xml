@@ -39,6 +39,7 @@
      <record id="1549120189z57a2qknyo" name="Настроить путь для импорта библиотек в Python" author="br0ke" url="https://stackoverflow.com/a/10253916/10650942" tags="python, path, import, pythonpath, sys, os, library" ctime="20190202200949" dir="15491201898kcbcdk8o7" file="text.html"/>
      <record id="1549121117kmngnhzqbj" name="Получить размер терминала в символах в Python" author="br0ke" url="https://stackoverflow.com/a/14422538/10650942" tags="python, console, terminal, size, row, rows, column, columns, shutil" ctime="20190202202517" dir="1549121117dnn8tg5cff" file="text.html"/>
      <record id="1549718887o7s6vf6vmu" name="Enum с дополнительными полями в Python" author="br0ke" url="https://stackoverflow.com/a/19300424/10650942" tags="python, enum, enumeration, attribute, multiple, value, tuple" ctime="20190209182807" dir="15497188876wwceucspn" file="text.html"/>
+     <record id="1551698296imfa5qcxce" name="Ошибка invalid command 'bdist_wheel' при установке пакета через PIP" author="br0ke" url="https://stackoverflow.com/a/44862371/10650942" tags="python, pip, install, wheel, bdist, bdist_wheel, setup, setup.py, error, invalid, command" ctime="20190304161816" dir="1551698296v0ebcu18u3" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -99,8 +100,7 @@
       <recordtable>
        <record id="15342244027ehjv2cjs0" name="subTest в unittest в Python" author="br0ke" url="https://gist.github.com/encukou/10017915" tags="python, unittest, test, subtest" ctime="20180814102642" dir="1534224402zmwusj0nkn" file="text.html"/>
        <record id="1534225142l6ukx6057c" name="assert-методы в unittest в Python" author="br0ke" url="https://docs.python.org/3/library/unittest.html" tags="python, unittest, test, assert, assertEqual, assertIn, assertIs" ctime="20180814103902" dir="1534225142mgq6x5e06t" file="text.html"/>
-       <record id="1516258008ai3hckcxtq" name="Методы-проверки (assert) для unittest" author="br0ke" url="https://docs.python.org/3/library/unittest.html#assert-methods" tags="python, stdlib, unittest, test, testing, assert" ctime="20190216203443" dir="1516258008kdbejlnxul" file="text.html"/>
-       <record id="15503317060kxq84552v" name="Mock'и для вложенных функций в Python" author="br0ke" url="https://stackoverflow.com/a/32956627/10650942" tags="python, stdlib, unittest, mock, nested, function, callable, rerurn_value" ctime="20190216204146" dir="1550331706s3yzfsbd5c" file="text.html"/>
+       <record id="15503317060kxq84552v" name="Заглушки (mock) для вложенных функций в Python" author="br0ke" url="https://stackoverflow.com/a/32956627/10650942" tags="python, stdlib, unittest, mock, nested, function, callable, rerurn_value" ctime="20190216204146" dir="1550331706s3yzfsbd5c" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1551340836g9myx2syg6" name="Celery">
@@ -108,6 +108,7 @@
        <record id="15513409248uun4c9o88" name="Celery не работает при запуске в контейнере от пользователя root" author="br0ke" url="https://github.com/pydanny/cookiecutter-django/issues/1304#issuecomment-332346965" tags="python, celery, root, c_force_root" ctime="20190228130204" dir="1551340924kf76uk82i5" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="1551698139t4ox904xyb" name="pytest"/>
     </node>
     <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
      <recordtable>
@@ -660,6 +661,7 @@
       <record id="1532868560bsxq2vip8b" name="Сбросить триал на IDE WebStorm, PHPStorm" author="br0ke" url="https://gist.github.com/Arbagen/f5ad683ebdbbb75d92d8ca8c8ec11617" tags="ide, jetbrains, webstorm, phpstorm, pycharm, trial, reset" ctime="20190210185727" dir="15328685600hfl1fgyvu" file="text.html"/>
       <record id="15513397392wa9kv1qd9" name="Удалить репозиторий из системы контроля версий в IntelliJ / PyCharm" author="br0ke" url="https://youtrack.jetbrains.com/issue/IDEA-20624" tags="ide, jetbrains, intellij, pycharm, vcs, git, repo, detach, folder, log, remove" ctime="20190228124219" dir="15513397391729g8nh9m" file="text.html"/>
       <record id="1551340821stft6dxxx3" name="Открепить папку от окна IntelliJ / PyCharm" author="br0ke" url="https://intellij-support.jetbrains.com/hc/en-us/community/posts/206634645-Detach-directory-" tags="ide, jetbrains, intellij, idea, pycharm, attach, detach, folder" ctime="20190228130021" dir="1551340821ig2n0tleyx" file="text.html"/>
+      <record id="1551697931unizek5brt" name="Ограничение на длину просматриваемых структур в дебаггере PyCharm" author="br0ke" url="https://stackoverflow.com/a/39669196/10650942" tags="ide, jetbrains, pycharm, debug, debugger, pydev, list, dict, limit, item, items" ctime="20190304161211" dir="1551697931319hhmqt1s" file="text.html"/>
      </recordtable>
     </node>
    </node>
