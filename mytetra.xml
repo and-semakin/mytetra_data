@@ -41,6 +41,7 @@
      <record id="1549718887o7s6vf6vmu" name="Enum с дополнительными полями в Python" author="br0ke" url="https://stackoverflow.com/a/19300424/10650942" tags="python, enum, enumeration, attribute, multiple, value, tuple" ctime="20190209182807" dir="15497188876wwceucspn" file="text.html"/>
      <record id="1551698296imfa5qcxce" name="Ошибка invalid command 'bdist_wheel' при установке пакета через PIP" author="br0ke" url="https://stackoverflow.com/a/44862371/10650942" tags="python, pip, install, wheel, bdist, bdist_wheel, setup, setup.py, error, invalid, command" ctime="20190304161816" dir="1551698296v0ebcu18u3" file="text.html"/>
      <record id="1551698682fyxh0kqst2" name="Получить список аргументов функции из Python" author="br0ke" url="https://stackoverflow.com/a/218709/10650942" tags="python, inspect, getfullargspec, arg, args, argument, arguments, list, names" ctime="20190304162442" dir="1551698682v8pnzi0v2c" file="text.html"/>
+     <record id="155177866612rcyn7nm9" name="Сделать словарь только для чтения в Python" author="br0ke" url="https://docs.python.org/3/library/types.html#types.MappingProxyType" tags="python, dict, dictionary, mapping, proxy, type, types, mappingproxytype, read, only, readonly, read-only" ctime="20190305143746" dir="15517786661zw5gw7nyy" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
