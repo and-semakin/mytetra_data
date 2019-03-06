@@ -123,6 +123,11 @@
       <record id="1520150927ftsfjtxelv" name="pyenv -- менеджер версий интерпретатора Python" author="br0ke" url="https://github.com/pyenv/pyenv" tags="python, pyenv, install, pipenv, pip, pypy, " ctime="20180304130847" dir="1520150927puobq8jldy" file="text.html"/>
       <record id="1549704416qimbktix03" name="pudb -- консольный графический дебаггер для Python" author="br0ke" url="https://pypi.org/project/pudb/" tags="python, tool, tools, pdb, pudb, debug, debugger, cli, pseudographics, pseudo, graphics" ctime="20190209142656" dir="1549704416uffe4kkxyc" file="text.html"/>
      </recordtable>
+     <node crypt="" id="1551871492ezy1op4e0x" name="IPython">
+      <recordtable>
+       <record id="1551871538lwmajcbpr1" name="Автоматически перезагружать импортированные файлы в IPython" author="br0ke" url="https://ipython.readthedocs.io/en/stable/config/extensions/autoreload.html" tags="python, ipython, repl, auto, reload, import, reimport, autoreload, aimport" ctime="20190306162538" dir="1551871538jmxh31m8v3" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
    </node>
    <node crypt="" id="1515157243sgifx8iwud" name="Linux">
