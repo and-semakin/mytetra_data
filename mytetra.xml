@@ -453,6 +453,7 @@
      <record id="1549097270j7755jaqwm" name="Конвертировать объект Map в массив в JavaScript" author="br0ke" url="https://stackoverflow.com/a/35341828/10650942" tags="javascript, js, ecmascript, es, map, array, keys, values, items, spread" ctime="20190202134750" dir="1549097270wtstlqs4xt" file="text.html"/>
      <record id="15490999614uop4eq1z1" name="Отсортировать массив объектов по одному из полей объекта в JavaScript" author="br0ke" url="https://stackoverflow.com/a/5435341/10650942" tags="javascript, js, ecmascript, es, sort, array, compare" ctime="20190202143241" dir="1549099961xeyl2jp53q" file="text.html"/>
      <record id="1549110630cpgp8anvg9" name="throttle vs debounce" author="br0ke" url="https://artemdemo.me/blog/throttling-vs-debouncing/" tags="javascript, js, ecmascript, es, throttle, debounce, underscore, lodash, event, events" ctime="20190202173030" dir="1549110630bk2ytvsvrz" file="text.html"/>
+     <record id="1552072131p9aznpepcp" name="Общий подход к определению типа переменной в JavaScript" author="br0ke" url="https://medium.com/devschacht/javascript-typeof-43591ab15bef" tags="javascript, type, typeof, object, prototype" ctime="20190309000851" dir="15520721319ulm81et10" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
