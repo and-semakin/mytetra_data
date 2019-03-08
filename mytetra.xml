@@ -41,6 +41,7 @@
      <record id="1549718887o7s6vf6vmu" name="Enum с дополнительными полями в Python" author="br0ke" url="https://stackoverflow.com/a/19300424/10650942" tags="python, enum, enumeration, attribute, multiple, value, tuple" ctime="20190209182807" dir="15497188876wwceucspn" file="text.html"/>
      <record id="1551698296imfa5qcxce" name="Ошибка invalid command 'bdist_wheel' при установке пакета через PIP" author="br0ke" url="https://stackoverflow.com/a/44862371/10650942" tags="python, pip, install, wheel, bdist, bdist_wheel, setup, setup.py, error, invalid, command" ctime="20190304161816" dir="1551698296v0ebcu18u3" file="text.html"/>
      <record id="1551698682fyxh0kqst2" name="Получить список аргументов функции из Python" author="br0ke" url="https://stackoverflow.com/a/218709/10650942" tags="python, inspect, getfullargspec, arg, args, argument, arguments, list, names" ctime="20190304162442" dir="1551698682v8pnzi0v2c" file="text.html"/>
+     <record id="155177866612rcyn7nm9" name="Сделать словарь только для чтения в Python" author="br0ke" url="https://docs.python.org/3/library/types.html#types.MappingProxyType" tags="python, dict, dictionary, mapping, proxy, type, types, mappingproxytype, read, only, readonly, read-only" ctime="20190305143746" dir="15517786661zw5gw7nyy" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -122,6 +123,11 @@
       <record id="1520150927ftsfjtxelv" name="pyenv -- менеджер версий интерпретатора Python" author="br0ke" url="https://github.com/pyenv/pyenv" tags="python, pyenv, install, pipenv, pip, pypy, " ctime="20180304130847" dir="1520150927puobq8jldy" file="text.html"/>
       <record id="1549704416qimbktix03" name="pudb -- консольный графический дебаггер для Python" author="br0ke" url="https://pypi.org/project/pudb/" tags="python, tool, tools, pdb, pudb, debug, debugger, cli, pseudographics, pseudo, graphics" ctime="20190209142656" dir="1549704416uffe4kkxyc" file="text.html"/>
      </recordtable>
+     <node crypt="" id="1551871492ezy1op4e0x" name="IPython">
+      <recordtable>
+       <record id="1551871538lwmajcbpr1" name="Автоматически перезагружать импортированные файлы в IPython" author="br0ke" url="https://ipython.readthedocs.io/en/stable/config/extensions/autoreload.html" tags="python, ipython, repl, auto, reload, import, reimport, autoreload, aimport" ctime="20190306162538" dir="1551871538jmxh31m8v3" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
    </node>
    <node crypt="" id="1515157243sgifx8iwud" name="Linux">
