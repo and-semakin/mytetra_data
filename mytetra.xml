@@ -46,6 +46,7 @@
      <record id="1552051101neev1la1al" name="Получить список файлов в директории через pathlib в Python" author="br0ke" url="https://stackoverflow.com/a/39911421/10650942" tags="python, path, pathlib, list, file, files, iterdir, recurse, recursively, recursion" ctime="20190308181821" dir="1552051101oncv7k0a1c" file="text.html"/>
      <record id="1552051274hldl8ur4yt" name="Вывести действительное число с округлением до нескольких символов после запятой в Python" author="br0ke" url="https://stackoverflow.com/a/455634/10650942" tags="python, print, format, str, string, float, round" ctime="20190308182114" dir="1552051274mbf4iketxk" file="text.html"/>
      <record id="1552051868nrvyaj1of8" name="Вывод в терминал текста с цветами в Python" author="br0ke" url="https://stackoverflow.com/a/287944/10650942" tags="python, terminal, term, console, print, stdout, color, colour, ansi, escape, sequence, sequences" ctime="20190308183108" dir="1552051868e19tx06uls" file="text.html"/>
+     <record id="1552400381bi22i8yo9m" name="Перезагрузить импортированный модуль в Python" author="br0ke" url="https://stackoverflow.com/a/437591/10650942" tags="python, python3, repl, import, load, importlib, reload, reimport" ctime="20190312191941" dir="1552400381g0kds7d44w" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
