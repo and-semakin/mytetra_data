@@ -298,6 +298,7 @@
       <record id="15436057916ocqi2lby2" name="Установить PATH навсегда в Fish" author="br0ke" url="https://github.com/fish-shell/fish-shell/issues/527#issuecomment-12435368" tags="linux, fish, shell, bash, sh, path, env, set, persistent, permanent" ctime="20181201002311" dir="1543605791myu5bdh1t1" file="text.html"/>
       <record id="1547989141e173po7vn4" name="Аналог .bashrc в Fish" author="br0ke" url="https://fishshell.com/docs/current/faq.html" tags="linux, unix, fish, shell, fishshell, sh, bash" ctime="20190120175901" dir="1547989141d6fkaa6sgw" file="text.html"/>
       <record id="1551765101ed0zxtq63e" name="Повторять команду, пока не произойдет ошибка в Fish" author="br0ke" url="https://stackoverflow.com/a/12967264/10650942" tags="linux, unix, shell, fish, bash, sh, while, loop, until, fail, repeat, counter, count, math" ctime="20190305105141" dir="1551765101v0i258xxdl" file="text.html"/>
+      <record id="15525572272a0ose7l0i" name="Дождаться пока запустится PostgreSQL из FIsh" author="br0ke" url="https://github.com/docker-library/postgres/issues/146#issuecomment-213545864" tags="linux, unix, shell, fish, sh, fish-shell, while, postgresql, postgres, postgre, pg, pg_isready, ready" ctime="20190314145347" dir="1552557227k8iqazrluk" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
