@@ -192,6 +192,7 @@
      <record id="1549192920ebs1fzpc4k" name="Установить Haskell Stack на Linux" author="br0ke" url="https://docs.haskellstack.org/en/stable/install_and_upgrade/#linux" tags="linux, haskell, stack, install," ctime="20190203162200" dir="1549192920cig37p862o" file="text.html"/>
      <record id="1549192996drox3d5ovm" name="Установить Intero на Linux" author="br0ke" url="https://github.com/chrisdone/intero/blob/master/TOOLING.md#installing" tags="linux, install, haskell, intero, stack, ide" ctime="20190203162317" dir="1549192996o6ig7xfcaz" file="text.html"/>
      <record id="1549886154ykczusgnce" name="Удалить все комментарии и пустые строки из файла в Linux" author="br0ke" url="https://linuxconfig.org/remove-comment-lines-from-linux-config-files" tags="linux, grep, config, conf, postgresql.conf, regex, regexp, regular, expression, expressions, empty" ctime="20190211165554" dir="1549886154yd1kfaz9zx" file="text.html"/>
+     <record id="1553174747j6hg7a4y5z" name="Выслать уведомление в Linux" author="br0ke" url="https://www.commandlinefu.com/commands/view/2041/send-pop-up-notifications-on-gnome" tags="linux, notify, notification, message, gui, send-notify, gnome, de" ctime="20190321182547" dir="1553174747kz29mf98p8" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -387,6 +388,7 @@
       <record id="1549715042aozz10kimt" name="Отключить меню по наведению курсора в левый верхний угол (hot corner) в Gnome" author="br0ke" url="https://extensions.gnome.org/extension/118/no-topleft-hot-corner/" tags="linux, gnome, de, shell, hot, corner, menu, left, top, pointer, extension" ctime="20190210185907" dir="1549715042rly3r61btg" file="text.html"/>
       <record id="1522088560hf26i6j7tw" name="Сочетание клавиш для запуска терминала в Fedora (Gnome)" author="br0ke" url="https://ask.fedoraproject.org/en/question/9623/how-can-i-set-a-key-shortcut-to-launch-terminal-under-gnome/" tags="fedora, terminal, shortcut, hotkey, gnome" ctime="20190210185923" dir="1522088560sk1koexjd4" file="text.html"/>
       <record id="1549807341ltsx39hj4j" name="Убрать сообщение &quot;Window is ready&quot; в Gnome" author="br0ke" url="https://extensions.gnome.org/extension/1007/window-is-ready-notification-remover/" tags="linux, gnome, de, extension, window, is, ready, notification, notifications" ctime="20190210190221" dir="1549807341p00jen5qbu" file="text.html"/>
+      <record id="1553174949071zvp5ayp" name="Перезапуск Gnome" author="br0ke" url="https://askubuntu.com/a/496999/920474" tags="linux, gnome, de, desktop, environment, restart, reload, gui" ctime="20190321182909" dir="1553174949f8290wpozd" file="text.html"/>
      </recordtable>
     </node>
    </node>
