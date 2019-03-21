@@ -69,6 +69,7 @@
      <recordtable>
       <record id="15293280882cbvgl1dc1" name="Glob-like регулярные выражения в Python" author="br0ke" url="https://github.com/metagriffin/globre" tags="python, re, regex, regexp, glob, globlike, glob-like, globre" ctime="20180618182128" dir="1529328088d506yuwqcu" file="text.html"/>
       <record id="1550331487swn5pmkopl" name="Связный список в Python" author="br0ke" url="https://pypi.org/project/llist/" tags="python, lib, pip, linked list, llist, list, data structure" ctime="20190216203807" dir="1550331487qv5j8drhu5" file="text.html"/>
+      <record id="1553170935yo2s3zku0h" name="SSH-клиент из Python" author="br0ke" url="https://github.com/paramiko/paramiko" tags="python, ssh, ssh2, remote, terminal, connection, automate, automation, paramiko" ctime="20190321172215" dir="15531709355273icsoe3" file="text.html"/>
      </recordtable>
      <node crypt="" id="15156470021ol4cff9aa" name="Flask">
       <recordtable>
@@ -132,6 +133,7 @@
      <node crypt="" id="1551871492ezy1op4e0x" name="IPython">
       <recordtable>
        <record id="1551871538lwmajcbpr1" name="Автоматически перезагружать импортированные файлы в IPython" author="br0ke" url="https://ipython.readthedocs.io/en/stable/config/extensions/autoreload.html" tags="python, ipython, repl, auto, reload, import, reimport, autoreload, aimport" ctime="20190306162538" dir="1551871538jmxh31m8v3" file="text.html"/>
+       <record id="15531711304e5nyuo8t2" name="Лишний вывод в логи в IPython" author="br0ke" url="https://github.com/ipython/ipython/issues/10946#issuecomment-354501461" tags="python, ipython, repl, logging, log, logs, output, unexpected, parso" ctime="20190321172530" dir="1553171130yeehmyg78w" file="text.html"/>
       </recordtable>
      </node>
     </node>
@@ -594,6 +596,7 @@
       <record id="15507498684v7b7150jn" name="Показать установленные и доступные расширения в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/21799995/10650942" tags="postgresql, postgres, postgre, sql, extension, extensions, list, psql, pg_extension" ctime="20190221165108" dir="1550749868i5evijy77c" file="text.html"/>
       <record id="1550828981opibwvfevz" name="Запретить подключение к БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/3185413/10650942" tags="postgresql, postgres, postgre, sql, pg_database, datallowconn, restrict, connect, forbid" ctime="20190222144941" dir="1550828981me2hc5ad8b" file="text.html"/>
       <record id="1550829532zypjizxzyu" name="Статистика медленных запросов через pg_stat_statements в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/current/pgstatstatements.html" tags="postgresql, postgres, postgre, sql, stat, pg_stat_statements, statistics, long, query" ctime="20190222145852" dir="1550829532mornd8vu59" file="text.html"/>
+      <record id="1553171575g4set4yvw6" name="Создать базу данных, если она ещё не создана, в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/44512503/10650942" tags="postgresql, postgres, postgre, sql, create, database, if not exists, drop" ctime="20190321173255" dir="1553171575mv488bdcud" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
