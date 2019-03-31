@@ -48,6 +48,7 @@
      <record id="1552051868nrvyaj1of8" name="Вывод в терминал текста с цветами в Python" author="br0ke" url="https://stackoverflow.com/a/287944/10650942" tags="python, terminal, term, console, print, stdout, color, colour, ansi, escape, sequence, sequences" ctime="20190308183108" dir="1552051868e19tx06uls" file="text.html"/>
      <record id="1552400381bi22i8yo9m" name="Перезагрузить импортированный модуль в Python" author="br0ke" url="https://stackoverflow.com/a/437591/10650942" tags="python, python3, repl, import, load, importlib, reload, reimport" ctime="20190312191941" dir="1552400381g0kds7d44w" file="text.html"/>
      <record id="1553170711hgl50jiuj7" name="Безопасно создать список/словарь/любой объект из строкового представления в Python" author="br0ke" url="https://stackoverflow.com/a/1894296/10650942" tags="python, list, eval, ast, literal_eval, json, str, decode, list, dict, object" ctime="20190321171831" dir="1553170711dwnxt59ac0" file="text.html"/>
+     <record id="155403885470k4xo5m1u" name="Аналог декоратора @property для методов класса в Python" author="br0ke" url="http://www.sql.ru/blogs/fishhook/1464" tags="python, decorator, property, classmethod, class, method, getter, setter" ctime="20190331182734" dir="1554038854csfhx79cjt" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -123,7 +124,11 @@
        <record id="1551699106ic4et3qs2w" name="Перехват вывода stdout и stderr в pytest" author="br0ke" url="https://docs.pytest.org/en/latest/capture.html" tags="python, test, pytest, capture, stdout, stderr, capsys, capsysbinary, capfd, capfdbinary" ctime="20190304163146" dir="1551699106saf37g8tl9" file="text.html"/>
       </recordtable>
      </node>
-     <node crypt="" id="1554038688niibu2rc9c" name="selenium"/>
+     <node crypt="" id="1554038688niibu2rc9c" name="selenium">
+      <recordtable>
+       <record id="15540387651d7cvozqev" name="Проверить видимость элемента через Selenium" author="br0ke" url="https://stackoverflow.com/a/15940824/10650942" tags="python, selenium, webdriver, visible, visibility, is_displayed" ctime="20190331182605" dir="15540387657n1x3bt7rg" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
      <recordtable>
