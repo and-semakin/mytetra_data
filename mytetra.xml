@@ -50,6 +50,8 @@
      <record id="1553170711hgl50jiuj7" name="Безопасно создать список/словарь/любой объект из строкового представления в Python" author="br0ke" url="https://stackoverflow.com/a/1894296/10650942" tags="python, list, eval, ast, literal_eval, json, str, decode, list, dict, object" ctime="20190321171831" dir="1553170711dwnxt59ac0" file="text.html"/>
      <record id="155403885470k4xo5m1u" name="Аналог декоратора @property для методов класса в Python" author="br0ke" url="http://www.sql.ru/blogs/fishhook/1464" tags="python, decorator, property, classmethod, class, method, getter, setter" ctime="20190331182734" dir="1554038854csfhx79cjt" file="text.html"/>
      <record id="1554039165x5c78u94qi" name="Перехватить ошибку TimeoutError в asyncio" author="br0ke" url="https://docs.python.org/3/library/asyncio-task.html#asyncio.wait_for" tags="python, asyncio, try, catch, timeout, timeouterror, wait_for" ctime="20190331183245" dir="15540391652nyogm0l0n" file="text.html"/>
+     <record id="1554041439yc8c2t1ihc" name="Отключить вывод логов в Python" author="br0ke" url="https://stackoverflow.com/a/3116067/10650942" tags="python, logging, disable, logger" ctime="20190331191039" dir="1554041439mb0ii5sdet" file="text.html"/>
+     <record id="1554041585uup9b8smgx" name="Уровни логгирования в Python" author="br0ke" url="https://docs.python.org/3/library/logging.html#levels" tags="python, logging, level, levels, debug, info, warning, error, critical" ctime="20190331191305" dir="1554041585a8vi0xs1vp" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -476,6 +478,8 @@
      <record id="15490999614uop4eq1z1" name="Отсортировать массив объектов по одному из полей объекта в JavaScript" author="br0ke" url="https://stackoverflow.com/a/5435341/10650942" tags="javascript, js, ecmascript, es, sort, array, compare" ctime="20190202143241" dir="1549099961xeyl2jp53q" file="text.html"/>
      <record id="1549110630cpgp8anvg9" name="throttle vs debounce" author="br0ke" url="https://artemdemo.me/blog/throttling-vs-debouncing/" tags="javascript, js, ecmascript, es, throttle, debounce, underscore, lodash, event, events" ctime="20190202173030" dir="1549110630bk2ytvsvrz" file="text.html"/>
      <record id="1552072131p9aznpepcp" name="Общий подход к определению типа переменной в JavaScript" author="br0ke" url="https://medium.com/devschacht/javascript-typeof-43591ab15bef" tags="javascript, type, typeof, object, prototype" ctime="20190309000851" dir="15520721319ulm81et10" file="text.html"/>
+     <record id="1554040759l5aiyjcbb8" name="Заменить все вхождения подстроки в строке в JavaScript" author="br0ke" url="https://stackoverflow.com/a/17606289/10650942" tags="javascript, js, ecmascript, es, replace, replace_all" ctime="20190331185919" dir="1554040759i7nye0xom5" file="text.html"/>
+     <record id="1554040912b2ikv8iyq0" name="Дополнить строку символами до нужной длины в JavaScript" author="br0ke" url="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/padStart" tags="javascript, js, ecmascript, es, pad, padstart, padding" ctime="20190331190152" dir="1554040912xcbna9mn1y" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
