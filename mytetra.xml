@@ -128,6 +128,11 @@
      <node crypt="" id="1554038688niibu2rc9c" name="selenium">
       <recordtable>
        <record id="15540387651d7cvozqev" name="Проверить видимость элемента через Selenium" author="br0ke" url="https://stackoverflow.com/a/15940824/10650942" tags="python, selenium, webdriver, visible, visibility, is_displayed" ctime="20190331182605" dir="15540387657n1x3bt7rg" file="text.html"/>
+       <record id="1554039945sgz3dop61w" name="Получить значение атрибута элемента через Selenium" author="br0ke" url="https://stackoverflow.com/a/30325396/10650942" tags="python, selenium, webdriver, attribute, value, get_attribute" ctime="20190331184545" dir="1554039945wfverkzopi" file="text.html"/>
+       <record id="1554040092nbn5o9xr4w" name="Выполнить JavaScript-код через Selenium" author="br0ke" url="https://stackoverflow.com/a/29273838/10650942" tags="python, selenium, webdriver, javascript, execute, js, execute_script" ctime="20190331184812" dir="1554040092o2c3l6ract" file="text.html"/>
+       <record id="1554040162hr65ca0n1l" name="Открыть инструменты разработчика в Chrome через Selenium" author="br0ke" url="https://stackoverflow.com/a/48113921/10650942" tags="python, selenium, webdriver, chome, devtools, auto-open-devtools-for-tabs" ctime="20190331184922" dir="1554040162s25g7t5k19" file="text.html"/>
+       <record id="1554040302nkpdvugcg3" name="Запустить Chrome в полноэкранном режиме через Selenium" author="br0ke" url="https://stackoverflow.com/a/12213723/10650942" tags="python, selenium, webdriver, chrome, full, screen, fullscreen, maximize" ctime="20190331185142" dir="155404030281d363mozp" file="text.html"/>
+       <record id="1554040474lc3q96505x" name="Заполнить поле ввода через Selenium" author="br0ke" url="https://stackoverflow.com/a/25537644/10650942" tags="python, selenium, webdriver, input, field, send_keys, form" ctime="20190331185434" dir="1554040474wx08f1r1kt" file="text.html"/>
       </recordtable>
      </node>
     </node>
