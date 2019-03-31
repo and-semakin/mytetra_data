@@ -49,6 +49,7 @@
      <record id="1552400381bi22i8yo9m" name="Перезагрузить импортированный модуль в Python" author="br0ke" url="https://stackoverflow.com/a/437591/10650942" tags="python, python3, repl, import, load, importlib, reload, reimport" ctime="20190312191941" dir="1552400381g0kds7d44w" file="text.html"/>
      <record id="1553170711hgl50jiuj7" name="Безопасно создать список/словарь/любой объект из строкового представления в Python" author="br0ke" url="https://stackoverflow.com/a/1894296/10650942" tags="python, list, eval, ast, literal_eval, json, str, decode, list, dict, object" ctime="20190321171831" dir="1553170711dwnxt59ac0" file="text.html"/>
      <record id="155403885470k4xo5m1u" name="Аналог декоратора @property для методов класса в Python" author="br0ke" url="http://www.sql.ru/blogs/fishhook/1464" tags="python, decorator, property, classmethod, class, method, getter, setter" ctime="20190331182734" dir="1554038854csfhx79cjt" file="text.html"/>
+     <record id="1554039165x5c78u94qi" name="Перехватить ошибку TimeoutError в asyncio" author="br0ke" url="https://docs.python.org/3/library/asyncio-task.html#asyncio.wait_for" tags="python, asyncio, try, catch, timeout, timeouterror, wait_for" ctime="20190331183245" dir="15540391652nyogm0l0n" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
