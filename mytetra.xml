@@ -123,6 +123,7 @@
        <record id="1551699106ic4et3qs2w" name="Перехват вывода stdout и stderr в pytest" author="br0ke" url="https://docs.pytest.org/en/latest/capture.html" tags="python, test, pytest, capture, stdout, stderr, capsys, capsysbinary, capfd, capfdbinary" ctime="20190304163146" dir="1551699106saf37g8tl9" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="1554038688niibu2rc9c" name="selenium"/>
     </node>
     <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
      <recordtable>
@@ -193,6 +194,7 @@
      <record id="1549192996drox3d5ovm" name="Установить Intero на Linux" author="br0ke" url="https://github.com/chrisdone/intero/blob/master/TOOLING.md#installing" tags="linux, install, haskell, intero, stack, ide" ctime="20190203162317" dir="1549192996o6ig7xfcaz" file="text.html"/>
      <record id="1549886154ykczusgnce" name="Удалить все комментарии и пустые строки из файла в Linux" author="br0ke" url="https://linuxconfig.org/remove-comment-lines-from-linux-config-files" tags="linux, grep, config, conf, postgresql.conf, regex, regexp, regular, expression, expressions, empty" ctime="20190211165554" dir="1549886154yd1kfaz9zx" file="text.html"/>
      <record id="1553174747j6hg7a4y5z" name="Выслать уведомление в Linux" author="br0ke" url="https://www.commandlinefu.com/commands/view/2041/send-pop-up-notifications-on-gnome" tags="linux, notify, notification, message, gui, send-notify, gnome, de" ctime="20190321182547" dir="1553174747kz29mf98p8" file="text.html"/>
+     <record id="15540369502tgu9tebzg" name="Использование команды zip в Linux" author="br0ke" url="https://www.tecmint.com/unzip-extract-zip-files-to-specific-directory-in-linux/" tags="linux, cli, zip, archive, unzip, tool" ctime="20190331175550" dir="15540369504uyvpqtvps" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
