@@ -54,6 +54,7 @@
      <record id="1554039165x5c78u94qi" name="Перехватить ошибку TimeoutError в asyncio" author="br0ke" url="https://docs.python.org/3/library/asyncio-task.html#asyncio.wait_for" tags="python, asyncio, try, catch, timeout, timeouterror, wait_for" ctime="20190331183245" dir="15540391652nyogm0l0n" file="text.html"/>
      <record id="1554041439yc8c2t1ihc" name="Отключить вывод логов в Python" author="br0ke" url="https://stackoverflow.com/a/3116067/10650942" tags="python, logging, disable, logger" ctime="20190331191039" dir="1554041439mb0ii5sdet" file="text.html"/>
      <record id="1554041585uup9b8smgx" name="Уровни логгирования в Python" author="br0ke" url="https://docs.python.org/3/library/logging.html#levels" tags="python, logging, level, levels, debug, info, warning, error, critical" ctime="20190331191305" dir="1554041585a8vi0xs1vp" file="text.html"/>
+     <record id="155575518522rs7zmmki" name="Удалить *.pyc и __pycache__ файлы" author="br0ke" url="https://stackoverflow.com/a/41386937/10650942" tags="python, linux, delete, remove, clean, pycache, pyc, __pycache__" ctime="20190420151305" dir="1555755185piaut0hsei" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -212,6 +213,7 @@
      <record id="1549886154ykczusgnce" name="Удалить все комментарии и пустые строки из файла в Linux" author="br0ke" url="https://linuxconfig.org/remove-comment-lines-from-linux-config-files" tags="linux, grep, config, conf, postgresql.conf, regex, regexp, regular, expression, expressions, empty" ctime="20190211165554" dir="1549886154yd1kfaz9zx" file="text.html"/>
      <record id="1553174747j6hg7a4y5z" name="Выслать уведомление в Linux" author="br0ke" url="https://www.commandlinefu.com/commands/view/2041/send-pop-up-notifications-on-gnome" tags="linux, notify, notification, message, gui, send-notify, gnome, de" ctime="20190321182547" dir="1553174747kz29mf98p8" file="text.html"/>
      <record id="15540369502tgu9tebzg" name="Использование команды zip в Linux" author="br0ke" url="https://www.tecmint.com/unzip-extract-zip-files-to-specific-directory-in-linux/" tags="linux, cli, zip, archive, unzip, tool" ctime="20190331175550" dir="15540369504uyvpqtvps" file="text.html"/>
+     <record id="1555755015hkova7zeku" name="Найти все файлы, которыми владеет root в Linux" author="br0ke" url="https://www.cyberciti.biz/faq/how-do-i-find-all-the-files-owned-by-a-particular-user-or-group/" tags="linux, find, root, user, owner" ctime="20190420151015" dir="1555755015dnhkvscsk4" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
