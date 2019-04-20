@@ -8,6 +8,8 @@
     <record id="1521525704nlepyyeesy" name="Zeal -- просмотр документации оффлайн" author="br0ke" url="https://zealdocs.org/" tags="zeal, doc, docs, documentation, man, manual, dev, development, admin, administration" ctime="20180320110144" dir="1521525704sp8ff4p59o" file="text.html"/>
     <record id="1525420179xrq5cyczix" name="Схема для определения правильной кодировки текста" author="br0ke" url="" tags="text, encoding, unicode, кракозябры" ctime="20180504124939" dir="1525420179nil28tsjt4" file="text.html"/>
     <record id="1526829184r5da41sxmn" name="6 основных принципов REST API" author="br0ke" url="https://restfulapi.net/" tags="api, rest, restful, http, client-server, stateless, cacheable" ctime="20180520201304" dir="15268291844d4dnpmz4l" file="text.html"/>
+    <record id="1555753766erf99d3am8" name="Сервис для рисования геометрических фигур" author="br0ke" url="https://www.geogebra.org/graphing" tags="geometry, tool, service, online, web, app, graph, graphing, geogebra" ctime="20190420144926" dir="1555753766bsufc6c85o" file="text.html"/>
+    <record id="1555753818k2tfcjh3gu" name="Сервис для рисования диаграм в ASCII" author="br0ke" url="http://stable.ascii-flow.appspot.com/#Draw" tags="service, tool, online, web, diagram, scheme, ascii, text, graph" ctime="20190420145018" dir="1555753818kk8f9h8c8u" file="text.html"/>
    </recordtable>
    <node crypt="" id="1515157235tlugwd7m1n" name="Python">
     <recordtable>
@@ -115,6 +117,7 @@
        <record id="15342244027ehjv2cjs0" name="subTest в unittest в Python" author="br0ke" url="https://gist.github.com/encukou/10017915" tags="python, unittest, test, subtest" ctime="20180814102642" dir="1534224402zmwusj0nkn" file="text.html"/>
        <record id="1534225142l6ukx6057c" name="assert-методы в unittest в Python" author="br0ke" url="https://docs.python.org/3/library/unittest.html" tags="python, unittest, test, assert, assertEqual, assertIn, assertIs" ctime="20180814103902" dir="1534225142mgq6x5e06t" file="text.html"/>
        <record id="15503317060kxq84552v" name="Заглушки (mock) для вложенных функций в Python" author="br0ke" url="https://stackoverflow.com/a/32956627/10650942" tags="python, stdlib, unittest, mock, nested, function, callable, rerurn_value" ctime="20190216204146" dir="1550331706s3yzfsbd5c" file="text.html"/>
+       <record id="15557532873ud812d4a6" name="Заглушки (mock) для свойств (property) в Python" author="br0ke" url="https://stackoverflow.com/a/25424012/10650942" tags="python, unit, test, unittest, mock, property, PropertyMock" ctime="20190420144127" dir="1555753287u0u9to1ujk" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1551340836g9myx2syg6" name="Celery">
@@ -125,6 +128,7 @@
      <node crypt="" id="1551698139t4ox904xyb" name="pytest">
       <recordtable>
        <record id="1551699106ic4et3qs2w" name="Перехват вывода stdout и stderr в pytest" author="br0ke" url="https://docs.pytest.org/en/latest/capture.html" tags="python, test, pytest, capture, stdout, stderr, capsys, capsysbinary, capfd, capfdbinary" ctime="20190304163146" dir="1551699106saf37g8tl9" file="text.html"/>
+       <record id="1555753951o9i612nq2k" name="Проверить, что в блоке кода не произошло исключений, в pytest" author="br0ke" url="https://stackoverflow.com/a/20275035/10650942" tags="python, test, unit, pytest, fail, exception, assert" ctime="20190420145231" dir="1555753951emcoho7e8n" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1554038688niibu2rc9c" name="selenium">
@@ -255,6 +259,7 @@
       <record id="15498790585pyf03uewl" name="Установить HexChat на Fedora" author="br0ke" url="https://fedoraproject.org/wiki/How_to_use_IRC#How_to_install_HexChat" tags="linux, fedora, install, hexchat, irc, client, dnf" ctime="20190211145738" dir="1549879058hxbvva7cwf" file="text.html"/>
       <record id="1550746957seth8ikn5a" name="Установить PostgreSQL клиент на Fedora" author="br0ke" url="https://yum.postgresql.org/repopackages.php" tags="linux, fedora, install, postgresql, postgres, postgre, client, psql, pg_dump, rpm, yum" ctime="20190221160237" dir="15507469578lyxyap2dh" file="text.html"/>
       <record id="1551167009hsrqmedsbl" name="Установить GIMP на Fedora" author="br0ke" url="https://www.gimp.org/downloads/Linux.html" tags="linux, fedora, dnf, install, gimp, gnu, image, manipulation, tool" ctime="20190226124329" dir="1551167009ahkfgkujuv" file="text.html"/>
+      <record id="1555753195cxfcuc1fj9" name="FAQ по Fedora на русском" author="br0ke" url="https://russianfedora.github.io/FAQ/" tags="linux, fedora, faq, question, questions, answer, answers" ctime="20190420143955" dir="15557531952ektv418p9" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
@@ -696,6 +701,7 @@
       <record id="1550829328cb1ogshhep" name="Удалить пустые строки в VSCode" author="br0ke" url="https://stackoverflow.com/a/39881691/10650942" tags="vscode, code, visual studio, ide, blank, line, replace, remove, delete" ctime="20190222145528" dir="1550829328b5ih2ovl4m" file="text.html"/>
       <record id="1551340413otj6b574xa" name="Свернуть/развернуть блок кода в VSCode" author="br0ke" url="https://stackoverflow.com/a/38001475/10650942" tags="vscode, code, visual, studio, ide, fold, unfold, folding, unfolding, block, hot, key, hotkey" ctime="20190228125333" dir="1551340413mozy8vj0k5" file="text.html"/>
       <record id="1551711281vs5y0c7uny" name="Сочетания клавиш из IntelliJ IDEA в VSCode" author="br0ke" url="https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings" tags="ide, jetbrains, intellij, idea, pycharm, vscode, code, visual, studio, key, keymap, binding, bindings, keybinding, keybindings, hotkey, hotkeys, hot, key" ctime="20190304195441" dir="1551711281vwyg4792e0" file="text.html"/>
+      <record id="1555753507hd44whgzc6" name="Форматирование кода при сохранении в VSCode" author="br0ke" url="https://stackoverflow.com/a/39973431/10650942" tags="vscode, visual, studio, code, save, format, autoformat, formatOnSave" ctime="20190420144507" dir="1555753507ihhjghpe9z" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1549120807liqifa955m" name="IntelliJ / PyCharm">
@@ -708,6 +714,8 @@
       <record id="15513397392wa9kv1qd9" name="Удалить репозиторий из системы контроля версий в IntelliJ / PyCharm" author="br0ke" url="https://youtrack.jetbrains.com/issue/IDEA-20624" tags="ide, jetbrains, intellij, pycharm, vcs, git, repo, detach, folder, log, remove" ctime="20190228124219" dir="15513397391729g8nh9m" file="text.html"/>
       <record id="1551340821stft6dxxx3" name="Открепить папку от окна IntelliJ / PyCharm" author="br0ke" url="https://intellij-support.jetbrains.com/hc/en-us/community/posts/206634645-Detach-directory-" tags="ide, jetbrains, intellij, idea, pycharm, attach, detach, folder" ctime="20190228130021" dir="1551340821ig2n0tleyx" file="text.html"/>
       <record id="1551697931unizek5brt" name="Ограничение на длину просматриваемых структур в дебаггере PyCharm" author="br0ke" url="https://stackoverflow.com/a/39669196/10650942" tags="ide, jetbrains, pycharm, debug, debugger, pydev, list, dict, limit, item, items" ctime="20190304161211" dir="1551697931319hhmqt1s" file="text.html"/>
+      <record id="1555752539aa9a8xtnt4" name="PyCharm не правильно разрешает импорты" author="br0ke" url="https://stackoverflow.com/a/49362945/10650942" tags="ide, pycharm, idea, jetbrains, intellij, import, source, root" ctime="20190420142859" dir="1555752539bfsfic4r60" file="text.html"/>
+      <record id="1555752963yvnxujbqvs" name="Очистить кэш/индексы в IntelliJ / PyCharm" author="br0ke" url="https://intellij-support.jetbrains.com/hc/en-us/community/posts/206258359-Is-there-a-way-to-force-indexing-" tags="ide, jetbrains, intellij, idea, pycharm, cache, index, indices, indexes, clean, force, reindex, invalidate" ctime="20190420143603" dir="155575296391x4yjc2fb" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -767,6 +775,13 @@
    <recordtable>
     <record id="1515166752038ehofsjw" name="UkM1U0lNUANUdBZnLj2vcc9jgniEQDCaIstrHdODknCv9RjUQB7X0GkIGOBGr5Dk9WKIHx0O54a4CFSxArZCzY1LGvOusMqX0dwI+NTQM/+K2PZYeWR6CyGre0UDNAMfS3zFwBD45kU=" author="UkM1U0lNUAOXZS+RuqOnIfLanKvp1DCBacO4DbLwfOLxyDFnYENso2HGgOIniVLf" url="" tags="UkM1U0lNUANtdz29DqLsn1x8KyLVXuCbS31RclAcbdK9gxvJWVFRRIYdIuJIg+cVj1KC7et9bYEON0Ng5Wu8Y+IneZn54spvCXa/zUYdVtJ35vgoKYqhgt2wujeIQ4YK" ctime="20180105203912" dir="15151667529ulo79iwly" file="text.html" crypt="1"/>
    </recordtable>
+  </node>
+  <node crypt="" id="1555753013rh54133e5y" name="Жизнь">
+   <node crypt="" id="155575302005dr07p96x" name="Здоровье">
+    <recordtable>
+     <record id="155575314566r148d584" name="Лечение при ОРВИ / простуде" author="br0ke" url="" tags="здоровье, health, flu, простуда, орви, горло, насморк" ctime="20190420143905" dir="15557531457wokn5ssee" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
