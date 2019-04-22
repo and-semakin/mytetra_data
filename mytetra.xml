@@ -692,7 +692,10 @@
      <record id="15559610721um765ra8l" name="Определить функцию в Haskell" author="br0ke" url="https://www.tutorialspoint.com/haskell/haskell_functions.htm" tags="haskell, fp, function, define, declare" ctime="20190423002432" dir="15559610725mg4w19ivg" file="text.html"/>
      <record id="15559612983hhpk5yt02" name="Операторы и функции в Haskell" author="br0ke" url="" tags="haskell, fp, function, operator, prefix, infix" ctime="20190423002818" dir="1555961298juiotu5afk" file="text.html"/>
      <record id="1555961441wtl86q5fnm" name="Приоритет операторов в Haskell" author="br0ke" url="https://rosettacode.org/wiki/Operator_precedence#Haskell" tags="haskell, operator, precedence, priority, associativity" ctime="20190423003041" dir="1555961441lxg688gvmj" file="text.html"/>
-     <record id="15559617440umt1hd5us" name="Определить собственный оператор в Haskell" author="br0ke" url="https://bugfactory.io/2015/03/31/custom-infix-operators-in-haskell/" tags="haskell, fp, operator, infix, associativity, precedence, priority" ctime="20190423003544" dir="1555961744g6kfdxni9f" file="text.html"/>
+     <record id="15559617440umt1hd5us" name="Определить собственный оператор в Haskell" author="br0ke" url="https://bugfactory.io/2015/03/31/custom-infix-operators-in-haskell/" tags="haskell, fp, operator, infix, infixl, infixr, associativity, precedence, priority" ctime="20190423003544" dir="1555961744g6kfdxni9f" file="text.html"/>
+     <record id="1555962898lye5cige2d" name="Вызов функции в Haskell" author="br0ke" url="" tags="haskell, fp, function, call, exec, execution, operator, application" ctime="20190423005458" dir="1555962898eci4p7gye5" file="text.html"/>
+     <record id="1555963309h2qyino50s" name="Срезка операторов в Haskell" author="br0ke" url="" tags="haskell, fp, section, operator, application" ctime="20190423010149" dir="15559633095c02aw0t0y" file="text.html"/>
+     <record id="1555963638mz2tug5uu6" name="Частичное применение (каррирование) функций в Haskell" author="br0ke" url="" tags="haskell, fp, partial, application, function, curry, currying" ctime="20190423010718" dir="1555963638ow7fl5gl0d" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1549120337df2kplaqo8" name="IDE">
