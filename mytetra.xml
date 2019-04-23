@@ -262,6 +262,7 @@
       <record id="1550746957seth8ikn5a" name="Установить PostgreSQL клиент на Fedora" author="br0ke" url="https://yum.postgresql.org/repopackages.php" tags="linux, fedora, install, postgresql, postgres, postgre, client, psql, pg_dump, rpm, yum" ctime="20190221160237" dir="15507469578lyxyap2dh" file="text.html"/>
       <record id="1551167009hsrqmedsbl" name="Установить GIMP на Fedora" author="br0ke" url="https://www.gimp.org/downloads/Linux.html" tags="linux, fedora, dnf, install, gimp, gnu, image, manipulation, tool" ctime="20190226124329" dir="1551167009ahkfgkujuv" file="text.html"/>
       <record id="1555753195cxfcuc1fj9" name="FAQ по Fedora на русском" author="br0ke" url="https://russianfedora.github.io/FAQ/" tags="linux, fedora, faq, question, questions, answer, answers" ctime="20190420143955" dir="15557531952ektv418p9" file="text.html"/>
+      <record id="1556032099qj6bzov8ms" name="Установить graphviz на Fedora" author="br0ke" url="http://linuxtoolkit.blogspot.com/2010/07/install-graphviz-on-centos-and-fedora.html" tags="linux, fedora, dnf, install, graph, graphviz, tool, install, svg, png" ctime="20190423200819" dir="1556032099fy1r4k60ac" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
