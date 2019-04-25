@@ -698,6 +698,7 @@
      <record id="1555963309h2qyino50s" name="Срезка операторов в Haskell" author="br0ke" url="" tags="haskell, fp, section, operator, application" ctime="20190423010149" dir="15559633095c02aw0t0y" file="text.html"/>
      <record id="1555963638mz2tug5uu6" name="Частичное применение (каррирование) функций в Haskell" author="br0ke" url="" tags="haskell, fp, partial, application, function, curry, currying" ctime="20190423010718" dir="1555963638ow7fl5gl0d" file="text.html"/>
      <record id="1556179467t2af98udn1" name="Кортежи в Haskell" author="br0ke" url="" tags="haskell, fp, tuple, кортеж, type, datatype, fst, snd" ctime="20190425130427" dir="1556179467a0p1d8jreb" file="text.html"/>
+     <record id="1556180121cgc0nligs4" name="Списки и строки в Haskell" author="br0ke" url="" tags="haskell, fp, list, type, datatype, string, char" ctime="20190425131521" dir="1556180121r12l5qv2fn" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1549120337df2kplaqo8" name="IDE">
