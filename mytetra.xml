@@ -55,6 +55,7 @@
      <record id="1554041439yc8c2t1ihc" name="Отключить вывод логов в Python" author="br0ke" url="https://stackoverflow.com/a/3116067/10650942" tags="python, logging, disable, logger" ctime="20190331191039" dir="1554041439mb0ii5sdet" file="text.html"/>
      <record id="1554041585uup9b8smgx" name="Уровни логгирования в Python" author="br0ke" url="https://docs.python.org/3/library/logging.html#levels" tags="python, logging, level, levels, debug, info, warning, error, critical" ctime="20190331191305" dir="1554041585a8vi0xs1vp" file="text.html"/>
      <record id="155575518522rs7zmmki" name="Удалить *.pyc и __pycache__ файлы" author="br0ke" url="https://stackoverflow.com/a/41386937/10650942" tags="python, linux, delete, remove, clean, pycache, pyc, __pycache__" ctime="20190420151305" dir="1555755185piaut0hsei" file="text.html"/>
+     <record id="1556881667s2dizh2w4b" name="Выгрузить объект в JSON в Unicode в Python" author="br0ke" url="https://stackoverflow.com/a/18337754/10650942" tags="python, json, dump, dumps, unicode, utf, utf8, utf-8, ascii, ensure_ascii" ctime="20190503160747" dir="1556881667or4bfae7a6" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -214,6 +215,7 @@
      <record id="1553174747j6hg7a4y5z" name="Выслать уведомление в Linux" author="br0ke" url="https://www.commandlinefu.com/commands/view/2041/send-pop-up-notifications-on-gnome" tags="linux, notify, notification, message, gui, send-notify, gnome, de" ctime="20190321182547" dir="1553174747kz29mf98p8" file="text.html"/>
      <record id="15540369502tgu9tebzg" name="Использование команды zip в Linux" author="br0ke" url="https://www.tecmint.com/unzip-extract-zip-files-to-specific-directory-in-linux/" tags="linux, cli, zip, archive, unzip, tool" ctime="20190331175550" dir="15540369504uyvpqtvps" file="text.html"/>
      <record id="1555755015hkova7zeku" name="Найти все файлы, которыми владеет root в Linux" author="br0ke" url="https://www.cyberciti.biz/faq/how-do-i-find-all-the-files-owned-by-a-particular-user-or-group/" tags="linux, find, root, user, owner" ctime="20190420151015" dir="1555755015dnhkvscsk4" file="text.html"/>
+     <record id="15568826741q6w611vqe" name="Создать раздел, на который будут иметь доступ все пользователи" author="br0ke" url="https://unix.stackexchange.com/a/1315/338074" tags="linux, file, files, system, filesystem, permission, permissions, group, groupadd, chgrp, chmod, setfacl, getfacl, facl, acl" ctime="20190503162434" dir="1556882674cqafi0dghb" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -263,6 +265,7 @@
       <record id="1551167009hsrqmedsbl" name="Установить GIMP на Fedora" author="br0ke" url="https://www.gimp.org/downloads/Linux.html" tags="linux, fedora, dnf, install, gimp, gnu, image, manipulation, tool" ctime="20190226124329" dir="1551167009ahkfgkujuv" file="text.html"/>
       <record id="1555753195cxfcuc1fj9" name="FAQ по Fedora на русском" author="br0ke" url="https://russianfedora.github.io/FAQ/" tags="linux, fedora, faq, question, questions, answer, answers" ctime="20190420143955" dir="15557531952ektv418p9" file="text.html"/>
       <record id="1556032099qj6bzov8ms" name="Установить graphviz на Fedora" author="br0ke" url="http://linuxtoolkit.blogspot.com/2010/07/install-graphviz-on-centos-and-fedora.html" tags="linux, fedora, dnf, install, graph, graphviz, tool, install, svg, png" ctime="20190423200819" dir="1556032099fy1r4k60ac" file="text.html"/>
+      <record id="1556882008iurzaov73n" name="Обновить Fedora до следующей версии" author="br0ke" url="https://fedoraproject.org/wiki/DNF_system_upgrade" tags="linux, fedora, update, version, release, system, upgrade, dnf" ctime="20190503161328" dir="15568820086hjqv6qj7c" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
