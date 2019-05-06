@@ -732,6 +732,7 @@
       <record id="1551697931unizek5brt" name="Ограничение на длину просматриваемых структур в дебаггере PyCharm" author="br0ke" url="https://stackoverflow.com/a/39669196/10650942" tags="ide, jetbrains, pycharm, debug, debugger, pydev, list, dict, limit, item, items" ctime="20190304161211" dir="1551697931319hhmqt1s" file="text.html"/>
       <record id="1555752539aa9a8xtnt4" name="PyCharm не правильно разрешает импорты" author="br0ke" url="https://stackoverflow.com/a/49362945/10650942" tags="ide, pycharm, idea, jetbrains, intellij, import, source, root" ctime="20190420142859" dir="1555752539bfsfic4r60" file="text.html"/>
       <record id="1555752963yvnxujbqvs" name="Очистить кэш/индексы в IntelliJ / PyCharm" author="br0ke" url="https://intellij-support.jetbrains.com/hc/en-us/community/posts/206258359-Is-there-a-way-to-force-indexing-" tags="ide, jetbrains, intellij, idea, pycharm, cache, index, indices, indexes, clean, force, reindex, invalidate" ctime="20190420143603" dir="155575296391x4yjc2fb" file="text.html"/>
+      <record id="15571315932nzsb7v6oi" name="Запустить линтеры через PyCharm" author="br0ke" url="" tags="ide, jetbrains, pycharm, idea, intellij, linter, linters, run, debug, configuration" ctime="20190506133313" dir="1557131593e35b81ra0l" file="text.html"/>
      </recordtable>
     </node>
    </node>
