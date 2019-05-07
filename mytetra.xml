@@ -565,6 +565,7 @@
     <node crypt="" id="1557207872n827kte5o2" name="Backbone">
      <recordtable>
       <record id="1557207934gml8gxr5dh" name="Логгировать все события в Backbone" author="br0ke" url="https://stackoverflow.com/a/15843535/10650942" tags="js, javascript, backbone, event, events, log, logging, print" ctime="20190507104534" dir="1557207934bwktjkmdpq" file="text.html"/>
+      <record id="1557213834mdn03okgs1" name="Остановить обработку события в Backbone" author="br0ke" url="https://stackoverflow.com/a/5502614/10650942" tags="js, javascript, backbone, event, events, preventDefault, stopPropagation, stopImmediatePropagation" ctime="20190507122354" dir="1557213834oxoq9es53j" file="text.html"/>
      </recordtable>
     </node>
    </node>
