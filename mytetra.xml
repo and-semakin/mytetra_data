@@ -363,6 +363,7 @@
       <record id="154910750028mra9cujt" name="Ошибка создания контейнера Docker при включенном OpenVPN" author="br0ke" url="https://stackoverflow.com/q/45692255/10650942" tags="linux, docker, compose, docker-compose, openvpn, conflict," ctime="20190202163820" dir="1549107500ztm5r80py4" file="text.html"/>
       <record id="1550393347bbk2h1uxi3" name="Установить gcc в Alpine" author="br0ke" url="https://github.com/gliderlabs/docker-alpine/issues/24#issuecomment-89771871" tags="linux, docker, alpine, container, gcc, compiler, build, essential, base" ctime="20190217134907" dir="1550393347wv6a8utpbq" file="text.html"/>
       <record id="1550393462r9tvrh16so" name="Установить cffi в Alpine" author="br0ke" url="https://github.com/gliderlabs/docker-alpine/issues/297#issuecomment-309134933" tags="linux, docker, alpine, apk, add, cffi, ffi, python, libffi, libffi-dev" ctime="20190217135102" dir="1550393462rgdryu88rr" file="text.html"/>
+      <record id="1557207339jv078d40rg" name="docker stats -- мониторинг потребления памяти" author="br0ke" url="https://stackoverflow.com/a/43932310/10650942" tags="linux, container, containerd, docker, stats, stat, statistics, metric, metrics, mem, memory, cpu" ctime="20190507103539" dir="15572073390pleqok2u9" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521030541f3cnv4ht6g" name="Apache">
@@ -377,6 +378,7 @@
       <record id="1539599382mf3sg7s0ax" name="Проксирование WebSocket в Nginx" author="br0ke" url="https://nginx.org/ru/docs/http/websocket.html" tags="linux, web, http, https, server, nginx, websocket, ws, proxy, upgrade" ctime="20181015152942" dir="1539599382sh31dzsvyv" file="text.html"/>
       <record id="15435773067esrf6fgsk" name="Сохранить GET-параметры в proxy_pass с переменными в NGINX" author="br0ke" url="https://stackoverflow.com/a/8130872/10650942" tags="nginx, proxy, pass, proxy_pass, variable, var, url, uri, args, argument, arguments, is_args, get, query, parameter, parameters, param, params" ctime="20181130162826" dir="15435773064a1ca8acxn" file="text.html"/>
       <record id="1549189295xlfr75n21l" name="Включить сжатие в Nginx" author="br0ke" url="https://stackoverflow.com/a/39782237/10650942" tags="linux, nginx, gzip, zip, compression" ctime="20190203152135" dir="1549189295i6y9mtqnkv" file="text.html"/>
+      <record id="1557207544buh0qa4rqq" name="Вытащить из логов Nginx адрес сайта и IP клиента" author="br0ke" url="" tags="linux, nginx, log, logs, ip, host, site, name, address, cut, column" ctime="20190507103904" dir="1557207544b4jbr75v8c" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15365877332z0w8zebbp" name="Kubernetes">
@@ -558,6 +560,11 @@
       <record id="154910209660xyxme1ms" name="Условная сборка приложения в webpack с использованием ifdef-loader" author="br0ke" url="https://stackoverflow.com/a/43814847/10650942" tags="javascript, js, ecmascript, es, node, node.js, webpack, bundler, if, condition, conditional, ifdef, ifdef-loader" ctime="20190202150816" dir="1549102096qwodb1dq9c" file="text.html"/>
       <record id="1549186661lvp10ne5kd" name="Использование jQuery в webpack" author="br0ke" url="https://stackoverflow.com/a/34003565/10650942" tags="javascript, js, ecmascript, es, jquery, webpack, provideplugin, global, window, $" ctime="20190203143741" dir="154918666103k37bacz7" file="text.html"/>
       <record id="1549187077b574ydtbrg" name="Использовать webpack-dev-server за NGINX" author="br0ke" url="https://stackoverflow.com/a/40549432/10650942" tags="javascript, js, webpack, dev, dev-server, webpack-dev-server, nginx, proxy" ctime="20190203144437" dir="1549187077iravt8mjvo" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1557207872n827kte5o2" name="Backbone">
+     <recordtable>
+      <record id="1557207934gml8gxr5dh" name="Логгировать все события в Backbone" author="br0ke" url="https://stackoverflow.com/a/15843535/10650942" tags="js, javascript, backbone, event, events, log, logging, print" ctime="20190507104534" dir="1557207934bwktjkmdpq" file="text.html"/>
      </recordtable>
     </node>
    </node>
