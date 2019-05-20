@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">from datetime import datetime</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">from dateutil import tz</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'FreeMono'; color:#6a1009;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; font-weight:600; color:#6a1009;"># METHOD 1: Hardcode zones:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">from_zone = tz.gettz('UTC')</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">to_zone = tz.gettz('America/New_York')</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'FreeMono'; color:#6a1009;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; font-weight:600; color:#6a1009;"># METHOD 2: Auto-detect zones:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">from_zone = tz.tzutc()</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">to_zone = tz.tzlocal()</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'FreeMono'; color:#6a1009;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;"># utc = datetime.utcnow()</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">utc = datetime.strptime('2011-01-21 02:37:21', '%Y-%m-%d %H:%M:%S')</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'FreeMono'; color:#6a1009;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; font-weight:600; color:#6a1009;"># Tell the datetime object that it's in UTC time zone since </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; font-weight:600; color:#6a1009;"># datetime objects are 'naive' by default</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">utc = utc.replace(tzinfo=from_zone)</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'FreeMono'; color:#6a1009;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; font-weight:600; color:#6a1009;"># Convert time zone</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">central = utc.astimezone(to_zone)</span></p></body></html>
