@@ -498,6 +498,8 @@
      <record id="1554040759l5aiyjcbb8" name="Заменить все вхождения подстроки в строке в JavaScript" author="br0ke" url="https://stackoverflow.com/a/17606289/10650942" tags="javascript, js, ecmascript, es, replace, replace_all" ctime="20190331185919" dir="1554040759i7nye0xom5" file="text.html"/>
      <record id="1554040912b2ikv8iyq0" name="Дополнить строку символами до нужной длины в JavaScript" author="br0ke" url="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/padStart" tags="javascript, js, ecmascript, es, pad, padstart, padding" ctime="20190331190152" dir="1554040912xcbna9mn1y" file="text.html"/>
      <record id="1558801374jz0m4yqw50" name="Документирование JS-функций через JSDoc" author="br0ke" url="https://devdocs.io/jsdoc/" tags="javascript, js, ecmascript, ecma, es, jsdoc, documentation, param, type, docstring" ctime="20190525212254" dir="1558801374eh7ncslk3c" file="text.html"/>
+     <record id="1558804453nqy66f6vg5" name="Получить текущее время в миллисекундах в JavaScript" author="br0ke" url="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Date/now" tags="javascript, js, ecmascript, es, date, now, date.now, current, time, ms, millisecond" ctime="20190525221413" dir="1558804453v9p224bawh" file="text.html"/>
+     <record id="1558804554la1rd5e7j0" name="Проверить, что объект является промисом в JavaScript" author="br0ke" url="https://stackoverflow.com/a/38339199/10650942" tags="javascript, js, ecmascript, es, promise, check, object, resolve" ctime="20190525221554" dir="1558804554soh6u31gyh" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
@@ -577,6 +579,7 @@
       <record id="1558803034c81ijbtbgz" name="Установить Jest" author="br0ke" url="https://jestjs.io/docs/en/getting-started" tags="js, javascript, jest, test, framework" ctime="20190525215034" dir="1558803034d7nza9agtg" file="text.html"/>
       <record id="1558803120z3jfnl1mmq" name="Пример простого теста на Jest" author="br0ke" url="https://jestjs.io/docs/en/getting-started" tags="js, javascript, jest, test, framework" ctime="20190525215200" dir="1558803120o8fpqe0kpx" file="text.html"/>
       <record id="1558803204nevdnn9rgp" name="Матчеры в Jest" author="br0ke" url="https://jestjs.io/docs/en/using-matchers" tags="javascript, js, jest, test, framework, matcher, matchers, toBe, expect, expectation, assert, assertion, toEqual" ctime="20190525215324" dir="1558803204j6h8gtem0t" file="text.html"/>
+      <record id="1558804080jj7dfssb6d" name="Глобальные функции Jest" author="br0ke" url="https://jestjs.io/docs/ru/api" tags="javascript, js, ecmascript, es, jest, test, framework, global, globals, expect, test, it, describe" ctime="20190525220800" dir="1558804080m8ixmokfhx" file="text.html"/>
      </recordtable>
     </node>
    </node>
