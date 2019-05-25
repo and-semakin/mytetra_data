@@ -497,7 +497,7 @@
      <record id="1552072131p9aznpepcp" name="Общий подход к определению типа переменной в JavaScript" author="br0ke" url="https://medium.com/devschacht/javascript-typeof-43591ab15bef" tags="javascript, type, typeof, object, prototype" ctime="20190309000851" dir="15520721319ulm81et10" file="text.html"/>
      <record id="1554040759l5aiyjcbb8" name="Заменить все вхождения подстроки в строке в JavaScript" author="br0ke" url="https://stackoverflow.com/a/17606289/10650942" tags="javascript, js, ecmascript, es, replace, replace_all" ctime="20190331185919" dir="1554040759i7nye0xom5" file="text.html"/>
      <record id="1554040912b2ikv8iyq0" name="Дополнить строку символами до нужной длины в JavaScript" author="br0ke" url="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/padStart" tags="javascript, js, ecmascript, es, pad, padstart, padding" ctime="20190331190152" dir="1554040912xcbna9mn1y" file="text.html"/>
-     <record id="1558801374jz0m4yqw50" name="Документирование JS-функций через JSDoc" author="br0ke" url="" tags="" ctime="20190525212254" dir="1558801374eh7ncslk3c" file="text.html"/>
+     <record id="1558801374jz0m4yqw50" name="Документирование JS-функций через JSDoc" author="br0ke" url="https://devdocs.io/jsdoc/" tags="javascript, js, ecmascript, ecma, es, jsdoc, documentation, param, type, docstring" ctime="20190525212254" dir="1558801374eh7ncslk3c" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
@@ -570,6 +570,13 @@
      <recordtable>
       <record id="1557207934gml8gxr5dh" name="Логгировать все события в Backbone" author="br0ke" url="https://stackoverflow.com/a/15843535/10650942" tags="js, javascript, backbone, event, events, log, logging, print" ctime="20190507104534" dir="1557207934bwktjkmdpq" file="text.html"/>
       <record id="1557213834mdn03okgs1" name="Остановить обработку события в Backbone" author="br0ke" url="https://stackoverflow.com/a/5502614/10650942" tags="js, javascript, backbone, event, events, preventDefault, stopPropagation, stopImmediatePropagation" ctime="20190507122354" dir="1557213834oxoq9es53j" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1558802992p2526bqk5v" name="Jest">
+     <recordtable>
+      <record id="1558803034c81ijbtbgz" name="Установить Jest" author="br0ke" url="https://jestjs.io/docs/en/getting-started" tags="js, javascript, jest, test, framework" ctime="20190525215034" dir="1558803034d7nza9agtg" file="text.html"/>
+      <record id="1558803120z3jfnl1mmq" name="Пример простого теста на Jest" author="br0ke" url="https://jestjs.io/docs/en/getting-started" tags="js, javascript, jest, test, framework" ctime="20190525215200" dir="1558803120o8fpqe0kpx" file="text.html"/>
+      <record id="1558803204nevdnn9rgp" name="Матчеры в Jest" author="br0ke" url="https://jestjs.io/docs/en/using-matchers" tags="javascript, js, jest, test, framework, matcher, matchers, toBe, expect, expectation, assert, assertion, toEqual" ctime="20190525215324" dir="1558803204j6h8gtem0t" file="text.html"/>
      </recordtable>
     </node>
    </node>
