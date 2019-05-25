@@ -455,6 +455,7 @@
      <record id="15513405875n1g6x6jzu" name="Создать пустую ветку в Git" author="br0ke" url="https://stackoverflow.com/a/13969482/10650942" tags="git, vsc, branch, empty, orphan" ctime="20190228125627" dir="15513405879548sfdfzb" file="text.html"/>
      <record id="1551341575q1m1dfstrq" name="Настроить Git для работы с форком в GitHub" author="br0ke" url="https://help.github.com/en/articles/configuring-a-remote-for-a-fork" tags="git, vcs, github, fork, remote, origin, upstream" ctime="20190228131255" dir="1551341575itkdgdewv3" file="text.html"/>
      <record id="1553170301t1fcpbmbif" name="Закоммитить все изменения шелл-скриптом без учета кода выхода в Git" author="br0ke" url="https://stackoverflow.com/a/8123841/10650942" tags="git, vcs, commit, add, all, automation, automate, script, shell, bash, error code" ctime="20190321171141" dir="1553170301urctr4a0pg" file="text.html"/>
+     <record id="15588001330q2iz45j5d" name="Скопировать файл с сохранением истории в Git" author="br0ke" url="https://stackoverflow.com/a/44036771/10650942" tags="git, vcs, copy, cp, move, mv, preserve, history, split" ctime="20190525210213" dir="1558800133v3s67xex5h" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
@@ -496,6 +497,7 @@
      <record id="1552072131p9aznpepcp" name="Общий подход к определению типа переменной в JavaScript" author="br0ke" url="https://medium.com/devschacht/javascript-typeof-43591ab15bef" tags="javascript, type, typeof, object, prototype" ctime="20190309000851" dir="15520721319ulm81et10" file="text.html"/>
      <record id="1554040759l5aiyjcbb8" name="Заменить все вхождения подстроки в строке в JavaScript" author="br0ke" url="https://stackoverflow.com/a/17606289/10650942" tags="javascript, js, ecmascript, es, replace, replace_all" ctime="20190331185919" dir="1554040759i7nye0xom5" file="text.html"/>
      <record id="1554040912b2ikv8iyq0" name="Дополнить строку символами до нужной длины в JavaScript" author="br0ke" url="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/padStart" tags="javascript, js, ecmascript, es, pad, padstart, padding" ctime="20190331190152" dir="1554040912xcbna9mn1y" file="text.html"/>
+     <record id="1558801374jz0m4yqw50" name="Документирование JS-функций через JSDoc" author="br0ke" url="" tags="" ctime="20190525212254" dir="1558801374eh7ncslk3c" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>

@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">В JS можно документировать функции в широко распространённом формате JSDoc. На основе таких комментариев позднее можно сгенерировать документацию в HTML или PDF. Пример:</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">/**</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;"> * Represents a book.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;"> * @constructor</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;"> * @param {string} title - The title of the book.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;"> * @param {string} author - The author of the book.</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;"> */</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">function Book(title, author) {</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:20px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'FreeMono'; color:#6a1009;">}</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">В JSDoc используются следующие тэги:</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<table border="0" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;" cellspacing="2" cellpadding="0">
+<tr>
+<td bgcolor="#eaecf0" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; font-weight:600; color:#222222; background-color:#eaecf0;">Тег</span></p></td>
+<td bgcolor="#eaecf0" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; font-weight:600; color:#222222; background-color:#eaecf0;">Описание</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@author</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Имя разработчика</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@constructor</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Маркирует функцию как конструктор</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@deprecated</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Маркирует метод устаревшим и не рекомендуемым</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@exception</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Синоним для @throws</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@param</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Описывает аргумент функции; можно указать тип, задав его в фигурных скобках</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@private</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Означает, что метод приватный</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@return</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Описывает возвращаемое значение</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@returns</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Синоним return</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@see</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Описывает связь с другим объектом</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@this</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Задает тип объекта, на который указывает ключевое слово «this» внутри функции.</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@throws</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Описывает исключения, выбрасываемые методом</span></p></td></tr>
+<tr>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">@version</span></p></td>
+<td bgcolor="#f8f9fa" style=" padding-left:6; padding-right:6; padding-top:3; padding-bottom:3;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'sans-serif'; font-size:14px; color:#222222; background-color:#f8f9fa;">Версия библиотеки</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></td></tr></table>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Описание параметров/аргументов функций производится при помощи тэга <span style=" font-family:'FreeMono'; color:#6a1009;">@param имя тип описание</span>. </p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>
