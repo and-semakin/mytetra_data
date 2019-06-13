@@ -822,5 +822,10 @@
     </recordtable>
    </node>
   </node>
+  <node crypt="" id="1560420610uxojg9vwt7" name="Тестовая ветка">
+   <recordtable>
+    <record id="15604207179ftszrhaf1" name="Join multiple async generators" author="asd" url="https://stackoverflow.com/questions/55299564/join-multiple-async-generators-in-python?noredirect=1#comment99717772_55299564" tags="" ctime="20190613151157" dir="1560420717rrrwq751kf" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
