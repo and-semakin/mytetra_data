@@ -819,6 +819,7 @@
    <node crypt="" id="155575302005dr07p96x" name="Здоровье">
     <recordtable>
      <record id="155575314566r148d584" name="Лечение при ОРВИ / простуде" author="br0ke" url="" tags="здоровье, health, flu, простуда, орви, горло, насморк" ctime="20190420143905" dir="15557531457wokn5ssee" file="text.html"/>
+     <record id="156075579328dw6fg2tb" name="Борьба с хеликобактер пилори" author="br0ke" url="" tags="здоровье, хеликобактер, пилори, health" ctime="20190617121633" dir="1560755793c294ji1s8s" file="text.html"/>
     </recordtable>
    </node>
   </node>
