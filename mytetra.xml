@@ -79,6 +79,7 @@
       <record id="15293280882cbvgl1dc1" name="Glob-like регулярные выражения в Python" author="br0ke" url="https://github.com/metagriffin/globre" tags="python, re, regex, regexp, glob, globlike, glob-like, globre" ctime="20180618182128" dir="1529328088d506yuwqcu" file="text.html"/>
       <record id="1550331487swn5pmkopl" name="Связный список в Python" author="br0ke" url="https://pypi.org/project/llist/" tags="python, lib, pip, linked list, llist, list, data structure" ctime="20190216203807" dir="1550331487qv5j8drhu5" file="text.html"/>
       <record id="1553170935yo2s3zku0h" name="SSH-клиент из Python" author="br0ke" url="https://github.com/paramiko/paramiko" tags="python, ssh, ssh2, remote, terminal, connection, automate, automation, paramiko" ctime="20190321172215" dir="15531709355273icsoe3" file="text.html"/>
+      <record id="1561478858b4nh6qod14" name="Jupyter Notebook" author="br0ke" url="https://jupyter.org/install" tags="python, tool, tools, ipython, repl, jupyter, notebook, install, pip" ctime="20190625210738" dir="1561478858f7ouctzvjh" file="text.html"/>
      </recordtable>
      <node crypt="" id="15156470021ol4cff9aa" name="Flask">
       <recordtable>
