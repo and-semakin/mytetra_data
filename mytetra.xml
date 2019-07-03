@@ -85,6 +85,7 @@
       <record id="1553170935yo2s3zku0h" name="SSH-клиент из Python" author="br0ke" url="https://github.com/paramiko/paramiko" tags="python, ssh, ssh2, remote, terminal, connection, automate, automation, paramiko" ctime="20190321172215" dir="15531709355273icsoe3" file="text.html"/>
       <record id="1561478858b4nh6qod14" name="Jupyter Notebook" author="br0ke" url="https://jupyter.org/install" tags="python, tool, tools, ipython, repl, jupyter, notebook, install, pip" ctime="20190625210738" dir="1561478858f7ouctzvjh" file="text.html"/>
       <record id="1562157108tjx3ov1akz" name="Прочитать мета-данные аудиофайлов из Python при помощи tinytag" author="br0ke" url="https://github.com/devsnd/tinytag" tags="python, audio, audiofile, file, meta, data, tag, tags, id3, mp3, opus, ogg, tinytag" ctime="20190703173148" dir="1562157108auo736c6qz" file="text.html"/>
+      <record id="15621581910qfqahmomk" name="Конвертировать число в строку в Python" author="br0ke" url="https://github.com/savoirfairelinux/num2words" tags="python, number, numbers, convert, translate, to, word, words, num2words," ctime="20190703174951" dir="15621581916tldbze56t" file="text.html"/>
      </recordtable>
      <node crypt="" id="15156470021ol4cff9aa" name="Flask">
       <recordtable>
