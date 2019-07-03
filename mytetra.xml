@@ -57,6 +57,9 @@
      <record id="155575518522rs7zmmki" name="Удалить *.pyc и __pycache__ файлы" author="br0ke" url="https://stackoverflow.com/a/41386937/10650942" tags="python, linux, delete, remove, clean, pycache, pyc, __pycache__" ctime="20190420151305" dir="1555755185piaut0hsei" file="text.html"/>
      <record id="1556881667s2dizh2w4b" name="Выгрузить объект в JSON в Unicode в Python" author="br0ke" url="https://stackoverflow.com/a/18337754/10650942" tags="python, json, dump, dumps, unicode, utf, utf8, utf-8, ascii, ensure_ascii" ctime="20190503160747" dir="1556881667or4bfae7a6" file="text.html"/>
      <record id="1558332578yo80pcgb7w" name="Конвертировать datetime в другую часовую зону в Python" author="br0ke" url="https://stackoverflow.com/a/4771733/10650942" tags="python, datetime, time, zone, tz, timezone, utc, dateutil, convert" ctime="20190520110938" dir="15583325788uorizz588" file="text.html"/>
+     <record id="15621546885b8psci807" name="Дополнить строку нулями в Python" author="br0ke" url="https://stackoverflow.com/a/339013/10650942" tags="python, string, number, int, zfill, padd, padding, zero, format, formatting" ctime="20190703165128" dir="1562154688jnms7m4huc" file="text.html"/>
+     <record id="15621548050wisb3c3m0" name="Вычислить MD5 от строки в Python" author="br0ke" url="https://stackoverflow.com/a/5297483/10650942" tags="python, hash, hashlib, md5, str, string" ctime="20190703165325" dir="1562154805g9e2t9bjom" file="text.html"/>
+     <record id="1562155301v07qzl5s5e" name="Удалить знаки пунктуации из строки в Python" author="br0ke" url="https://stackoverflow.com/a/266162/10650942" tags="python, string, str, replace, remove, punctuation, dot, comma, strip, translate" ctime="20190703170141" dir="1562155301vqq85otu9x" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -504,6 +507,8 @@
      <record id="1558804453nqy66f6vg5" name="Получить текущее время в миллисекундах в JavaScript" author="br0ke" url="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Date/now" tags="javascript, js, ecmascript, es, date, now, date.now, current, time, ms, millisecond" ctime="20190525221413" dir="1558804453v9p224bawh" file="text.html"/>
      <record id="1558804554la1rd5e7j0" name="Проверить, что объект является промисом в JavaScript" author="br0ke" url="https://stackoverflow.com/a/38339199/10650942" tags="javascript, js, ecmascript, es, promise, check, object, resolve" ctime="20190525221554" dir="1558804554soh6u31gyh" file="text.html"/>
      <record id="1562151184zckg7ervd2" name="Сгруппировать элементы массива по ключу в JS" author="br0ke" url="https://stackoverflow.com/a/40774906/10650942" tags="javascript, js, ecmascript, es, array, reduce, group, groupBy, key, keys" ctime="20190703155304" dir="1562151184870ijc196g" file="text.html"/>
+     <record id="1562153834qe4buzv7je" name="Создать пустой объект без прототипа в JS" author="br0ke" url="https://stackoverflow.com/a/15518712/10650942" tags="javascript, js, ecmascript, es, object, prototype, empty, object.create, null" ctime="20190703163714" dir="1562153834c6wgnx86fe" file="text.html"/>
+     <record id="1562154483rfjsa0kf7g" name="Закодировать строку для передачи через адресную строку в JS" author="br0ke" url="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent" tags="javascript, js, ecmascript, es, encode, decode, uri, escape, url, address, encodeuri, encodeuricomponent, component, decodeuri, decodeuricomponent" ctime="20190703164803" dir="15621544837qwb2qrdxa" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
@@ -745,6 +750,7 @@
       <record id="1551340413otj6b574xa" name="Свернуть/развернуть блок кода в VSCode" author="br0ke" url="https://stackoverflow.com/a/38001475/10650942" tags="vscode, code, visual, studio, ide, fold, unfold, folding, unfolding, block, hot, key, hotkey" ctime="20190228125333" dir="1551340413mozy8vj0k5" file="text.html"/>
       <record id="1551711281vs5y0c7uny" name="Сочетания клавиш из IntelliJ IDEA в VSCode" author="br0ke" url="https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings" tags="ide, jetbrains, intellij, idea, pycharm, vscode, code, visual, studio, key, keymap, binding, bindings, keybinding, keybindings, hotkey, hotkeys, hot, key" ctime="20190304195441" dir="1551711281vwyg4792e0" file="text.html"/>
       <record id="1555753507hd44whgzc6" name="Форматирование кода при сохранении в VSCode" author="br0ke" url="https://stackoverflow.com/a/39973431/10650942" tags="vscode, visual, studio, code, save, format, autoformat, formatOnSave" ctime="20190420144507" dir="1555753507ihhjghpe9z" file="text.html"/>
+      <record id="1562155079dsmfekaj63" name="Клавиши в VSCode работают некорректно через VNC" author="br0ke" url="https://github.com/Microsoft/vscode/issues/28737#issuecomment-323179123" tags="ide, vscode, vs, visual, studio, code, vnc, remote, desktop, key, key bindings, binding, bindings, incorrect, backspace, keys," ctime="20190703165759" dir="15621550795dnnly6dht" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1549120807liqifa955m" name="IntelliJ / PyCharm">
