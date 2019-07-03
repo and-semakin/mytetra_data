@@ -220,6 +220,7 @@
      <record id="1555755015hkova7zeku" name="Найти все файлы, которыми владеет root в Linux" author="br0ke" url="https://www.cyberciti.biz/faq/how-do-i-find-all-the-files-owned-by-a-particular-user-or-group/" tags="linux, find, root, user, owner" ctime="20190420151015" dir="1555755015dnhkvscsk4" file="text.html"/>
      <record id="15568826741q6w611vqe" name="Создать раздел, на который будут иметь доступ все пользователи" author="br0ke" url="https://unix.stackexchange.com/a/1315/338074" tags="linux, file, files, system, filesystem, permission, permissions, group, groupadd, chgrp, chmod, setfacl, getfacl, facl, acl" ctime="20190503162434" dir="1556882674cqafi0dghb" file="text.html"/>
      <record id="1558332880qenyrigs6q" name="Загрузить систему Linux в режиме восстановления" author="br0ke" url="https://wiki.it-kb.ru/unix-linux/debian/stretch/how-to-restore-root-access-to-debian-linux-if-sudo-does-not-work" tags="linux, recovery, mode, debug, bash, grub, grub2, init, root" ctime="20190520111440" dir="15583328802p2kcrf456" file="text.html"/>
+     <record id="1562146308fimpz5hybi" name="Запустить долгую программу через screen по ssh" author="br0ke" url="https://linuxize.com/post/how-to-use-linux-screen/" tags="linux, unix, ssh, background, process, screen, long, terminal, multiplexer" ctime="20190703143148" dir="1562146308g54wekvqm1" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
