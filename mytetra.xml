@@ -60,6 +60,7 @@
      <record id="15621546885b8psci807" name="Дополнить строку нулями в Python" author="br0ke" url="https://stackoverflow.com/a/339013/10650942" tags="python, string, number, int, zfill, padd, padding, zero, format, formatting" ctime="20190703165128" dir="1562154688jnms7m4huc" file="text.html"/>
      <record id="15621548050wisb3c3m0" name="Вычислить MD5 от строки в Python" author="br0ke" url="https://stackoverflow.com/a/5297483/10650942" tags="python, hash, hashlib, md5, str, string" ctime="20190703165325" dir="1562154805g9e2t9bjom" file="text.html"/>
      <record id="1562155301v07qzl5s5e" name="Удалить знаки пунктуации из строки в Python" author="br0ke" url="https://stackoverflow.com/a/266162/10650942" tags="python, string, str, replace, remove, punctuation, dot, comma, strip, translate" ctime="20190703170141" dir="1562155301vqq85otu9x" file="text.html"/>
+     <record id="1562155473wbl9rtc7p9" name="Проверить, что первая буква в строке -- заглавная, в Python" author="br0ke" url="https://stackoverflow.com/a/7353987/10650942" tags="python, str, string, upper, isupper, uppercase, title, istitle" ctime="20190703170433" dir="15621554735xmekdwtyo" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -83,6 +84,7 @@
       <record id="1550331487swn5pmkopl" name="Связный список в Python" author="br0ke" url="https://pypi.org/project/llist/" tags="python, lib, pip, linked list, llist, list, data structure" ctime="20190216203807" dir="1550331487qv5j8drhu5" file="text.html"/>
       <record id="1553170935yo2s3zku0h" name="SSH-клиент из Python" author="br0ke" url="https://github.com/paramiko/paramiko" tags="python, ssh, ssh2, remote, terminal, connection, automate, automation, paramiko" ctime="20190321172215" dir="15531709355273icsoe3" file="text.html"/>
       <record id="1561478858b4nh6qod14" name="Jupyter Notebook" author="br0ke" url="https://jupyter.org/install" tags="python, tool, tools, ipython, repl, jupyter, notebook, install, pip" ctime="20190625210738" dir="1561478858f7ouctzvjh" file="text.html"/>
+      <record id="1562157108tjx3ov1akz" name="Прочитать мета-данные аудиофайлов из Python при помощи tinytag" author="br0ke" url="https://github.com/devsnd/tinytag" tags="python, audio, audiofile, file, meta, data, tag, tags, id3, mp3, opus, ogg, tinytag" ctime="20190703173148" dir="1562157108auo736c6qz" file="text.html"/>
      </recordtable>
      <node crypt="" id="15156470021ol4cff9aa" name="Flask">
       <recordtable>
@@ -148,6 +150,7 @@
        <record id="1554040474lc3q96505x" name="Заполнить поле ввода через Selenium" author="br0ke" url="https://stackoverflow.com/a/25537644/10650942" tags="python, selenium, webdriver, input, field, send_keys, form" ctime="20190331185434" dir="1554040474wx08f1r1kt" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="1562157144aq8yxrlqxb" name="eyeD3"/>
     </node>
     <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
      <recordtable>
@@ -224,6 +227,7 @@
      <record id="15568826741q6w611vqe" name="Создать раздел, на который будут иметь доступ все пользователи" author="br0ke" url="https://unix.stackexchange.com/a/1315/338074" tags="linux, file, files, system, filesystem, permission, permissions, group, groupadd, chgrp, chmod, setfacl, getfacl, facl, acl" ctime="20190503162434" dir="1556882674cqafi0dghb" file="text.html"/>
      <record id="1558332880qenyrigs6q" name="Загрузить систему Linux в режиме восстановления" author="br0ke" url="https://wiki.it-kb.ru/unix-linux/debian/stretch/how-to-restore-root-access-to-debian-linux-if-sudo-does-not-work" tags="linux, recovery, mode, debug, bash, grub, grub2, init, root" ctime="20190520111440" dir="15583328802p2kcrf456" file="text.html"/>
      <record id="1562146308fimpz5hybi" name="Запустить долгую программу через screen по ssh" author="br0ke" url="https://linuxize.com/post/how-to-use-linux-screen/" tags="linux, unix, ssh, background, process, screen, long, terminal, multiplexer" ctime="20190703143148" dir="1562146308g54wekvqm1" file="text.html"/>
+     <record id="1562156731906w7dpill" name="Склеить аудиофайлы с паузами через ffmpeg" author="br0ke" url="https://superuser.com/a/1120061/993215" tags="linux, unix, ffmpeg, concatenate, concat, audio, mp3, vaw, vawe, ogg, opus, pause" ctime="20190703172531" dir="1562156731gmhzogbkwt" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -462,6 +466,7 @@
      <record id="1551341575q1m1dfstrq" name="Настроить Git для работы с форком в GitHub" author="br0ke" url="https://help.github.com/en/articles/configuring-a-remote-for-a-fork" tags="git, vcs, github, fork, remote, origin, upstream" ctime="20190228131255" dir="1551341575itkdgdewv3" file="text.html"/>
      <record id="1553170301t1fcpbmbif" name="Закоммитить все изменения шелл-скриптом без учета кода выхода в Git" author="br0ke" url="https://stackoverflow.com/a/8123841/10650942" tags="git, vcs, commit, add, all, automation, automate, script, shell, bash, error code" ctime="20190321171141" dir="1553170301urctr4a0pg" file="text.html"/>
      <record id="15588001330q2iz45j5d" name="Скопировать файл с сохранением истории в Git" author="br0ke" url="https://stackoverflow.com/a/44036771/10650942" tags="git, vcs, copy, cp, move, mv, preserve, history, split" ctime="20190525210213" dir="1558800133v3s67xex5h" file="text.html"/>
+     <record id="15621564750vivw4aq6y" name="Хуки Git для установки зависимостей при смене ветки" author="br0ke" url="https://gist.github.com/flesler/a2f5d1286fbb8fd467dc25824d564485" tags="git, hook, hooks, branch, change, checkout, check, out, npm, install, dependency, dependencies" ctime="20190703172115" dir="1562156475fdmu9o5jwr" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
