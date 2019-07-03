@@ -150,7 +150,13 @@
        <record id="1554040474lc3q96505x" name="Заполнить поле ввода через Selenium" author="br0ke" url="https://stackoverflow.com/a/25537644/10650942" tags="python, selenium, webdriver, input, field, send_keys, form" ctime="20190331185434" dir="1554040474wx08f1r1kt" file="text.html"/>
       </recordtable>
      </node>
-     <node crypt="" id="1562157144aq8yxrlqxb" name="eyeD3"/>
+     <node crypt="" id="1562157144aq8yxrlqxb" name="eyeD3">
+      <recordtable>
+       <record id="1562157255l2smjunx9e" name="Установка eyeD3" author="br0ke" url="https://eyed3.readthedocs.io/en/latest/installation.html" tags="python, eyed3, tag, meta, data, audio, file, files, id3, mp3" ctime="20190703173415" dir="1562157255syd9x7eslz" file="text.html"/>
+       <record id="1562157624nfq3ofyf38" name="Записать ID3 тэги в MP3 файл при помощи eyeD3" author="br0ke" url="https://github.com/nicfit/eyeD3/blob/master/examples/tag_example.py" tags="python, eyed3, tag, id3, mp3, audio, set" ctime="20190703174024" dir="1562157624ljsd5rn8ox" file="text.html"/>
+       <record id="1562157820u2v0xzbe6n" name="Установить обложку альбома в MP3 при помощи eyeD3" author="br0ke" url="https://stackoverflow.com/a/39316853/10650942" tags="python, eyed3d, album, art, picture, set, tag, id3" ctime="20190703174340" dir="1562157820me13plhs3f" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
      <recordtable>
