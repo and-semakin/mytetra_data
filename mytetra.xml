@@ -782,7 +782,12 @@
     </node>
    </node>
    <node crypt="" id="15498069973xll7jxvcc" name="Elm"/>
-   <node crypt="" id="1563434276lb56molvp2" name="Rust"/>
+   <node crypt="" id="1563434276lb56molvp2" name="Rust">
+    <recordtable>
+     <record id="1563434618voywnf0wtr" name="Установить Rust через Rustup" author="br0ke" url="https://www.rust-lang.org/tools/install" tags="rust, rustc, rustup, cargo, install, curl" ctime="20190718122338" dir="1563434618ew8r02d39f" file="text.html"/>
+     <record id="1563434697vnt4ny8gwa" name="Обновить версию Rust через Rustup" author="br0ke" url="https://www.rust-lang.org/tools/install" tags="rust, rustc, rustup, update, release" ctime="20190718122457" dir="1563434697gcpu8cao83" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
    <node crypt="1" icon="" id="1515161966ykf0x8uly7" name="UkM1U0lNUAPc0bNkBOBF6FM8tDLLPgzjCsSkstmCXQvN48SwkOJb25ULqV4D0hn+z4ixsI3AmAk59haOBM2KPw==">
