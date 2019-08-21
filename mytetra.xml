@@ -474,6 +474,7 @@
      <record id="1553170301t1fcpbmbif" name="Закоммитить все изменения шелл-скриптом без учета кода выхода в Git" author="br0ke" url="https://stackoverflow.com/a/8123841/10650942" tags="git, vcs, commit, add, all, automation, automate, script, shell, bash, error code" ctime="20190321171141" dir="1553170301urctr4a0pg" file="text.html"/>
      <record id="15588001330q2iz45j5d" name="Скопировать файл с сохранением истории в Git" author="br0ke" url="https://stackoverflow.com/a/44036771/10650942" tags="git, vcs, copy, cp, move, mv, preserve, history, split" ctime="20190525210213" dir="1558800133v3s67xex5h" file="text.html"/>
      <record id="15621564750vivw4aq6y" name="Хуки Git для установки зависимостей при смене ветки" author="br0ke" url="https://gist.github.com/flesler/a2f5d1286fbb8fd467dc25824d564485" tags="git, hook, hooks, branch, change, checkout, check, out, npm, install, dependency, dependencies" ctime="20190703172115" dir="1562156475fdmu9o5jwr" file="text.html"/>
+     <record id="1566375484tm1fj36mc3" name="Игнорировать файл локально в Git (без изменения .gitignore)" author="br0ke" url="https://stackoverflow.com/a/1753078/10650942" tags="git, vcs, ignore, file, exclude, exclusion, gitignore" ctime="20190821131804" dir="1566375484xxybc86mjl" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
