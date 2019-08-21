@@ -235,6 +235,7 @@
      <record id="1558332880qenyrigs6q" name="Загрузить систему Linux в режиме восстановления" author="br0ke" url="https://wiki.it-kb.ru/unix-linux/debian/stretch/how-to-restore-root-access-to-debian-linux-if-sudo-does-not-work" tags="linux, recovery, mode, debug, bash, grub, grub2, init, root" ctime="20190520111440" dir="15583328802p2kcrf456" file="text.html"/>
      <record id="1562146308fimpz5hybi" name="Запустить долгую программу через screen по ssh" author="br0ke" url="https://linuxize.com/post/how-to-use-linux-screen/" tags="linux, unix, ssh, background, process, screen, long, terminal, multiplexer" ctime="20190703143148" dir="1562146308g54wekvqm1" file="text.html"/>
      <record id="1562156731906w7dpill" name="Склеить аудиофайлы с паузами через ffmpeg" author="br0ke" url="https://superuser.com/a/1120061/993215" tags="linux, unix, ffmpeg, concatenate, concat, audio, mp3, vaw, vawe, ogg, opus, pause" ctime="20190703172531" dir="1562156731gmhzogbkwt" file="text.html"/>
+     <record id="1566379388isz3v03625" name="Установить asdf -- универсальный менеджер версий" author="br0ke" url="https://asdf-vm.com/" tags="" ctime="20190821142308" dir="1566379388sirw2mnycx" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -347,7 +348,7 @@
       <record id="15436057916ocqi2lby2" name="Установить PATH навсегда в Fish" author="br0ke" url="https://github.com/fish-shell/fish-shell/issues/527#issuecomment-12435368" tags="linux, fish, shell, bash, sh, path, env, set, persistent, permanent" ctime="20181201002311" dir="1543605791myu5bdh1t1" file="text.html"/>
       <record id="1547989141e173po7vn4" name="Аналог .bashrc в Fish" author="br0ke" url="https://fishshell.com/docs/current/faq.html" tags="linux, unix, fish, shell, fishshell, sh, bash" ctime="20190120175901" dir="1547989141d6fkaa6sgw" file="text.html"/>
       <record id="1551765101ed0zxtq63e" name="Повторять команду, пока не произойдет ошибка в Fish" author="br0ke" url="https://stackoverflow.com/a/12967264/10650942" tags="linux, unix, shell, fish, bash, sh, while, loop, until, fail, repeat, counter, count, math" ctime="20190305105141" dir="1551765101v0i258xxdl" file="text.html"/>
-      <record id="15525572272a0ose7l0i" name="Дождаться пока запустится PostgreSQL из Fish" author="br0ke" url="https://github.com/docker-library/postgres/issues/146#issuecomment-213545864" tags="linux, unix, shell, fish, sh, fish-shell, while, postgresql, postgres, postgre, pg, pg_isready, ready" ctime="20190314145347" dir="1552557227k8iqazrluk" file="text.html"/>
+      <record id="15525572272a0ose7l0i" name="Дождаться пока запустится PostgreSQL из Fish" author="br0ke" url="https://github.com/docker-library/postgres/issues/146#issuecomment-213545864" tags="linux, unix, shell, fish, sh, fish-shell, while, postgresql, postgres, postgre, pg, pg_isready, ready, wait" ctime="20190314145347" dir="1552557227k8iqazrluk" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
