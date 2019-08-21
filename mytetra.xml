@@ -235,7 +235,7 @@
      <record id="1558332880qenyrigs6q" name="Загрузить систему Linux в режиме восстановления" author="br0ke" url="https://wiki.it-kb.ru/unix-linux/debian/stretch/how-to-restore-root-access-to-debian-linux-if-sudo-does-not-work" tags="linux, recovery, mode, debug, bash, grub, grub2, init, root" ctime="20190520111440" dir="15583328802p2kcrf456" file="text.html"/>
      <record id="1562146308fimpz5hybi" name="Запустить долгую программу через screen по ssh" author="br0ke" url="https://linuxize.com/post/how-to-use-linux-screen/" tags="linux, unix, ssh, background, process, screen, long, terminal, multiplexer" ctime="20190703143148" dir="1562146308g54wekvqm1" file="text.html"/>
      <record id="1562156731906w7dpill" name="Склеить аудиофайлы с паузами через ffmpeg" author="br0ke" url="https://superuser.com/a/1120061/993215" tags="linux, unix, ffmpeg, concatenate, concat, audio, mp3, vaw, vawe, ogg, opus, pause" ctime="20190703172531" dir="1562156731gmhzogbkwt" file="text.html"/>
-     <record id="1566379388isz3v03625" name="Установить asdf -- универсальный менеджер версий" author="br0ke" url="https://asdf-vm.com/" tags="" ctime="20190821142308" dir="1566379388sirw2mnycx" file="text.html"/>
+     <record id="1566379388isz3v03625" name="Установить asdf -- универсальный менеджер версий" author="br0ke" url="https://asdf-vm.com/" tags="asdf, asdf-vm, version, versions, manager, management, node, nodejs, node.js, nvm, npm, python, python2, python3, pyenv, pipenv, tool, tool-versions" ctime="20190821142308" dir="1566379388sirw2mnycx" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
