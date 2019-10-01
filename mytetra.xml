@@ -86,6 +86,7 @@
       <record id="1561478858b4nh6qod14" name="Jupyter Notebook" author="br0ke" url="https://jupyter.org/install" tags="python, tool, tools, ipython, repl, jupyter, notebook, install, pip" ctime="20190625210738" dir="1561478858f7ouctzvjh" file="text.html"/>
       <record id="1562157108tjx3ov1akz" name="Прочитать мета-данные аудиофайлов из Python при помощи tinytag" author="br0ke" url="https://github.com/devsnd/tinytag" tags="python, audio, audiofile, file, meta, data, tag, tags, id3, mp3, opus, ogg, tinytag" ctime="20190703173148" dir="1562157108auo736c6qz" file="text.html"/>
       <record id="15621581910qfqahmomk" name="Конвертировать число в строку в Python" author="br0ke" url="https://github.com/savoirfairelinux/num2words" tags="python, number, numbers, convert, translate, to, word, words, num2words," ctime="20190703174951" dir="15621581916tldbze56t" file="text.html"/>
+      <record id="1569920487oav44n5ixy" name="Распарсить Enum из командной строки через argparse" author="br0ke" url="https://stackoverflow.com/a/46385352/10650942" tags="python, arg, parse, argparse, enum, argument, parser" ctime="20191001140127" dir="1569920487vz8kyqsx4j" file="text.html"/>
      </recordtable>
      <node crypt="" id="15156470021ol4cff9aa" name="Flask">
       <recordtable>
@@ -139,6 +140,7 @@
       <recordtable>
        <record id="1551699106ic4et3qs2w" name="Перехват вывода stdout и stderr в pytest" author="br0ke" url="https://docs.pytest.org/en/latest/capture.html" tags="python, test, pytest, capture, stdout, stderr, capsys, capsysbinary, capfd, capfdbinary" ctime="20190304163146" dir="1551699106saf37g8tl9" file="text.html"/>
        <record id="1555753951o9i612nq2k" name="Проверить, что в блоке кода не произошло исключений, в pytest" author="br0ke" url="https://stackoverflow.com/a/20275035/10650942" tags="python, test, unit, pytest, fail, exception, assert" ctime="20190420145231" dir="1555753951emcoho7e8n" file="text.html"/>
+       <record id="1569920682anwpts5f63" name="Запустить pytest так, чтобы он понимал импорты относительно текущей директории" author="br0ke" url="https://stackoverflow.com/a/34140498/10650942" tags="python, pytest, run, execute, PYTHONPATH, path, import, ImportError" ctime="20191001140442" dir="156992068256tgqy3cg1" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1554038688niibu2rc9c" name="selenium">
@@ -286,6 +288,7 @@
       <record id="1555753195cxfcuc1fj9" name="FAQ по Fedora на русском" author="br0ke" url="https://russianfedora.github.io/FAQ/" tags="linux, fedora, faq, question, questions, answer, answers" ctime="20190420143955" dir="15557531952ektv418p9" file="text.html"/>
       <record id="1556032099qj6bzov8ms" name="Установить graphviz на Fedora" author="br0ke" url="http://linuxtoolkit.blogspot.com/2010/07/install-graphviz-on-centos-and-fedora.html" tags="linux, fedora, dnf, install, graph, graphviz, tool, install, svg, png" ctime="20190423200819" dir="1556032099fy1r4k60ac" file="text.html"/>
       <record id="1556882008iurzaov73n" name="Обновить Fedora до следующей версии" author="br0ke" url="https://fedoraproject.org/wiki/DNF_system_upgrade" tags="linux, fedora, update, version, release, system, upgrade, dnf" ctime="20190503161328" dir="15568820086hjqv6qj7c" file="text.html"/>
+      <record id="1569921069lxxy7up1p2" name="Открыть RAR архив на Fedota" author="br0ke" url="https://superuser.com/a/1093669/993215" tags="linux, fedora, rar, unrar, archive, unar" ctime="20191001141109" dir="1569921069yrmvwf32uq" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
