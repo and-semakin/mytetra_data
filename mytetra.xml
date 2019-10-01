@@ -526,6 +526,7 @@
      <record id="1562151184zckg7ervd2" name="Сгруппировать элементы массива по ключу в JS" author="br0ke" url="https://stackoverflow.com/a/40774906/10650942" tags="javascript, js, ecmascript, es, array, reduce, group, groupBy, key, keys" ctime="20190703155304" dir="1562151184870ijc196g" file="text.html"/>
      <record id="1562153834qe4buzv7je" name="Создать пустой объект без прототипа в JS" author="br0ke" url="https://stackoverflow.com/a/15518712/10650942" tags="javascript, js, ecmascript, es, object, prototype, empty, object.create, null" ctime="20190703163714" dir="1562153834c6wgnx86fe" file="text.html"/>
      <record id="1562154483rfjsa0kf7g" name="Закодировать строку для передачи через адресную строку в JS" author="br0ke" url="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent" tags="javascript, js, ecmascript, es, encode, decode, uri, escape, url, address, encodeuri, encodeuricomponent, component, decodeuri, decodeuricomponent" ctime="20190703164803" dir="15621544837qwb2qrdxa" file="text.html"/>
+     <record id="1569922224qusqe3zed6" name="Итерироваться по индексам и значениям массива (как enumerate в Python) в JS" author="br0ke" url="https://stackoverflow.com/a/34349073/10650942" tags="js, javascript, ecma, script, ecmascript, es, loop, array, enumerate, keys, entries" ctime="20191001143024" dir="156992222465qfj8lk68" file="text.html"/>
     </recordtable>
     <node crypt="" id="15157448592pgz8dwkq5" name="React">
      <recordtable>
