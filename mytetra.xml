@@ -480,6 +480,7 @@
      <record id="15588001330q2iz45j5d" name="Скопировать файл с сохранением истории в Git" author="br0ke" url="https://stackoverflow.com/a/44036771/10650942" tags="git, vcs, copy, cp, move, mv, preserve, history, split" ctime="20190525210213" dir="1558800133v3s67xex5h" file="text.html"/>
      <record id="15621564750vivw4aq6y" name="Хуки Git для установки зависимостей при смене ветки" author="br0ke" url="https://gist.github.com/flesler/a2f5d1286fbb8fd467dc25824d564485" tags="git, hook, hooks, branch, change, checkout, check, out, npm, install, dependency, dependencies" ctime="20190703172115" dir="1562156475fdmu9o5jwr" file="text.html"/>
      <record id="1566375484tm1fj36mc3" name="Игнорировать файл локально в Git (без изменения .gitignore)" author="br0ke" url="https://stackoverflow.com/a/1753078/10650942" tags="git, vcs, ignore, file, exclude, exclusion, gitignore" ctime="20190821131804" dir="1566375484xxybc86mjl" file="text.html"/>
+     <record id="1573482054de7rhrq1mx" name="Использовать несколько GitHub аккаунтов на одной машине" author="br0ke" url="https://stackoverflow.com/a/11251797/10650942" tags="git, github, ssh, keys, account, accounts, multiple" ctime="20191111192054" dir="1573482054cyr9y56a4f" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
