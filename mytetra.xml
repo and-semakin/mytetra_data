@@ -483,6 +483,7 @@
      <record id="1573482054de7rhrq1mx" name="Использовать несколько GitHub аккаунтов на одной машине" author="br0ke" url="https://stackoverflow.com/a/11251797/10650942" tags="git, github, ssh, keys, account, accounts, multiple" ctime="20191111192054" dir="1573482054cyr9y56a4f" file="text.html"/>
      <record id="1573484286hgr9mtjn75" name="Изменить автора предыдущего коммита в Git" author="br0ke" url="https://www.git-tower.com/learn/git/faq/change-author-name-email" tags="git, vcs, commit, amend, edit, change, previous, author, email, name, mail" ctime="20191111195806" dir="15734842867a3am6pqez" file="text.html"/>
      <record id="1573484452hfrapvkokd" name="Изменить автора на один коммит в Git" author="br0ke" url="https://www.git-tower.com/learn/git/faq/change-author-name-email" tags="git, vcs, commit, next, author, name, mail, email" ctime="20191111200052" dir="1573484452unalcwfcz2" file="text.html"/>
+     <record id="1574087695gcc9sir5d0" name="Сплющить (squash) коммиты в текущей ветке в Git" author="br0ke" url="https://github.com/wprig/wprig/wiki/How-to-squash-commits" tags="git, vcs, scm, squash, commit, commits, current, branch, rebase, pick" ctime="20191118193455" dir="1574087695ye0utl74b1" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
