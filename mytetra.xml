@@ -238,6 +238,7 @@
      <record id="1562146308fimpz5hybi" name="Запустить долгую программу через screen по ssh" author="br0ke" url="https://linuxize.com/post/how-to-use-linux-screen/" tags="linux, unix, ssh, background, process, screen, long, terminal, multiplexer" ctime="20190703143148" dir="1562146308g54wekvqm1" file="text.html"/>
      <record id="1562156731906w7dpill" name="Склеить аудиофайлы с паузами через ffmpeg" author="br0ke" url="https://superuser.com/a/1120061/993215" tags="linux, unix, ffmpeg, concatenate, concat, audio, mp3, vaw, vawe, ogg, opus, pause" ctime="20190703172531" dir="1562156731gmhzogbkwt" file="text.html"/>
      <record id="1566379388isz3v03625" name="Установить asdf -- универсальный менеджер версий" author="br0ke" url="https://asdf-vm.com/" tags="asdf, asdf-vm, version, versions, manager, management, node, nodejs, node.js, nvm, npm, python, python2, python3, pyenv, pipenv, tool, tool-versions" ctime="20190821142308" dir="1566379388sirw2mnycx" file="text.html"/>
+     <record id="1574158120hxh8ye92uj" name="Сохранить файл с sudo в vim" author="br0ke" url="https://stackoverflow.com/questions/2600783/how-does-the-vim-write-with-sudo-trick-work/7078429#7078429" tags="linux, vi, vim, sudo, root, save, open" ctime="20191119150840" dir="1574158120ynhyz9csns" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
@@ -290,6 +291,7 @@
       <record id="1556882008iurzaov73n" name="Обновить Fedora до следующей версии" author="br0ke" url="https://fedoraproject.org/wiki/DNF_system_upgrade" tags="linux, fedora, update, version, release, system, upgrade, dnf" ctime="20190503161328" dir="15568820086hjqv6qj7c" file="text.html"/>
       <record id="1569921069lxxy7up1p2" name="Открыть RAR архив на Fedota" author="br0ke" url="https://superuser.com/a/1093669/993215" tags="linux, fedora, rar, unrar, archive, unar" ctime="20191001141109" dir="1569921069yrmvwf32uq" file="text.html"/>
       <record id="1571044885n93a0g1zn1" name="Сменить ядро по умолчанию в Fedora" author="br0ke" url="https://docs.fedoraproject.org/en-US/Fedora/25/html/System_Administrators_Guide/sec-Making_Persistent_Changes_to_a_GRUB_2_Menu_Using_the_grubby_Tool.html" tags="linux, fedora, kernel, default, grub, grub2, grubby" ctime="20191014142125" dir="1571044885tkrbyni4tl" file="text.html"/>
+      <record id="1574157721pzgnt0xjcq" name="Установить Skype через Flatpak на Fedora" author="br0ke" url="https://docs.fedoraproject.org/en-US/quick-docs/installing-skype/" tags="linux, fedora, flat, flatpak, flatpack, flathub, skype, install, installation" ctime="20191119150201" dir="1574157721ujz5t0la0s" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
