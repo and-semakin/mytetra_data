@@ -365,6 +365,8 @@
       <record id="1551765101ed0zxtq63e" name="Повторять команду, пока не произойдет ошибка в Fish" author="br0ke" url="https://stackoverflow.com/a/12967264/10650942" tags="linux, unix, shell, fish, bash, sh, while, loop, until, fail, repeat, counter, count, math" ctime="20190305105141" dir="1551765101v0i258xxdl" file="text.html"/>
       <record id="15525572272a0ose7l0i" name="Дождаться пока запустится PostgreSQL из Fish" author="br0ke" url="https://github.com/docker-library/postgres/issues/146#issuecomment-213545864" tags="linux, unix, shell, fish, sh, fish-shell, while, postgresql, postgres, postgre, pg, pg_isready, ready, wait" ctime="20190314145347" dir="1552557227k8iqazrluk" file="text.html"/>
       <record id="1575204215dfxhhxleji" name="Перенаправление вывода в Fish" author="br0ke" url="https://codeyarns.com/2016/03/09/how-to-redirect-and-pipe-in-fish/" tags="linux, shell, fish, redirect, pipe, output, stdout, stderr" ctime="20191201174335" dir="157520421590f7ilax4y" file="text.html"/>
+      <record id="1575204688uphg4kt4up" name="Получить код выхода предыдущей команды в Fish" author="br0ke" url="https://stackoverflow.com/a/38507738/10650942" tags="linux, shell, sh, fish, exit, code, status, command, variable" ctime="20191201175128" dir="1575204688onr5shxvex" file="text.html"/>
+      <record id="1575204787q8n2j7oqwe" name="Запустить тест в бесконечном цикле и получать статус выхода в Fish" author="br0ke" url="" tags="fish, shell, loop, cycle, infinite, test, status, code, return" ctime="20191201175307" dir="1575204787uwprstblyl" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
