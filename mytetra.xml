@@ -805,6 +805,11 @@
      <record id="15637765753tss12v879" name="Использование Cargo -- пакетного менеджера для Rust" author="br0ke" url="https://doc.rust-lang.org/book/ch01-03-hello-cargo.html" tags="rust, cargo, dependency, dependencies, manager, package, crate, crates" ctime="20190722112255" dir="156377657520miatapix" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1575200136q660qss24i" name="Telegram">
+    <recordtable>
+     <record id="157520029099xqce0jug" name="Список полезных ботов" author="br0ke" url="" tags="telegram, bot, bots" ctime="20191201163810" dir="157520029012enj5grn0" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
    <node crypt="1" icon="" id="1515161966ykf0x8uly7" name="UkM1U0lNUAPc0bNkBOBF6FM8tDLLPgzjCsSkstmCXQvN48SwkOJb25ULqV4D0hn+z4ixsI3AmAk59haOBM2KPw==">
