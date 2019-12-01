@@ -61,7 +61,8 @@
      <record id="15621548050wisb3c3m0" name="Вычислить MD5 от строки в Python" author="br0ke" url="https://stackoverflow.com/a/5297483/10650942" tags="python, hash, hashlib, md5, str, string" ctime="20190703165325" dir="1562154805g9e2t9bjom" file="text.html"/>
      <record id="1562155301v07qzl5s5e" name="Удалить знаки пунктуации из строки в Python" author="br0ke" url="https://stackoverflow.com/a/266162/10650942" tags="python, string, str, replace, remove, punctuation, dot, comma, strip, translate" ctime="20190703170141" dir="1562155301vqq85otu9x" file="text.html"/>
      <record id="1562155473wbl9rtc7p9" name="Проверить, что первая буква в строке -- заглавная, в Python" author="br0ke" url="https://stackoverflow.com/a/7353987/10650942" tags="python, str, string, upper, isupper, uppercase, title, istitle" ctime="20190703170433" dir="15621554735xmekdwtyo" file="text.html"/>
-     <record id="1575203459xcmzoiykff" name="Разбить (split) строку по нескольким разделителям в Python" author="br0ke" url="https://stackoverflow.com/a/4998688/10650942" tags="python, str, string, split, multiple, delimeter, delimeters" ctime="20191201173059" dir="1575203459y0kbg1is44" file="text.html"/>
+     <record id="1575203459xcmzoiykff" name="Разбить (split) строку по нескольким разделителям в Python" author="br0ke" url="https://stackoverflow.com/a/4998688/10650942" tags="python, str, string, split, multiple, delimeter, delimeters, re" ctime="20191201173059" dir="1575203459y0kbg1is44" file="text.html"/>
+     <record id="15752037230itpv09izg" name="Отсортировать версии в Python" author="br0ke" url="https://stackoverflow.com/a/43408917/10650942" tags="python, version, versions, sort" ctime="20191201173523" dir="1575203723gu08o4c4tf" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -164,7 +165,6 @@
     </node>
     <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
      <recordtable>
-      <record id="1520148264v1qng0aee9" name="Менеджер зависимостей pipenv" author="br0ke" url="https://pypi.python.org/pypi/pipenv" tags="python, pipenv, virtualenv, tool, tools, venv, virtual envirtonment, requirements.txt, pip, install" ctime="20180304122424" dir="15201482647bkxsjrx4o" file="text.html"/>
       <record id="1520150927ftsfjtxelv" name="pyenv -- менеджер версий интерпретатора Python" author="br0ke" url="https://github.com/pyenv/pyenv" tags="python, pyenv, install, pipenv, pip, pypy, " ctime="20180304130847" dir="1520150927puobq8jldy" file="text.html"/>
       <record id="1549704416qimbktix03" name="pudb -- консольный графический дебаггер для Python" author="br0ke" url="https://pypi.org/project/pudb/" tags="python, tool, tools, pdb, pudb, debug, debugger, cli, pseudographics, pseudo, graphics" ctime="20190209142656" dir="1549704416uffe4kkxyc" file="text.html"/>
       <record id="1561282302c5j0txgwlt" name="asdf -- универсальный менеджер версий" author="br0ke" url="https://github.com/asdf-vm/asdf" tags="asdf, asdf-vm, version, versions, manager, management, node, nodejs, node.js, nvm, python, python2, python3, pyenv, pipenv, tool" ctime="20190623143142" dir="1561282302yt45k42261" file="text.html"/>
@@ -173,6 +173,12 @@
       <recordtable>
        <record id="1551871538lwmajcbpr1" name="Автоматически перезагружать импортированные файлы в IPython" author="br0ke" url="https://ipython.readthedocs.io/en/stable/config/extensions/autoreload.html" tags="python, ipython, repl, auto, reload, import, reimport, autoreload, aimport" ctime="20190306162538" dir="1551871538jmxh31m8v3" file="text.html"/>
        <record id="15531711304e5nyuo8t2" name="Лишний вывод в логи в IPython" author="br0ke" url="https://github.com/ipython/ipython/issues/10946#issuecomment-354501461" tags="python, ipython, repl, logging, log, logs, output, unexpected, parso" ctime="20190321172530" dir="1553171130yeehmyg78w" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1575203810gpbwyf0aj9" name="pipenv">
+      <recordtable>
+       <record id="1520148264v1qng0aee9" name="Менеджер зависимостей pipenv" author="br0ke" url="https://pypi.python.org/pypi/pipenv" tags="python, pipenv, virtualenv, tool, tools, venv, virtual envirtonment, requirements.txt, pip, install" ctime="20191201173656" dir="15201482647bkxsjrx4o" file="text.html"/>
+       <record id="1575203942lci1qnfjoz" name="Установить пакет как редактируемую зависимость в pipenv" author="br0ke" url="https://pipenv-fork.readthedocs.io/en/latest/basics.html#editable-dependencies-e-g-e" tags="python, pip, pipenv, editable, dev" ctime="20191201173902" dir="1575203942n10kemwv99" file="text.html"/>
       </recordtable>
      </node>
     </node>
@@ -358,6 +364,7 @@
       <record id="1547989141e173po7vn4" name="Аналог .bashrc в Fish" author="br0ke" url="https://fishshell.com/docs/current/faq.html" tags="linux, unix, fish, shell, fishshell, sh, bash" ctime="20190120175901" dir="1547989141d6fkaa6sgw" file="text.html"/>
       <record id="1551765101ed0zxtq63e" name="Повторять команду, пока не произойдет ошибка в Fish" author="br0ke" url="https://stackoverflow.com/a/12967264/10650942" tags="linux, unix, shell, fish, bash, sh, while, loop, until, fail, repeat, counter, count, math" ctime="20190305105141" dir="1551765101v0i258xxdl" file="text.html"/>
       <record id="15525572272a0ose7l0i" name="Дождаться пока запустится PostgreSQL из Fish" author="br0ke" url="https://github.com/docker-library/postgres/issues/146#issuecomment-213545864" tags="linux, unix, shell, fish, sh, fish-shell, while, postgresql, postgres, postgre, pg, pg_isready, ready, wait" ctime="20190314145347" dir="1552557227k8iqazrluk" file="text.html"/>
+      <record id="1575204215dfxhhxleji" name="Перенаправление вывода в Fish" author="br0ke" url="https://codeyarns.com/2016/03/09/how-to-redirect-and-pipe-in-fish/" tags="linux, shell, fish, redirect, pipe, output, stdout, stderr" ctime="20191201174335" dir="157520421590f7ilax4y" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
