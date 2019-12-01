@@ -63,6 +63,7 @@
      <record id="1562155473wbl9rtc7p9" name="Проверить, что первая буква в строке -- заглавная, в Python" author="br0ke" url="https://stackoverflow.com/a/7353987/10650942" tags="python, str, string, upper, isupper, uppercase, title, istitle" ctime="20190703170433" dir="15621554735xmekdwtyo" file="text.html"/>
      <record id="1575203459xcmzoiykff" name="Разбить (split) строку по нескольким разделителям в Python" author="br0ke" url="https://stackoverflow.com/a/4998688/10650942" tags="python, str, string, split, multiple, delimeter, delimeters, re" ctime="20191201173059" dir="1575203459y0kbg1is44" file="text.html"/>
      <record id="15752037230itpv09izg" name="Отсортировать версии в Python" author="br0ke" url="https://stackoverflow.com/a/43408917/10650942" tags="python, version, versions, sort" ctime="20191201173523" dir="1575203723gu08o4c4tf" file="text.html"/>
+     <record id="1575206157ejkj7am8o6" name="Распаковать любой архив в Python" author="br0ke" url="https://stackoverflow.com/a/56182972/10650942" tags="python, archive, archives, unpack, open, zip, tar, tgz, shutil" ctime="20191201181557" dir="1575206157p5kzewu4o9" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -350,6 +351,7 @@
     <node crypt="" id="1515404820snsq5fy8ep" name="bash">
      <recordtable>
       <record id="1549109084wd7kkvye2k" name="Выполнить несколько команд и завершиться ошибкой при хотя бы одной ошибке в скрипте Bash" author="br0ke" url="https://stackoverflow.com/a/16081218/10650942" tags="linux, unix, bash, script, fail, exit, return, code, 0, exit_code, hadolint, gitlab, ci, yaml" ctime="20190202170444" dir="1549109084gsc4bgl196" file="text.html"/>
+      <record id="15752064726zfs3d8kvk" name="Узнать директорию, в которой расположен текущий скрипт в bash" author="br0ke" url="https://stackoverflow.com/a/1638397/10650942" tags="linux, sh, bash, current, directory, folder, path, script" ctime="20191201182112" dir="15752064721732mlcemr" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404847zp0o2ra2xh" name="fish">
