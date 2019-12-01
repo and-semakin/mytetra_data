@@ -61,6 +61,7 @@
      <record id="15621548050wisb3c3m0" name="Вычислить MD5 от строки в Python" author="br0ke" url="https://stackoverflow.com/a/5297483/10650942" tags="python, hash, hashlib, md5, str, string" ctime="20190703165325" dir="1562154805g9e2t9bjom" file="text.html"/>
      <record id="1562155301v07qzl5s5e" name="Удалить знаки пунктуации из строки в Python" author="br0ke" url="https://stackoverflow.com/a/266162/10650942" tags="python, string, str, replace, remove, punctuation, dot, comma, strip, translate" ctime="20190703170141" dir="1562155301vqq85otu9x" file="text.html"/>
      <record id="1562155473wbl9rtc7p9" name="Проверить, что первая буква в строке -- заглавная, в Python" author="br0ke" url="https://stackoverflow.com/a/7353987/10650942" tags="python, str, string, upper, isupper, uppercase, title, istitle" ctime="20190703170433" dir="15621554735xmekdwtyo" file="text.html"/>
+     <record id="1575203459xcmzoiykff" name="Разбить (split) строку по нескольким разделителям в Python" author="br0ke" url="https://stackoverflow.com/a/4998688/10650942" tags="python, str, string, split, multiple, delimeter, delimeters" ctime="20191201173059" dir="1575203459y0kbg1is44" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -488,6 +489,9 @@
      <record id="1573484286hgr9mtjn75" name="Изменить автора предыдущего коммита в Git" author="br0ke" url="https://www.git-tower.com/learn/git/faq/change-author-name-email" tags="git, vcs, commit, amend, edit, change, previous, author, email, name, mail" ctime="20191111195806" dir="15734842867a3am6pqez" file="text.html"/>
      <record id="1573484452hfrapvkokd" name="Изменить автора на один коммит в Git" author="br0ke" url="https://www.git-tower.com/learn/git/faq/change-author-name-email" tags="git, vcs, commit, next, author, name, mail, email" ctime="20191111200052" dir="1573484452unalcwfcz2" file="text.html"/>
      <record id="1574087695gcc9sir5d0" name="Сплющить (squash) коммиты в текущей ветке в Git" author="br0ke" url="https://github.com/wprig/wprig/wiki/How-to-squash-commits" tags="git, vcs, scm, squash, commit, commits, current, branch, rebase, pick" ctime="20191118193455" dir="1574087695ye0utl74b1" file="text.html"/>
+     <record id="1575202635vk4fdskrgk" name="Узнать на какой коммит указывает тэг в Git" author="br0ke" url="https://stackoverflow.com/a/1863224/10650942" tags="git, vcs, scm, tag, tags, list, commit, point, ref, show-ref" ctime="20191201171715" dir="1575202635xd6vr70diu" file="text.html"/>
+     <record id="1575202967e508edav6p" name="Показать список тэгов в Git" author="br0ke" url="https://stackoverflow.com/a/1064505/10650942" tags="git, vcs, scm, tag, list" ctime="20191201172247" dir="1575202967qui28ixdii" file="text.html"/>
+     <record id="15752031184v60k7lw9b" name="Удалить тэг на удаленном сервере в Git" author="br0ke" url="https://stackoverflow.com/a/5480292/10650942" tags="git, scm, vcs, tag, delete, remove, remote, push" ctime="20191201172518" dir="1575203118d1gdpv6f6c" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
@@ -794,6 +798,7 @@
       <record id="1555752539aa9a8xtnt4" name="PyCharm не правильно разрешает импорты" author="br0ke" url="https://stackoverflow.com/a/49362945/10650942" tags="ide, pycharm, idea, jetbrains, intellij, import, source, root" ctime="20190420142859" dir="1555752539bfsfic4r60" file="text.html"/>
       <record id="1555752963yvnxujbqvs" name="Очистить кэш/индексы в IntelliJ / PyCharm" author="br0ke" url="https://intellij-support.jetbrains.com/hc/en-us/community/posts/206258359-Is-there-a-way-to-force-indexing-" tags="ide, jetbrains, intellij, idea, pycharm, cache, index, indices, indexes, clean, force, reindex, invalidate" ctime="20190420143603" dir="155575296391x4yjc2fb" file="text.html"/>
       <record id="15571315932nzsb7v6oi" name="Запустить линтеры через PyCharm" author="br0ke" url="" tags="ide, jetbrains, pycharm, idea, intellij, linter, linters, run, debug, configuration" ctime="20190506133313" dir="1557131593e35b81ra0l" file="text.html"/>
+      <record id="1575203318t4h1e3chiy" name="Multicursor (множественный курсор, множественная каретка) в IntelliJ / PyCharm" author="br0ke" url="https://www.jetbrains.com/help/pycharm-edu/multicursor.html" tags="ide, idea, jetbrains, intellij, pycharm, multi, multicursor, hotkey" ctime="20191201172838" dir="1575203318ch4yx4ligu" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -808,6 +813,7 @@
    <node crypt="" id="1575200136q660qss24i" name="Telegram">
     <recordtable>
      <record id="157520029099xqce0jug" name="Список полезных ботов" author="br0ke" url="" tags="telegram, bot, bots" ctime="20191201163810" dir="157520029012enj5grn0" file="text.html"/>
+     <record id="157520247213ix05mbe2" name="Получить ID чата или группы в Telegram" author="br0ke" url="https://stackoverflow.com/a/32572159/10650942" tags="telegram, bot, bots, chat, id, chat_id, group" ctime="20191201171432" dir="1575202472rvwbu2r2nn" file="text.html"/>
     </recordtable>
    </node>
   </node>
