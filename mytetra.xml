@@ -459,6 +459,7 @@
       <record id="1553174949071zvp5ayp" name="Перезапуск Gnome" author="br0ke" url="https://askubuntu.com/a/496999/920474" tags="linux, gnome, de, desktop, environment, restart, reload, gui" ctime="20190321182909" dir="1553174949f8290wpozd" file="text.html"/>
       <record id="1553760066wskzm4r600" name="Отключить сочетание клавиш Ctrl+Shift+E (клавиатура Emoji) в Gnome" author="br0ke" url="https://forum.level1techs.com/t/gnome-disable-emoji-keyboard-shortcut-ctrl-shift-e/130351" tags="linux, gnome, hotkeys, emoji, keyboard, ibus, ibus-setup" ctime="20190328130106" dir="1553760066ikg9mslnap" file="text.html"/>
       <record id="15566156698ztugr9dvz" name="Завершить сеанс пользователя из командной строки в Gnome" author="br0ke" url="https://www.linuxquestions.org/questions/ubuntu-63/how-do-i-log-out-via-terminal-928183/#post4686163" tags="linux, gnome, desktop, de, log, logout, out, session, quit, exit, switch, user" ctime="20190430141429" dir="1556615669f4j7zxv89g" file="text.html"/>
+      <record id="1575271218m7z12arkr9" name="Сменить монитор, на котором показывается Gnome Login Menu" author="br0ke" url="https://ask.fedoraproject.org/t/gnome-login-menu-on-wrong-screen/2531" tags="linux, gnome, fedora, login, log, in, auth, authentication, pass, password, screen, monitor, another, multuple" ctime="20191202122018" dir="1575271218mp5ocuud8x" file="text.html"/>
      </recordtable>
     </node>
    </node>
