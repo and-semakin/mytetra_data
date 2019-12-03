@@ -829,6 +829,11 @@
      <record id="157520247213ix05mbe2" name="Получить ID чата или группы в Telegram" author="br0ke" url="https://stackoverflow.com/a/32572159/10650942" tags="telegram, bot, bots, chat, id, chat_id, group" ctime="20191201171432" dir="1575202472rvwbu2r2nn" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1575366485ppw6cesf6b" name="Mac">
+    <recordtable>
+     <record id="1575366663xmxc3fp216" name="Установить Homebrew на Mac" author="br0ke" url="https://brew.sh/" tags="mac, macos, apple, brew, homebrew, package, packages, install, soft, software" ctime="20191203145103" dir="1575366663uq237h0ceu" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
    <node crypt="1" icon="" id="1515161966ykf0x8uly7" name="UkM1U0lNUAPc0bNkBOBF6FM8tDLLPgzjCsSkstmCXQvN48SwkOJb25ULqV4D0hn+z4ixsI3AmAk59haOBM2KPw==">
