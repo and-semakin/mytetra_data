@@ -833,6 +833,15 @@
    <node crypt="" id="1575366485ppw6cesf6b" name="Mac">
     <recordtable>
      <record id="1575366663xmxc3fp216" name="Установить Homebrew на Mac" author="br0ke" url="https://brew.sh/" tags="mac, macos, apple, brew, homebrew, package, packages, install, soft, software" ctime="20191203145103" dir="1575366663uq237h0ceu" file="text.html"/>
+     <record id="157543732051olijmlf1" name="Установить Docker на Mac" author="br0ke" url="https://stackoverflow.com/questions/40523307/brew-install-docker-does-not-include-docker-engine/43365425#43365425" tags="apple, mac, macos, docker, docker-compose, compose, machine, docker-machine, install, brew, cask" ctime="20191204102840" dir="1575437320m1j6wa8ld9" file="text.html"/>
+     <record id="1575437620v6uyzx0yp4" name="Установить Skype на Mac" author="br0ke" url="http://macappstore.org/skype/" tags="apple, mac, macos, macos, skype, install, brew" ctime="20191204103340" dir="1575437620t5jck6a445" file="text.html"/>
+     <record id="1575437727003f73c8qy" name="Установить Zoom.us на Mac" author="br0ke" url="http://macappstore.org/zoomus/" tags="apple, mac, macos, macosx, brew, install, cask, zoom, zoom.us" ctime="20191204103527" dir="1575437727ijfgiwipef" file="text.html"/>
+     <record id="1575437806tkdu03xh84" name="Установить Firefox на Mac" author="br0ke" url="http://macappstore.org/firefox/" tags="apple, mac, macos, macosx, brew, cask, install, firefox, mozilla, browser" ctime="20191204103646" dir="15754378068no4nspsyf" file="text.html"/>
+     <record id="1575437901wragupfoh2" name="Установить Postman на Mac" author="br0ke" url="https://www.code2bits.com/how-to-install-postman-on-macos-using-homebrew/" tags="apple, mac, macos, macosx, brew, cask, install, postman, api, client, json, http" ctime="20191204103821" dir="1575437901l4fvhkhjv8" file="text.html"/>
+     <record id="157543812896khulmqch" name="Поиск по Homebrew" author="br0ke" url="https://www.code2bits.com/how-to-install-postman-on-macos-using-homebrew/" tags="apple, mac, macos, macos, brew, homebrew, search" ctime="20191204104208" dir="1575438128soq5o69hkc" file="text.html"/>
+     <record id="15754382157y19g76ccf" name="Установить fish на Mac" author="br0ke" url="" tags="apple, mac, macos, macosx, fish, shell, install, brew, homebrew" ctime="20191204104335" dir="15754382158u0az579ck" file="text.html"/>
+     <record id="15754382270mima5115u" name="Установить pipenv на Mac" author="br0ke" url="" tags="apple, mac, macos, macosx, python, pipenv, pip, install, brew, homebrew" ctime="20191204104347" dir="157543822785lnadzipf" file="text.html"/>
+     <record id="1575438253a0lqfb97ph" name="Установить pyenv на Mac" author="br0ke" url="" tags="apple, mac, macos, macosx, python, pyenv, install, brew, homebrew" ctime="20191204104413" dir="1575438253x3d2ou2b6u" file="text.html"/>
     </recordtable>
    </node>
   </node>
