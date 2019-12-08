@@ -370,6 +370,7 @@
       <record id="1575204688uphg4kt4up" name="Получить код выхода предыдущей команды в Fish" author="br0ke" url="https://stackoverflow.com/a/38507738/10650942" tags="linux, shell, sh, fish, exit, code, status, command, variable" ctime="20191201175128" dir="1575204688onr5shxvex" file="text.html"/>
       <record id="1575204787q8n2j7oqwe" name="Запустить тест в бесконечном цикле и получать статус выхода в Fish" author="br0ke" url="" tags="fish, shell, loop, cycle, infinite, test, status, code, return" ctime="20191201175307" dir="1575204787uwprstblyl" file="text.html"/>
       <record id="1575385389fegzbi2i4f" name="Приветствие для Fish с отличной поддержкой Git" author="br0ke" url="https://gist.github.com/and-semakin/36478101a5083cfaf7c8ab77043341bd" tags="linux, shell, fish, sh, prompt, git" ctime="20191203200309" dir="1575385389215wr9s6y2" file="text.html"/>
+      <record id="157579629802a1wos1so" name="Склонировать репозиторий с GitHub, используя правильные SSH-ключи и с правильным e-mail" author="br0ke" url="" tags="fish, shell, git, github, clone, personal, ssh, keys, email, user.email, config" ctime="20191208141138" dir="1575796298tk13cvp4x6" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
