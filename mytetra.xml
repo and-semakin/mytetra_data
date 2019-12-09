@@ -843,6 +843,7 @@
      <record id="15754382157y19g76ccf" name="Установить fish на Mac" author="br0ke" url="" tags="apple, mac, macos, macosx, fish, shell, install, brew, homebrew" ctime="20191204104335" dir="15754382158u0az579ck" file="text.html"/>
      <record id="15754382270mima5115u" name="Установить pipenv на Mac" author="br0ke" url="" tags="apple, mac, macos, macosx, python, pipenv, pip, install, brew, homebrew" ctime="20191204104347" dir="157543822785lnadzipf" file="text.html"/>
      <record id="1575438253a0lqfb97ph" name="Установить pyenv на Mac" author="br0ke" url="" tags="apple, mac, macos, macosx, python, pyenv, install, brew, homebrew" ctime="20191204104413" dir="1575438253x3d2ou2b6u" file="text.html"/>
+     <record id="15758762673phwwbhvub" name="Установить VSCode на Mac" author="br0ke" url="https://formulae.brew.sh/cask/visual-studio-code" tags="apple, mac, macos, macosx, brew, install, cask, vscode, code, visual, studio" ctime="20191209122427" dir="1575876267wev11f6fju" file="text.html"/>
     </recordtable>
    </node>
   </node>
