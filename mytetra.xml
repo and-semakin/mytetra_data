@@ -721,6 +721,14 @@
       <record id="15254285297rmhqmxof8" name="Установка SQL Server на контроллер домена" author="br0ke" url="https://blog.sqlauthority.com/2017/01/27/sql-server-sql-installation-fails-error-code-0x851a001a-wait-database-engine-recovery-handle-failed/" tags="microsoft, sql, sql server, mssqlserver, domain controller, dc, windows, windows server, 2012, 2012R2" ctime="20180504150849" dir="1525428529s7wa3uhrvb" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="15758772387dse8p8k5v" name="SQLite">
+     <recordtable>
+      <record id="1575877436rjjqpbya1d" name="Нумерация строк в SQLite" author="br0ke" url="https://stackoverflow.com/a/16849640/10650942" tags="sqlite, database, sql, lite, dbms, row, number, row_number" ctime="20191209124356" dir="15758774364y9u07wkq1" file="text.html"/>
+      <record id="1575877544e62zqcpgyq" name="Получить версию используемой библиотеки SQLite" author="br0ke" url="https://stackoverflow.com/a/21140351/10650942" tags="sqlite, sql, lite, database, dbms, version, sqlite_version" ctime="20191209124544" dir="1575877544f7w7utbbe2" file="text.html"/>
+      <record id="1575877694q0ykhjih2l" name="Получить версию файла базы данных SQLite" author="br0ke" url="https://stackoverflow.com/a/9646399/10650942" tags="sqlite, sql, lite, database, dbms, version, file, 2, 3" ctime="20191209124814" dir="1575877694h8xwize5cm" file="text.html"/>
+      <record id="1575878120ejq36oulz9" name="Сервис для запуска SQLite онлайн" author="br0ke" url="https://sqliteonline.com/" tags="sqlite, sql, lite, database, dbms, use, test, online, service" ctime="20191209125520" dir="1575878120ewtgdjpjau" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1521766380ubjvwcz0ib" name="Web">
     <recordtable>
