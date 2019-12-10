@@ -166,6 +166,8 @@
      <node crypt="" id="15759757319arl4jw5sy" name="psycopg2">
       <recordtable>
        <record id="157597655608ikhxlf07" name="Аннотации типов для psycopg2" author="br0ke" url="" tags="python, postgre, postgres, postgresql, psycopg, psycopg2, type, types, hint, hints, annotation, annotations, extensions" ctime="20191210161556" dir="1575976556b35vo2rwix" file="text.html"/>
+       <record id="15759841416ahq9ww36k" name=" Работа с объектами UUID в psycopg2" author="br0ke" url="https://stackoverflow.com/a/59268003/10650942" tags="python, psycopg2, psycopg, postgre, postgres, postgresql, uuid, adapter" ctime="20191210182221" dir="15759841411rgug2680x" file="text.html"/>
+       <record id="1575984409crcw2p7692" name="Вставить несколько строк одним запросов в psycopg2" author="br0ke" url="https://stackoverflow.com/a/30985541/10650942" tags="python, psycopg, psycopg2, postgre, postgres, postgresql, insert, many, bulk, batch, create, execute_values" ctime="20191210182649" dir="1575984409ox3r0xwtbe" file="text.html"/>
       </recordtable>
      </node>
     </node>
