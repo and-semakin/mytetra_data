@@ -163,7 +163,11 @@
        <record id="1562157820u2v0xzbe6n" name="Установить обложку альбома в MP3 при помощи eyeD3" author="br0ke" url="https://stackoverflow.com/a/39316853/10650942" tags="python, eyed3d, album, art, picture, set, tag, id3" ctime="20190703174340" dir="1562157820me13plhs3f" file="text.html"/>
       </recordtable>
      </node>
-     <node crypt="" id="15759757319arl4jw5sy" name="psycopg2"/>
+     <node crypt="" id="15759757319arl4jw5sy" name="psycopg2">
+      <recordtable>
+       <record id="157597655608ikhxlf07" name="Аннотации типов для psycopg2" author="br0ke" url="" tags="python, postgre, postgres, postgresql, psycopg, psycopg2, type, types, hint, hints, annotation, annotations, extensions" ctime="20191210161556" dir="1575976556b35vo2rwix" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
      <recordtable>
