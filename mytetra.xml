@@ -166,8 +166,9 @@
      <node crypt="" id="15759757319arl4jw5sy" name="psycopg2">
       <recordtable>
        <record id="157597655608ikhxlf07" name="Аннотации типов для psycopg2" author="br0ke" url="" tags="python, postgre, postgres, postgresql, psycopg, psycopg2, type, types, hint, hints, annotation, annotations, extensions" ctime="20191210161556" dir="1575976556b35vo2rwix" file="text.html"/>
-       <record id="15759841416ahq9ww36k" name=" Работа с объектами UUID в psycopg2" author="br0ke" url="https://stackoverflow.com/a/59268003/10650942" tags="python, psycopg2, psycopg, postgre, postgres, postgresql, uuid, adapter" ctime="20191210182221" dir="15759841411rgug2680x" file="text.html"/>
+       <record id="15759841416ahq9ww36k" name="Работа с объектами UUID в psycopg2" author="br0ke" url="https://stackoverflow.com/a/59268003/10650942" tags="python, psycopg2, psycopg, postgre, postgres, postgresql, uuid, adapter" ctime="20191210182221" dir="15759841411rgug2680x" file="text.html"/>
        <record id="1575984409crcw2p7692" name="Вставить несколько строк одним запросов в psycopg2" author="br0ke" url="https://stackoverflow.com/a/30985541/10650942" tags="python, psycopg, psycopg2, postgre, postgres, postgresql, insert, many, bulk, batch, create, execute_values" ctime="20191210182649" dir="1575984409ox3r0xwtbe" file="text.html"/>
+       <record id="157605088179dnijzv8f" name="Экранировать опасные симолы в запросах в psycopg2" author="br0ke" url="https://stackoverflow.com/a/3871398/10650942" tags="python, psycopg, psycopg2, sql, postgre, postgres, postgresql, escape, secure, query, data, substitute, substitution, placeholder, placeholders, mogrify" ctime="20191211125441" dir="1576050881eavwh1l5ur" file="text.html"/>
       </recordtable>
      </node>
     </node>
@@ -714,6 +715,7 @@
       <record id="1550828981opibwvfevz" name="Запретить подключение к БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/3185413/10650942" tags="postgresql, postgres, postgre, sql, pg_database, datallowconn, restrict, connect, forbid" ctime="20190222144941" dir="1550828981me2hc5ad8b" file="text.html"/>
       <record id="1550829532zypjizxzyu" name="Статистика медленных запросов через pg_stat_statements в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/current/pgstatstatements.html" tags="postgresql, postgres, postgre, sql, stat, pg_stat_statements, statistics, long, query" ctime="20190222145852" dir="1550829532mornd8vu59" file="text.html"/>
       <record id="1553171575g4set4yvw6" name="Создать базу данных, если она ещё не создана, в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/44512503/10650942" tags="postgresql, postgres, postgre, sql, create, database, if not exists, drop" ctime="20190321173255" dir="1553171575mv488bdcud" file="text.html"/>
+      <record id="1576051468ykbfq1wje6" name="Вставить несколько записей одним запросов в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/20820950/10650942" tags="sql, postgre, postgres, postgresql, insert, create, table, multiple, multi, rows, query, one, single, syntax" ctime="20191211130428" dir="1576051468g5xr0fmbro" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
