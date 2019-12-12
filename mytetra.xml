@@ -144,6 +144,7 @@
        <record id="1551699106ic4et3qs2w" name="Перехват вывода stdout и stderr в pytest" author="br0ke" url="https://docs.pytest.org/en/latest/capture.html" tags="python, test, pytest, capture, stdout, stderr, capsys, capsysbinary, capfd, capfdbinary" ctime="20190304163146" dir="1551699106saf37g8tl9" file="text.html"/>
        <record id="1555753951o9i612nq2k" name="Проверить, что в блоке кода не произошло исключений, в pytest" author="br0ke" url="https://stackoverflow.com/a/20275035/10650942" tags="python, test, unit, pytest, fail, exception, assert" ctime="20190420145231" dir="1555753951emcoho7e8n" file="text.html"/>
        <record id="1569920682anwpts5f63" name="Запустить pytest так, чтобы он понимал импорты относительно текущей директории" author="br0ke" url="https://stackoverflow.com/a/34140498/10650942" tags="python, pytest, run, execute, PYTHONPATH, path, import, ImportError" ctime="20191001140442" dir="156992068256tgqy3cg1" file="text.html"/>
+       <record id="157614080999w6jtmi7c" name="Показать рейтинг самых медленных тестов" author="br0ke" url="https://stackoverflow.com/a/27899853/10650942" tags="python, test, pytest, py.test, slow, slowest, rating, digest, list, duration, durations" ctime="20191212135329" dir="1576140809hwbxb8z24f" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1554038688niibu2rc9c" name="selenium">
