@@ -145,6 +145,8 @@
        <record id="1555753951o9i612nq2k" name="Проверить, что в блоке кода не произошло исключений, в pytest" author="br0ke" url="https://stackoverflow.com/a/20275035/10650942" tags="python, test, unit, pytest, fail, exception, assert" ctime="20190420145231" dir="1555753951emcoho7e8n" file="text.html"/>
        <record id="1569920682anwpts5f63" name="Запустить pytest так, чтобы он понимал импорты относительно текущей директории" author="br0ke" url="https://stackoverflow.com/a/34140498/10650942" tags="python, pytest, run, execute, PYTHONPATH, path, import, ImportError" ctime="20191001140442" dir="156992068256tgqy3cg1" file="text.html"/>
        <record id="157614080999w6jtmi7c" name="Показать рейтинг самых медленных тестов" author="br0ke" url="https://stackoverflow.com/a/27899853/10650942" tags="python, test, pytest, py.test, slow, slowest, rating, digest, list, duration, durations" ctime="20191212135329" dir="1576140809hwbxb8z24f" file="text.html"/>
+       <record id="1576503101hdwja54vbw" name="Пропустить тест в pytest" author="br0ke" url="http://doc.pytest.org/en/latest/skipping.html" tags="python, pytest, py.test, test, skip, skipping, mark" ctime="20191216183141" dir="15765031019ibeudfqg6" file="text.html"/>
+       <record id="1576503229kni8ipz70d" name="Пометить тест падающим в pytest" author="br0ke" url="http://doc.pytest.org/en/latest/skipping.html" tags="python, pytest, py.test, test, mark, fail, failing, expected, xfail" ctime="20191216183349" dir="1576503229vqdnrtv1mw" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1554038688niibu2rc9c" name="selenium">
