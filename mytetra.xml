@@ -518,6 +518,7 @@
      <record id="1575202967e508edav6p" name="Показать список тэгов в Git" author="br0ke" url="https://stackoverflow.com/a/1064505/10650942" tags="git, vcs, scm, tag, list" ctime="20191201172247" dir="1575202967qui28ixdii" file="text.html"/>
      <record id="15752031184v60k7lw9b" name="Удалить тэг на удаленном сервере в Git" author="br0ke" url="https://stackoverflow.com/a/5480292/10650942" tags="git, scm, vcs, tag, delete, remove, remote, push" ctime="20191201172518" dir="1575203118d1gdpv6f6c" file="text.html"/>
      <record id="1575205122o5r5018lkv" name="Проверить, что ветки могут быть слиты без конфликтов в Git" author="br0ke" url="https://stackoverflow.com/a/10879368/10650942" tags="git, vcs, scm, merge, check, conflict, conflicts" ctime="20191201175842" dir="1575205122775xzi5ks1" file="text.html"/>
+     <record id="1576506194ecgrt1sa3c" name="Ошибка &quot;Could not read from remote repository&quot; в git" author="br0ke" url="https://stackoverflow.com/a/40009598/10650942" tags="git, ssh, key, keys, error, issue, fatal, repository, remote, not, found, ssh-add, add, ssh-agent, agent" ctime="20191216192314" dir="15765061946jgcnx7x2v" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
