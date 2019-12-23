@@ -720,6 +720,7 @@
       <record id="1550829532zypjizxzyu" name="Статистика медленных запросов через pg_stat_statements в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/current/pgstatstatements.html" tags="postgresql, postgres, postgre, sql, stat, pg_stat_statements, statistics, long, query" ctime="20190222145852" dir="1550829532mornd8vu59" file="text.html"/>
       <record id="1553171575g4set4yvw6" name="Создать базу данных, если она ещё не создана, в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/44512503/10650942" tags="postgresql, postgres, postgre, sql, create, database, if not exists, drop" ctime="20190321173255" dir="1553171575mv488bdcud" file="text.html"/>
       <record id="1576051468ykbfq1wje6" name="Вставить несколько записей одним запросов в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/20820950/10650942" tags="sql, postgre, postgres, postgresql, insert, create, table, multiple, multi, rows, query, one, single, syntax" ctime="20191211130428" dir="1576051468g5xr0fmbro" file="text.html"/>
+      <record id="1577109170i46lduyd7s" name="Удалить столбец из таблицы в PostgreSQL" author="br0ke" url="http://www.postgresqltutorial.com/postgresql-drop-column/" tags="postgresql, postgres, postgre, dbms, database, data, base, table, alter, drop, column, if, exists" ctime="20191223185250" dir="15771091701jw4josv9q" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
