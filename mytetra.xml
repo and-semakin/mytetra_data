@@ -866,6 +866,7 @@
      <record id="1575438253a0lqfb97ph" name="Установить pyenv на Mac" author="br0ke" url="" tags="apple, mac, macos, macosx, python, pyenv, install, brew, homebrew" ctime="20191204104413" dir="1575438253x3d2ou2b6u" file="text.html"/>
      <record id="15758762673phwwbhvub" name="Установить VSCode на Mac" author="br0ke" url="https://formulae.brew.sh/cask/visual-studio-code" tags="apple, mac, macos, macosx, brew, install, cask, vscode, code, visual, studio" ctime="20191209122427" dir="1575876267wev11f6fju" file="text.html"/>
      <record id="1575966549nc3j3y4iry" name="Закрывать окно терминала при выходе из шелла в Mac" author="br0ke" url="https://superuser.com/a/160481/993215" tags="apple, mac, macos, macosx, terminal, shell, bash, fish, exit, close, tab, window, ctrl+d" ctime="20191210132909" dir="1575966549dixlej6dpa" file="text.html"/>
+     <record id="1577091852enkcxzkn6f" name="Перезапустить TouchBar на MacBook Pro, если он перестал отвечать на нажатия" author="br0ke" url="https://discussions.apple.com/thread/250243222?answerId=250453045022#250453045022" tags="apple, mac, macos, macosx, macbook, book, pro, touch, bar, touchbar, restart" ctime="20191223140422" dir="1577091852vyjxsurrf8" file="text.html"/>
     </recordtable>
    </node>
   </node>
