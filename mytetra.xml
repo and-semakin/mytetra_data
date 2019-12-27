@@ -132,6 +132,7 @@
        <record id="1534225142l6ukx6057c" name="assert-методы в unittest в Python" author="br0ke" url="https://docs.python.org/3/library/unittest.html" tags="python, unittest, test, assert, assertEqual, assertIn, assertIs" ctime="20180814103902" dir="1534225142mgq6x5e06t" file="text.html"/>
        <record id="15503317060kxq84552v" name="Заглушки (mock) для вложенных функций в Python" author="br0ke" url="https://stackoverflow.com/a/32956627/10650942" tags="python, stdlib, unittest, mock, nested, function, callable, rerurn_value" ctime="20190216204146" dir="1550331706s3yzfsbd5c" file="text.html"/>
        <record id="15557532873ud812d4a6" name="Заглушки (mock) для свойств (property) в Python" author="br0ke" url="https://stackoverflow.com/a/25424012/10650942" tags="python, unit, test, unittest, mock, property, PropertyMock" ctime="20190420144127" dir="1555753287u0u9to1ujk" file="text.html"/>
+       <record id="1577461336m8ni34rbqm" name="Получить список аргументов, с которыми вызывался мок в Python" author="br0ke" url="https://docs.python.org/3/library/unittest.mock.html" tags="python, test, tests, unittest, mock, mocking, call, calls, arg, args, kwargs, called" ctime="20191227204216" dir="15774613368tx4873xea" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1551340836g9myx2syg6" name="Celery">
