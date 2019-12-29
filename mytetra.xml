@@ -194,6 +194,11 @@
        <record id="1575203942lci1qnfjoz" name="Установить пакет как редактируемую зависимость в pipenv" author="br0ke" url="https://pipenv-fork.readthedocs.io/en/latest/basics.html#editable-dependencies-e-g-e" tags="python, pip, pipenv, editable, dev" ctime="20191201173902" dir="1575203942n10kemwv99" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="1577607385ju319i2exp" name="poetry">
+      <recordtable>
+       <record id="1577607432zkjvmsd3cr" name="Узнать, какое виртуальное окружение использует poetry" author="br0ke" url="https://youtrack.jetbrains.com/issue/PY-30702" tags="python, tool, tools, poetry, virtual, environment, env, virtualenv, venv, interpreter, which" ctime="20191229131712" dir="157760743286xgtzj15x" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
    </node>
    <node crypt="" id="1515157243sgifx8iwud" name="Linux">
