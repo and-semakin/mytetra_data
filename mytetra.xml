@@ -265,6 +265,7 @@
      <record id="1566379388isz3v03625" name="Установить asdf -- универсальный менеджер версий" author="br0ke" url="https://asdf-vm.com/" tags="asdf, asdf-vm, version, versions, manager, management, node, nodejs, node.js, nvm, npm, python, python2, python3, pyenv, pipenv, tool, tool-versions" ctime="20190821142308" dir="1566379388sirw2mnycx" file="text.html"/>
      <record id="1574158120hxh8ye92uj" name="Сохранить файл с sudo в vim" author="br0ke" url="https://stackoverflow.com/questions/2600783/how-does-the-vim-write-with-sudo-trick-work/7078429#7078429" tags="linux, vi, vim, sudo, root, save, open" ctime="20191119150840" dir="1574158120ynhyz9csns" file="text.html"/>
      <record id="15745412896uck79ms2p" name="Установить клиент Travis CI на Linux" author="br0ke" url="https://github.com/travis-ci/travis.rb#installation" tags="linux, installation, travis, ci, travis-ci, cli, github" ctime="20191124013453" dir="1574541289ttijz4r219" file="text.html"/>
+     <record id="15776932007ba0y5zl3o" name="Записать загрузочный ISO с Windows на USB в Linux через WoeUSB" author="br0ke" url="https://github.com/slacka/WoeUSB" tags="linux, windows, usb, bootable, flask, drive, stick, woe, woeusb" ctime="20191230130640" dir="1577693200qg0o2w1omu" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
