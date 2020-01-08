@@ -202,10 +202,17 @@
      <node crypt="" id="1578478579z313ja9880" name="black">
       <recordtable>
        <record id="15784787453x4i319ine" name="Установить black" author="br0ke" url="https://github.com/psf/black" tags="python, black, code, style, guide, format, formatter, auto, autoformatter, install, pip, pipenv" ctime="20200108151905" dir="1578478745lvls0hrd57" file="text.html"/>
-       <record id="1578479639nogz53l5ur" name="Настроить длину строки и исключения в black" author="br0ke" url="" tags="python, black, code, style, guide, format, formatting, auto, tool, config, pyproject, toml, pyproject.toml, line, length, line-length, exclude, files" ctime="20200108153359" dir="15784796399h1vsalvbh" file="text.html"/>
+       <record id="1578479639nogz53l5ur" name="Настроить длину строки и исключенные пути в black" author="br0ke" url="" tags="python, black, code, style, guide, format, formatting, auto, tool, config, pyproject, toml, pyproject.toml, line, length, line-length, exclude, files" ctime="20200108153359" dir="15784796399h1vsalvbh" file="text.html"/>
       </recordtable>
      </node>
-     <node crypt="" id="1578478584gp37ej5pnt" name="isort"/>
+     <node crypt="" id="1578478584gp37ej5pnt" name="isort">
+      <recordtable>
+       <record id="1578486094so29cdgwtl" name="Установить isort" author="br0ke" url="https://github.com/timothycrosley/isort" tags="python, isort, import, sort, sorting, order, ordering, install, pip" ctime="20200108172134" dir="15784860945bkv019nlk" file="text.html"/>
+       <record id="1578486188eufllesdqk" name="Использование isort" author="br0ke" url="https://github.com/timothycrosley/isort" tags="python, isort, import, sort, sorting, order, ordering, usage, example" ctime="20200108172308" dir="1578486188pdsrnzs12m" file="text.html"/>
+       <record id="1578486330mu3wb8fn4p" name="Использование isort вместе с black" author="br0ke" url="https://github.com/psf/black" tags="python, isort, black, import, sort, sorting, config" ctime="20200108172530" dir="1578486330izshx3j47m" file="text.html"/>
+       <record id="15784869774dq9ablzt2" name="Использование isort в pre-commit" author="br0ke" url="https://github.com/asottile/seed-isort-config" tags="python, isort, import, sort, sorting, git, hook, hooks, pre, commit, pre-commit, seed-isort-config, seed, known, third, party, 3rd, module, modules, package, packages, library, libraries" ctime="20200108173617" dir="157848697739dxu02vyl" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
    </node>
    <node crypt="" id="1515157243sgifx8iwud" name="Linux">
