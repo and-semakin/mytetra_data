@@ -199,6 +199,13 @@
        <record id="1577607432zkjvmsd3cr" name="Узнать, какое виртуальное окружение использует poetry" author="br0ke" url="https://youtrack.jetbrains.com/issue/PY-30702" tags="python, tool, tools, poetry, virtual, environment, env, virtualenv, venv, interpreter, which" ctime="20191229131712" dir="157760743286xgtzj15x" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="1578478579z313ja9880" name="black">
+      <recordtable>
+       <record id="15784787453x4i319ine" name="Установить black" author="br0ke" url="https://github.com/psf/black" tags="python, black, code, style, guide, format, formatter, auto, autoformatter, install, pip, pipenv" ctime="20200108151905" dir="1578478745lvls0hrd57" file="text.html"/>
+       <record id="1578479639nogz53l5ur" name="Настроить длину строки и исключения в black" author="br0ke" url="" tags="python, black, code, style, guide, format, formatting, auto, tool, config, pyproject, toml, pyproject.toml, line, length, line-length, exclude, files" ctime="20200108153359" dir="15784796399h1vsalvbh" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1578478584gp37ej5pnt" name="isort"/>
     </node>
    </node>
    <node crypt="" id="1515157243sgifx8iwud" name="Linux">
