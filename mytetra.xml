@@ -896,6 +896,7 @@
      <record id="15772826156ylm7oejq3" name="Показать список используемых DNS-серверов на Mac" author="br0ke" url="https://apple.stackexchange.com/a/98024/356903" tags="apple, mac, macos, macosx, dns, name, server, servers, list, show, used, use, resolve, resolv, resolver" ctime="20191225190335" dir="1577282615rfv15v76vc" file="text.html"/>
      <record id="15772828521hxus4a1ry" name="Настроить разную раскладку клавиатуры для окон в MacOS" author="br0ke" url="https://superuser.com/a/185422/993215" tags="apple, mac, macos, macosx, keyboard, layout, language, window, windows, input, source, sources, document, documents" ctime="20191225190732" dir="1577282852ouppzc4rr4" file="text.html"/>
      <record id="1578385789bnm1pxnb4d" name="Установить iTerm2 на Mac" author="br0ke" url="https://www.code2bits.com/how-to-install-iterm2-on-macos-using-homebrew/" tags="apple, mac, macos, macosx, brew, homebrew, install, cask, terminal, emulator, console, iterm, iterm2" ctime="20200107132949" dir="1578385789bkxyc5uo4m" file="text.html"/>
+     <record id="1579413514l8sg7n17f5" name="Установить Steam на Mac" author="br0ke" url="https://github.com/Homebrew/homebrew-cask/blob/master/Casks/steam.rb" tags="apple, mac, macos, macosx, brew, install, cask, steam, valve" ctime="20200119105834" dir="1579413514zjr06cyz5u" file="text.html"/>
     </recordtable>
    </node>
   </node>
