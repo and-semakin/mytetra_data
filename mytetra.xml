@@ -897,6 +897,13 @@
      <record id="15772828521hxus4a1ry" name="Настроить разную раскладку клавиатуры для окон в MacOS" author="br0ke" url="https://superuser.com/a/185422/993215" tags="apple, mac, macos, macosx, keyboard, layout, language, window, windows, input, source, sources, document, documents" ctime="20191225190732" dir="1577282852ouppzc4rr4" file="text.html"/>
      <record id="1578385789bnm1pxnb4d" name="Установить iTerm2 на Mac" author="br0ke" url="https://www.code2bits.com/how-to-install-iterm2-on-macos-using-homebrew/" tags="apple, mac, macos, macosx, brew, homebrew, install, cask, terminal, emulator, console, iterm, iterm2" ctime="20200107132949" dir="1578385789bkxyc5uo4m" file="text.html"/>
      <record id="1579413514l8sg7n17f5" name="Установить Steam на Mac" author="br0ke" url="https://github.com/Homebrew/homebrew-cask/blob/master/Casks/steam.rb" tags="apple, mac, macos, macosx, brew, install, cask, steam, valve" ctime="20200119105834" dir="1579413514zjr06cyz5u" file="text.html"/>
+     <record id="1579508672giuka83i1i" name="Установить Go (golang) на Mac" author="br0ke" url="https://ahmadawais.com/install-go-lang-on-macos-with-homebrew/" tags="apple, mac, macos, macosx, brew, install, go, golang" ctime="20200120132432" dir="15795086727l7a9jn1a9" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1579508399urpbpf3aa2" name="Go">
+    <recordtable>
+     <record id="1579508529gfbpc56bzb" name="Настроить переменные окружения для Go в Fish" author="br0ke" url="https://ahmadawais.com/install-go-lang-on-macos-with-homebrew/" tags="golang, go, fish, shell, env, envvar, envvars, environment, variable, variables, GOPATH, GOROOT" ctime="20200120132209" dir="15795085298lzwmmq81c" file="text.html"/>
+     <record id="1579508741u4ux0ij57n" name="Установить godoc и golint при помощи go" author="br0ke" url="https://ahmadawais.com/install-go-lang-on-macos-with-homebrew/" tags="go, golang, godoc, golint, install, add" ctime="20200120132541" dir="1579508741p06gr5r6lo" file="text.html"/>
     </recordtable>
    </node>
   </node>
