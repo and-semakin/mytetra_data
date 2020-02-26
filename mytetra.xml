@@ -542,6 +542,7 @@
      <record id="1575205122o5r5018lkv" name="Проверить, что ветки могут быть слиты без конфликтов в Git" author="br0ke" url="https://stackoverflow.com/a/10879368/10650942" tags="git, vcs, scm, merge, check, conflict, conflicts" ctime="20191201175842" dir="1575205122775xzi5ks1" file="text.html"/>
      <record id="1576506194ecgrt1sa3c" name="Ошибка &quot;Could not read from remote repository&quot; в git" author="br0ke" url="https://stackoverflow.com/a/40009598/10650942" tags="git, ssh, key, keys, error, issue, fatal, repository, remote, not, found, ssh-add, add, ssh-agent, agent" ctime="20191216192314" dir="15765061946jgcnx7x2v" file="text.html"/>
      <record id="1581750078he6iabpq4k" name="Получить только название текущей ветки в Git" author="br0ke" url="https://stackoverflow.com/a/1418022/10650942" tags="git, vcs, scm, branch, name, current, HEAD" ctime="20200215120118" dir="1581750078mmcz2xa25h" file="text.html"/>
+     <record id="1582698513yzcpmqhbay" name="Получить имя ветки, к которой принадлежит коммит в Git" author="br0ke" url="https://stackoverflow.com/a/49181420/10650942" tags="git, vcs, scm, branch, name, commit, name-rev, which" ctime="20200226112833" dir="1582698513f6nlre10c8" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
@@ -902,6 +903,11 @@
      <record id="1579413514l8sg7n17f5" name="Установить Steam на Mac" author="br0ke" url="https://github.com/Homebrew/homebrew-cask/blob/master/Casks/steam.rb" tags="apple, mac, macos, macosx, brew, install, cask, steam, valve" ctime="20200119105834" dir="1579413514zjr06cyz5u" file="text.html"/>
      <record id="1579508672giuka83i1i" name="Установить Go (golang) на Mac" author="br0ke" url="https://ahmadawais.com/install-go-lang-on-macos-with-homebrew/" tags="apple, mac, macos, macosx, brew, install, go, golang" ctime="20200120132432" dir="15795086727l7a9jn1a9" file="text.html"/>
     </recordtable>
+    <node crypt="" id="1582698636o4uw9ws749" name="AppleScript">
+     <recordtable>
+      <record id="15826987418kg122a1mm" name="Послать нажатие клавиш при помощи AppleScript" author="br0ke" url="https://stackoverflow.com/a/3697177/10650942" tags="mac, macos, macosx, automation, apple, script, applescript, key, press, push, keyboard, hotkey, shortcut" ctime="20200226113221" dir="15826987415hyhxtaidn" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1579508399urpbpf3aa2" name="Go">
     <recordtable>
