@@ -180,7 +180,6 @@
      <recordtable>
       <record id="1520150927ftsfjtxelv" name="pyenv -- менеджер версий интерпретатора Python" author="br0ke" url="https://github.com/pyenv/pyenv" tags="python, pyenv, install, pipenv, pip, pypy, " ctime="20180304130847" dir="1520150927puobq8jldy" file="text.html"/>
       <record id="1549704416qimbktix03" name="pudb -- консольный графический дебаггер для Python" author="br0ke" url="https://pypi.org/project/pudb/" tags="python, tool, tools, pdb, pudb, debug, debugger, cli, pseudographics, pseudo, graphics" ctime="20190209142656" dir="1549704416uffe4kkxyc" file="text.html"/>
-      <record id="1561282302c5j0txgwlt" name="asdf -- универсальный менеджер версий" author="br0ke" url="https://github.com/asdf-vm/asdf" tags="asdf, asdf-vm, version, versions, manager, management, node, nodejs, node.js, nvm, python, python2, python3, pyenv, pipenv, tool" ctime="20190623143142" dir="1561282302yt45k42261" file="text.html"/>
      </recordtable>
      <node crypt="" id="1551871492ezy1op4e0x" name="IPython">
       <recordtable>
@@ -211,6 +210,12 @@
        <record id="1578486188eufllesdqk" name="Использование isort" author="br0ke" url="https://github.com/timothycrosley/isort" tags="python, isort, import, sort, sorting, order, ordering, usage, example" ctime="20200108172308" dir="1578486188pdsrnzs12m" file="text.html"/>
        <record id="1578486330mu3wb8fn4p" name="Использование isort вместе с black" author="br0ke" url="https://github.com/psf/black" tags="python, isort, black, import, sort, sorting, config" ctime="20200108172530" dir="1578486330izshx3j47m" file="text.html"/>
        <record id="15784869774dq9ablzt2" name="Использование isort в pre-commit" author="br0ke" url="https://github.com/asottile/seed-isort-config" tags="python, isort, import, sort, sorting, git, hook, hooks, pre, commit, pre-commit, seed-isort-config, seed, known, third, party, 3rd, module, modules, package, packages, library, libraries" ctime="20200108173617" dir="157848697739dxu02vyl" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1583223637id0a510kio" name="asdf">
+      <recordtable>
+       <record id="1561282302c5j0txgwlt" name="asdf -- универсальный менеджер версий" author="br0ke" url="https://github.com/asdf-vm/asdf" tags="asdf, asdf-vm, version, versions, manager, management, node, nodejs, node.js, nvm, python, python2, python3, pyenv, pipenv, tool" ctime="20200303132042" dir="1561282302yt45k42261" file="text.html"/>
+       <record id="158322388247rbro9wwd" name="Использовать PyPy через asdf" author="br0ke" url="" tags="asdf, python, pypy, pypy2, pypy3" ctime="20200303132442" dir="1583223882rtdjjxjmax" file="text.html"/>
       </recordtable>
      </node>
     </node>
