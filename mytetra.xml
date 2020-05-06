@@ -64,6 +64,7 @@
      <record id="1575203459xcmzoiykff" name="Разбить (split) строку по нескольким разделителям в Python" author="br0ke" url="https://stackoverflow.com/a/4998688/10650942" tags="python, str, string, split, multiple, delimeter, delimeters, re" ctime="20191201173059" dir="1575203459y0kbg1is44" file="text.html"/>
      <record id="15752037230itpv09izg" name="Отсортировать версии в Python" author="br0ke" url="https://stackoverflow.com/a/43408917/10650942" tags="python, version, versions, sort" ctime="20191201173523" dir="1575203723gu08o4c4tf" file="text.html"/>
      <record id="1575206157ejkj7am8o6" name="Распаковать любой архив в Python" author="br0ke" url="https://stackoverflow.com/a/56182972/10650942" tags="python, archive, archives, unpack, open, zip, tar, tgz, shutil" ctime="20191201181557" dir="1575206157p5kzewu4o9" file="text.html"/>
+     <record id="1588747838c1xkx7ddy3" name="Получить имя текущего скрипта на Python" author="br0ke" url="https://stackoverflow.com/a/4152986/10650942" tags="python, script, file, name, path, __file__" ctime="20200506115038" dir="1588747838xm8yfxb152" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -549,6 +550,12 @@
      <record id="1581750078he6iabpq4k" name="Получить только название текущей ветки в Git" author="br0ke" url="https://stackoverflow.com/a/1418022/10650942" tags="git, vcs, scm, branch, name, current, HEAD" ctime="20200215120118" dir="1581750078mmcz2xa25h" file="text.html"/>
      <record id="1582698513yzcpmqhbay" name="Получить имя ветки, к которой принадлежит коммит в Git" author="br0ke" url="https://stackoverflow.com/a/49181420/10650942" tags="git, vcs, scm, branch, name, commit, name-rev, which" ctime="20200226112833" dir="1582698513f6nlre10c8" file="text.html"/>
     </recordtable>
+    <node crypt="" id="15887478905ho1fuom4t" name="GitHub">
+     <recordtable>
+      <record id="15887480638rlcuiorfl" name="Встроить код одного файла из gist (не весь gist целиком) на сайт" author="br0ke" url="https://stackoverflow.com/a/14267385/10650942" tags="github, gist, file, embed, only, one" ctime="20200506115423" dir="1588748063qkt3wdwu1b" file="text.html"/>
+      <record id="1588748416aw4rtpavvd" name="Конвертировать обычный git-репозиторий в GitHub Gist с сохранением истории" author="br0ke" url="https://stackoverflow.com/a/32954515/10650942" tags="github, gist, git, repo, convert, create" ctime="20200506120016" dir="15887484168w35fm0tv7" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
     <recordtable>
