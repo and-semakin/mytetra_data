@@ -176,6 +176,11 @@
        <record id="157605088179dnijzv8f" name="Экранировать опасные симолы в запросах в psycopg2" author="br0ke" url="https://stackoverflow.com/a/3871398/10650942" tags="python, psycopg, psycopg2, sql, postgre, postgres, postgresql, escape, secure, query, data, substitute, substitution, placeholder, placeholders, mogrify" ctime="20191211125441" dir="1576050881eavwh1l5ur" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="1588835469ek24nb4aue" name="Pelican">
+      <recordtable>
+       <record id="15888357378dntoyropq" name="Добавить статичные файлы в вывод Pelican" author="br0ke" url="https://stackoverflow.com/a/31270471/10650942" tags="pelican, blog, static, extra, favicon, readme, cname" ctime="20200507121537" dir="158883573799lqqn0r7z" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
      <recordtable>
@@ -930,7 +935,11 @@
      <record id="1579508741u4ux0ij57n" name="Установить godoc и golint при помощи go" author="br0ke" url="https://ahmadawais.com/install-go-lang-on-macos-with-homebrew/" tags="go, golang, godoc, golint, install, add" ctime="20200120132541" dir="1579508741p06gr5r6lo" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="15888349583zvu30nw3e" name="Markdown"/>
+   <node crypt="" id="15888349583zvu30nw3e" name="Markdown">
+    <recordtable>
+     <record id="1588835236ldbz8p3x5v" name="Комментарии в Markdown" author="br0ke" url="https://stackoverflow.com/a/4829998/10650942" tags="markdown, md, markup, comment, commentary, comments" ctime="20200507120716" dir="1588835236mwwulxlnu6" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
    <node crypt="1" icon="" id="1515161966ykf0x8uly7" name="UkM1U0lNUAPc0bNkBOBF6FM8tDLLPgzjCsSkstmCXQvN48SwkOJb25ULqV4D0hn+z4ixsI3AmAk59haOBM2KPw==">
