@@ -940,6 +940,7 @@
     <recordtable>
      <record id="15887480638rlcuiorfl" name="Встроить код одного файла из gist (не весь gist целиком) на сайт" author="br0ke" url="https://stackoverflow.com/a/14267385/10650942" tags="github, gist, file, embed, only, one" ctime="20200507122945" dir="1588748063qkt3wdwu1b" file="text.html"/>
      <record id="1588748416aw4rtpavvd" name="Конвертировать обычный git-репозиторий в GitHub Gist с сохранением истории" author="br0ke" url="https://stackoverflow.com/a/32954515/10650942" tags="github, gist, git, repo, convert, create" ctime="20200507122945" dir="15887484168w35fm0tv7" file="text.html"/>
+     <record id="1588836886qhkeaa1mwh" name="Собственный домен для сайта на GitHub Pages" author="br0ke" url="https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a" tags="github, pages, cname, CNAME, domain, custom" ctime="20200507123446" dir="1588836886ofegvmlocd" file="text.html"/>
     </recordtable>
    </node>
   </node>
