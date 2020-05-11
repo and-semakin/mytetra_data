@@ -346,6 +346,8 @@
       <record id="1571044885n93a0g1zn1" name="Сменить ядро по умолчанию в Fedora" author="br0ke" url="https://docs.fedoraproject.org/en-US/Fedora/25/html/System_Administrators_Guide/sec-Making_Persistent_Changes_to_a_GRUB_2_Menu_Using_the_grubby_Tool.html" tags="linux, fedora, kernel, default, grub, grub2, grubby" ctime="20191014142125" dir="1571044885tkrbyni4tl" file="text.html"/>
       <record id="1574157721pzgnt0xjcq" name="Установить Skype через Flatpak на Fedora" author="br0ke" url="https://docs.fedoraproject.org/en-US/quick-docs/installing-skype/" tags="linux, fedora, flat, flatpak, flatpack, flathub, skype, install, installation" ctime="20191119150201" dir="1574157721ujz5t0la0s" file="text.html"/>
       <record id="15745411869cpp68nx2o" name="Установить Ruby на Fedora" author="br0ke" url="" tags="linux, fedora, install, dnf, ruby, rb" ctime="20191124013306" dir="15745411864k7i9eg0ps" file="text.html"/>
+      <record id="15891697920uwi8ktdcq" name="Установить Slack на Fedora" author="br0ke" url="https://copr.fedorainfracloud.org/coprs/jdoss/slack-repo/" tags="linux, fedora, slack, install, copr, messenger, messenging" ctime="20200511090312" dir="1589169792gfav7y8hfr" file="text.html"/>
+      <record id="1589170261glppmr1lhe" name="Установить Zoom на Fedora" author="br0ke" url="https://computingforgeeks.com/install-zoom-client-on-centos-8-fedora-linux/" tags="linux, fedora, install, zoom, cloud, meetings, video, conference, dnf" ctime="20200511091101" dir="1589170261ck4rt8omvi" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
@@ -876,6 +878,7 @@
       <record id="15571315932nzsb7v6oi" name="Запустить линтеры через PyCharm" author="br0ke" url="" tags="ide, jetbrains, pycharm, idea, intellij, linter, linters, run, debug, configuration" ctime="20190506133313" dir="1557131593e35b81ra0l" file="text.html"/>
       <record id="1575203318t4h1e3chiy" name="Multicursor (множественный курсор, множественная каретка) в IntelliJ / PyCharm" author="br0ke" url="https://www.jetbrains.com/help/pycharm-edu/multicursor.html" tags="ide, idea, jetbrains, intellij, pycharm, multi, multicursor, hotkey" ctime="20191201172838" dir="1575203318ch4yx4ligu" file="text.html"/>
       <record id="1582699396jm6n9214ez" name="Назначить действие Force-click (на Mac Book) в IntelliJ / PyCharm" author="br0ke" url="https://stackoverflow.com/a/41598450/10650942" tags="ide, jetbrains, mac, macbook, touchpad, force, hard, deep, click, action, bind" ctime="20200226114316" dir="1582699396lb6js6tch5" file="text.html"/>
+      <record id="15891714043ov3ufvzwa" name="Установить JetBrains Toolbox на Linux" author="br0ke" url="https://github.com/nagygergo/jetbrains-toolbox-install" tags="jetbrains, toolbox, app, install, linux, installer, script" ctime="20200511093004" dir="15891714047mmpyo9ire" file="text.html"/>
      </recordtable>
     </node>
    </node>
