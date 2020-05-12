@@ -716,6 +716,8 @@
      <record id="1532853712pakmw3cc69" name="Ошибка при подключении по RDP к старой машине Windows с последней Windows 10" author="br0ke" url="https://support.microsoft.com/en-us/help/4295591/credssp-encryption-oracle-remediation-error-when-to-rdp-to-azure-vm" tags="windows, rdp, remote desktop, mstsc, error, credssp, encryption, oracle" ctime="20180729134152" dir="1532853712nfgwipmwkd" file="text.html"/>
      <record id="1549105864osq0l2o0o5" name="Ключи для установки Windows Server 2008+" author="br0ke" url="https://sysadmin-note.ru/obshhie-klyuchi-windows-dlya-ustanovki/" tags="microsoft, windows, key, keys, license, server" ctime="20190202161104" dir="1549105864aihv6fo0z7" file="text.html"/>
      <record id="1549106073xp0vx879xo" name="Ключи для установки Windows 7+" author="br0ke" url="https://sysadmin-note.ru/obshhie-klyuchi-windows-dlya-ustanovki/" tags="microsoft, windows, home, 7, 8, 8.1, 10, keys, key, license" ctime="20190202161433" dir="1549106073sj8hiwa20u" file="text.html"/>
+     <record id="1589299894mxml6675g1" name="Генерация ssh-ключей для Git for Windows" author="br0ke" url="https://habr.com/ru/post/266667/" tags="microsoft, windows, git, ssh, key, keys, puttygen, ssh-agent" ctime="20200512211134" dir="1589299894ed3xxabp61" file="text.html"/>
+     <record id="1589300348sg3yew2n0v" name="Создание универсальной UEFI загрузочной флешки для Windows 10" author="br0ke" url="https://techbit.ca/2019/02/creating-a-bootable-windows-10-uefi-usb-drive-using-linux/" tags="microsoft, windows, install, bootable, boot, usb, disk, drive, stick, uefi, fat, fat32, ntfs" ctime="20200512211908" dir="1589300348lro72yne0o" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1521029860ul0fijeg5m" name="Базы данных">
