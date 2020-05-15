@@ -562,6 +562,7 @@
      <record id="1576506194ecgrt1sa3c" name="Ошибка &quot;Could not read from remote repository&quot; в git" author="br0ke" url="https://stackoverflow.com/a/40009598/10650942" tags="git, ssh, key, keys, error, issue, fatal, repository, remote, not, found, ssh-add, add, ssh-agent, agent" ctime="20191216192314" dir="15765061946jgcnx7x2v" file="text.html"/>
      <record id="1581750078he6iabpq4k" name="Получить только название текущей ветки в Git" author="br0ke" url="https://stackoverflow.com/a/1418022/10650942" tags="git, vcs, scm, branch, name, current, HEAD" ctime="20200215120118" dir="1581750078mmcz2xa25h" file="text.html"/>
      <record id="1582698513yzcpmqhbay" name="Получить имя ветки, к которой принадлежит коммит в Git" author="br0ke" url="https://stackoverflow.com/a/49181420/10650942" tags="git, vcs, scm, branch, name, commit, name-rev, which" ctime="20200226112833" dir="1582698513f6nlre10c8" file="text.html"/>
+     <record id="1589560119ni6tai9ynd" name="Сменить SSH-ключи для определенного репозитория" author="br0ke" url="https://stackoverflow.com/a/38474137/10650942" tags="git, ssh, keys, config, repo, command, clone, id_rsa, core, sshCommand" ctime="20200515212839" dir="15895601191khsl9l3wz" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
@@ -718,6 +719,7 @@
      <record id="1549106073xp0vx879xo" name="Ключи для установки Windows 7+" author="br0ke" url="https://sysadmin-note.ru/obshhie-klyuchi-windows-dlya-ustanovki/" tags="microsoft, windows, home, 7, 8, 8.1, 10, keys, key, license" ctime="20190202161433" dir="1549106073sj8hiwa20u" file="text.html"/>
      <record id="1589299894mxml6675g1" name="Генерация ssh-ключей для Git for Windows" author="br0ke" url="https://habr.com/ru/post/266667/" tags="microsoft, windows, git, ssh, key, keys, puttygen, ssh-agent" ctime="20200512211134" dir="1589299894ed3xxabp61" file="text.html"/>
      <record id="1589300348sg3yew2n0v" name="Создание универсальной UEFI загрузочной флешки для Windows 10" author="br0ke" url="https://techbit.ca/2019/02/creating-a-bootable-windows-10-uefi-usb-drive-using-linux/" tags="microsoft, windows, install, bootable, boot, usb, disk, drive, stick, uefi, fat, fat32, ntfs" ctime="20200512211908" dir="1589300348lro72yne0o" file="text.html"/>
+     <record id="15895604107lvlradd7u" name="Добавить Git Bash в Windows Terminal" author="br0ke" url="https://stackoverflow.com/a/57369284/10650942" tags="microsoft, windows, terminal, git, bash, add, configuration" ctime="20200515213330" dir="1589560410br0xkagtpj" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1521029860ul0fijeg5m" name="Базы данных">
