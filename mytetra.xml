@@ -91,6 +91,7 @@
       <record id="1562157108tjx3ov1akz" name="Прочитать мета-данные аудиофайлов из Python при помощи tinytag" author="br0ke" url="https://github.com/devsnd/tinytag" tags="python, audio, audiofile, file, meta, data, tag, tags, id3, mp3, opus, ogg, tinytag" ctime="20190703173148" dir="1562157108auo736c6qz" file="text.html"/>
       <record id="15621581910qfqahmomk" name="Конвертировать число в строку в Python" author="br0ke" url="https://github.com/savoirfairelinux/num2words" tags="python, number, numbers, convert, translate, to, word, words, num2words," ctime="20190703174951" dir="15621581916tldbze56t" file="text.html"/>
       <record id="1569920487oav44n5ixy" name="Распарсить Enum из командной строки через argparse" author="br0ke" url="https://stackoverflow.com/a/46385352/10650942" tags="python, arg, parse, argparse, enum, argument, parser" ctime="20191001140127" dir="1569920487vz8kyqsx4j" file="text.html"/>
+      <record id="1589709176sylr946xk2" name="Сделать dataclass хэшируемым в Python" author="br0ke" url="https://stackoverflow.com/a/52390734/10650942" tags="python, data, class, classes, dataclass, dataclasses, hash, hashable" ctime="20200517145256" dir="1589709176yq2vg2wbki" file="text.html"/>
      </recordtable>
      <node crypt="" id="15156470021ol4cff9aa" name="Flask">
       <recordtable>
@@ -417,6 +418,7 @@
       <record id="157950900828n6hgodzq" name="Обойти (проитерироваться) файлы в директории в Fish" author="br0ke" url="https://stackoverflow.com/q/45558387/10650942" tags="linux, shell, fish, sh, loop, file, files, glob, iterate, iter" ctime="20200120133008" dir="1579509008h5iwv1bo55" file="text.html"/>
       <record id="1589171769soqrnbwa2b" name="Установить fish_ssh_agent" author="br0ke" url="https://github.com/ivakyb/fish_ssh_agent" tags="fish, shell, sh, ssh, agent, ssh-agent, fish_ssh_agent, ssh-add" ctime="20200511093609" dir="1589171769jejqyanxcq" file="text.html"/>
       <record id="15891842717zpinavxej" name="Экспортировать переменную окружения перманентно в fish" author="br0ke" url="" tags="unix, linux, sh, fish, shell, env, var, environment, variable, variables, export, set, permanent, permanently" ctime="20200511130431" dir="15891842712izweghq3b" file="text.html"/>
+      <record id="1589709274ztzsu1ukqj" name="Сложение чисел (или инкремент) в Fish" author="br0ke" url="https://stackoverflow.com/a/25828897/10650942" tags="fish, sh, shell, math, inc, increment, number, add, addition, loop, index, counter" ctime="20200517145434" dir="1589709274sjbta0xwxi" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
