@@ -288,6 +288,7 @@
      <record id="15745412896uck79ms2p" name="Установить клиент Travis CI на Linux" author="br0ke" url="https://github.com/travis-ci/travis.rb#installation" tags="linux, installation, travis, ci, travis-ci, cli, github" ctime="20191124013453" dir="1574541289ttijz4r219" file="text.html"/>
      <record id="15776932007ba0y5zl3o" name="Записать загрузочный ISO с Windows на USB в Linux через WoeUSB" author="br0ke" url="https://github.com/slacka/WoeUSB" tags="linux, windows, usb, bootable, flask, drive, stick, woe, woeusb" ctime="20191230130640" dir="1577693200qg0o2w1omu" file="text.html"/>
      <record id="1521537340r5clesc7zq" name="Установить MyTetra на Linux" author="br0ke" url="https://webhamster.ru/site/page/index/articles/projectcode/105" tags="linux, mytetra, info, data, note, pim, personal information manager" ctime="20200510211911" dir="1521537340pvqw82em0f" file="text.html"/>
+     <record id="1589876000rf0rf2ixfe" name="Вывести тело ответа без лишнего вывода через команду wget" author="br0ke" url="https://superuser.com/a/977047/993215" tags="linux, unix, http, wget, response, body, stdout" ctime="20200519131320" dir="158987600056fq5yuzq3" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
