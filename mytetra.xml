@@ -965,6 +965,7 @@
      <record id="1579508672giuka83i1i" name="Установить Go (golang) на Mac" author="br0ke" url="https://ahmadawais.com/install-go-lang-on-macos-with-homebrew/" tags="apple, mac, macos, macosx, brew, install, go, golang" ctime="20200120132432" dir="15795086727l7a9jn1a9" file="text.html"/>
      <record id="1588673109xp2aatpehs" name="Сброс NVRAM или PRAM на MacBook" author="br0ke" url="https://support.apple.com/en-us/HT204063" tags="apple, macbook, mac, macbookpro, pro, reset, ram, nvram, pram" ctime="20200505150509" dir="15886731099nfi00w6bf" file="text.html"/>
      <record id="15886735154tu8ue07ro" name="Сброс SMC на MacBook" author="br0ke" url="https://support.apple.com/en-us/HT201295" tags="apple, mac, macbook, pro, macbookpro, smc, power, reset, usb, battery" ctime="20200505151155" dir="1588673515m2bdzehlqy" file="text.html"/>
+     <record id="15900558459zgpmj7otu" name="Обновить все установленные программы через brew на Mac" author="br0ke" url="https://www.commandlinefu.com/commands/view/10390/update-all-packages-installed-via-homebrew" tags="apple, mac, macos, macosx, homebrew, brew, update, upgrade, all, installed" ctime="20200521151045" dir="15900558454f3wkky77o" file="text.html"/>
     </recordtable>
     <node crypt="" id="1582698636o4uw9ws749" name="AppleScript">
      <recordtable>
