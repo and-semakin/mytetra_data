@@ -65,6 +65,7 @@
      <record id="15752037230itpv09izg" name="Отсортировать версии в Python" author="br0ke" url="https://stackoverflow.com/a/43408917/10650942" tags="python, version, versions, sort" ctime="20191201173523" dir="1575203723gu08o4c4tf" file="text.html"/>
      <record id="1575206157ejkj7am8o6" name="Распаковать любой архив в Python" author="br0ke" url="https://stackoverflow.com/a/56182972/10650942" tags="python, archive, archives, unpack, open, zip, tar, tgz, shutil" ctime="20191201181557" dir="1575206157p5kzewu4o9" file="text.html"/>
      <record id="1588747838c1xkx7ddy3" name="Получить имя текущего скрипта на Python" author="br0ke" url="https://stackoverflow.com/a/4152986/10650942" tags="python, script, file, name, path, __file__" ctime="20200506115038" dir="1588747838xm8yfxb152" file="text.html"/>
+     <record id="1590129934fg9yoq8ud2" name="Установка pip на Python 2.6" author="br0ke" url="https://stackoverflow.com/a/46353628/10650942" tags="python, pip, install, 2.6, 26, legacy, old" ctime="20200522114534" dir="1590129934x9dzzr1sag" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -289,6 +290,7 @@
      <record id="15776932007ba0y5zl3o" name="Записать загрузочный ISO с Windows на USB в Linux через WoeUSB" author="br0ke" url="https://github.com/slacka/WoeUSB" tags="linux, windows, usb, bootable, flask, drive, stick, woe, woeusb" ctime="20191230130640" dir="1577693200qg0o2w1omu" file="text.html"/>
      <record id="1521537340r5clesc7zq" name="Установить MyTetra на Linux" author="br0ke" url="https://webhamster.ru/site/page/index/articles/projectcode/105" tags="linux, mytetra, info, data, note, pim, personal information manager" ctime="20200510211911" dir="1521537340pvqw82em0f" file="text.html"/>
      <record id="1589876000rf0rf2ixfe" name="Вывести тело ответа без лишнего вывода через команду wget" author="br0ke" url="https://superuser.com/a/977047/993215" tags="linux, unix, http, wget, response, body, stdout" ctime="20200519131320" dir="158987600056fq5yuzq3" file="text.html"/>
+     <record id="15901296556kpiuxgjr3" name="Собрать Python 2.4 или более ранние версии через pyenv или asdf в Linux" author="br0ke" url="https://stackoverflow.com/q/8878676/10650942" tags="python, old, legacy, 2.4, 24, build, pyenv, asdf, error, fedora, debian, ubuntu, linux" ctime="20200522114208" dir="1590129655vcqp3k3cdn" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
