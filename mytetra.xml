@@ -756,6 +756,7 @@
        <record id="1589605196oi1p9u9205" name="Установить Zoom Meetings через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/zoom" tags="windows, chocolatey, choco, install, zoom, meetings, video" ctime="20200516100656" dir="15896051962pej4f5x8n" file="text.html"/>
        <record id="1589605146ccy6u4icjv" name="Установить Mozilla Thunderbird через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/thunderbird" tags="windows, chocolatey, choco, install, mozilla, thunderbird, mail, client" ctime="20200516100658" dir="15896051468ltbzmhx26" file="text.html"/>
        <record id="1589605104yf29mbipso" name="Установить Visual Studio Code через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/vscode" tags="windows, chocolatey, choco, install, visual, studio, code, vscode, editor, ide" ctime="20200516100700" dir="1589605104er06zhp2ox" file="text.html"/>
+       <record id="1590244540qjjygdw41b" name="Установить Open Hardware Monitor" author="br0ke" url="https://chocolatey.org/packages/OpenHardwareMonitor" tags="windows, chocolatey, choco, install, open, hardware, monitor, openhardwaremonitor" ctime="20200523193540" dir="1590244540io3aclh5a7" file="text.html"/>
       </recordtable>
      </node>
     </node>
