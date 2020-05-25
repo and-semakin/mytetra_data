@@ -995,6 +995,7 @@
      <record id="1588835236ldbz8p3x5v" name="Комментарии в Markdown" author="br0ke" url="https://stackoverflow.com/a/4829998/10650942" tags="markdown, md, markup, comment, commentary, comments" ctime="20200507120716" dir="1588835236mwwulxlnu6" file="text.html"/>
      <record id="1588836108yjkvk1wumz" name="Блок с предупреждением в Markdown" author="br0ke" url="https://stackoverflow.com/a/57118885/10650942" tags="markdown, md, markup, warning, block, box, admonition, caution" ctime="20200507122148" dir="1588836108706529uyuq" file="text.html"/>
      <record id="1588836288ki7s7azo0q" name="Выравнивание изображения в Markdown" author="br0ke" url="https://davidwells.io/snippets/how-to-align-images-in-markdown" tags="markdown, md, markup, image, img, align, center, left, right" ctime="20200507122448" dir="1588836288o7saaksdy9" file="text.html"/>
+     <record id="159039562349hqt3qayf" name="Сворачивающийся/разворачивающийся блок (спойлер) в Markdown" author="br0ke" url="https://gist.github.com/jbsulli/03df3cdce94ee97937ebda0ffef28287" tags="markdown, md, markup, spoiler, expandable, expand, detail, details" ctime="20200525133343" dir="1590395623la005p53a3" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1588836585d6xxjtw00s" name="GitHub">
