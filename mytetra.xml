@@ -17,7 +17,7 @@
      <record id="15232621037vw8zwc5in" name="Рекурсивное создание директорий в Python" author="br0ke" url="https://stackoverflow.com/questions/6004073/how-can-i-create-directories-recursively" tags="python, path, directory, create, makedirs, recursively, exist_ok" ctime="20180409132143" dir="1523262103tq9hzsog6g" file="text.html"/>
      <record id="1524486501lo5ydrvtgy" name="Сортировка в Python" author="br0ke" url="https://stackoverflow.com/questions/8031418/how-to-sort-ordereddict-of-ordereddict-python" tags="python, sequence, list, ordereddict, sort, lambda, key, multi-level sort" ctime="20180423172821" dir="1524486501c8kpenp8t7" file="text.html"/>
      <record id="1525418663ri0hrcd9qg" name="Правильно добавить год/месяц к дате в Python" author="br0ke" url="https://stackoverflow.com/a/32812788" tags="python, date, datetime, dateutil, delta, year, month, day" ctime="20180504145851" dir="1525418663rd3ocoslig" file="text.html"/>
-     <record id="152542386503ejan3a4x" name="Отформатировать дату в Python" author="br0ke" url="https://stackoverflow.com/a/45254607" tags="python, date, datetime, output, format, strftime, pendulum" ctime="20180504145857" dir="1525423865a912jur9y6" file="text.html"/>
+     <record id="152542386503ejan3a4x" name="Отформатировать дату в Python" author="br0ke" url="https://stackoverflow.com/a/45254607" tags="python, date, datetime, output, format, strftime, pendulum, babel, locale, setlocale, localization, localized" ctime="20180504145857" dir="1525423865a912jur9y6" file="text.html"/>
      <record id="1525431554c88sy3w0er" name="Получить рабочую директорию и директорию со скриптом в Python" author="br0ke" url="https://stackoverflow.com/a/5137509/9740122" tags="python, direcory, path, current path, working direcory, scipt path" ctime="20180504155914" dir="1525431554urk90zgb33" file="text.html"/>
      <record id="1525794395sk0d304dgr" name="Копия объекта в Python" author="br0ke" url="https://stackoverflow.com/a/5105554" tags="python, copy, deep, deepcopy" ctime="20180508204635" dir="1525794395646duy97wn" file="text.html"/>
      <record id="1528216871ry4k1iic1y" name="Время выполнения программы на Python" author="br0ke" url="https://stackoverflow.com/a/1557584" tags="python, time, execution time, start time, finish time, monotonic" ctime="20180605214111" dir="1528216871njkn7i0lfu" file="text.html"/>
@@ -67,6 +67,7 @@
      <record id="1588747838c1xkx7ddy3" name="Получить имя текущего скрипта на Python" author="br0ke" url="https://stackoverflow.com/a/4152986/10650942" tags="python, script, file, name, path, __file__" ctime="20200506115038" dir="1588747838xm8yfxb152" file="text.html"/>
      <record id="1590129934fg9yoq8ud2" name="Установка pip на Python 2.6" author="br0ke" url="https://stackoverflow.com/a/46353628/10650942" tags="python, pip, install, 2.6, 26, legacy, old" ctime="20200522114534" dir="1590129934x9dzzr1sag" file="text.html"/>
      <record id="1591001219e55sw96hm9" name="Отличить печатаемый символ Unicode от непечатаемого на Python" author="br0ke" url="https://stackoverflow.com/a/22632060/10650942" tags="python, unicode, char, character, control, printable, non, non-printable, unprintable, category, unicodedata, visible, invisible, visibility" ctime="20200601134659" dir="1591001219v7atuhrtga" file="text.html"/>
+     <record id="1591084527c9pi9z2ekc" name="Вывести версию интерпретатора Python в машиночитаемом виде" author="br0ke" url="https://stackoverflow.com/a/61986751/10650942" tags="python, interpreter, version, machine, readable, way, major, minor" ctime="20200602125527" dir="1591084527bccpt90y5s" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -182,6 +183,7 @@
      <node crypt="" id="1588835469ek24nb4aue" name="Pelican">
       <recordtable>
        <record id="15888357378dntoyropq" name="Добавить статичные файлы в вывод Pelican" author="br0ke" url="https://stackoverflow.com/a/31270471/10650942" tags="pelican, blog, static, extra, favicon, readme, cname" ctime="20200507121537" dir="158883573799lqqn0r7z" file="text.html"/>
+       <record id="1591085095tuw4xp32zi" name="Добавить собственный фильтр Jinja в Pelican" author="br0ke" url="https://linkpeek.com/blog/how-to-add-a-custom-jinja-filter-to-pelican.html" tags="python, pelican, jinja, jinja2, filter, custom, add" ctime="20200602130455" dir="1591085095b3fnet3wm8" file="text.html"/>
       </recordtable>
      </node>
     </node>
@@ -399,7 +401,11 @@
       <record id="1589184163tpi1bhaoop" name="Экспортировать переменную окружения перманентно в bash" author="br0ke" url="" tags="linux, sh, bash, env, var, environment, variable, export, permanent, permanently" ctime="20200511130243" dir="15891841639a59ebfh93" file="text.html"/>
       <record id="1589184314bclr03daxv" name="Сохранять историю команд bash из нескольких терминалов одновременно" author="br0ke" url="https://unix.stackexchange.com/a/48113" tags="linux, bash, terminal, bash_history, bashrc" ctime="20200511130514" dir="15891843140qcbiyazfm" file="text.html"/>
       <record id="1544281148r7nvys0rv3" name="Перенаправление вывода в bash в Linux" author="br0ke" url="https://www.tldp.org/LDP/abs/html/io-redirection.html" tags="linux, unix, bash, sh, io, redirection, append, stdout, stderr, stdin" ctime="20200511130733" dir="1544281148vtu4evtjvp" file="text.html"/>
-      <record id="1544283355palekkfjfo" name="Записать несколько строк из bash в файл в Linux" author="br0ke" url="https://unix.stackexchange.com/a/77278" tags="linux, unix, bash, multiline, write, stdin, stdout, eot" ctime="20200511130744" dir="1544283355zesdjtu2eq" file="text.html"/>
+      <record id="1544283355palekkfjfo" name="Записать несколько строк из bash в файл в Linux" author="br0ke" url="https://unix.stackexchange.com/a/77278" tags="linux, unix, bash, multiline, write, stdin, stdout, eot, cat" ctime="20200511130744" dir="1544283355zesdjtu2eq" file="text.html"/>
+      <record id="1591083633a5kvotg6d8" name="Запустить соседний скрипт, лежащий в той же директории, в bash" author="br0ke" url="https://stackoverflow.com/a/53122736/10650942" tags="linux, unix, bash, sh, script, execute, run, source, import, next, neighbor, neighbour, directory, dir, dirname, bash_source" ctime="20200602124033" dir="1591083633zrcp0qhhf5" file="text.html"/>
+      <record id="1591083804ejejhvpm9r" name="Проверить, что переменная пуста или не существует в bash" author="br0ke" url="https://www.cyberciti.biz/faq/unix-linux-bash-script-check-if-variable-is-empty/" tags="bash, sh, shell, condition, if, check, empty, unset, variable, test" ctime="20200602124324" dir="1591083804vmwk0uq0w2" file="text.html"/>
+      <record id="1591084098xn91y4s2b7" name="Завершить (выйти) скрипт с кодом ошибки (выхода) в bash" author="br0ke" url="https://tldp.org/LDP/abs/html/exit-status.html" tags="bash, sh, shell, exit, code, error, return" ctime="20200602124818" dir="15910840983lhxkf8phh" file="text.html"/>
+      <record id="1591084289pc0xd5q9y9" name="Переименовать все файлы в директории однообразно при помощи bash" author="br0ke" url="https://stackoverflow.com/a/7451880/10650942" tags="bash, sh, rename, batch, bulk, move, multiple, file, files, replace" ctime="20200602125129" dir="1591084289wlpawojht8" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404847zp0o2ra2xh" name="fish">
