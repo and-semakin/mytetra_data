@@ -767,6 +767,7 @@
        <record id="1590244540qjjygdw41b" name="Установить Libre Hardware Monitor" author="br0ke" url="https://chocolatey.org/packages/libre-hardware-monitor" tags="windows, chocolatey, choco, install, open, hardware, monitor, openhardwaremonitor, libre, librehardwaremonitor" ctime="20200523193540" dir="1590244540io3aclh5a7" file="text.html"/>
        <record id="1592641915vid09cnhak" name="Установить Punto Switcher через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/puntoswitcher" tags="windows, chocolatey, choco, install, punto, switcher, puntoswitcher, yandex, keyboard, layout" ctime="20200620133155" dir="1592641915fe9u8koh5f" file="text.html"/>
        <record id="15972275177rwmxs7mk7" name="Установить Docker Desktop через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/docker-desktop" tags="microsoft, windows, chocolatey, choco, install, docker, desktop, container, containers" ctime="20200812151837" dir="159722751769h2zaf4j1" file="text.html"/>
+       <record id="1598729303hha8s81754" name="Установить Discord через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/discord" tags="microsoft, windows, chocolatey, choco, install, discord, messenger, chat, game, gaming, audio, voice" ctime="20200830002823" dir="15987293034ljehwyt2d" file="text.html"/>
       </recordtable>
      </node>
     </node>
