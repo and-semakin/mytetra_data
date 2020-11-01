@@ -1002,6 +1002,8 @@
      <record id="1579508741u4ux0ij57n" name="Установить godoc и golint при помощи go" author="br0ke" url="https://ahmadawais.com/install-go-lang-on-macos-with-homebrew/" tags="go, golang, godoc, golint, install, add" ctime="20200120132541" dir="1579508741p06gr5r6lo" file="text.html"/>
      <record id="1604252220qvtm1m3utt" name="Типы данных в Golang" author="br0ke" url="https://tour.golang.org/basics/11" tags="go, golang, data, type, types, datatype, datatypes, bool, string, int, uint, int32, int64, uint32, uint64, float, complex, 32, 64" ctime="20201101223700" dir="1604252220lbwzht9ktp" file="text.html"/>
      <record id="1604252461w6leg5ubb5" name="Булевый тип данных в Golang" author="br0ke" url="https://stepik.org/lesson/230465/step/6?unit=202984" tags="go, golang, data, type, datatype, bool, boolean, true, false" ctime="20201101224101" dir="1604252461e4k4hk3bun" file="text.html"/>
+     <record id="1604253089einleieozs" name="Строки в Golang" author="br0ke" url="https://stepik.org/lesson/230465/step/5?unit=202984" tags="go, golang, data, type, datatype, str, string, text" ctime="20201101225129" dir="1604253089bczh62zdtw" file="text.html"/>
+     <record id="1604253433vo99gfwo7y" name="Числа в Golang" author="br0ke" url="https://stepik.org/lesson/230465/step/2?unit=202984" tags="go, golang, data, type, datatype, int, integer, float, number" ctime="20201101225713" dir="1604253433jvf043ovxq" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15888349583zvu30nw3e" name="Markdown">

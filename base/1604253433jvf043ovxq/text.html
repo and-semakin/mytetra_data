@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">В Go есть три категории числовых типов:</p>
+<ol style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;"><li style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">целые;</li>
+<li style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">с плавающей точкой;</li>
+<li style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">комплексные.</li></ol>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Целые числа бывают знаковые (могут содержать и отрицательные, и положительные числа) и беззнаковые (0 и положительные числа, но зато больше). У целых числовых типов всегда известна размерность.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<table border="0" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;" cellspacing="2" cellpadding="0">
+<tr>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">uint8</span></p></td>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:13px; margin-bottom:13px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'inherit'; color:#000000;">Беззнаковые 8-битные целые числа </span></p></td>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">от 0 до 255</span></p></td></tr>
+<tr>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">uint16</span></p></td>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">Беззнаковые 16-битные целые числа </span></p></td>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">от 0 до 65535</span></p></td></tr>
+<tr>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">uint32</span></p></td>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Беззнаковые 32-битные целые числа </span></p></td>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">от 0 до 4294967295</span></p></td></tr>
+<tr>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">uint64</span></p></td>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">Беззнаковые 64-битные целые числа </span></p></td>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">от 0 до 18446744073709551615</span></p></td></tr>
+<tr>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">int8</span></p></td>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Знаковые 8-битные целые числа </span></p></td>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">от -128 до 127</span></p></td></tr>
+<tr>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">int16</span></p></td>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">Знаковые 16-битные целые числа </span></p></td>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">от -32768 до 32767</span></p></td></tr>
+<tr>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">int32</span></p></td>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Знаковые 32-битные целые числа </span></p></td>
+<td style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">от -2147483648 до 2147483647</span></p></td></tr>
+<tr>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">int64</span></p></td>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">Знаковые 64-битные целые числа </span></p></td>
+<td bgcolor="#f9f9f9" style=" padding-left:8; padding-right:8; padding-top:7; padding-bottom:7;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000; background-color:#f9f9f9;">от -9223372036854775808 до 9223372036854775807</span></p></td></tr></table>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Сущестуют машинно-зависимые типы, размер которых зависит от разрядности целевой платформы:</p>
+<ol style="margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;"><li style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">int -- 32- или 64-битное знаковое целое число;</li>
+<li style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">uint -- 32- или 64-битное беззнаковое целое число;</li>
+<li style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">uintptr -- </li></ol>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>
