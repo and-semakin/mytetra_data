@@ -1005,6 +1005,7 @@
      <record id="1604253089einleieozs" name="Строки в Golang" author="br0ke" url="https://stepik.org/lesson/230465/step/5?unit=202984" tags="go, golang, data, type, datatype, str, string, text" ctime="20201101225129" dir="1604253089bczh62zdtw" file="text.html"/>
      <record id="1604253433vo99gfwo7y" name="Числа в Golang" author="br0ke" url="https://stepik.org/lesson/230465/step/2?unit=202984" tags="go, golang, data, type, datatype, int, integer, float, number" ctime="20201101225713" dir="1604253433jvf043ovxq" file="text.html"/>
      <record id="1604424005mc0avlpeac" name="Объявление переменных в Golang" author="br0ke" url="https://stepik.org/lesson/228261/step/1?unit=200794" tags="go, golang, var, variable, declaration, definition, name, value, type" ctime="20201103222005" dir="1604424005srdon32cdp" file="text.html"/>
+     <record id="1604425243uv9r1phll8" name="Арифметические операции в Golang" author="br0ke" url="https://stepik.org/lesson/228261/step/6?unit=200794" tags="go, golang, operation, operations, operator, plus, add, addition, minus, sub, subtraction, star, mul, multiplication, div, division, mod, modulo" ctime="20201103224043" dir="16044252435pze1q3edl" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15888349583zvu30nw3e" name="Markdown">
