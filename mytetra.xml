@@ -1008,6 +1008,7 @@
      <record id="1604425243uv9r1phll8" name="Арифметические операции в Golang" author="br0ke" url="https://stepik.org/lesson/228261/step/6?unit=200794" tags="go, golang, operation, operations, operator, plus, add, addition, minus, sub, subtraction, star, mul, multiplication, div, division, mod, modulo" ctime="20201103224043" dir="16044252435pze1q3edl" file="text.html"/>
      <record id="1604425793gff2x7cbg2" name="Чтение данных с консоли в Golang" author="br0ke" url="https://stepik.org/lesson/228261/step/8?unit=200794" tags="go, golang, input, stdin, read, scan" ctime="20201103224953" dir="16044257936lfuo314k1" file="text.html"/>
      <record id="1604426217krvrekf634" name="Вывод данных на консоль в Golang" author="br0ke" url="https://stepik.org/lesson/228261/step/9?unit=200794" tags="go, golang, stdout, write, output, print, println, fmt, line" ctime="20201103225657" dir="1604426217rkd6l91419" file="text.html"/>
+     <record id="1604481390z24gj7ozv7" name="Комментарии в Golang" author="br0ke" url="https://stepik.org/lesson/228262/step/1?unit=200795" tags="go, golang, comment, commentary, single, multi, line" ctime="20201104141630" dir="1604481390dyma68pqmr" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15888349583zvu30nw3e" name="Markdown">
