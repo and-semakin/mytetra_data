@@ -1010,6 +1010,7 @@
      <record id="1604426217krvrekf634" name="Вывод данных на консоль в Golang" author="br0ke" url="https://stepik.org/lesson/228261/step/9?unit=200794" tags="go, golang, stdout, write, output, print, println, fmt, line" ctime="20201103225657" dir="1604426217rkd6l91419" file="text.html"/>
      <record id="1604481390z24gj7ozv7" name="Комментарии в Golang" author="br0ke" url="https://stepik.org/lesson/228262/step/1?unit=200795" tags="go, golang, comment, commentary, single, multi, line" ctime="20201104141630" dir="1604481390dyma68pqmr" file="text.html"/>
      <record id="16045649997r9xix0xw9" name="Константы в Golang" author="br0ke" url="https://stepik.org/lesson/228264/step/1?discussion=1640053&amp;reply=3099423&amp;unit=200797" tags="go, golang, const, constant, constants" ctime="20201105132959" dir="160456499936u1eroo2g" file="text.html"/>
+     <record id="1604565874e7q6r8nb8m" name="iota для объявления констант в Golang" author="br0ke" url="https://stepik.org/lesson/228264/step/3?unit=200797" tags="go, golang, const, constant, constants, iota, enum, enums" ctime="20201105134434" dir="1604565874hfr4y5id5u" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15888349583zvu30nw3e" name="Markdown">
