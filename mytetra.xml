@@ -1016,6 +1016,7 @@
      <record id="1604999553wsozvldadi" name="Условная конструкция в Golang" author="br0ke" url="https://stepik.org/lesson/232593/step/1?unit=205068" tags="go, golang, condition, conditional, construction, block, if, expression, else" ctime="20201110141233" dir="1604999553fzpy4ke9s8" file="text.html"/>
      <record id="1604999960j0yw75kkvo" name="Конструкция switch/case в Golang" author="br0ke" url="https://stepik.org/lesson/232593/step/3?unit=205068" tags="go, golang, condition, conditional, construction, block, switch, case, fall, through, fallthrough" ctime="20201110141920" dir="1604999960rkr42yqtv8" file="text.html"/>
      <record id="1605000942qhpzzyx9n8" name="Циклы в Golang" author="br0ke" url="https://stepik.org/lesson/228263/step/1?unit=200796" tags="go, golang, loop, for, iterate, iteration, break, continue, infinite" ctime="20201110143542" dir="1605000942m8u7fscoh7" file="text.html"/>
+     <record id="1605002963rxou0zu0c1" name="Форматированный вывод в Golang" author="br0ke" url="https://stepik.org/lesson/351787/step/1?discussion=3121278&amp;unit=335741" tags="go, golang, printf, fmt, template" ctime="20201110150923" dir="1605002963fhoah1csam" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15888349583zvu30nw3e" name="Markdown">
