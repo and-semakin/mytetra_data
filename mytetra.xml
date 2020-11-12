@@ -1021,6 +1021,7 @@
      <record id="16051877752tr9zoyili" name="Срезы (слайсы, slice) в Golang" author="br0ke" url="https://stepik.org/lesson/228265/step/6?unit=200798" tags="go, golang, slice, slices, array, arrays, dynamic, len, cap, length, capacity" ctime="20201112182935" dir="1605187775jzyzxrq53x" file="text.html"/>
      <record id="1605203737onze0cs9jg" name="Удаление элемента из слайса при помощи append в Golang" author="br0ke" url="https://stepik.org/lesson/228265/step/10?unit=200798" tags="go, golang, slice, append, delete, remove, item" ctime="20201112225537" dir="160520373715n0kd27no" file="text.html"/>
      <record id="1605204146jwsp99rblu" name="Функции в Golang" author="br0ke" url="https://stepik.org/lesson/228838/step/1?unit=201372" tags="go, golang, func, function, functions" ctime="20201112230226" dir="1605204146r493vwfeu1" file="text.html"/>
+     <record id="1605204858k60kj8tizy" name="Области видимости в Golang" author="br0ke" url="https://stepik.org/lesson/228838/step/12?unit=201372" tags="go, golang, scope, visibility, shadow, shadowing" ctime="20201112231418" dir="16052048586nxg13jid6" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15888349583zvu30nw3e" name="Markdown">
