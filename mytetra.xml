@@ -770,6 +770,7 @@
        <record id="15972275177rwmxs7mk7" name="Установить Docker Desktop через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/docker-desktop" tags="microsoft, windows, chocolatey, choco, install, docker, desktop, container, containers" ctime="20200812151837" dir="159722751769h2zaf4j1" file="text.html"/>
        <record id="1598729303hha8s81754" name="Установить Discord через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/discord" tags="microsoft, windows, chocolatey, choco, install, discord, messenger, chat, game, gaming, audio, voice" ctime="20200830002823" dir="15987293034ljehwyt2d" file="text.html"/>
        <record id="1603644061u1g5ayjnqf" name="Установить Epic Games Launcher через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/epicgameslauncher" tags="windows, choco, chocolatey, install, epic, game, games, epicgames, launcher, epicgameslauncher" ctime="20201025214101" dir="160364406135jq95snir" file="text.html"/>
+       <record id="1605371902qezeuhab76" name="Установить Inkscape через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/InkScape" tags="choco, chocolatey, install, windows, microsoft, ink, scape, inkscape, svg" ctime="20201114213822" dir="1605371902djrt7rdsle" file="text.html"/>
       </recordtable>
      </node>
     </node>
