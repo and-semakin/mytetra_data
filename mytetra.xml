@@ -1041,6 +1041,13 @@
      <record id="1591001596lx91aeqo79" name="Найти issue или pull request, в которых комментировал определенный пользователь на GitHub" author="br0ke" url="https://stackoverflow.com/a/43966955/10650942" tags="github, issue, issues, pull, request, requests, search, find, filter, comment, comments, commenter, user" ctime="20200601135316" dir="1591001596glgl3ofdqw" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="161029873991339zex8e" name="AWS">
+    <node crypt="" id="1610298829b6j3ggeys6" name="Lambda">
+     <recordtable>
+      <record id="1610298822w65o117xlt" name="Создать Lambda-совместимый ZIP-пакет из виртуального окружения Python" author="br0ke" url="https://github.com/pypa/pipenv/issues/2705#issuecomment-410949164" tags="aws, lambda, zip, package, deploy, deployment, python, pip, pipenv, virtualenv, virtual, env" ctime="20210110221356" dir="1610298822z5wwta5du8" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
    <node crypt="1" icon="" id="1515161966ykf0x8uly7" name="UkM1U0lNUAPc0bNkBOBF6FM8tDLLPgzjCsSkstmCXQvN48SwkOJb25ULqV4D0hn+z4ixsI3AmAk59haOBM2KPw==">
