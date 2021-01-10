@@ -244,7 +244,6 @@
      <record id="1523442204bu27t1w1ol" name="Корректные права на директорию .ssh в Linux" author="br0ke" url="https://superuser.com/questions/215504/permissions-on-private-key-in-ssh-folder" tags="linux, ssh, permission, permissions, chmod" ctime="20180411152324" dir="1523442204fhjz34fwne" file="text.html"/>
      <record id="1524124260efa0n26w68" name="Скопировать директорию с выводом прогресса в Linux" author="br0ke" url="https://unix.stackexchange.com/a/110253" tags="linux, unix, rsync, copy, cp, directory, folder, recursively, progress, progressbar" ctime="20180419125100" dir="1524124260bj15xy80eb" file="text.html"/>
      <record id="1524135969m18pluxwhd" name="Примонтировать автоматически Samba к Linux" author="br0ke" url="https://wiki.ubuntu.com/MountWindowsSharesPermanently" tags="linux, mount, nfs, cifs, share, fstab" ctime="20180419160609" dir="1524135969q5wp927fzk" file="text.html"/>
-     <record id="1524912649px7pc8hnzg" name="cURL запросы через Tor" author="br0ke" url="https://www.devdungeon.com/content/making-tor-requests-command-line-curl" tags="linux, curl, http, query, download, tor, socks, socks5, proxy" ctime="20180428155049" dir="15249126497ccj4xyqys" file="text.html"/>
      <record id="1525426515f0w7qr1ezs" name="Сгенерировать ключи SSH" author="br0ke" url="https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/" tags="linux, unix, ssh, ssh-key, keys, ssh-keygen, rsa, git, test" ctime="20180504143523" dir="15254265152yx0835xw4" file="text.html"/>
      <record id="1526010605xvtsmo0ve5" name="Статистика использования диска в Linux" author="br0ke" url="https://www.cyberciti.biz/faq/linux-check-disk-space-command/" tags="linux, disk, hard disk, space, usage, disk usage, stats, monitor, du, df" ctime="20180511085005" dir="1526010605p2x587652c" file="text.html"/>
      <record id="1526025847o7x5j9ny8l" name="Выполнение команд по расписанию через CRON в LInux" author="br0ke" url="https://crontab-generator.org/" tags="linux, cron, schedule" ctime="20180511130407" dir="1526025847d4hiqat6k5" file="text.html"/>
@@ -529,6 +528,11 @@
       <record id="152577909760u8l6a9wf" name="Подключиться к скрытой беспроводной сети Wi-Fi из KDE" author="br0ke" url="https://yuenhoe.com/blog/2011/02/connecting-to-hidden-wireless-networks-using-kdes-networkmanager/" tags="linux, fedora, kde, network, networkmanager, wifi, wireless, hidden, hide, ssid" ctime="20200511130948" dir="1525779097uscihjev94" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1610299472nrabzbzml1" name="curl">
+     <recordtable>
+      <record id="1524912649px7pc8hnzg" name="cURL запросы через Tor" author="br0ke" url="https://www.devdungeon.com/content/making-tor-requests-command-line-curl" tags="linux, curl, http, query, download, tor, socks, socks5, proxy" ctime="20210110222444" dir="15249126497ccj4xyqys" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="15151592143t1d4riqua" name="Git">
     <recordtable>
@@ -771,6 +775,7 @@
        <record id="1598729303hha8s81754" name="Установить Discord через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/discord" tags="microsoft, windows, chocolatey, choco, install, discord, messenger, chat, game, gaming, audio, voice" ctime="20200830002823" dir="15987293034ljehwyt2d" file="text.html"/>
        <record id="1603644061u1g5ayjnqf" name="Установить Epic Games Launcher через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/epicgameslauncher" tags="windows, choco, chocolatey, install, epic, game, games, epicgames, launcher, epicgameslauncher" ctime="20201025214101" dir="160364406135jq95snir" file="text.html"/>
        <record id="1605371902qezeuhab76" name="Установить Inkscape через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/InkScape" tags="choco, chocolatey, install, windows, microsoft, ink, scape, inkscape, svg" ctime="20201114213822" dir="1605371902djrt7rdsle" file="text.html"/>
+       <record id="1610299296xym2jd461e" name="Установить WinSCP через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/winscp.install" tags="choco, chocolatey, install, windows, microsoft, winscp, win, scp" ctime="20210110222136" dir="1610299296oy0rlmvlzj" file="text.html"/>
       </recordtable>
      </node>
     </node>
