@@ -531,6 +531,7 @@
     <node crypt="" id="1610299472nrabzbzml1" name="curl">
      <recordtable>
       <record id="1524912649px7pc8hnzg" name="cURL запросы через Tor" author="br0ke" url="https://www.devdungeon.com/content/making-tor-requests-command-line-curl" tags="linux, curl, http, query, download, tor, socks, socks5, proxy" ctime="20210110222444" dir="15249126497ccj4xyqys" file="text.html"/>
+      <record id="16103492468nm7phdpzx" name="Включить перенаправления в curl" author="br0ke" url="https://ec.haxx.se/http/http-redirects#tell-curl-to-follow-redirects" tags="curl, follow, redirect, redirects, redirection" ctime="20210111121406" dir="1610349246fy8z5buzft" file="text.html"/>
      </recordtable>
     </node>
    </node>
