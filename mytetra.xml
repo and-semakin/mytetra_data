@@ -995,6 +995,8 @@
       <record id="1575366663xmxc3fp216" name="Установить Homebrew на Mac" author="br0ke" url="https://brew.sh/" tags="mac, macos, apple, brew, homebrew, package, packages, install, soft, software" ctime="20200524085842" dir="1575366663uq237h0ceu" file="text.html"/>
       <record id="157543812896khulmqch" name="Поиск по Homebrew" author="br0ke" url="https://www.code2bits.com/how-to-install-postman-on-macos-using-homebrew/" tags="apple, mac, macos, macos, brew, homebrew, search" ctime="20200524085940" dir="1575438128soq5o69hkc" file="text.html"/>
       <record id="15900558459zgpmj7otu" name="Обновить все установленные программы через brew на Mac" author="br0ke" url="https://www.commandlinefu.com/commands/view/10390/update-all-packages-installed-via-homebrew" tags="apple, mac, macos, macosx, homebrew, brew, update, upgrade, all, installed" ctime="20200524090018" dir="15900558454f3wkky77o" file="text.html"/>
+      <record id="16108846065may6vcvqw" name="Просмотреть список установленных программ через brew" author="br0ke" url="https://apple.stackexchange.com/a/101092/356903" tags="apple, mac, macos, macosx, homebrew, brew, list, cask, all, installed, package, packages" ctime="20210117165646" dir="1610884606dvi7j5ui7h" file="text.html"/>
+      <record id="1610884699i3y1ycr3ef" name="Установить все программы, список которых лежит в текстовом файле, через brew" author="br0ke" url="https://apple.stackexchange.com/a/101092/356903" tags="apple, mac, macos, macosx, homebrew, brew, install, all, packages, from, txt, file" ctime="20210117165819" dir="1610884699rrcbjktgey" file="text.html"/>
      </recordtable>
      <node crypt="" id="1590292739lj04f36l2w" name="Software install recipes">
       <recordtable>
