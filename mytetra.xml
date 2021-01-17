@@ -349,6 +349,7 @@
       <record id="15891697920uwi8ktdcq" name="Установить Slack на Fedora" author="br0ke" url="https://copr.fedorainfracloud.org/coprs/jdoss/slack-repo/" tags="linux, fedora, slack, install, copr, messenger, messenging" ctime="20200511090312" dir="1589169792gfav7y8hfr" file="text.html"/>
       <record id="1589170261glppmr1lhe" name="Установить Zoom на Fedora" author="br0ke" url="https://computingforgeeks.com/install-zoom-client-on-centos-8-fedora-linux/" tags="linux, fedora, install, zoom, cloud, meetings, video, conference, dnf" ctime="20200511091101" dir="1589170261ck4rt8omvi" file="text.html"/>
       <record id="15891788784lcwvrcn2g" name="Управление репозиториями через dnf в Fedora" author="br0ke" url="https://docs.fedoraproject.org/en-US/Fedora/22/html/System_Administrators_Guide/sec-Managing_DNF_Repositories.html" tags="linux, fedora, dnf, repo, repos, managing, management, list, add, remove, enable, disable" ctime="20200511113438" dir="1589178878rh5o701abl" file="text.html"/>
+      <record id="161089806770j0k6bdtd" name="Установить Steam на Fedora" author="br0ke" url="https://unix.stackexchange.com/a/523197/338074" tags="fedora, linux, install, valve, steam, game, store, dnf" ctime="20210117204107" dir="1610898067qmsykoxlta" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
