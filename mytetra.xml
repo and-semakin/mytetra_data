@@ -536,6 +536,13 @@
       <record id="16103492468nm7phdpzx" name="Включить перенаправления в curl" author="br0ke" url="https://ec.haxx.se/http/http-redirects#tell-curl-to-follow-redirects" tags="curl, follow, redirect, redirects, redirection" ctime="20210111121406" dir="1610349246fy8z5buzft" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1610900299pbv1xg2yll" name="OpenWRT">
+     <recordtable>
+      <record id="1610900332e49jwb56hs" name="Читать логи в OpenWRT" author="br0ke" url="https://forum.archive.openwrt.org/viewtopic.php?id=26605" tags="linux, openwrt, log, read, logs, logread" ctime="20210117211852" dir="1610900332wpzpo2eqca" file="text.html"/>
+      <record id="1610900457x5rws5yvxp" name="Перезапустить WireGuard в OpenWRT" author="br0ke" url="https://forum.openwrt.org/t/restart-wireguard-via-cli/51935/3" tags="linux, openwrt, wireguard, vpn, restart, reconnect, wg" ctime="20210117212057" dir="1610900457k025gg83fn" file="text.html"/>
+      <record id="1610900641nof4od5hrk" name="Сменить имя роутера на OpenWRT" author="br0ke" url="https://forum.archive.openwrt.org/viewtopic.php?id=14620" tags="openwrt, linux, host, name, hostname, change, rename, router, uci, luci" ctime="20210117212401" dir="1610900641v9z8vunwgz" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="15151592143t1d4riqua" name="Git">
     <recordtable>
@@ -795,6 +802,7 @@
      <recordtable>
       <record id="1521030062nx54td8ehs" name="Команды MySQL из терминала" author="br0ke" url="https://askubuntu.com/questions/341584/how-to-run-mysql-command-from-terminal" tags="database, mysql, mariadb, cli, list, users, databases, change, password, tables" ctime="20180314172102" dir="1521030062egwfy45egx" file="text.html"/>
       <record id="1582553294uc7sz6t3os" name="Показать структуру таблицы в MySQL" author="br0ke" url="https://stackoverflow.com/a/4294526/10650942" tags="mysql, mariadb, maria, sql, db, dbms, table, structure, column, columns, definition, define, create, table, show" ctime="20200224190814" dir="1582553294me3xwwp8hs" file="text.html"/>
+      <record id="1610900245e7ctkxln8q" name="Установить лимит на количество одновременных подключений к MySQL" author="br0ke" url="https://electrictoolbox.com/update-max-connections-mysql/" tags="mysql, sql, limit, max, connection, connections, max_connections" ctime="20210117211725" dir="1610900245oyrvx7p12i" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521906623twk9efhlxn" name="PostgreSQL">
