@@ -293,6 +293,7 @@
      <record id="1521537340r5clesc7zq" name="Установить MyTetra на Linux" author="br0ke" url="https://webhamster.ru/site/page/index/articles/projectcode/105" tags="linux, mytetra, info, data, note, pim, personal information manager" ctime="20200510211911" dir="1521537340pvqw82em0f" file="text.html"/>
      <record id="1589876000rf0rf2ixfe" name="Вывести тело ответа без лишнего вывода через команду wget" author="br0ke" url="https://superuser.com/a/977047/993215" tags="linux, unix, http, wget, response, body, stdout" ctime="20200519131320" dir="158987600056fq5yuzq3" file="text.html"/>
      <record id="15901296556kpiuxgjr3" name="Собрать Python 2.4 или более ранние версии через pyenv или asdf в Linux" author="br0ke" url="https://stackoverflow.com/q/8878676/10650942" tags="python, old, legacy, 2.4, 24, build, pyenv, asdf, error, fedora, debian, ubuntu, linux" ctime="20200522114208" dir="1590129655vcqp3k3cdn" file="text.html"/>
+     <record id="16108730580ysvv7wth8" name="Загрузить SSH-ключи на удаленный сервер" author="br0ke" url="https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2" tags="unix, linux, ssh, key, keys, public, copy, id, ssh-copy-id" ctime="20210117134418" dir="1610873058k4wve3ssci" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
