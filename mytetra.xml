@@ -777,6 +777,8 @@
        <record id="1603644061u1g5ayjnqf" name="Установить Epic Games Launcher через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/epicgameslauncher" tags="windows, choco, chocolatey, install, epic, game, games, epicgames, launcher, epicgameslauncher" ctime="20201025214101" dir="160364406135jq95snir" file="text.html"/>
        <record id="1605371902qezeuhab76" name="Установить Inkscape через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/InkScape" tags="choco, chocolatey, install, windows, microsoft, ink, scape, inkscape, svg" ctime="20201114213822" dir="1605371902djrt7rdsle" file="text.html"/>
        <record id="1610299296xym2jd461e" name="Установить WinSCP через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/winscp.install" tags="choco, chocolatey, install, windows, microsoft, winscp, win, scp" ctime="20210110222136" dir="1610299296oy0rlmvlzj" file="text.html"/>
+       <record id="16108661365vbk9ccjky" name="Установить Rufus через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/rufus" tags="choco, chocolatey, install, windows, microsoft, rufus, usb, format, flash, boot, bootable" ctime="20210117114856" dir="161086613694zj182sw0" file="text.html"/>
+       <record id="1610866277otpfkc7dsj" name="Установить golang (язык программирования Go) через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/golang" tags="choco, chocolatey, install, windows, microsoft, golang, go, programming, language, lang" ctime="20210117115117" dir="1610866277fuov3tr24x" file="text.html"/>
       </recordtable>
      </node>
     </node>
