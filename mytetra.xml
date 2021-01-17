@@ -742,6 +742,7 @@
      <record id="1589300348sg3yew2n0v" name="Создание универсальной UEFI загрузочной флешки для Windows 10" author="br0ke" url="https://techbit.ca/2019/02/creating-a-bootable-windows-10-uefi-usb-drive-using-linux/" tags="microsoft, windows, install, bootable, boot, usb, disk, drive, stick, uefi, fat, fat32, ntfs" ctime="20200512211908" dir="1589300348lro72yne0o" file="text.html"/>
      <record id="15895604107lvlradd7u" name="Добавить Git Bash в Windows Terminal" author="br0ke" url="https://stackoverflow.com/a/57369284/10650942" tags="microsoft, windows, terminal, git, bash, add, configuration" ctime="20200515213330" dir="1589560410br0xkagtpj" file="text.html"/>
      <record id="1605002372nksqd3fszd" name="Открыть панель выбора эмодзи (emoji picker) в Windows 10" author="br0ke" url="https://www.laptopmag.com/articles/open-emoji-panel-windows-10" tags="microsoft, windows, emoji, picker, panel, hotkey, keystroke" ctime="20201110145932" dir="1605002372db2801q4ro" file="text.html"/>
+     <record id="16109000675xelugtc9o" name="Отправить компьютер с Windows 10 в сон при помощи горячих клавиш" author="br0ke" url="https://www.makeuseof.com/tag/how-to-shutdown-or-sleep-windows-10-with-a-keyboard-shortcut/" tags="windows, microsoft, 10, sleep, suspend, hotkey, hot, key, shortcut, short, cut" ctime="20210117211427" dir="1610900067z2org8dpdr" file="text.html"/>
     </recordtable>
     <node crypt="" id="1589603318er515vipcn" name="chocolatey">
      <recordtable>
