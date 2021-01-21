@@ -393,6 +393,8 @@
       <record id="1542194747uu3zvom6y1" name="Установить pgcli на Debian/Ubuntu" author="br0ke" url="https://github.com/dbcli/pgcli" tags="linux, ubuntu, debian, apt, apt-get, install, util, utility, tool, postgresql, postgres, postgre, psql, pgcli, pg, cli" ctime="20181114162547" dir="1542194747q7uo9thfwd" file="text.html"/>
       <record id="1544444052lcfxn7zjg5" name="Запустить 32-битную программу на 64-битной Ubuntu" author="br0ke" url="https://askubuntu.com/a/454452" tags="linux, ubuntu, 32-bit, 64-bit, 32, 64, 32bit, 64bit, arch, multiarch, dpkg, add-architecture, libc, libncurses, curses, ncurses, libstdc" ctime="20181210171412" dir="1544444052tb0sqxiylz" file="text.html"/>
       <record id="15489995437aic8rz3x7" name="Установить комилятор Haskell на Ubuntu" author="br0ke" url="https://www.haskell.org/platform/#linux-ubuntu" tags="linux, fedora, apt, apt-get, install, haskell, platform, ghc, ghci, compiler, glasgow" ctime="20190201103903" dir="1548999543f1oiydfng0" file="text.html"/>
+      <record id="161124668948sse73yxc" name="Установить зависимости для сборки C/C++ проектов в Ubuntu" author="br0ke" url="https://askubuntu.com/a/492999/920474" tags="linux, ubuntu, apt, apt-get, instal, build, tool, tools, build-essential, build-essentials, essential, essentials" ctime="20210121213129" dir="16112466892x7zoajl4f" file="text.html"/>
+      <record id="16112468976hzdi2bb8x" name="Переименовать пользователя в Ubuntu" author="br0ke" url="https://askubuntu.com/a/558838/920474" tags="ubuntu, linux, user, rename, usermod, groupmod, login, username" ctime="20210121213457" dir="16112468975bg2uvgh6v" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404820snsq5fy8ep" name="bash">
@@ -968,6 +970,7 @@
       <record id="1575203318t4h1e3chiy" name="Multicursor (множественный курсор, множественная каретка) в IntelliJ / PyCharm" author="br0ke" url="https://www.jetbrains.com/help/pycharm-edu/multicursor.html" tags="ide, idea, jetbrains, intellij, pycharm, multi, multicursor, hotkey" ctime="20191201172838" dir="1575203318ch4yx4ligu" file="text.html"/>
       <record id="1582699396jm6n9214ez" name="Назначить действие Force-click (на Mac Book) в IntelliJ / PyCharm" author="br0ke" url="https://stackoverflow.com/a/41598450/10650942" tags="ide, jetbrains, mac, macbook, touchpad, force, hard, deep, click, action, bind" ctime="20200226114316" dir="1582699396lb6js6tch5" file="text.html"/>
       <record id="15891714043ov3ufvzwa" name="Установить JetBrains Toolbox на Linux" author="br0ke" url="https://github.com/nagygergo/jetbrains-toolbox-install" tags="jetbrains, toolbox, app, install, linux, installer, script" ctime="20200511093004" dir="15891714047mmpyo9ire" file="text.html"/>
+      <record id="16112470956rsn7gw62k" name="Не работает отладчик в PyCharm из-за папки code" author="br0ke" url="https://superuser.com/questions/1385995/my-pycharm-run-is-working-but-debugging-is-failing/1386136#1386136" tags="jetbrains, jet, brains, ide, pycharm, intellij, idea, debugger, python, code, folder, directory" ctime="20210121213815" dir="1611247095bteyruxxgi" file="text.html"/>
      </recordtable>
     </node>
    </node>
