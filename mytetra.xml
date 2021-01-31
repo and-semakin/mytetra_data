@@ -409,6 +409,7 @@
       <record id="1591083804ejejhvpm9r" name="Проверить, что переменная пуста или не существует в bash" author="br0ke" url="https://www.cyberciti.biz/faq/unix-linux-bash-script-check-if-variable-is-empty/" tags="bash, sh, shell, condition, if, check, empty, unset, variable, test" ctime="20200602124324" dir="1591083804vmwk0uq0w2" file="text.html"/>
       <record id="1591084098xn91y4s2b7" name="Завершить (выйти) скрипт с кодом ошибки (выхода) в bash" author="br0ke" url="https://tldp.org/LDP/abs/html/exit-status.html" tags="bash, sh, shell, exit, code, error, return" ctime="20200602124818" dir="15910840983lhxkf8phh" file="text.html"/>
       <record id="1591084289pc0xd5q9y9" name="Переименовать все файлы в директории однообразно при помощи bash" author="br0ke" url="https://stackoverflow.com/a/7451880/10650942" tags="bash, sh, rename, batch, bulk, move, multiple, file, files, replace" ctime="20200602125129" dir="1591084289wlpawojht8" file="text.html"/>
+      <record id="16121160110nqijbbtkz" name="Распарсить .env (dotenv) файл в bash напрямую" author="br0ke" url="https://gist.github.com/judy2k/7656bfe3b322d669ef75364a46327836" tags="bash, sh, env, dotenv, variable, variables, environment, parse, eval, export" ctime="20210131230011" dir="1612116011uj8wh4u341" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404847zp0o2ra2xh" name="fish">
