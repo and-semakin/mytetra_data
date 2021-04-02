@@ -295,6 +295,7 @@
      <record id="1589876000rf0rf2ixfe" name="Вывести тело ответа без лишнего вывода через команду wget" author="br0ke" url="https://superuser.com/a/977047/993215" tags="linux, unix, http, wget, response, body, stdout" ctime="20200519131320" dir="158987600056fq5yuzq3" file="text.html"/>
      <record id="15901296556kpiuxgjr3" name="Собрать Python 2.4 или более ранние версии через pyenv или asdf в Linux" author="br0ke" url="https://stackoverflow.com/q/8878676/10650942" tags="python, old, legacy, 2.4, 24, build, pyenv, asdf, error, fedora, debian, ubuntu, linux" ctime="20200522114208" dir="1590129655vcqp3k3cdn" file="text.html"/>
      <record id="16108730580ysvv7wth8" name="Загрузить SSH-ключи на удаленный сервер" author="br0ke" url="https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2" tags="unix, linux, ssh, key, keys, public, copy, id, ssh-copy-id" ctime="20210117134418" dir="1610873058k4wve3ssci" file="text.html"/>
+     <record id="16173409778l80d3mmk9" name="Исключить строки с пподстрокой при помощи grep" author="br0ke" url="https://osxdaily.com/2018/04/05/how-exclude-word-grep-command-line/" tags="linux, unix, grep, exclude, word, phrase, string" ctime="20210402102257" dir="1617340977l6vtuf3lxe" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
