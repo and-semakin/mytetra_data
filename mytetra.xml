@@ -797,6 +797,7 @@
        <record id="1610299296xym2jd461e" name="Установить WinSCP через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/winscp.install" tags="choco, chocolatey, install, windows, microsoft, winscp, win, scp" ctime="20210110222136" dir="1610299296oy0rlmvlzj" file="text.html"/>
        <record id="16108661365vbk9ccjky" name="Установить Rufus через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/rufus" tags="choco, chocolatey, install, windows, microsoft, rufus, usb, format, flash, boot, bootable" ctime="20210117114856" dir="161086613694zj182sw0" file="text.html"/>
        <record id="1610866277otpfkc7dsj" name="Установить golang (язык программирования Go) через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/golang" tags="choco, chocolatey, install, windows, microsoft, golang, go, programming, language, lang" ctime="20210117115117" dir="1610866277fuov3tr24x" file="text.html"/>
+       <record id="1617485605teqsosdin4" name="Установить VirtualBox через Chocolatey" author="br0ke" url="https://community.chocolatey.org/packages/virtualbox" tags="windows, microsoft, choco, chocolatey, install, virtualbox, oracle" ctime="20210404023325" dir="1617485605qo2egg0eug" file="text.html"/>
       </recordtable>
      </node>
     </node>
