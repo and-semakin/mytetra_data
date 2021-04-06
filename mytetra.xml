@@ -69,6 +69,7 @@
      <record id="1590129934fg9yoq8ud2" name="Установка pip на Python 2.6" author="br0ke" url="https://stackoverflow.com/a/46353628/10650942" tags="python, pip, install, 2.6, 26, legacy, old" ctime="20200522114534" dir="1590129934x9dzzr1sag" file="text.html"/>
      <record id="1591001219e55sw96hm9" name="Отличить печатаемый символ Unicode от непечатаемого на Python" author="br0ke" url="https://stackoverflow.com/a/22632060/10650942" tags="python, unicode, char, character, control, printable, non, non-printable, unprintable, category, unicodedata, visible, invisible, visibility" ctime="20200601134659" dir="1591001219v7atuhrtga" file="text.html"/>
      <record id="1591084527c9pi9z2ekc" name="Вывести версию интерпретатора Python в машиночитаемом виде" author="br0ke" url="https://stackoverflow.com/a/61986751/10650942" tags="python, interpreter, version, machine, readable, way, major, minor" ctime="20200602125527" dir="1591084527bccpt90y5s" file="text.html"/>
+     <record id="1617703962etyozkbo97" name="Найти место, куда Python устанавливает пакеты (dist-packages, site-packages)" author="br0ke" url="https://stackoverflow.com/a/46071447/10650942" tags="python, pip, package, packages, location, site, dist" ctime="20210406151242" dir="1617703962zz8s509ify" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -958,6 +959,7 @@
       <record id="1551711281vs5y0c7uny" name="Сочетания клавиш из IntelliJ IDEA в VSCode" author="br0ke" url="https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings" tags="ide, jetbrains, intellij, idea, pycharm, vscode, code, visual, studio, key, keymap, binding, bindings, keybinding, keybindings, hotkey, hotkeys, hot, key" ctime="20190304195441" dir="1551711281vwyg4792e0" file="text.html"/>
       <record id="1555753507hd44whgzc6" name="Форматирование кода при сохранении в VSCode" author="br0ke" url="https://stackoverflow.com/a/39973431/10650942" tags="vscode, visual, studio, code, save, format, autoformat, formatOnSave" ctime="20190420144507" dir="1555753507ihhjghpe9z" file="text.html"/>
       <record id="1562155079dsmfekaj63" name="Клавиши в VSCode работают некорректно через VNC" author="br0ke" url="https://github.com/Microsoft/vscode/issues/28737#issuecomment-323179123" tags="ide, vscode, vs, visual, studio, code, vnc, remote, desktop, key, key bindings, binding, bindings, incorrect, backspace, keys," ctime="20190703165759" dir="15621550795dnnly6dht" file="text.html"/>
+      <record id="1617704451p16x51cxnq" name="Вертикальные линии для визуального ограничения длины строки в VSCode" author="br0ke" url="https://stackoverflow.com/a/29972073/10650942" tags="vscode, visual, studio, code, ruler, rulers, visual, guide, vertical, line" ctime="20210406152051" dir="1617704451jorbp3khq6" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1549120807liqifa955m" name="IntelliJ / PyCharm">
