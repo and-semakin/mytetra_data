@@ -1087,7 +1087,11 @@
      </recordtable>
     </node>
    </node>
-   <node crypt="" id="1618473813a966dnv4on" name="Google Docs"/>
+   <node crypt="" id="1618473813a966dnv4on" name="Google Docs">
+    <recordtable>
+     <record id="16184742297ns7ru9e4k" name="Как избежать отрицательных временных диапазонов в Google Sheets" author="br0ke" url="https://webapps.stackexchange.com/a/66269/247805" tags="google, docs, doc, sheets, sheet, excel, formula, formule, time, delta, difference, negative, avoid" ctime="20210415131029" dir="1618474229cxf4d27uob" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="1" icon="" id="1515157173ai434vkpx6" name="UkM1U0lNUAOIMyzg5JKn672axjHpzyiQIotjpNADPpvcl85NGeYF0KRwmVMWaNDK1Ih9KUebRPakqfXxoiUNZw==">
    <node crypt="1" icon="" id="1515161966ykf0x8uly7" name="UkM1U0lNUAPc0bNkBOBF6FM8tDLLPgzjCsSkstmCXQvN48SwkOJb25ULqV4D0hn+z4ixsI3AmAk59haOBM2KPw==">
