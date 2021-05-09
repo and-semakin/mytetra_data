@@ -862,6 +862,8 @@
       <record id="1610869337szzlq2cbbr" name="Создать UUID в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/12505220/10650942" tags="postgresql, postgres, postgre, sql, uuid," ctime="20210117124217" dir="16108693370k09jetb8w" file="text.html"/>
       <record id="1618474468e0rtcsofho" name="Вставить данные, полученные из SELECT-запроса в PostgreSQL" author="br0ke" url="https://dba.stackexchange.com/a/2974/173146" tags="postgresql, postgres, postgre, sql, insert, from, select, query" ctime="20210415131428" dir="1618474468ppk8rll8p0" file="text.html"/>
       <record id="1618475056gip0eehpkn" name="Получить список незавершенных (зависших) транзакций в PostgreSQL" author="br0ke" url="https://dba.stackexchange.com/a/39758/173146" tags="postgresql, postgres, postgre, sql, pg_stat_activity, list, idle, uncommitted, transaction, transactions" ctime="20210415132416" dir="1618475056e1uog9awkc" file="text.html"/>
+      <record id="1620579390t6tnfkr0wh" name="Создать функцию, которая ничего не возвращает, в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/14216819/10650942" tags="postgresql, postgres, postgre, sql, create, function, return, returns, void, nothing, none" ctime="20210509215630" dir="16205793909n8dgzaihq" file="text.html"/>
+      <record id="16205796117kb291fhpo" name="Перенести данные из одной таблицы в другую в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/21697453/10650942" tags="postgresql, postgres, postgre, sql, move, data, from, one, table, to, another" ctime="20210509220011" dir="16205796110urfg4h7q7" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
@@ -962,6 +964,7 @@
       <record id="1555753507hd44whgzc6" name="Форматирование кода при сохранении в VSCode" author="br0ke" url="https://stackoverflow.com/a/39973431/10650942" tags="vscode, visual, studio, code, save, format, autoformat, formatOnSave" ctime="20190420144507" dir="1555753507ihhjghpe9z" file="text.html"/>
       <record id="1562155079dsmfekaj63" name="Клавиши в VSCode работают некорректно через VNC" author="br0ke" url="https://github.com/Microsoft/vscode/issues/28737#issuecomment-323179123" tags="ide, vscode, vs, visual, studio, code, vnc, remote, desktop, key, key bindings, binding, bindings, incorrect, backspace, keys," ctime="20190703165759" dir="15621550795dnnly6dht" file="text.html"/>
       <record id="1617704451p16x51cxnq" name="Вертикальные линии для визуального ограничения длины строки в VSCode" author="br0ke" url="https://stackoverflow.com/a/29972073/10650942" tags="vscode, visual, studio, code, ruler, rulers, visual, guide, vertical, line" ctime="20210406152051" dir="1617704451jorbp3khq6" file="text.html"/>
+      <record id="1620579016cd291017lx" name="Установить рабочую директорию для отладчика в VSCode" author="br0ke" url="https://stackoverflow.com/a/55072246/10650942" tags="vscode, vs, code, visual, studio, debug, working, directory, cwd, path" ctime="20210509215016" dir="16205790168pjrif8s3f" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1549120807liqifa955m" name="IntelliJ / PyCharm">
